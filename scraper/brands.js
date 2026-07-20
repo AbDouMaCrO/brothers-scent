@@ -52,7 +52,7 @@ async function scrapeCountry(page, country) {
           if (!map[slug]) map[slug] = { name: text, slug, url: href, mentions: 0 };
           map[slug].mentions++;
         });
-        return Object.values(map).sort((a, b) => b.mentions - a.mentions).slice(0, 30);
+        return Object.values(map).sort((a, b) => b.mentions - a.mentions);
       });
 
       if (!brands.length) throw new Error('0 brands — possible Cloudflare block');
@@ -76,46 +76,43 @@ async function scrapeFragrances(page, brand) {
   for (let attempt = 1; attempt <= 2; attempt++) {
     try {
       await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 60000 });
-      await delay(jitter(3000, 1500));
-      await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight / 2));
-      await delay(jitter(1500));
+      await delay(jitter(2500, 1000));
+
+      // Scroll in 3 passes to trigger lazy-load of all visible products
+      for (let s = 1; s <= 3; s++) {
+        await page.evaluate((frac) => window.scrollTo(0, document.body.scrollHeight * frac), s / 3);
+        await delay(jitter(1200, 600));
+      }
 
       const fragrances = await page.evaluate(() => {
         const results = [];
-
-        // Fragrantica perfume cards — link href always contains /perfume/
-        const cards = document.querySelectorAll('a[href*="/perfume/"]');
-        const seen  = new Set();
+        const cards   = document.querySelectorAll('a[href*="/perfume/"]');
+        const seen    = new Set();
 
         for (const a of cards) {
           const href = a.href || '';
           if (seen.has(href) || !href.includes('/perfume/')) continue;
 
-          // Extract numeric ID from URL end: /perfume/Brand/Name-12345.html
           const idMatch = href.match(/-(\d+)\.html$/);
-          const id = idMatch ? idMatch[1] : null;
+          const id      = idMatch ? idMatch[1] : null;
 
-          // Image: look in parent tree for an img
-          const img   = a.querySelector('img') || a.closest('[class]')?.querySelector('img');
+          const img    = a.querySelector('img') || a.closest('[class]')?.querySelector('img');
           const imgSrc = img?.src || (id ? `https://fimgs.net/mdimg/perfume/375x500.${id}.jpg` : '');
 
-          // Name: try itemprop, then plain text, then alt
           const nameEl = a.querySelector('[itemprop="name"], p, span');
           const name   = (nameEl?.textContent || img?.alt || a.textContent || '').trim();
           if (!name || name.length < 2) continue;
 
-          // Rating: look near the card
-          const container  = a.closest('[class]') || a.parentElement;
-          const ratingEl   = container?.querySelector('[itemprop="ratingValue"], .ratingValue, [class*="rating"] span');
-          const rating     = ratingEl ? parseFloat(ratingEl.textContent) : null;
+          const container = a.closest('[class]') || a.parentElement;
+          const ratingEl  = container?.querySelector('[itemprop="ratingValue"], .ratingValue, [class*="rating"] span');
+          const rating    = ratingEl ? parseFloat(ratingEl.textContent) : null;
 
-          // Votes
-          const votesEl    = container?.querySelector('[itemprop="ratingCount"], [class*="vote"], [class*="count"]');
-          const votes      = votesEl ? parseInt(votesEl.textContent.replace(/\D/g, '')) || 0 : 0;
+          const votesEl   = container?.querySelector('[itemprop="ratingCount"], [class*="vote"], [class*="count"]');
+          const votes     = votesEl ? parseInt(votesEl.textContent.replace(/\D/g, '')) || 0 : 0;
 
           seen.add(href);
           results.push({ name, url: href, img: imgSrc, rating, votes });
-          if (results.length >= 10) break;
+          if (results.length >= 30) break;
         }
 
         return results;
