@@ -1,0 +1,7 @@
+node_modules/
+*.ods
+*.xlsx
+.env
+.env.local
+.claude/
+New folder/

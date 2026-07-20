@@ -1,0 +1,1506 @@
+<!DOCTYPE html>
+<html lang="fr" class="dark scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ParfumGros.dz — Grossiste Parfums en Algérie</title>
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#050505">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="ParfumGros">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js"></script>
+    <script src="js/supabase.js"></script>
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    fontFamily: { sans: ['Inter', 'sans-serif'] },
+                    colors: {
+                        purple: { 400:'#c084fc', 500:'#a855f7', 600:'#9333ea', 700:'#7e22ce', 900:'#3b0764' },
+                        indigo: { 500:'#6366f1', 950:'#1e1b4b' },
+                        dark: '#030008',
+                        gold: { 400:'#facc15', 500:'#eab308' }
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Inter', sans-serif; background: #050505; color: #fff; overflow-x: hidden; }
+
+        /* Scrollbar */
+        ::-webkit-scrollbar { width: 6px; }
+        ::-webkit-scrollbar-track { background: #050505; }
+        ::-webkit-scrollbar-thumb { background: #3b0764; border-radius: 3px; }
+
+        /* Glass panel */
+        .glass-panel {
+            background: linear-gradient(145deg, rgba(255,255,255,0.05) 0%, rgba(255,255,255,0.01) 100%);
+            backdrop-filter: blur(12px);
+            border: 1px solid rgba(255,255,255,0.08);
+            box-shadow: 0 4px 30px rgba(0,0,0,0.1);
+        }
+
+        /* Card background */
+        .card-bg {
+            background: linear-gradient(180deg, rgba(255,255,255,0.04) 0%, rgba(255,255,255,0.01) 100%);
+            border: 1px solid rgba(255,255,255,0.06);
+        }
+
+        /* Gradient text */
+        .gradient-text {
+            background: linear-gradient(to right, #e9d5ff, #a855f7, #6366f1);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .gradient-text-gold {
+            background: linear-gradient(to right, #fde68a, #f59e0b, #d97706);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        /* Divider */
+        .gradient-divider {
+            height: 1px;
+            background: linear-gradient(to right, transparent, #3b0764, transparent);
+        }
+
+        /* Animations */
+        @keyframes float {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-20px); }
+        }
+        @keyframes ping {
+            75%, 100% { transform: scale(2); opacity: 0; }
+        }
+        @keyframes pulse-slow {
+            0%, 100% { opacity: 0.6; }
+            50% { opacity: 0.3; }
+        }
+        @keyframes shimmer {
+            0% { background-position: -200% center; }
+            100% { background-position: 200% center; }
+        }
+        .animate-float { animation: float 6s ease-in-out infinite; }
+        .animate-pulse-slow { animation: pulse-slow 4s cubic-bezier(0.4,0,0.6,1) infinite; }
+
+        /* Reveal */
+        .reveal {
+            opacity: 0;
+            transform: translateY(30px) scale(0.98);
+            transition: all 0.8s cubic-bezier(0.16, 1, 0.3, 1);
+        }
+        .reveal.active {
+            opacity: 1;
+            transform: translateY(0) scale(1);
+        }
+
+        /* 3D Tilt */
+        .tilt-card { transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275), box-shadow 0.4s ease; }
+        .tilt-card:hover { box-shadow: 0 0 30px -5px rgba(168, 85, 247, 0.15); }
+
+        /* Product card hover */
+        .product-card { transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275); }
+        .product-card:hover { transform: translateY(-8px); border-color: rgba(168, 85, 247, 0.3); }
+        .product-card:hover .product-img { transform: scale(1.05); }
+        .product-img { transition: transform 0.5s ease; }
+
+        /* WhatsApp float */
+        .whatsapp-float {
+            position: fixed;
+            bottom: 24px;
+            right: 24px;
+            z-index: 1000;
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            background: #25D366;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 4px 20px rgba(37, 211, 102, 0.4);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            cursor: pointer;
+        }
+        .whatsapp-float:hover {
+            transform: scale(1.1);
+            box-shadow: 0 6px 30px rgba(37, 211, 102, 0.6);
+        }
+
+        /* Marquee */
+        @keyframes marquee {
+            0% { transform: translateX(0); }
+            100% { transform: translateX(-50%); }
+        }
+        .marquee-track { animation: marquee 30s linear infinite; }
+        .marquee-track:hover { animation-play-state: paused; }
+
+        /* Qty button */
+        .qty-btn {
+            width: 32px; height: 32px;
+            display: flex; align-items: center; justify-content: center;
+            border-radius: 8px;
+            border: 1px solid rgba(255,255,255,0.1);
+            background: rgba(255,255,255,0.05);
+            color: #fff;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        .qty-btn:hover { background: rgba(168,85,247,0.2); border-color: rgba(168,85,247,0.4); }
+
+        /* Badge */
+        .badge-gros {
+            background: linear-gradient(135deg, #f59e0b, #d97706);
+            color: #000;
+            font-size: 10px;
+            font-weight: 700;
+            padding: 2px 8px;
+            border-radius: 9999px;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        /* Toast */
+        .toast {
+            position: fixed;
+            bottom: 100px;
+            right: 24px;
+            z-index: 1001;
+            padding: 12px 20px;
+            border-radius: 12px;
+            font-size: 14px;
+            font-weight: 500;
+            transform: translateX(120%);
+            transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+        }
+        .toast.show { transform: translateX(0); }
+
+        /* Modal */
+        .modal-overlay {
+            position: fixed; inset: 0;
+            background: rgba(0,0,0,0.7);
+            backdrop-filter: blur(8px);
+            z-index: 2000;
+            display: flex; align-items: center; justify-content: center;
+            opacity: 0; pointer-events: none;
+            transition: opacity 0.3s ease;
+        }
+        .modal-overlay.open { opacity: 1; pointer-events: all; }
+        .modal-content {
+            transform: scale(0.9) translateY(20px);
+            transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+        }
+        .modal-overlay.open .modal-content { transform: scale(1) translateY(0); }
+
+        /* Tab */
+        .tab-btn { transition: all 0.3s ease; }
+        .tab-btn.active { background: rgba(168,85,247,0.15); color: #c084fc; border-color: rgba(168,85,247,0.3); }
+
+        /* Mobile menu */
+        .mobile-menu {
+            transform: translateX(100%);
+            transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+        }
+        .mobile-menu.open { transform: translateX(0); }
+    </style>
+</head>
+<body>
+
+<!-- Canvas Particle Background -->
+<canvas id="particles" class="fixed inset-0 z-0 opacity-60"></canvas>
+
+<!-- Navigation -->
+<nav id="navbar" class="fixed top-0 left-0 right-0 z-50 glass-panel transition-all duration-300">
+    <div class="max-w-7xl mx-auto px-4 md:px-6 py-3 flex items-center justify-between">
+        <!-- Logo -->
+        <a href="#" class="flex items-center gap-2">
+            <div class="w-9 h-9 rounded-xl bg-gradient-to-br from-purple-500 to-indigo-500 flex items-center justify-center">
+                <iconify-icon icon="lucide:droplets" width="18" class="text-white"></iconify-icon>
+            </div>
+            <div>
+                <span class="font-semibold text-white text-sm">ParfumGros</span>
+                <span class="text-purple-400 text-xs font-medium">.dz</span>
+            </div>
+        </a>
+
+        <!-- Desktop Menu -->
+        <div class="hidden lg:flex items-center gap-8">
+            <a href="#accueil" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Accueil</a>
+            <a href="#produits" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Produits</a>
+            <a href="#avantages" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Avantages</a>
+            <a href="#marques" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Marques</a>
+            <a href="#temoignages" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Témoignages</a>
+            <a href="#contact" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Contact</a>
+        </div>
+
+        <!-- CTA + Cart -->
+        <div class="flex items-center gap-3">
+            <button id="authBtn" title="Se connecter" class="relative p-2 rounded-xl hover:bg-white/5 transition-colors">
+                <iconify-icon id="authBtnIcon" icon="lucide:user" width="20" class="text-gray-400"></iconify-icon>
+            </button>
+            <button id="cartBtn" class="relative p-2 rounded-xl hover:bg-white/5 transition-colors">
+                <iconify-icon icon="lucide:shopping-bag" width="20" class="text-gray-400"></iconify-icon>
+                <span id="cartCount" class="absolute -top-1 -right-1 w-5 h-5 bg-purple-500 rounded-full text-[10px] font-bold flex items-center justify-center hidden">0</span>
+            </button>
+            <a href="#contact" class="hidden md:inline-flex items-center gap-2 bg-white text-black text-sm font-semibold px-5 py-2.5 rounded-xl hover:scale-105 transition-transform">
+                <iconify-icon icon="lucide:phone" width="14"></iconify-icon>
+                Commander
+            </a>
+            <button id="menuToggle" class="lg:hidden p-2 rounded-xl hover:bg-white/5 transition-colors">
+                <iconify-icon icon="lucide:menu" width="22" class="text-white"></iconify-icon>
+            </button>
+        </div>
+    </div>
+</nav>
+
+<!-- Mobile Menu -->
+<div id="mobileMenu" class="mobile-menu fixed top-0 right-0 w-80 h-full z-50 bg-[#0a0a0a] border-l border-white/5 p-6">
+    <div class="flex justify-between items-center mb-8">
+        <span class="font-semibold">Menu</span>
+        <button id="menuClose" class="p-2 rounded-xl hover:bg-white/5">
+            <iconify-icon icon="lucide:x" width="22" class="text-white"></iconify-icon>
+        </button>
+    </div>
+    <div class="flex flex-col gap-4">
+        <a href="#accueil" class="mobile-link text-gray-400 hover:text-white py-2 transition-colors">Accueil</a>
+        <a href="#produits" class="mobile-link text-gray-400 hover:text-white py-2 transition-colors">Produits</a>
+        <a href="#avantages" class="mobile-link text-gray-400 hover:text-white py-2 transition-colors">Avantages</a>
+        <a href="#marques" class="mobile-link text-gray-400 hover:text-white py-2 transition-colors">Marques</a>
+        <a href="#temoignages" class="mobile-link text-gray-400 hover:text-white py-2 transition-colors">Témoignages</a>
+        <a href="#contact" class="mobile-link text-gray-400 hover:text-white py-2 transition-colors">Contact</a>
+        <div class="gradient-divider my-4"></div>
+        <a href="https://wa.me/213550000000" class="flex items-center gap-3 bg-[#25D366]/10 text-[#25D366] px-4 py-3 rounded-xl text-sm font-medium">
+            <iconify-icon icon="lucide:message-circle" width="18"></iconify-icon>
+            WhatsApp Direct
+        </a>
+    </div>
+</div>
+<div id="menuOverlay" class="fixed inset-0 bg-black/50 z-40 hidden"></div>
+
+<!-- Hero Section -->
+<section id="accueil" class="relative min-h-screen flex flex-col items-center justify-center px-4 pt-20 overflow-hidden">
+    <!-- Glow -->
+    <div class="absolute top-1/4 left-1/2 -translate-x-1/2 w-[500px] h-[500px] bg-purple-900/20 rounded-full blur-[100px] animate-pulse-slow pointer-events-none"></div>
+    <div class="absolute bottom-1/4 right-1/4 w-[300px] h-[300px] bg-indigo-950/30 rounded-full blur-[80px] animate-pulse-slow pointer-events-none" style="animation-delay: 2s;"></div>
+
+    <div id="heroContent" class="relative z-10 text-center max-w-5xl mx-auto">
+        <!-- Badge -->
+        <div class="inline-flex items-center gap-2 glass-panel rounded-full px-4 py-2 mb-8">
+            <span class="relative flex h-2 w-2">
+                <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-green-400 opacity-75"></span>
+                <span class="relative inline-flex rounded-full h-2 w-2 bg-green-400"></span>
+            </span>
+            <span class="text-xs font-medium text-gray-400">Livraison disponible dans 58 wilayas</span>
+        </div>
+
+        <!-- Heading -->
+        <h1 class="text-4xl sm:text-6xl lg:text-8xl font-semibold leading-[1.1] tracking-[-0.04em] mb-6">
+            <span class="block text-white">Grossiste</span>
+            <span class="block gradient-text">Parfums</span>
+            <span class="block text-white">en Algérie</span>
+        </h1>
+
+        <p class="text-base md:text-lg text-gray-400 max-w-2xl mx-auto mb-10 leading-relaxed">
+            Plus de <strong class="text-purple-400">500 références</strong> de parfums de luxe à prix gros.
+            Qualité inspirée des plus grandes maisons, livrées partout en Algérie.
+        </p>
+
+        <!-- CTA Buttons -->
+        <div class="flex flex-col sm:flex-row items-center justify-center gap-4">
+            <a href="#produits" class="magnetic-btn inline-flex items-center gap-2 bg-white text-black font-bold text-sm px-8 py-4 rounded-xl hover:scale-105 transition-transform">
+                <iconify-icon icon="lucide:package" width="18"></iconify-icon>
+                Voir le Catalogue
+            </a>
+            <a href="https://wa.me/213550000000?text=Bonjour%2C%20je%20suis%20intéressé%20par%20vos%20parfums%20en%20gros" target="_blank" class="inline-flex items-center gap-2 glass-panel text-white font-medium text-sm px-8 py-4 rounded-xl hover:bg-white/10 transition-all">
+                <iconify-icon icon="lucide:message-circle" width="18" class="text-green-400"></iconify-icon>
+                Commander via WhatsApp
+            </a>
+        </div>
+
+        <!-- Stats -->
+        <div class="grid grid-cols-3 gap-4 md:gap-8 max-w-lg mx-auto mt-16">
+            <div class="text-center">
+                <div class="text-2xl md:text-3xl font-semibold text-white">500+</div>
+                <div class="text-xs text-gray-500 mt-1">Références</div>
+            </div>
+            <div class="text-center">
+                <div class="text-2xl md:text-3xl font-semibold text-white">58</div>
+                <div class="text-xs text-gray-500 mt-1">Wilayas</div>
+            </div>
+            <div class="text-center">
+                <div class="text-2xl md:text-3xl font-semibold text-white">2000+</div>
+                <div class="text-xs text-gray-500 mt-1">Clients</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Scroll indicator -->
+    <div class="absolute bottom-8 left-1/2 -translate-x-1/2 flex flex-col items-center gap-2 animate-float" style="animation-duration: 3s;">
+        <span class="text-[10px] text-gray-500 uppercase tracking-widest">Défiler</span>
+        <iconify-icon icon="lucide:chevron-down" width="16" class="text-gray-500"></iconify-icon>
+    </div>
+</section>
+
+<!-- Marquee Brands -->
+<section class="py-8 border-y border-white/5 overflow-hidden">
+    <div class="flex whitespace-nowrap marquee-track">
+        <div class="flex items-center gap-12 px-6">
+            <span class="text-sm font-medium text-gray-600 tracking-wider uppercase">Inspired by</span>
+            <span class="text-lg font-semibold text-gray-500">Dior Sauvage</span>
+            <span class="text-gray-700">✦</span>
+            <span class="text-lg font-semibold text-gray-500">Chanel No.5</span>
+            <span class="text-gray-700">✦</span>
+            <span class="text-lg font-semibold text-gray-500">Tom Ford</span>
+            <span class="text-gray-700">✦</span>
+            <span class="text-lg font-semibold text-gray-500">Versace Eros</span>
+            <span class="text-gray-700">✦</span>
+            <span class="text-lg font-semibold text-gray-500">Baccarat Rouge</span>
+            <span class="text-gray-700">✦</span>
+            <span class="text-lg font-semibold text-gray-500">YSL Black Opium</span>
+            <span class="text-gray-700">✦</span>
+            <span class="text-lg font-semibold text-gray-500">Creed Aventus</span>
+            <span class="text-gray-700">✦</span>
+            <span class="text-lg font-semibold text-gray-500">Jean Paul Gaultier</span>
+            <span class="text-gray-700">✦</span>
+            <span class="text-lg font-semibold text-gray-500">Paco Rabanne</span>
+            <span class="text-gray-700">✦</span>
+        </div>
+        <div class="flex items-center gap-12 px-6">
+            <span class="text-sm font-medium text-gray-600 tracking-wider uppercase">Inspired by</span>
+            <span class="text-lg font-semibold text-gray-500">Dior Sauvage</span>
+            <span class="text-gray-700">✦</span>
+            <span class="text-lg font-semibold text-gray-500">Chanel No.5</span>
+            <span class="text-gray-700">✦</span>
+            <span class="text-lg font-semibold text-gray-500">Tom Ford</span>
+            <span class="text-gray-700">✦</span>
+            <span class="text-lg font-semibold text-gray-500">Versace Eros</span>
+            <span class="text-gray-700">✦</span>
+            <span class="text-lg font-semibold text-gray-500">Baccarat Rouge</span>
+            <span class="text-gray-700">✦</span>
+            <span class="text-lg font-semibold text-gray-500">YSL Black Opium</span>
+            <span class="text-gray-700">✦</span>
+            <span class="text-lg font-semibold text-gray-500">Creed Aventus</span>
+            <span class="text-gray-700">✦</span>
+            <span class="text-lg font-semibold text-gray-500">Jean Paul Gaultier</span>
+            <span class="text-gray-700">✦</span>
+            <span class="text-lg font-semibold text-gray-500">Paco Rabanne</span>
+            <span class="text-gray-700">✦</span>
+        </div>
+    </div>
+</section>
+
+<!-- Products Section -->
+<section id="produits" class="py-24 px-4 relative">
+    <div class="max-w-7xl mx-auto">
+        <!-- Section Header -->
+        <div class="text-center mb-16 reveal">
+            <span class="text-xs font-semibold uppercase tracking-widest text-purple-400 mb-4 block">Catalogue Gros</span>
+            <h2 class="text-3xl md:text-5xl font-semibold tracking-tight mb-4">
+                Nos <span class="gradient-text">Best-Sellers</span>
+            </h2>
+            <p class="text-gray-400 max-w-xl mx-auto">Prix unitaires à partir de 6 pièces. Plus la quantité augmente, plus le prix diminue.</p>
+        </div>
+
+        <!-- Category Tabs -->
+        <div class="flex flex-wrap justify-center gap-3 mb-12 reveal">
+            <button class="tab-btn active text-xs font-medium px-4 py-2 rounded-full border border-white/10" data-cat="all">Tous</button>
+            <button class="tab-btn text-xs font-medium px-4 py-2 rounded-full border border-white/10 text-gray-400" data-cat="homme">Homme</button>
+            <button class="tab-btn text-xs font-medium px-4 py-2 rounded-full border border-white/10 text-gray-400" data-cat="femme">Femme</button>
+            <button class="tab-btn text-xs font-medium px-4 py-2 rounded-full border border-white/10 text-gray-400" data-cat="unisexe">Unisexe</button>
+            <button class="tab-btn text-xs font-medium px-4 py-2 rounded-full border border-white/10 text-gray-400" data-cat="oriental">Oriental</button>
+        </div>
+
+        <!-- Products Grid -->
+        <div id="productsGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+            <!-- loading skeletons -->
+            <div class="skeleton-card card-bg rounded-2xl overflow-hidden animate-pulse"><div class="aspect-[4/5] bg-white/5"></div><div class="p-4 space-y-2"><div class="h-2 bg-white/5 rounded w-1/2"></div><div class="h-3 bg-white/5 rounded w-3/4"></div><div class="h-3 bg-white/5 rounded w-1/3"></div></div></div>
+            <div class="skeleton-card card-bg rounded-2xl overflow-hidden animate-pulse"><div class="aspect-[4/5] bg-white/5"></div><div class="p-4 space-y-2"><div class="h-2 bg-white/5 rounded w-1/2"></div><div class="h-3 bg-white/5 rounded w-3/4"></div><div class="h-3 bg-white/5 rounded w-1/3"></div></div></div>
+            <div class="skeleton-card card-bg rounded-2xl overflow-hidden animate-pulse"><div class="aspect-[4/5] bg-white/5"></div><div class="p-4 space-y-2"><div class="h-2 bg-white/5 rounded w-1/2"></div><div class="h-3 bg-white/5 rounded w-3/4"></div><div class="h-3 bg-white/5 rounded w-1/3"></div></div></div>
+            <div class="skeleton-card card-bg rounded-2xl overflow-hidden animate-pulse"><div class="aspect-[4/5] bg-white/5"></div><div class="p-4 space-y-2"><div class="h-2 bg-white/5 rounded w-1/2"></div><div class="h-3 bg-white/5 rounded w-3/4"></div><div class="h-3 bg-white/5 rounded w-1/3"></div></div></div>
+        </div>
+
+        <!-- Load More -->
+        <div class="text-center mt-12 reveal">
+            <button id="loadMore" class="inline-flex items-center gap-2 glass-panel text-gray-300 font-medium text-sm px-8 py-3.5 rounded-xl hover:bg-white/10 transition-all">
+                <iconify-icon icon="lucide:plus" width="16"></iconify-icon>
+                Voir plus de produits
+            </button>
+        </div>
+    </div>
+</section>
+
+<!-- Pricing Tiers -->
+<section class="py-24 px-4 relative">
+    <div class="absolute inset-0 bg-gradient-to-b from-transparent via-purple-900/5 to-transparent pointer-events-none"></div>
+    <div class="max-w-5xl mx-auto relative z-10">
+        <div class="text-center mb-16 reveal">
+            <span class="text-xs font-semibold uppercase tracking-widest text-purple-400 mb-4 block">Tarification Gros</span>
+            <h2 class="text-3xl md:text-5xl font-semibold tracking-tight mb-4">
+                Prix selon <span class="gradient-text">Quantité</span>
+            </h2>
+            <p class="text-gray-400 max-w-xl mx-auto">Des remises progressives pour encourager vos commandes en gros.</p>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+            <!-- Tier 1 -->
+            <div class="card-bg rounded-2xl p-8 text-center reveal tilt-card">
+                <div class="w-12 h-12 rounded-xl bg-white/5 flex items-center justify-center mx-auto mb-4">
+                    <iconify-icon icon="lucide:box" width="24" class="text-gray-400"></iconify-icon>
+                </div>
+                <h3 class="text-lg font-medium mb-2">Semi-Gros</h3>
+                <div class="text-3xl font-semibold text-white mb-1">6 – 11</div>
+                <div class="text-sm text-gray-500 mb-6">pièces par référence</div>
+                <div class="gradient-divider mb-6"></div>
+                <div class="text-2xl font-semibold gradient-text-gold mb-1">-15%</div>
+                <p class="text-xs text-gray-500">sur le prix détail</p>
+            </div>
+
+            <!-- Tier 2 - Popular -->
+            <div class="card-bg rounded-2xl p-8 text-center reveal tilt-card border-purple-500/30 relative">
+                <div class="absolute -top-3 left-1/2 -translate-x-1/2">
+                    <span class="bg-gradient-to-r from-purple-500 to-indigo-500 text-white text-[10px] font-bold uppercase tracking-wider px-4 py-1 rounded-full">Populaire</span>
+                </div>
+                <div class="w-12 h-12 rounded-xl bg-purple-500/10 flex items-center justify-center mx-auto mb-4">
+                    <iconify-icon icon="lucide:boxes" width="24" class="text-purple-400"></iconify-icon>
+                </div>
+                <h3 class="text-lg font-medium mb-2">Gros</h3>
+                <div class="text-3xl font-semibold text-white mb-1">12 – 47</div>
+                <div class="text-sm text-gray-500 mb-6">pièces par référence</div>
+                <div class="gradient-divider mb-6"></div>
+                <div class="text-2xl font-semibold gradient-text-gold mb-1">-30%</div>
+                <p class="text-xs text-gray-500">sur le prix détail</p>
+            </div>
+
+            <!-- Tier 3 -->
+            <div class="card-bg rounded-2xl p-8 text-center reveal tilt-card">
+                <div class="w-12 h-12 rounded-xl bg-white/5 flex items-center justify-center mx-auto mb-4">
+                    <iconify-icon icon="lucide:warehouse" width="24" class="text-gray-400"></iconify-icon>
+                </div>
+                <h3 class="text-lg font-medium mb-2">Hyper-Gros</h3>
+                <div class="text-3xl font-semibold text-white mb-1">48+</div>
+                <div class="text-sm text-gray-500 mb-6">pièces par référence</div>
+                <div class="gradient-divider mb-6"></div>
+                <div class="text-2xl font-semibold gradient-text-gold mb-1">-45%</div>
+                <p class="text-xs text-gray-500">sur le prix détail</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Advantages Section -->
+<section id="avantages" class="py-24 px-4 relative">
+    <div class="max-w-7xl mx-auto">
+        <div class="text-center mb-16 reveal">
+            <span class="text-xs font-semibold uppercase tracking-widest text-purple-400 mb-4 block">Pourquoi Nous</span>
+            <h2 class="text-3xl md:text-5xl font-semibold tracking-tight mb-4">
+                Vos <span class="gradient-text">Avantages</span>
+            </h2>
+            <p class="text-gray-400 max-w-xl mx-auto">Un service professionnel adapté au marché algérien.</p>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+            <div class="card-bg rounded-2xl p-6 reveal tilt-card group">
+                <div class="w-12 h-12 rounded-xl bg-purple-500/10 flex items-center justify-center mb-4 group-hover:scale-110 transition-transform">
+                    <iconify-icon icon="lucide:truck" width="22" class="text-purple-400"></iconify-icon>
+                </div>
+                <h3 class="font-medium mb-2">Livraison 58 Wilayas</h3>
+                <p class="text-sm text-gray-500 leading-relaxed">Livraison rapide par Yalidine, ZR Express ouEMS vers toutes les wilayas d'Algérie.</p>
+            </div>
+            <div class="card-bg rounded-2xl p-6 reveal tilt-card group" style="transition-delay: 0.1s;">
+                <div class="w-12 h-12 rounded-xl bg-purple-500/10 flex items-center justify-center mb-4 group-hover:scale-110 transition-transform">
+                    <iconify-icon icon="lucide:banknote" width="22" class="text-purple-400"></iconify-icon>
+                </div>
+                <h3 class="font-medium mb-2">Paiement à la Livraison</h3>
+                <p class="text-sm text-gray-500 leading-relaxed">Cash à la réception (COD) — pas besoin de compte bancaire pour commander.</p>
+            </div>
+            <div class="card-bg rounded-2xl p-6 reveal tilt-card group" style="transition-delay: 0.2s;">
+                <div class="w-12 h-12 rounded-xl bg-purple-500/10 flex items-center justify-center mb-4 group-hover:scale-110 transition-transform">
+                    <iconify-icon icon="lucide:shield-check" width="22" class="text-purple-400"></iconify-icon>
+                </div>
+                <h3 class="font-medium mb-2">Qualité Garantie</h3>
+                <p class="text-sm text-gray-500 leading-relaxed">Concentrations élevées (EDP, Parfum). Tenue longue durée garantie ou remboursement.</p>
+            </div>
+            <div class="card-bg rounded-2xl p-6 reveal tilt-card group" style="transition-delay: 0.3s;">
+                <div class="w-12 h-12 rounded-xl bg-purple-500/10 flex items-center justify-center mb-4 group-hover:scale-110 transition-transform">
+                    <iconify-icon icon="lucide:repeat" width="22" class="text-purple-400"></iconify-icon>
+                </div>
+                <h3 class="font-medium mb-2">Retour & Échange</h3>
+                <p class="text-sm text-gray-500 leading-relaxed">Satisfait ou remboursé sous 7 jours. Service client réactif sur WhatsApp.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Brands Section -->
+<section id="marques" class="py-24 px-4 relative overflow-hidden">
+    <div class="absolute inset-0 bg-gradient-to-b from-transparent via-indigo-950/10 to-transparent pointer-events-none"></div>
+    <div class="max-w-7xl mx-auto relative z-10">
+        <div class="text-center mb-16 reveal">
+            <span class="text-xs font-semibold uppercase tracking-widest text-purple-400 mb-4 block">Collections</span>
+            <h2 class="text-3xl md:text-5xl font-semibold tracking-tight mb-4">
+                Nos <span class="gradient-text">Collections</span>
+            </h2>
+            <p class="text-gray-400 max-w-xl mx-auto">Des inspirations des plus grandes maisons de parfumerie mondiale.</p>
+        </div>
+
+        <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4">
+            <div class="card-bg rounded-2xl p-6 text-center reveal tilt-card group cursor-pointer">
+                <div class="w-16 h-16 rounded-2xl bg-gradient-to-br from-purple-500/20 to-indigo-500/20 flex items-center justify-center mx-auto mb-3 group-hover:scale-110 transition-transform">
+                    <iconify-icon icon="lucide:crown" width="28" class="text-purple-400"></iconify-icon>
+                </div>
+                <h3 class="text-sm font-medium">Royal</h3>
+                <p class="text-[10px] text-gray-500 mt-1">24 références</p>
+            </div>
+            <div class="card-bg rounded-2xl p-6 text-center reveal tilt-card group cursor-pointer">
+                <div class="w-16 h-16 rounded-2xl bg-gradient-to-br from-amber-500/20 to-orange-500/20 flex items-center justify-center mx-auto mb-3 group-hover:scale-110 transition-transform">
+                    <iconify-icon icon="lucide:flame" width="28" class="text-amber-400"></iconify-icon>
+                </div>
+                <h3 class="text-sm font-medium">Oriental</h3>
+                <p class="text-[10px] text-gray-500 mt-1">38 références</p>
+            </div>
+            <div class="card-bg rounded-2xl p-6 text-center reveal tilt-card group cursor-pointer">
+                <div class="w-16 h-16 rounded-2xl bg-gradient-to-br from-blue-500/20 to-cyan-500/20 flex items-center justify-center mx-auto mb-3 group-hover:scale-110 transition-transform">
+                    <iconify-icon icon="lucide:waves" width="28" class="text-blue-400"></iconify-icon>
+                </div>
+                <h3 class="text-sm font-medium">Fresh</h3>
+                <p class="text-[10px] text-gray-500 mt-1">31 références</p>
+            </div>
+            <div class="card-bg rounded-2xl p-6 text-center reveal tilt-card group cursor-pointer">
+                <div class="w-16 h-16 rounded-2xl bg-gradient-to-br from-pink-500/20 to-rose-500/20 flex items-center justify-center mx-auto mb-3 group-hover:scale-110 transition-transform">
+                    <iconify-icon icon="lucide:heart" width="28" class="text-pink-400"></iconify-icon>
+                </div>
+                <h3 class="text-sm font-medium">Romantic</h3>
+                <p class="text-[10px] text-gray-500 mt-1">19 références</p>
+            </div>
+            <div class="card-bg rounded-2xl p-6 text-center reveal tilt-card group cursor-pointer">
+                <div class="w-16 h-16 rounded-2xl bg-gradient-to-br from-emerald-500/20 to-green-500/20 flex items-center justify-center mx-auto mb-3 group-hover:scale-110 transition-transform">
+                    <iconify-icon icon="lucide:leaf" width="28" class="text-emerald-400"></iconify-icon>
+                </div>
+                <h3 class="text-sm font-medium">Woody</h3>
+                <p class="text-[10px] text-gray-500 mt-1">27 références</p>
+            </div>
+            <div class="card-bg rounded-2xl p-6 text-center reveal tilt-card group cursor-pointer">
+                <div class="w-16 h-16 rounded-2xl bg-gradient-to-br from-violet-500/20 to-purple-500/20 flex items-center justify-center mx-auto mb-3 group-hover:scale-110 transition-transform">
+                    <iconify-icon icon="lucide:sparkles" width="28" class="text-violet-400"></iconify-icon>
+                </div>
+                <h3 class="text-sm font-medium">Premium</h3>
+                <p class="text-[10px] text-gray-500 mt-1">42 références</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Testimonials -->
+<section id="temoignages" class="py-24 px-4 relative">
+    <div class="max-w-7xl mx-auto">
+        <div class="text-center mb-16 reveal">
+            <span class="text-xs font-semibold uppercase tracking-widest text-purple-400 mb-4 block">Témoignages</span>
+            <h2 class="text-3xl md:text-5xl font-semibold tracking-tight mb-4">
+                Ce que disent nos <span class="gradient-text">Clients</span>
+            </h2>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+            <div class="card-bg rounded-2xl p-8 reveal tilt-card">
+                <div class="flex items-center gap-1 mb-4">
+                    <iconify-icon icon="lucide:star" width="14" class="text-amber-400"></iconify-icon>
+                    <iconify-icon icon="lucide:star" width="14" class="text-amber-400"></iconify-icon>
+                    <iconify-icon icon="lucide:star" width="14" class="text-amber-400"></iconify-icon>
+                    <iconify-icon icon="lucide:star" width="14" class="text-amber-400"></iconify-icon>
+                    <iconify-icon icon="lucide:star" width="14" class="text-amber-400"></iconify-icon>
+                </div>
+                <p class="text-sm text-gray-400 leading-relaxed mb-6">"J'ai commandé 50 pièces pour ma boutique à Oran. La qualité est incroyable, mes clients reviennent toujours. Le prix gros est vraiment compétitif."</p>
+                <div class="flex items-center gap-3">
+                    <div class="w-10 h-10 rounded-full bg-gradient-to-br from-purple-500 to-indigo-500 flex items-center justify-center text-sm font-bold">K</div>
+                    <div>
+                        <div class="text-sm font-medium">Karim B.</div>
+                        <div class="text-xs text-gray-500">Oran — Revendeur</div>
+                    </div>
+                </div>
+            </div>
+            <div class="card-bg rounded-2xl p-8 reveal tilt-card" style="transition-delay: 0.1s;">
+                <div class="flex items-center gap-1 mb-4">
+                    <iconify-icon icon="lucide:star" width="14" class="text-amber-400"></iconify-icon>
+                    <iconify-icon icon="lucide:star" width="14" class="text-amber-400"></iconify-icon>
+                    <iconify-icon icon="lucide:star" width="14" class="text-amber-400"></iconify-icon>
+                    <iconify-icon icon="lucide:star" width="14" class="text-amber-400"></iconify-icon>
+                    <iconify-icon icon="lucide:star" width="14" class="text-amber-400"></iconify-icon>
+                </div>
+                <p class="text-sm text-gray-400 leading-relaxed mb-6">"Livraison à Constantine en 48h via Yalidine. L'emballage est soigné, aucune fuite. Je travaille avec eux depuis 6 mois, jamais déçu."</p>
+                <div class="flex items-center gap-3">
+                    <div class="w-10 h-10 rounded-full bg-gradient-to-br from-pink-500 to-rose-500 flex items-center justify-center text-sm font-bold">S</div>
+                    <div>
+                        <div class="text-sm font-medium">Sara M.</div>
+                        <div class="text-xs text-gray-500">Constantine — Boutique</div>
+                    </div>
+                </div>
+            </div>
+            <div class="card-bg rounded-2xl p-8 reveal tilt-card" style="transition-delay: 0.2s;">
+                <div class="flex items-center gap-1 mb-4">
+                    <iconify-icon icon="lucide:star" width="14" class="text-amber-400"></iconify-icon>
+                    <iconify-icon icon="lucide:star" width="14" class="text-amber-400"></iconify-icon>
+                    <iconify-icon icon="lucide:star" width="14" class="text-amber-400"></iconify-icon>
+                    <iconify-icon icon="lucide:star" width="14" class="text-amber-400"></iconify-icon>
+                    <iconify-icon icon="lucide:star" width="14" class="text-amber-400"></iconify-icon>
+                </div>
+                <p class="text-sm text-gray-400 leading-relaxed mb-6">"Le paiement à la livraison m'a rassuré dès le début. Maintenant je paie par virement CCP car j'ai confiance. Excellent service client sur WhatsApp."</p>
+                <div class="flex items-center gap-3">
+                    <div class="w-10 h-10 rounded-full bg-gradient-to-br from-emerald-500 to-green-500 flex items-center justify-center text-sm font-bold">A</div>
+                    <div>
+                        <div class="text-sm font-medium">Amine L.</div>
+                        <div class="text-xs text-gray-500">Alger — Distributeur</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- How to Order -->
+<section class="py-24 px-4 relative">
+    <div class="absolute inset-0 bg-gradient-to-b from-transparent via-purple-900/5 to-transparent pointer-events-none"></div>
+    <div class="max-w-5xl mx-auto relative z-10">
+        <div class="text-center mb-16 reveal">
+            <span class="text-xs font-semibold uppercase tracking-widest text-purple-400 mb-4 block">Commander</span>
+            <h2 class="text-3xl md:text-5xl font-semibold tracking-tight mb-4">
+                Comment <span class="gradient-text">Commander</span>
+            </h2>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-4 gap-6">
+            <div class="text-center reveal">
+                <div class="w-14 h-14 rounded-2xl bg-purple-500/10 border border-purple-500/20 flex items-center justify-center mx-auto mb-4">
+                    <span class="text-lg font-semibold text-purple-400">1</span>
+                </div>
+                <h3 class="font-medium text-sm mb-2">Choisissez</h3>
+                <p class="text-xs text-gray-500">Parcourez le catalogue et ajoutez vos produits au panier</p>
+            </div>
+            <div class="text-center reveal" style="transition-delay: 0.1s;">
+                <div class="w-14 h-14 rounded-2xl bg-purple-500/10 border border-purple-500/20 flex items-center justify-center mx-auto mb-4">
+                    <span class="text-lg font-semibold text-purple-400">2</span>
+                </div>
+                <h3 class="font-medium text-sm mb-2">Contactez-nous</h3>
+                <p class="text-xs text-gray-500">Envoyez votre commande via WhatsApp ou le formulaire</p>
+            </div>
+            <div class="text-center reveal" style="transition-delay: 0.2s;">
+                <div class="w-14 h-14 rounded-2xl bg-purple-500/10 border border-purple-500/20 flex items-center justify-center mx-auto mb-4">
+                    <span class="text-lg font-semibold text-purple-400">3</span>
+                </div>
+                <h3 class="font-medium text-sm mb-2">Confirmation</h3>
+                <p class="text-xs text-gray-500">Nous confirmons la disponibilité et le prix final avec remise</p>
+            </div>
+            <div class="text-center reveal" style="transition-delay: 0.3s;">
+                <div class="w-14 h-14 rounded-2xl bg-purple-500/10 border border-purple-500/20 flex items-center justify-center mx-auto mb-4">
+                    <span class="text-lg font-semibold text-purple-400">4</span>
+                </div>
+                <h3 class="font-medium text-sm mb-2">Réception</h3>
+                <p class="text-xs text-gray-500">Livraison à domicile, payez à la réception</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Contact / Order Form -->
+<section id="contact" class="py-24 px-4 relative">
+    <div class="max-w-6xl mx-auto">
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-12">
+            <!-- Left -->
+            <div class="reveal">
+                <span class="text-xs font-semibold uppercase tracking-widest text-purple-400 mb-4 block">Contact</span>
+                <h2 class="text-3xl md:text-5xl font-semibold tracking-tight mb-6">
+                    Passer <span class="gradient-text">Commande</span>
+                </h2>
+                <p class="text-gray-400 mb-8 leading-relaxed">Remplissez le formulaire ou contactez-nous directement sur WhatsApp pour une réponse rapide.</p>
+
+                <div class="space-y-4">
+                    <a href="https://wa.me/213550000000" target="_blank" class="flex items-center gap-4 card-bg rounded-xl p-4 hover:border-green-500/30 transition-colors group">
+                        <div class="w-12 h-12 rounded-xl bg-[#25D366]/10 flex items-center justify-center">
+                            <iconify-icon icon="lucide:message-circle" width="22" class="text-[#25D366]"></iconify-icon>
+                        </div>
+                        <div>
+                            <div class="text-sm font-medium group-hover:text-green-400 transition-colors">WhatsApp</div>
+                            <div class="text-xs text-gray-500">+213 5 50 00 00 00</div>
+                        </div>
+                    </a>
+                    <div class="flex items-center gap-4 card-bg rounded-xl p-4">
+                        <div class="w-12 h-12 rounded-xl bg-purple-500/10 flex items-center justify-center">
+                            <iconify-icon icon="lucide:phone" width="22" class="text-purple-400"></iconify-icon>
+                        </div>
+                        <div>
+                            <div class="text-sm font-medium">Téléphone</div>
+                            <div class="text-xs text-gray-500">+213 5 50 00 00 00</div>
+                        </div>
+                    </div>
+                    <div class="flex items-center gap-4 card-bg rounded-xl p-4">
+                        <div class="w-12 h-12 rounded-xl bg-purple-500/10 flex items-center justify-center">
+                            <iconify-icon icon="lucide:map-pin" width="22" class="text-purple-400"></iconify-icon>
+                        </div>
+                        <div>
+                            <div class="text-sm font-medium">Adresse</div>
+                            <div class="text-xs text-gray-500">Alger Centre, Algérie</div>
+                        </div>
+                    </div>
+                    <div class="flex items-center gap-4 card-bg rounded-xl p-4">
+                        <div class="w-12 h-12 rounded-xl bg-purple-500/10 flex items-center justify-center">
+                            <iconify-icon icon="lucide:clock" width="22" class="text-purple-400"></iconify-icon>
+                        </div>
+                        <div>
+                            <div class="text-sm font-medium">Horaires</div>
+                            <div class="text-xs text-gray-500">Sam – Jeu : 9h – 18h</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Right - Form -->
+            <div class="reveal" style="transition-delay: 0.15s;">
+                <form id="orderForm" class="card-bg rounded-2xl p-8 space-y-5">
+                    <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                        <div>
+                            <label class="text-xs font-medium text-gray-400 mb-1.5 block">Nom complet *</label>
+                            <input type="text" required placeholder="Mohamed Benali" class="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-white placeholder-gray-600 focus:outline-none focus:border-purple-500/50 transition-colors">
+                        </div>
+                        <div>
+                            <label class="text-xs font-medium text-gray-400 mb-1.5 block">Téléphone *</label>
+                            <input type="tel" required placeholder="05 50 00 00 00" class="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-white placeholder-gray-600 focus:outline-none focus:border-purple-500/50 transition-colors">
+                        </div>
+                    </div>
+                    <div>
+                        <label class="text-xs font-medium text-gray-400 mb-1.5 block">Wilaya *</label>
+                        <select required class="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-gray-400 focus:outline-none focus:border-purple-500/50 transition-colors appearance-none cursor-pointer">
+                            <option value="">Choisir votre wilaya...</option>
+                            <option>01 - Adrar</option>
+                            <option>02 - Chlef</option>
+                            <option>03 - Laghouat</option>
+                            <option>04 - Oum El Bouaghi</option>
+                            <option>05 - Batna</option>
+                            <option>06 - Béjaïa</option>
+                            <option>07 - Biskra</option>
+                            <option>08 - Béchar</option>
+                            <option>09 - Blida</option>
+                            <option>10 - Bouira</option>
+                            <option>11 - Tamanrasset</option>
+                            <option>12 - Tébessa</option>
+                            <option>13 - Tlemcen</option>
+                            <option>14 - Tiaret</option>
+                            <option>15 - Tizi Ouzou</option>
+                            <option>16 - Alger</option>
+                            <option>17 - Djelfa</option>
+                            <option>18 - Jijel</option>
+                            <option>19 - Sétif</option>
+                            <option>20 - Saïda</option>
+                            <option>21 - Skikda</option>
+                            <option>22 - Sidi Bel Abbès</option>
+                            <option>23 - Annaba</option>
+                            <option>24 - Guelma</option>
+                            <option>25 - Constantine</option>
+                            <option>26 - Médéa</option>
+                            <option>27 - Mostaganem</option>
+                            <option>28 - M'Sila</option>
+                            <option>29 - Mascara</option>
+                            <option>30 - Ouargla</option>
+                            <option>31 - Oran</option>
+                            <option>32 - El Bayadh</option>
+                            <option>33 - Illizi</option>
+                            <option>34 - Bordj Bou Arréridj</option>
+                            <option>35 - Boumerdès</option>
+                            <option>36 - El Tarf</option>
+                            <option>37 - Tindouf</option>
+                            <option>38 - Tissemsilt</option>
+                            <option>39 - El Oued</option>
+                            <option>40 - Khenchela</option>
+                            <option>41 - Souk Ahras</option>
+                            <option>42 - Tipaza</option>
+                            <option>43 - Mila</option>
+                            <option>44 - Aïn Defla</option>
+                            <option>45 - Naâma</option>
+                            <option>46 - Aïn Témouchent</option>
+                            <option>47 - Ghardaïa</option>
+                            <option>48 - Relizane</option>
+                            <option>49 - El M'Ghair</option>
+                            <option>50 - El Meniaa</option>
+                            <option>51 - Ouled Djellal</option>
+                            <option>52 - Bordj Badji Mokhtar</option>
+                            <option>53 - Béni Abbès</option>
+                            <option>54 - Timimoun</option>
+                            <option>55 - Touggourt</span>
+                            <option>56 - Djanet</option>
+                            <option>57 - In Salah</option>
+                            <option>58 - In Guezzam</option>
+                        </select>
+                    </div>
+                    <div>
+                        <label class="text-xs font-medium text-gray-400 mb-1.5 block">Commune / Adresse</label>
+                        <input type="text" placeholder="Bab El Oued, Rue..." class="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-white placeholder-gray-600 focus:outline-none focus:border-purple-500/50 transition-colors">
+                    </div>
+                    <div>
+                        <label class="text-xs font-medium text-gray-400 mb-1.5 block">Type de client</label>
+                        <div class="flex gap-3">
+                            <label class="flex-1 cursor-pointer">
+                                <input type="radio" name="clientType" value="revendeur" class="hidden peer" checked>
+                                <div class="peer-checked:border-purple-500/50 peer-checked:bg-purple-500/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-center text-gray-400 peer-checked:text-purple-400 transition-all">Revendeur</div>
+                            </label>
+                            <label class="flex-1 cursor-pointer">
+                                <input type="radio" name="clientType" value="boutique" class="hidden peer">
+                                <div class="peer-checked:border-purple-500/50 peer-checked:bg-purple-500/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-center text-gray-400 peer-checked:text-purple-400 transition-all">Boutique</div>
+                            </label>
+                            <label class="flex-1 cursor-pointer">
+                                <input type="radio" name="clientType" value="distributeur" class="hidden peer">
+                                <div class="peer-checked:border-purple-500/50 peer-checked:bg-purple-500/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-center text-gray-400 peer-checked:text-purple-400 transition-all">Distributeur</div>
+                            </label>
+                        </div>
+                    </div>
+                    <div>
+                        <label class="text-xs font-medium text-gray-400 mb-1.5 block">Détails de la commande</label>
+                        <textarea rows="4" placeholder="Ex: 10x Sauvage 100ml, 6x Baccarat Rouge 100ml..." class="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-white placeholder-gray-600 focus:outline-none focus:border-purple-500/50 transition-colors resize-none"></textarea>
+                    </div>
+                    <div>
+                        <label class="text-xs font-medium text-gray-400 mb-1.5 block">Mode de paiement</label>
+                        <div class="flex gap-3">
+                            <label class="flex-1 cursor-pointer">
+                                <input type="radio" name="payment" value="cod" class="hidden peer" checked>
+                                <div class="peer-checked:border-purple-500/50 peer-checked:bg-purple-500/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-center text-gray-400 peer-checked:text-purple-400 transition-all">💰 À la livraison</div>
+                            </label>
+                            <label class="flex-1 cursor-pointer">
+                                <input type="radio" name="payment" value="virement" class="hidden peer">
+                                <div class="peer-checked:border-purple-500/50 peer-checked:bg-purple-500/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-center text-gray-400 peer-checked:text-purple-400 transition-all">🏦 Virement CCP</div>
+                            </label>
+                        </div>
+                    </div>
+                    <button type="submit" class="w-full bg-white text-black font-bold text-sm py-4 rounded-xl hover:scale-[1.02] transition-transform flex items-center justify-center gap-2">
+                        <iconify-icon icon="lucide:send" width="16"></iconify-icon>
+                        Envoyer la Commande
+                    </button>
+                    <p class="text-[10px] text-gray-600 text-center">Nous vous répondons sous 30 minutes pendant les heures ouvrables</p>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Footer -->
+<footer class="border-t border-white/5 py-16 px-4">
+    <div class="max-w-7xl mx-auto">
+        <div class="grid grid-cols-1 md:grid-cols-4 gap-12 mb-12">
+            <!-- Brand -->
+            <div class="md:col-span-2">
+                <div class="flex items-center gap-2 mb-4">
+                    <div class="w-9 h-9 rounded-xl bg-gradient-to-br from-purple-500 to-indigo-500 flex items-center justify-center">
+                        <iconify-icon icon="lucide:droplets" width="18" class="text-white"></iconify-icon>
+                    </div>
+                    <div>
+                        <span class="font-semibold text-white text-sm">ParfumGros</span>
+                        <span class="text-purple-400 text-xs font-medium">.dz</span>
+                    </div>
+                </div>
+                <p class="text-sm text-gray-500 leading-relaxed max-w-sm mb-4">Votre partenaire de confiance pour l'achat de parfums en gros en Algérie. Qualité premium, prix imbattables.</p>
+                <div class="flex items-center gap-3">
+                    <a href="#" class="w-10 h-10 rounded-xl bg-white/5 flex items-center justify-center hover:bg-purple-500/20 transition-colors">
+                        <iconify-icon icon="lucide:facebook" width="18" class="text-gray-400"></iconify-icon>
+                    </a>
+                    <a href="#" class="w-10 h-10 rounded-xl bg-white/5 flex items-center justify-center hover:bg-purple-500/20 transition-colors">
+                        <iconify-icon icon="lucide:instagram" width="18" class="text-gray-400"></iconify-icon>
+                    </a>
+                    <a href="#" class="w-10 h-10 rounded-xl bg-white/5 flex items-center justify-center hover:bg-purple-500/20 transition-colors">
+                        <iconify-icon icon="lucide:youtube" width="18" class="text-gray-400"></iconify-icon>
+                    </a>
+                    <a href="https://wa.me/213550000000" class="w-10 h-10 rounded-xl bg-white/5 flex items-center justify-center hover:bg-green-500/20 transition-colors">
+                        <iconify-icon icon="lucide:message-circle" width="18" class="text-gray-400"></iconify-icon>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Links -->
+            <div>
+                <h4 class="text-sm font-medium mb-4">Navigation</h4>
+                <div class="space-y-3">
+                    <a href="#accueil" class="block text-sm text-gray-500 hover:text-purple-400 transition-colors">Accueil</a>
+                    <a href="#produits" class="block text-sm text-gray-500 hover:text-purple-400 transition-colors">Produits</a>
+                    <a href="#avantages" class="block text-sm text-gray-500 hover:text-purple-400 transition-colors">Avantages</a>
+                    <a href="#temoignages" class="block text-sm text-gray-500 hover:text-purple-400 transition-colors">Témoignages</a>
+                    <a href="#contact" class="block text-sm text-gray-500 hover:text-purple-400 transition-colors">Contact</a>
+                </div>
+            </div>
+
+            <!-- Info -->
+            <div>
+                <h4 class="text-sm font-medium mb-4">Informations</h4>
+                <div class="space-y-3">
+                    <p class="text-sm text-gray-500">Livraison : Yalidine, ZR Express, EMS</p>
+                    <p class="text-sm text-gray-500">Paiement : COD, Virement CCP</p>
+                    <p class="text-sm text-gray-500">Ouvert : Sam – Jeu, 9h–18h</p>
+                    <p class="text-sm text-gray-500">N° Registre : 16/00-XXXXXX</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="gradient-divider mb-8"></div>
+
+        <div class="flex flex-col md:flex-row items-center justify-between gap-4">
+            <p class="text-xs text-gray-600">© 2025 ParfumGros.dz — Tous droits réservés</p>
+            <div class="flex items-center gap-2 text-xs text-gray-600">
+                <iconify-icon icon="lucide:shield" width="12" class="text-green-500"></iconify-icon>
+                <span>Site sécurisé — Données protégées</span>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<!-- WhatsApp Float Button -->
+<a href="https://wa.me/213550000000?text=Bonjour%2C%20je%20souhaite%20commander%20des%20parfums%20en%20gros" target="_blank" class="whatsapp-float">
+    <iconify-icon icon="lucide:message-circle" width="28" class="text-white"></iconify-icon>
+</a>
+
+<!-- Cart Modal -->
+<div id="cartModal" class="modal-overlay">
+    <div class="modal-content w-full max-w-md mx-4 card-bg rounded-2xl p-6 max-h-[80vh] overflow-y-auto">
+        <div class="flex items-center justify-between mb-6">
+            <h3 class="text-lg font-semibold">Votre Panier</h3>
+            <button id="cartClose" class="p-2 rounded-xl hover:bg-white/5 transition-colors">
+                <iconify-icon icon="lucide:x" width="20" class="text-gray-400"></iconify-icon>
+            </button>
+        </div>
+        <div id="cartItems" class="space-y-4">
+            <div class="text-center py-8">
+                <iconify-icon icon="lucide:shopping-bag" width="40" class="text-gray-700 mb-3"></iconify-icon>
+                <p class="text-sm text-gray-500">Votre panier est vide</p>
+            </div>
+        </div>
+        <div id="cartFooter" class="hidden mt-6 pt-4 border-t border-white/5">
+            <div class="flex justify-between items-center mb-4">
+                <span class="text-sm text-gray-400">Total estimé</span>
+                <span id="cartTotal" class="text-lg font-semibold gradient-text-gold">0 DA</span>
+            </div>
+            <a id="whatsappOrder" href="#" target="_blank" class="w-full bg-[#25D366] text-white font-bold text-sm py-4 rounded-xl flex items-center justify-center gap-2 hover:brightness-110 transition-all">
+                <iconify-icon icon="lucide:message-circle" width="18"></iconify-icon>
+                Commander via WhatsApp
+            </a>
+            <p class="text-[10px] text-gray-600 text-center mt-2">Le prix final sera confirmé par notre équipe</p>
+        </div>
+    </div>
+</div>
+
+<!-- Auth Modal -->
+<div id="authModal" class="modal-overlay">
+    <div class="modal-content w-full max-w-sm mx-4 card-bg rounded-2xl p-6">
+        <div class="flex items-center justify-between mb-6">
+            <h3 class="text-lg font-semibold" id="authModalTitle">Connexion</h3>
+            <button onclick="closeAuthModal()" class="p-2 rounded-xl hover:bg-white/5 transition-colors">
+                <iconify-icon icon="lucide:x" width="20" class="text-gray-400"></iconify-icon>
+            </button>
+        </div>
+        <div class="flex gap-2 mb-6">
+            <button onclick="switchAuthTab('login')" id="tabLogin" class="tab-btn active flex-1 text-xs font-medium px-4 py-2 rounded-full border border-white/10">Connexion</button>
+            <button onclick="switchAuthTab('register')" id="tabRegister" class="tab-btn flex-1 text-xs font-medium px-4 py-2 rounded-full border border-white/10 text-gray-400">Créer un compte</button>
+        </div>
+        <!-- Login -->
+        <form id="loginForm" class="space-y-4">
+            <div id="authError" class="hidden text-xs text-red-400 bg-red-500/10 rounded-xl p-3"></div>
+            <div>
+                <label class="block text-xs text-gray-400 mb-1.5">Email</label>
+                <input type="email" id="loginEmail" placeholder="votre@email.com" required
+                    class="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-white placeholder-gray-600 focus:outline-none focus:border-purple-500/50 transition-colors">
+            </div>
+            <div>
+                <label class="block text-xs text-gray-400 mb-1.5">Mot de passe</label>
+                <input type="password" id="loginPassword" placeholder="••••••••" required
+                    class="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-white placeholder-gray-600 focus:outline-none focus:border-purple-500/50 transition-colors">
+            </div>
+            <button type="submit" class="w-full bg-gradient-to-r from-purple-500 to-indigo-500 text-white font-semibold text-sm py-3 rounded-xl hover:opacity-90 transition-opacity">
+                Se connecter
+            </button>
+        </form>
+        <!-- Register -->
+        <form id="registerForm" class="space-y-4 hidden">
+            <div id="regError" class="hidden text-xs text-red-400 bg-red-500/10 rounded-xl p-3"></div>
+            <div>
+                <label class="block text-xs text-gray-400 mb-1.5">Nom complet</label>
+                <input type="text" id="regName" placeholder="Votre nom" required
+                    class="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-white placeholder-gray-600 focus:outline-none focus:border-purple-500/50 transition-colors">
+            </div>
+            <div>
+                <label class="block text-xs text-gray-400 mb-1.5">Boutique / Entreprise</label>
+                <input type="text" id="regCompany" placeholder="Nom de votre boutique"
+                    class="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-white placeholder-gray-600 focus:outline-none focus:border-purple-500/50 transition-colors">
+            </div>
+            <div>
+                <label class="block text-xs text-gray-400 mb-1.5">Téléphone</label>
+                <input type="tel" id="regPhone" placeholder="0550 000 000"
+                    class="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-white placeholder-gray-600 focus:outline-none focus:border-purple-500/50 transition-colors">
+            </div>
+            <div>
+                <label class="block text-xs text-gray-400 mb-1.5">Email</label>
+                <input type="email" id="regEmail" placeholder="votre@email.com" required
+                    class="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-white placeholder-gray-600 focus:outline-none focus:border-purple-500/50 transition-colors">
+            </div>
+            <div>
+                <label class="block text-xs text-gray-400 mb-1.5">Mot de passe</label>
+                <input type="password" id="regPassword" placeholder="Min. 8 caractères" minlength="8" required
+                    class="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-white placeholder-gray-600 focus:outline-none focus:border-purple-500/50 transition-colors">
+            </div>
+            <button type="submit" class="w-full bg-gradient-to-r from-purple-500 to-indigo-500 text-white font-semibold text-sm py-3 rounded-xl hover:opacity-90 transition-opacity">
+                Créer mon compte
+            </button>
+        </form>
+    </div>
+</div>
+
+<!-- Toast -->
+<div id="toast" class="toast glass-panel text-white">
+    <span id="toastMsg"></span>
+</div>
+
+<script>
+// ==================== STATE ====================
+let products = [];
+let currentUser = null;
+let siteSettings = {};
+let cart = [];
+let visibleCount = 8;
+let currentCat = 'all';
+
+function formatDZD(n) {
+    return n.toLocaleString('fr-DZ') + ' DA';
+}
+
+// ==================== LOAD FROM SUPABASE ====================
+async function init() {
+    try {
+        [siteSettings, products] = await Promise.all([SB.settings(), SB.products()]);
+    } catch (e) {
+        products = [];
+    }
+    renderProducts();
+    updateWhatsAppLinks();
+}
+
+function updateWhatsAppLinks() {
+    const wa = siteSettings.whatsapp_number || '213550000000';
+    const baseMsg = encodeURIComponent('Bonjour, je souhaite commander des parfums en gros');
+    document.querySelectorAll('a[href*="wa.me"]').forEach(a => {
+        a.href = `https://wa.me/${wa}?text=${baseMsg}`;
+    });
+}
+
+// ==================== RENDER PRODUCTS ====================
+function renderProducts() {
+    const grid = document.getElementById('productsGrid');
+    const filtered = currentCat === 'all' ? products : products.filter(p => p.category_slug === currentCat);
+    const visible = filtered.slice(0, visibleCount);
+
+    if (visible.length === 0) {
+        grid.innerHTML = '<div class="col-span-4 text-center py-12 text-gray-500">Aucun produit disponible</div>';
+        document.getElementById('loadMore').style.display = 'none';
+        return;
+    }
+
+    grid.innerHTML = visible.map(p => `
+        <div class="product-card card-bg rounded-2xl overflow-hidden reveal active" data-cat="${p.category_slug}">
+            <div class="relative aspect-[4/5] overflow-hidden bg-[#0a0a0a]">
+                <img src="${p.img}" alt="${p.name}" class="product-img w-full h-full object-cover" loading="lazy"
+                     onerror="this.style.display='none'">
+                <div class="absolute inset-0 bg-gradient-to-t from-[#050505] via-transparent to-transparent"></div>
+                ${p.badge ? `<span class="absolute top-3 left-3 badge-gros">${p.badge}</span>` : ''}
+                <span class="absolute top-3 right-3 glass-panel text-[10px] font-medium text-gray-300 px-2 py-1 rounded-lg">${p.size}</span>
+                ${currentUser
+                    ? `<button onclick="addToCart('${p.id}')" class="absolute bottom-3 right-3 w-10 h-10 bg-white text-black rounded-xl flex items-center justify-center hover:scale-110 transition-transform shadow-lg">
+                           <iconify-icon icon="lucide:plus" width="18"></iconify-icon>
+                       </button>`
+                    : `<button onclick="openAuthModal()" class="absolute bottom-3 right-3 w-10 h-10 bg-purple-500/80 text-white rounded-xl flex items-center justify-center hover:scale-110 transition-transform shadow-lg">
+                           <iconify-icon icon="lucide:lock" width="16"></iconify-icon>
+                       </button>`
+                }
+            </div>
+            <div class="p-4">
+                <p class="text-[10px] text-purple-400 font-medium uppercase tracking-wider mb-1">${p.brand}</p>
+                <h3 class="text-sm font-medium mb-2">${p.name}</h3>
+                <div>
+                    ${currentUser
+                        ? `<div class="text-xs text-gray-600 line-through">${formatDZD(p.price_retail)}</div>
+                           <div class="text-sm font-semibold gradient-text-gold">${formatDZD(p.price_gros)} <span class="text-[10px] text-gray-500 font-normal">/pièce (gros)</span></div>`
+                        : `<button onclick="openAuthModal()" class="text-xs text-purple-400 font-medium hover:text-purple-300 transition-colors">🔒 Connectez-vous pour le prix gros</button>`
+                    }
+                </div>
+            </div>
+        </div>
+    `).join('');
+
+    document.getElementById('loadMore').style.display = visible.length < filtered.length ? 'inline-flex' : 'none';
+}
+
+// Category tabs
+document.querySelectorAll('.tab-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+        document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        currentCat = btn.dataset.cat;
+        visibleCount = 8;
+        renderProducts();
+    });
+});
+
+document.getElementById('loadMore').addEventListener('click', () => {
+    visibleCount += 4;
+    renderProducts();
+});
+
+// ==================== AUTH UI ====================
+function updateAuthUI() {
+    const btn = document.getElementById('authBtn');
+    const icon = document.getElementById('authBtnIcon');
+    if (currentUser) {
+        icon.setAttribute('icon', 'lucide:user-check');
+        icon.className = 'text-purple-400';
+        btn.title = 'Se déconnecter';
+        btn.onclick = async () => {
+            await SB.signOut();
+            showToast('Déconnecté ✓');
+        };
+    } else {
+        icon.setAttribute('icon', 'lucide:user');
+        icon.className = 'text-gray-400';
+        btn.title = 'Se connecter';
+        btn.onclick = openAuthModal;
+    }
+}
+
+function openAuthModal() {
+    document.getElementById('authModal').classList.add('open');
+}
+function closeAuthModal() {
+    document.getElementById('authModal').classList.remove('open');
+    document.getElementById('authError').classList.add('hidden');
+    document.getElementById('regError').classList.add('hidden');
+}
+function switchAuthTab(tab) {
+    const isLogin = tab === 'login';
+    document.getElementById('loginForm').classList.toggle('hidden', !isLogin);
+    document.getElementById('registerForm').classList.toggle('hidden', isLogin);
+    document.getElementById('tabLogin').classList.toggle('active', isLogin);
+    document.getElementById('tabRegister').classList.toggle('active', !isLogin);
+    document.getElementById('tabLogin').classList.toggle('text-gray-400', !isLogin);
+    document.getElementById('tabRegister').classList.toggle('text-gray-400', isLogin);
+    document.getElementById('authModalTitle').textContent = isLogin ? 'Connexion' : 'Créer un compte';
+}
+
+document.getElementById('loginForm').addEventListener('submit', async (e) => {
+    e.preventDefault();
+    const errEl = document.getElementById('authError');
+    errEl.classList.add('hidden');
+    try {
+        await SB.signIn(
+            document.getElementById('loginEmail').value,
+            document.getElementById('loginPassword').value
+        );
+        closeAuthModal();
+        showToast('Bienvenue ! ✓');
+    } catch {
+        errEl.textContent = 'Email ou mot de passe incorrect.';
+        errEl.classList.remove('hidden');
+    }
+});
+
+document.getElementById('registerForm').addEventListener('submit', async (e) => {
+    e.preventDefault();
+    const errEl = document.getElementById('regError');
+    errEl.classList.add('hidden');
+    try {
+        await SB.signUp(
+            document.getElementById('regEmail').value,
+            document.getElementById('regPassword').value,
+            {
+                name: document.getElementById('regName').value,
+                company: document.getElementById('regCompany').value,
+                phone: document.getElementById('regPhone').value
+            }
+        );
+        closeAuthModal();
+        showToast('Compte créé ! Vérifiez votre email ✓');
+    } catch (err) {
+        errEl.textContent = err.message || 'Erreur lors de la création du compte.';
+        errEl.classList.remove('hidden');
+    }
+});
+
+document.getElementById('authModal').addEventListener('click', (e) => {
+    if (e.target === e.currentTarget) closeAuthModal();
+});
+
+// ==================== CART ====================
+function addToCart(id) {
+    const existing = cart.find(c => c.id === id);
+    if (existing) {
+        existing.qty++;
+    } else {
+        cart.push({ id, qty: 1 });
+    }
+    updateCartUI();
+    showToast('Produit ajouté au panier ✓');
+}
+
+function removeFromCart(id) {
+    cart = cart.filter(c => c.id !== id);
+    updateCartUI();
+}
+
+function changeQty(id, delta) {
+    const item = cart.find(c => c.id === id);
+    if (item) {
+        item.qty += delta;
+        if (item.qty < 1) {
+            removeFromCart(id);
+            return;
+        }
+    }
+    updateCartUI();
+}
+
+function updateCartUI() {
+    const countEl = document.getElementById('cartCount');
+    const total = cart.reduce((s, c) => s + c.qty, 0);
+    countEl.textContent = total;
+    countEl.classList.toggle('hidden', total === 0);
+
+    const itemsEl = document.getElementById('cartItems');
+    const footerEl = document.getElementById('cartFooter');
+
+    if (cart.length === 0) {
+        itemsEl.innerHTML = `<div class="text-center py-8"><iconify-icon icon="lucide:shopping-bag" width="40" class="text-gray-700 mb-3"></iconify-icon><p class="text-sm text-gray-500">Votre panier est vide</p></div>`;
+        footerEl.classList.add('hidden');
+        return;
+    }
+
+    footerEl.classList.remove('hidden');
+    let grandTotal = 0;
+
+    itemsEl.innerHTML = cart.map(c => {
+        const p = products.find(pr => pr.id === c.id);
+        const subtotal = p.price_gros * c.qty;
+        grandTotal += subtotal;
+        return `
+            <div class="flex gap-3 items-center">
+                <img src="${p.img}" class="w-14 h-14 rounded-xl object-cover flex-shrink-0">
+                <div class="flex-1 min-w-0">
+                    <p class="text-sm font-medium truncate">${p.name}</p>
+                    <p class="text-xs text-gray-500">${formatDZD(p.price_gros)} × ${c.qty}</p>
+                </div>
+                <div class="flex items-center gap-1.5">
+                    <button onclick="changeQty('${p.id}', -1)" class="qty-btn"><iconify-icon icon="lucide:minus" width="12"></iconify-icon></button>
+                    <span class="text-sm font-medium w-6 text-center">${c.qty}</span>
+                    <button onclick="changeQty('${p.id}', 1)" class="qty-btn"><iconify-icon icon="lucide:plus" width="12"></iconify-icon></button>
+                </div>
+                <button onclick="removeFromCart('${p.id}')" class="p-1.5 rounded-lg hover:bg-red-500/10 transition-colors">
+                    <iconify-icon icon="lucide:trash-2" width="14" class="text-gray-600 hover:text-red-400"></iconify-icon>
+                </button>
+            </div>
+        `;
+    }).join('');
+
+    document.getElementById('cartTotal').textContent = formatDZD(grandTotal);
+
+    const waNum = siteSettings.whatsapp_number || '213550000000';
+    let msg = 'Bonjour, je souhaite commander :\n\n';
+    cart.forEach(c => {
+        const p = products.find(pr => pr.id === c.id);
+        msg += `• ${p.name} (${p.size}) × ${c.qty} = ${formatDZD(p.price_gros * c.qty)}\n`;
+    });
+    msg += `\nTotal estimé : ${formatDZD(grandTotal)}`;
+    document.getElementById('whatsappOrder').href = `https://wa.me/${waNum}?text=${encodeURIComponent(msg)}`;
+}
+
+// Cart modal
+document.getElementById('cartBtn').addEventListener('click', () => {
+    document.getElementById('cartModal').classList.add('open');
+});
+document.getElementById('cartClose').addEventListener('click', () => {
+    document.getElementById('cartModal').classList.remove('open');
+});
+document.getElementById('cartModal').addEventListener('click', (e) => {
+    if (e.target === e.currentTarget) e.currentTarget.classList.remove('open');
+});
+
+// ==================== TOAST ====================
+function showToast(msg) {
+    const toast = document.getElementById('toast');
+    document.getElementById('toastMsg').textContent = msg;
+    toast.classList.add('show');
+    setTimeout(() => toast.classList.remove('show'), 2500);
+}
+
+// ==================== ORDER FORM ====================
+document.getElementById('orderForm').addEventListener('submit', (e) => {
+    e.preventDefault();
+    showToast('Commande envoyée avec succès ! Nous vous contacterons bientôt ✓');
+    e.target.reset();
+});
+
+// ==================== MOBILE MENU ====================
+const menuToggle = document.getElementById('menuToggle');
+const menuClose = document.getElementById('menuClose');
+const mobileMenu = document.getElementById('mobileMenu');
+const menuOverlay = document.getElementById('menuOverlay');
+
+function openMenu() { mobileMenu.classList.add('open'); menuOverlay.classList.remove('hidden'); }
+function closeMenu() { mobileMenu.classList.remove('open'); menuOverlay.classList.add('hidden'); }
+
+menuToggle.addEventListener('click', openMenu);
+menuClose.addEventListener('click', closeMenu);
+menuOverlay.addEventListener('click', closeMenu);
+document.querySelectorAll('.mobile-link').forEach(l => l.addEventListener('click', closeMenu));
+
+// ==================== SCROLL REVEAL ====================
+const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+        if (entry.isIntersecting) {
+            entry.target.classList.add('active');
+        }
+    });
+}, { threshold: 0.1, rootMargin: '0px 0px -50px 0px' });
+
+function observeReveals() {
+    document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
+}
+
+// ==================== PARALLAX ====================
+window.addEventListener('scroll', () => {
+    const hero = document.getElementById('heroContent');
+    if (hero) {
+        const scrollY = window.scrollY;
+        hero.style.transform = `translateY(${scrollY * 0.4}px)`;
+        hero.style.opacity = Math.max(0, 1 - scrollY / 700);
+    }
+});
+
+// ==================== 3D TILT ====================
+document.addEventListener('mousemove', (e) => {
+    document.querySelectorAll('.tilt-card').forEach(card => {
+        const rect = card.getBoundingClientRect();
+        const x = e.clientX - rect.left;
+        const y = e.clientY - rect.top;
+        if (x >= 0 && x <= rect.width && y >= 0 && y <= rect.height) {
+            const xPct = (x / rect.width - 0.5) * 2;
+            const yPct = (y / rect.height - 0.5) * 2;
+            card.style.transform = `perspective(1000px) rotateX(${yPct * -3}deg) rotateY(${xPct * 3}deg) scale(1.02)`;
+        } else {
+            card.style.transform = '';
+        }
+    });
+});
+
+// ==================== PARTICLES ====================
+const canvas = document.getElementById('particles');
+const ctx = canvas.getContext('2d');
+let particles = [];
+
+function resizeCanvas() {
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight;
+}
+resizeCanvas();
+window.addEventListener('resize', resizeCanvas);
+
+class Particle {
+    constructor() { this.reset(); }
+    reset() {
+        this.x = Math.random() * canvas.width;
+        this.y = Math.random() * canvas.height;
+        this.vx = (Math.random() - 0.5) * 0.3;
+        this.vy = (Math.random() - 0.5) * 0.3;
+        this.size = Math.random() * 2;
+        this.opacity = Math.random() * 0.5 + 0.1;
+        this.r = 147 + Math.random() * 50;
+    }
+    update() {
+        this.x += this.vx;
+        this.y += this.vy;
+        if (this.x < 0 || this.x > canvas.width || this.y < 0 || this.y > canvas.height) this.reset();
+    }
+    draw() {
+        ctx.beginPath();
+        ctx.arc(this.x, this.y, this.size, 0, Math.PI * 2);
+        ctx.fillStyle = `rgba(${this.r}, 51, 234, ${this.opacity})`;
+        ctx.fill();
+    }
+}
+
+for (let i = 0; i < 60; i++) particles.push(new Particle());
+
+function animateParticles() {
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+    particles.forEach(p => { p.update(); p.draw(); });
+
+    // Lines
+    for (let i = 0; i < particles.length; i++) {
+        for (let j = i + 1; j < particles.length; j++) {
+            const dx = particles[i].x - particles[j].x;
+            const dy = particles[i].y - particles[j].y;
+            const dist = Math.sqrt(dx * dx + dy * dy);
+            if (dist < 150) {
+                ctx.beginPath();
+                ctx.moveTo(particles[i].x, particles[i].y);
+                ctx.lineTo(particles[j].x, particles[j].y);
+                ctx.strokeStyle = `rgba(139, 92, 246, ${(1 - dist / 150) * 0.15})`;
+                ctx.lineWidth = 0.5;
+                ctx.stroke();
+            }
+        }
+    }
+    requestAnimationFrame(animateParticles);
+}
+animateParticles();
+
+// ==================== NAVBAR SCROLL ====================
+let lastScroll = 0;
+window.addEventListener('scroll', () => {
+    const navbar = document.getElementById('navbar');
+    const currentScroll = window.scrollY;
+    if (currentScroll > 100) {
+        navbar.style.borderBottom = '1px solid rgba(255,255,255,0.05)';
+    } else {
+        navbar.style.borderBottom = 'none';
+    }
+    lastScroll = currentScroll;
+});
+
+// ==================== MAGNETIC BUTTONS ====================
+document.querySelectorAll('.magnetic-btn').forEach(btn => {
+    btn.addEventListener('mousemove', (e) => {
+        const rect = btn.getBoundingClientRect();
+        const x = e.clientX - rect.left - rect.width / 2;
+        const y = e.clientY - rect.top - rect.height / 2;
+        btn.style.transform = `translate(${x * 0.2}px, ${y * 0.2}px) scale(1.05)`;
+    });
+    btn.addEventListener('mouseleave', () => {
+        btn.style.transform = '';
+    });
+});
+
+// ==================== INIT ====================
+init();
+observeReveals();
+updateAuthUI();
+
+SB.onAuthChange((event, session) => {
+    currentUser = session?.user || null;
+    updateAuthUI();
+    if (products.length) renderProducts();
+});
+
+if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('/sw.js').catch(() => {});
+}
+</script>
+
+</body>
+</html>

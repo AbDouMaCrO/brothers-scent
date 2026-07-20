@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Admin Dashboard — LuxeScent</title>
+  <link rel="stylesheet" href="css/dashboard.css" />
+</head>
+<body>
+
+<!-- ADMIN LOGIN -->
+<div class="auth-screen" id="authScreen" style="display:flex;">
+  <div class="auth-box">
+    <div class="auth-logo">🔐</div>
+    <h2>Admin Dashboard</h2>
+    <p>LuxeScent Wholesale — restricted access</p>
+    <form class="auth-form" id="adminLoginForm">
+      <input type="password" id="adminPw" placeholder="Admin password" required autocomplete="current-password" />
+      <div class="auth-error" id="adminError"></div>
+      <button type="submit" class="auth-btn">Enter Dashboard</button>
+    </form>
+    <p style="margin-top:16px;font-size:12px;color:#555">Default password: <code>admin123</code> — change it in Settings</p>
+  </div>
+</div>
+
+<!-- DASHBOARD LAYOUT -->
+<div class="db-layout" id="dashboardLayout" style="display:none;">
+
+  <!-- SIDEBAR -->
+  <aside class="db-sidebar">
+    <div class="db-brand">
+      <span class="icon">💎</span>
+      <div>
+        <div class="name">LuxeScent</div>
+        <span class="badge">ADMIN</span>
+      </div>
+    </div>
+
+    <nav class="db-nav">
+      <div class="db-nav-section">Main</div>
+      <a href="#" data-section="overview" class="active">
+        <span class="nav-icon">📊</span> Overview
+      </a>
+      <a href="#" data-section="categories">
+        <span class="nav-icon">📂</span> Categories
+      </a>
+      <a href="#" data-section="products">
+        <span class="nav-icon">🧴</span> Products
+      </a>
+
+      <div class="db-nav-section">Commerce</div>
+      <a href="#" data-section="orders">
+        <span class="nav-icon">📦</span> Orders
+      </a>
+      <a href="#" data-section="users">
+        <span class="nav-icon">👥</span> Users
+      </a>
+
+      <div class="db-nav-section">Config</div>
+      <a href="#" data-section="settings">
+        <span class="nav-icon">⚙️</span> Settings
+      </a>
+    </nav>
+
+    <div class="db-footer-nav">
+      <a href="index.html" target="_blank">
+        <span class="nav-icon">🌐</span> View Storefront
+      </a>
+      <a href="#" id="logoutAdminBtn">
+        <span class="nav-icon">🚪</span> Logout
+      </a>
+    </div>
+  </aside>
+
+  <!-- MAIN -->
+  <main class="db-main">
+    <div class="db-topbar">
+      <h1 id="topbarTitle">Overview</h1>
+      <div class="db-topbar-right">
+        <span class="db-admin-label">Signed in as <strong id="adminNameLabel">Admin</strong></span>
+        <button class="btn-logout" id="logoutAdminBtn2" onclick="sessionStorage.removeItem('db_admin'); window.location.reload();">Logout</button>
+      </div>
+    </div>
+
+    <div class="db-content">
+
+      <!-- ── OVERVIEW ── -->
+      <section class="db-section" id="section-overview">
+        <div class="stat-cards">
+          <div class="stat-card">
+            <div class="stat-icon">🧴</div>
+            <div class="stat-info">
+              <div class="num" id="stat-products">0</div>
+              <div class="label">Active Products</div>
+            </div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-icon">📦</div>
+            <div class="stat-info">
+              <div class="num" id="stat-orders">0</div>
+              <div class="label">Total Orders</div>
+            </div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-icon">💰</div>
+            <div class="stat-info">
+              <div class="num" id="stat-revenue">$0</div>
+              <div class="label">Revenue</div>
+            </div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-icon">👥</div>
+            <div class="stat-info">
+              <div class="num" id="stat-users">0</div>
+              <div class="label">Registered Users</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="stat-cards" style="margin-top:0">
+          <div class="stat-card">
+            <div class="stat-icon">📂</div>
+            <div class="stat-info">
+              <div class="num" id="stat-categories">0</div>
+              <div class="label">Categories</div>
+            </div>
+          </div>
+          <div class="stat-card" style="border-color: rgba(231,76,60,0.3)">
+            <div class="stat-icon">⏳</div>
+            <div class="stat-info">
+              <div class="num" id="stat-pending-users" style="color:var(--orange)">0</div>
+              <div class="label">Pending Approvals</div>
+            </div>
+          </div>
+          <div class="stat-card" style="grid-column:span 2">
+            <div class="stat-icon">📱</div>
+            <div class="stat-info">
+              <div class="label" style="margin-bottom:4px">WhatsApp Number</div>
+              <div style="font-size:14px;color:var(--white)" id="waNumberDisplay">Not set — go to Settings</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="overview-grid">
+          <div class="recent-list">
+            <h3>Recent Orders</h3>
+            <div id="recentOrdersList"></div>
+          </div>
+          <div class="recent-list">
+            <h3>Quick Actions</h3>
+            <div style="padding:16px;display:flex;flex-direction:column;gap:10px;">
+              <button class="btn btn-gold" onclick="showSection('products'); openProductModal(null)">+ Add New Product</button>
+              <button class="btn btn-ghost" onclick="showSection('categories'); openCatModal(null)">+ Add Category</button>
+              <button class="btn btn-ghost" onclick="showSection('users')">Review Pending Users</button>
+              <button class="btn btn-ghost" onclick="showSection('settings')">⚙ Configure WhatsApp</button>
+              <a href="index.html" target="_blank" class="btn btn-ghost" style="text-decoration:none;text-align:center;">🌐 View Storefront</a>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ── CATEGORIES ── -->
+      <section class="db-section" id="section-categories">
+        <div class="panel-header">
+          <div>
+            <h2>Categories</h2>
+            <p>Organise products into collections visible on the storefront</p>
+          </div>
+          <button class="btn btn-gold" onclick="openCatModal(null)">+ New Category</button>
+        </div>
+        <div class="cat-grid" id="catGrid"></div>
+      </section>
+
+      <!-- ── PRODUCTS ── -->
+      <section class="db-section" id="section-products">
+        <div class="panel-header">
+          <div>
+            <h2>Products</h2>
+            <p>Manage stock, prices, and visibility</p>
+          </div>
+          <button class="btn btn-gold" onclick="openProductModal(null)">+ New Product</button>
+        </div>
+        <div class="db-table-wrap">
+          <div class="db-table-toolbar">
+            <input type="text" class="db-search" id="productSearch" placeholder="Search by name or brand…" />
+            <select class="db-filter" id="productCatFilter" onchange="productFilter=this.value; renderProducts()">
+              <option value="">All Categories</option>
+            </select>
+          </div>
+          <table>
+            <thead>
+              <tr>
+                <th>Product</th>
+                <th>Category</th>
+                <th>Size</th>
+                <th>Price</th>
+                <th>Stock</th>
+                <th>Status</th>
+                <th>Actions</th>
+              </tr>
+            </thead>
+            <tbody id="productsTbody"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <!-- ── ORDERS ── -->
+      <section class="db-section" id="section-orders">
+        <div class="panel-header">
+          <div>
+            <h2>Orders</h2>
+            <p>All customer orders routed via WhatsApp</p>
+          </div>
+        </div>
+        <div class="db-table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Order ID</th>
+                <th>Customer</th>
+                <th>Date</th>
+                <th>Items</th>
+                <th>Total</th>
+                <th>Status</th>
+                <th>Actions</th>
+              </tr>
+            </thead>
+            <tbody id="ordersTbody"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <!-- ── USERS ── -->
+      <section class="db-section" id="section-users">
+        <div class="panel-header">
+          <div>
+            <h2>Wholesale Users</h2>
+            <p>Approve accounts before they can view prices and order</p>
+          </div>
+        </div>
+        <div class="db-table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Company</th>
+                <th>Phone</th>
+                <th>Status</th>
+                <th>Actions</th>
+              </tr>
+            </thead>
+            <tbody id="usersTbody"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <!-- ── SETTINGS ── -->
+      <section class="db-section" id="section-settings">
+        <div class="panel-header">
+          <div>
+            <h2>Settings</h2>
+            <p>Business configuration and integrations</p>
+          </div>
+        </div>
+        <form id="settingsForm">
+          <div class="settings-grid">
+            <div class="settings-card">
+              <h3>📱 WhatsApp Routing</h3>
+              <div class="db-form">
+                <div class="form-field">
+                  <label>WhatsApp Number (with country code)</label>
+                  <input type="tel" id="settingWA" placeholder="+1234567890" />
+                  <span style="font-size:11px;color:var(--text-light);margin-top:4px">All orders will open WhatsApp to this number. Include + and country code.</span>
+                </div>
+              </div>
+            </div>
+            <div class="settings-card">
+              <h3>🏢 Business Info</h3>
+              <div class="db-form">
+                <div class="form-field">
+                  <label>Business Name</label>
+                  <input type="text" id="settingBizName" placeholder="LuxeScent Wholesale" />
+                </div>
+                <div class="form-field">
+                  <label>Currency</label>
+                  <select id="settingCurrency">
+                    <option value="USD">USD $</option>
+                    <option value="EUR">EUR €</option>
+                    <option value="GBP">GBP £</option>
+                    <option value="AED">AED د.إ</option>
+                    <option value="SAR">SAR ر.س</option>
+                    <option value="MAD">MAD DH</option>
+                  </select>
+                </div>
+                <div class="form-field">
+                  <label>Minimum Order Amount</label>
+                  <input type="number" id="settingMinOrder" placeholder="500" />
+                </div>
+              </div>
+            </div>
+            <div class="settings-card">
+              <h3>🔐 Admin Password</h3>
+              <div class="db-form">
+                <div class="form-field">
+                  <label>New Password (leave blank to keep current)</label>
+                  <input type="password" id="settingNewPw" placeholder="New admin password" autocomplete="new-password" />
+                </div>
+              </div>
+            </div>
+            <div class="settings-card">
+              <h3>💡 Recommended Stack</h3>
+              <div style="font-size:13px;line-height:1.9;color:var(--text-light)">
+                <p><strong style="color:var(--gold)">Supabase</strong> — Replace localStorage with real DB + auth</p>
+                <p><strong style="color:var(--gold)">PocketBase</strong> — Lighter self-hosted alternative</p>
+                <p><strong style="color:var(--gold)">n8n</strong> — Automate WhatsApp via webhook flows</p>
+                <p><strong style="color:var(--gold)">Meilisearch</strong> — Fast product search</p>
+                <p><strong style="color:var(--gold)">Baileys</strong> — Open-source WA API (Node.js)</p>
+              </div>
+            </div>
+          </div>
+          <div style="margin-top:20px">
+            <button type="submit" class="btn btn-gold">💾 Save Settings</button>
+          </div>
+        </form>
+      </section>
+
+    </div><!-- /db-content -->
+  </main>
+
+</div><!-- /db-layout -->
+
+<!-- ── CATEGORY MODAL ── -->
+<div class="db-modal-overlay" id="catModal">
+  <div class="db-modal">
+    <button class="db-modal-close">✕</button>
+    <h3 id="catModalTitle">New Category</h3>
+    <form class="db-form" id="catForm">
+      <input type="hidden" id="catModalId" />
+      <div class="form-row">
+        <div class="form-field">
+          <label>Category Name *</label>
+          <input type="text" id="catModalName" placeholder="e.g. Women's Fragrances" required />
+        </div>
+        <div class="form-field">
+          <label>Icon (emoji)</label>
+          <input type="text" id="catModalIcon" placeholder="🌸" maxlength="4" />
+        </div>
+      </div>
+      <div class="form-field">
+        <label>Slug (URL-safe ID)</label>
+        <input type="text" id="catModalSlug" placeholder="womens-fragrances" />
+      </div>
+      <div class="form-actions">
+        <button type="button" class="btn btn-ghost" onclick="closeModal('catModal')">Cancel</button>
+        <button type="submit" class="btn btn-gold">Save Category</button>
+      </div>
+    </form>
+  </div>
+</div>
+
+<!-- ── PRODUCT MODAL ── -->
+<div class="db-modal-overlay" id="productModal">
+  <div class="db-modal">
+    <button class="db-modal-close">✕</button>
+    <h3 id="productModalTitle">New Product</h3>
+    <form class="db-form" id="productForm">
+      <input type="hidden" id="pmId" />
+      <div class="form-row">
+        <div class="form-field">
+          <label>Product Name *</label>
+          <input type="text" id="pmName" placeholder="Sauvage EDP" required />
+        </div>
+        <div class="form-field">
+          <label>Brand *</label>
+          <input type="text" id="pmBrand" placeholder="Dior" required />
+        </div>
+      </div>
+      <div class="form-row">
+        <div class="form-field">
+          <label>Category</label>
+          <select id="pmCategory">
+            <option value="">Select category</option>
+          </select>
+        </div>
+        <div class="form-field">
+          <label>Size</label>
+          <input type="text" id="pmSize" placeholder="100ml" />
+        </div>
+      </div>
+      <div class="form-row">
+        <div class="form-field">
+          <label>Wholesale Price (USD) *</label>
+          <input type="number" id="pmPrice" placeholder="89.00" step="0.01" min="0" required />
+        </div>
+        <div class="form-field">
+          <label>Stock (units)</label>
+          <input type="number" id="pmStock" placeholder="24" min="0" />
+        </div>
+      </div>
+      <div class="form-field">
+        <label>Badge Label (optional)</label>
+        <input type="text" id="pmBadge" placeholder="NEW / HOT / SALE" maxlength="10" />
+      </div>
+      <div class="form-actions">
+        <button type="button" class="btn btn-ghost" onclick="closeModal('productModal')">Cancel</button>
+        <button type="submit" class="btn btn-gold">Save Product</button>
+      </div>
+    </form>
+  </div>
+</div>
+
+<!-- ── ORDER DETAIL MODAL ── -->
+<div class="db-modal-overlay" id="orderDetailModal">
+  <div class="db-modal" style="max-width:600px">
+    <button class="db-modal-close">✕</button>
+    <h3>Order Detail</h3>
+    <div id="orderDetailContent"></div>
+  </div>
+</div>
+
+<!-- TOAST -->
+<div class="db-toast" id="dbToast"></div>
+
+<script src="js/dashboard.js"></script>
+</body>
+</html>

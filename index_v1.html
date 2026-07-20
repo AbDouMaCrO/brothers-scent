@@ -1,0 +1,870 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Luxe Scent — Premium Perfume Wholesale</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+<!-- TOP BAR -->
+<div class="topbar">
+  <div class="container">
+    <div class="topbar-left">
+      <span>📞</span> +1 (888) 777-6685 &nbsp;|&nbsp; <span>✉️</span> orders@luxescent.com
+    </div>
+    <div class="topbar-right">
+      <a href="#">Track Order</a>
+      <a href="#">Wholesale Login</a>
+      <a href="#" data-modal="login" class="btn-signin">Sign In / Register</a>
+    </div>
+  </div>
+</div>
+
+<!-- HEADER -->
+<header>
+  <div class="container">
+    <div class="nav-inner">
+      <a href="index.html" class="logo">
+        <div class="logo-icon">L</div>
+        <div class="logo-text">Luxe<span>Scent</span></div>
+      </a>
+
+      <div class="hamburger" id="hamburger">
+        <span></span><span></span><span></span>
+      </div>
+
+      <nav id="navMenu">
+        <a href="index.html" class="active">Home</a>
+        <a href="pages/products.html">Products</a>
+        <a href="pages/regional.html">🌍 Regional Top Picks</a>
+        <a href="pages/about.html">About Us</a>
+        <a href="pages/orders.html">My Orders</a>
+        <a href="pages/contact.html">Contact</a>
+      </nav>
+
+      <div class="nav-actions">
+        <a href="#" class="nav-icon" title="Search">🔍</a>
+        <a href="#" class="nav-icon" data-modal="login" title="Account" id="navAccountBtn">👤</a>
+        <span id="navUserLabel" style="font-size:13px;color:var(--gold);display:none;"></span>
+        <button id="logoutBtn" style="display:none;background:var(--dark-3);border:1px solid #444;color:var(--text-light);padding:6px 12px;border-radius:4px;font-size:12px;cursor:pointer;">Logout</button>
+        <a href="pages/cart.html" class="nav-icon" title="Cart" style="position:relative;">
+          🛒
+          <span class="cart-badge" id="cartBadge" style="display:none;">0</span>
+        </a>
+      </div>
+    </div>
+  </div>
+</header>
+
+<!-- ANNOUNCEMENT STRIP -->
+<div class="strip">
+  🌟 WHOLESALE PRICING AVAILABLE — Minimum order 10 units &nbsp;|&nbsp; FREE SHIPPING on orders over $500 &nbsp;|&nbsp; New arrivals every week
+</div>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="hero-slides">
+
+    <!-- SLIDE 1 -->
+    <div class="hero-slide active">
+      <div class="hero-bg-pattern"></div>
+      <div class="container" style="position:relative;z-index:2;width:100%;">
+        <div class="hero-content">
+          <div class="hero-tag">Premium Wholesale Collection</div>
+          <h1 class="hero-title">
+            The Art of
+            <em>Luxury Scent</em>
+          </h1>
+          <p class="hero-desc">
+            Curated wholesale fragrances from the world's most prestigious houses. Stock your shelves with scents that sell.
+          </p>
+          <div class="hero-actions">
+            <a href="pages/products.html" class="btn-primary">Browse Catalogue</a>
+            <a href="#" data-modal="register" class="btn-outline">Become Wholesale Partner</a>
+          </div>
+        </div>
+      </div>
+      <div class="hero-visual">
+        <div class="hero-perfume-display">
+          <div class="perfume-glow"></div>
+          <div class="perfume-bottle">🧴</div>
+          <div class="hero-badge"><span class="badge-num">500+</span>SKUs</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- SLIDE 2 -->
+    <div class="hero-slide">
+      <div class="hero-bg-pattern" style="background-image:radial-gradient(circle at 30% 50%, rgba(201,168,76,0.1) 0%, transparent 60%);"></div>
+      <div class="container" style="position:relative;z-index:2;width:100%;">
+        <div class="hero-content">
+          <div class="hero-tag">New Season Arrivals</div>
+          <h1 class="hero-title">
+            Fresh Stock
+            <em>Every Week</em>
+          </h1>
+          <p class="hero-desc">
+            New perfumes added to our database weekly. Sign in to get early access and pre-order before they sell out.
+          </p>
+          <div class="hero-actions">
+            <a href="#" data-modal="login" class="btn-primary">Sign In to Order</a>
+            <a href="pages/products.html" class="btn-outline">View New Arrivals</a>
+          </div>
+        </div>
+      </div>
+      <div class="hero-visual">
+        <div class="hero-perfume-display">
+          <div class="perfume-glow"></div>
+          <div class="perfume-bottle">💎</div>
+          <div class="hero-badge"><span class="badge-num">NEW</span>2025</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- SLIDE 3 -->
+    <div class="hero-slide">
+      <div class="hero-bg-pattern" style="background-image:radial-gradient(circle at 60% 40%, rgba(201,168,76,0.12) 0%, transparent 60%);"></div>
+      <div class="container" style="position:relative;z-index:2;width:100%;">
+        <div class="hero-content">
+          <div class="hero-tag">Limited Time Offer</div>
+          <h1 class="hero-title">
+            Wholesale Deals
+            <em>Up to 40% Off</em>
+          </h1>
+          <p class="hero-desc">
+            Bulk discounts on selected lines. The more you order, the more you save. Register as a trade partner today.
+          </p>
+          <div class="hero-actions">
+            <a href="pages/products.html" class="btn-primary">Shop Sale</a>
+            <a href="#" data-modal="register" class="btn-outline">Register Trade Account</a>
+          </div>
+        </div>
+      </div>
+      <div class="hero-visual">
+        <div class="hero-perfume-display">
+          <div class="perfume-glow"></div>
+          <div class="perfume-bottle">✨</div>
+          <div class="hero-badge"><span class="badge-num">40%</span>OFF</div>
+        </div>
+      </div>
+    </div>
+
+  </div><!-- /hero-slides -->
+
+  <div class="hero-dots">
+    <div class="hero-dot active"></div>
+    <div class="hero-dot"></div>
+    <div class="hero-dot"></div>
+  </div>
+</section>
+
+<!-- STATS -->
+<section class="stats">
+  <div class="container">
+    <div class="stats-grid">
+      <div>
+        <div class="stat-num" data-target="13" data-suffix="+">0+</div>
+        <div class="stat-label">Years Experience</div>
+      </div>
+      <div>
+        <div class="stat-num" data-target="500" data-suffix="+">0+</div>
+        <div class="stat-label">Products in Stock</div>
+      </div>
+      <div>
+        <div class="stat-num" data-target="1200" data-suffix="+">0+</div>
+        <div class="stat-label">Happy Wholesalers</div>
+      </div>
+      <div>
+        <div class="stat-num" data-target="42" data-suffix="">0</div>
+        <div class="stat-label">Countries Served</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- REGIONAL BESTSELLERS -->
+<section id="regionalSection" style="padding:80px 0; background:var(--dark-3);">
+  <div class="container">
+    <div class="section-header">
+      <span class="section-tag">Scraped from Fragrantica</span>
+      <h2 class="section-title">Regional Top Picks</h2>
+      <div class="section-line"></div>
+      <p style="margin-top:14px;color:var(--text-light);font-size:14px;">Most popular fragrances in UAE & Saudi Arabia — updated from community data</p>
+    </div>
+
+    <div class="product-tabs" id="regionalTabs">
+      <button class="product-tab active" data-region="uae">🇦🇪 UAE Trending</button>
+      <button class="product-tab" data-region="saudi">🇸🇦 Saudi Arabia</button>
+    </div>
+
+    <div id="regionalGrid" style="display:grid; grid-template-columns:repeat(4,1fr); gap:24px;"></div>
+
+    <div style="text-align:center;margin-top:48px;">
+      <a href="pages/regional.html" class="btn-outline">View All Regional Picks →</a>
+    </div>
+  </div>
+</section>
+
+<!-- FEATURED PRODUCTS -->
+<section class="products-section">
+  <div class="container">
+    <div class="section-header">
+      <span class="section-tag">Our Collection</span>
+      <h2 class="section-title">Featured Fragrances</h2>
+      <div class="section-line"></div>
+    </div>
+
+    <div class="product-tabs">
+      <button class="product-tab active" data-tab="women">Women</button>
+      <button class="product-tab" data-tab="men">Men</button>
+      <button class="product-tab" data-tab="unisex">Unisex</button>
+      <button class="product-tab" data-tab="sets">Gift Sets</button>
+    </div>
+
+    <!-- WOMEN PANEL -->
+    <div class="products-panel" data-panel="women" style="display:grid; grid-template-columns: repeat(4,1fr); gap:24px;">
+
+      <div class="product-card">
+        <span class="product-badge new">NEW</span>
+        <div class="product-img"><img src="https://fimgs.net/mdimg/perfume/375x500.611.jpg" alt="Chanel Coco Mademoiselle" loading="lazy" onerror="this.outerHTML='🌸'" /></div>
+        <div class="product-actions">
+          <button class="product-action-btn add-to-cart" title="Add to cart">🛒</button>
+          <button class="product-action-btn" title="Wishlist">♡</button>
+          <button class="product-action-btn" title="Quick view">👁</button>
+        </div>
+        <div class="product-info">
+          <div class="product-brand">Chanel</div>
+          <div class="product-name">Coco Mademoiselle EDP</div>
+          <div class="product-size">100ml</div>
+          <div class="product-price">
+            <span class="price-current">$89.00</span>
+          </div>
+          <div class="product-stars">★★★★★</div>
+        </div>
+      </div>
+
+      <div class="product-card">
+        <span class="product-badge">-20%</span>
+        <div class="product-img"><img src="https://fimgs.net/mdimg/perfume/375x500.23280.jpg" alt="Dior Miss Dior Blooming Bouquet" loading="lazy" onerror="this.outerHTML='🌺'" /></div>
+        <div class="product-actions">
+          <button class="product-action-btn add-to-cart" title="Add to cart">🛒</button>
+          <button class="product-action-btn" title="Wishlist">♡</button>
+          <button class="product-action-btn" title="Quick view">👁</button>
+        </div>
+        <div class="product-info">
+          <div class="product-brand">Dior</div>
+          <div class="product-name">Miss Dior Blooming Bouquet</div>
+          <div class="product-size">75ml</div>
+          <div class="product-price">
+            <span class="price-current">$76.00</span>
+            <span class="price-old">$95.00</span>
+          </div>
+          <div class="product-stars">★★★★☆</div>
+        </div>
+      </div>
+
+      <div class="product-card">
+        <div class="product-img"><img src="https://fimgs.net/mdimg/perfume/375x500.25324.jpg" alt="YSL Black Opium EDP" loading="lazy" onerror="this.outerHTML='🌹'" /></div>
+        <div class="product-actions">
+          <button class="product-action-btn add-to-cart" title="Add to cart">🛒</button>
+          <button class="product-action-btn" title="Wishlist">♡</button>
+          <button class="product-action-btn" title="Quick view">👁</button>
+        </div>
+        <div class="product-info">
+          <div class="product-brand">YSL</div>
+          <div class="product-name">Black Opium EDP</div>
+          <div class="product-size">90ml</div>
+          <div class="product-price">
+            <span class="price-current">$95.00</span>
+          </div>
+          <div class="product-stars">★★★★★</div>
+        </div>
+      </div>
+
+      <div class="product-card">
+        <span class="product-badge new">HOT</span>
+        <div class="product-img"><img src="https://fimgs.net/mdimg/perfume/375x500.14982.jpg" alt="Lancôme La Vie Est Belle" loading="lazy" onerror="this.outerHTML='💐'" /></div>
+        <div class="product-actions">
+          <button class="product-action-btn add-to-cart" title="Add to cart">🛒</button>
+          <button class="product-action-btn" title="Wishlist">♡</button>
+          <button class="product-action-btn" title="Quick view">👁</button>
+        </div>
+        <div class="product-info">
+          <div class="product-brand">Lancôme</div>
+          <div class="product-name">La Vie Est Belle EDP</div>
+          <div class="product-size">100ml</div>
+          <div class="product-price">
+            <span class="price-current">$112.00</span>
+          </div>
+          <div class="product-stars">★★★★★</div>
+        </div>
+      </div>
+
+    </div><!-- /women panel -->
+
+    <!-- MEN PANEL -->
+    <div class="products-panel" data-panel="men" style="display:none; grid-template-columns: repeat(4,1fr); gap:24px;">
+
+      <div class="product-card">
+        <span class="product-badge new">NEW</span>
+        <div class="product-img"><img src="https://fimgs.net/mdimg/perfume/375x500.48100.jpg" alt="Dior Sauvage EDP" loading="lazy" onerror="this.outerHTML='🌊'" /></div>
+        <div class="product-actions">
+          <button class="product-action-btn add-to-cart" title="Add to cart">🛒</button>
+          <button class="product-action-btn" title="Wishlist">♡</button>
+          <button class="product-action-btn" title="Quick view">👁</button>
+        </div>
+        <div class="product-info">
+          <div class="product-brand">Dior</div>
+          <div class="product-name">Sauvage EDP</div>
+          <div class="product-size">100ml</div>
+          <div class="product-price"><span class="price-current">$110.00</span></div>
+          <div class="product-stars">★★★★★</div>
+        </div>
+      </div>
+
+      <div class="product-card">
+        <div class="product-img"><img src="https://fimgs.net/mdimg/perfume/375x500.1826.jpg" alt="Tom Ford Oud Wood" loading="lazy" onerror="this.outerHTML='🖤'" /></div>
+        <div class="product-actions">
+          <button class="product-action-btn add-to-cart" title="Add to cart">🛒</button>
+          <button class="product-action-btn" title="Wishlist">♡</button>
+          <button class="product-action-btn" title="Quick view">👁</button>
+        </div>
+        <div class="product-info">
+          <div class="product-brand">Tom Ford</div>
+          <div class="product-name">Oud Wood EDP</div>
+          <div class="product-size">50ml</div>
+          <div class="product-price">
+            <span class="price-current">$185.00</span>
+          </div>
+          <div class="product-stars">★★★★★</div>
+        </div>
+      </div>
+
+      <div class="product-card">
+        <span class="product-badge">-15%</span>
+        <div class="product-img"><img src="https://fimgs.net/mdimg/perfume/375x500.62762.jpg" alt="Versace Eros EDP" loading="lazy" onerror="this.outerHTML='🌿'" /></div>
+        <div class="product-actions">
+          <button class="product-action-btn add-to-cart" title="Add to cart">🛒</button>
+          <button class="product-action-btn" title="Wishlist">♡</button>
+          <button class="product-action-btn" title="Quick view">👁</button>
+        </div>
+        <div class="product-info">
+          <div class="product-brand">Versace</div>
+          <div class="product-name">Eros Pour Homme EDT</div>
+          <div class="product-size">100ml</div>
+          <div class="product-price">
+            <span class="price-current">$68.00</span>
+            <span class="price-old">$80.00</span>
+          </div>
+          <div class="product-stars">★★★★☆</div>
+        </div>
+      </div>
+
+      <div class="product-card">
+        <div class="product-img"><img src="https://fimgs.net/mdimg/perfume/375x500.13857.jpg" alt="Viktor&Rolf Spicebomb" loading="lazy" onerror="this.outerHTML='🔥'" /></div>
+        <div class="product-actions">
+          <button class="product-action-btn add-to-cart" title="Add to cart">🛒</button>
+          <button class="product-action-btn" title="Wishlist">♡</button>
+          <button class="product-action-btn" title="Quick view">👁</button>
+        </div>
+        <div class="product-info">
+          <div class="product-brand">Viktor&Rolf</div>
+          <div class="product-name">Spicebomb Extreme EDP</div>
+          <div class="product-size">90ml</div>
+          <div class="product-price"><span class="price-current">$98.00</span></div>
+          <div class="product-stars">★★★★★</div>
+        </div>
+      </div>
+
+    </div><!-- /men panel -->
+
+    <!-- UNISEX PANEL -->
+    <div class="products-panel" data-panel="unisex" style="display:none; grid-template-columns: repeat(4,1fr); gap:24px;">
+      <div class="product-card">
+        <span class="product-badge new">NEW</span>
+        <div class="product-img"><img src="https://fimgs.net/mdimg/perfume/375x500.12201.jpg" alt="Le Labo Santal 33" loading="lazy" onerror="this.outerHTML='⚗️'" /></div>
+        <div class="product-actions">
+          <button class="product-action-btn add-to-cart">🛒</button>
+          <button class="product-action-btn">♡</button>
+          <button class="product-action-btn">👁</button>
+        </div>
+        <div class="product-info">
+          <div class="product-brand">Le Labo</div>
+          <div class="product-name">Santal 33 EDP</div>
+          <div class="product-size">100ml</div>
+          <div class="product-price"><span class="price-current">$195.00</span></div>
+          <div class="product-stars">★★★★★</div>
+        </div>
+      </div>
+      <div class="product-card">
+        <div class="product-img"><img src="https://fimgs.net/mdimg/perfume/375x500.20541.jpg" alt="Maison Margiela Jazz Club" loading="lazy" onerror="this.outerHTML='🌙'" /></div>
+        <div class="product-actions">
+          <button class="product-action-btn add-to-cart">🛒</button>
+          <button class="product-action-btn">♡</button>
+          <button class="product-action-btn">👁</button>
+        </div>
+        <div class="product-info">
+          <div class="product-brand">Maison Margiela</div>
+          <div class="product-name">Replica Jazz Club EDT</div>
+          <div class="product-size">100ml</div>
+          <div class="product-price"><span class="price-current">$145.00</span></div>
+          <div class="product-stars">★★★★★</div>
+        </div>
+      </div>
+      <div class="product-card">
+        <span class="product-badge">-25%</span>
+        <div class="product-img"><img src="https://fimgs.net/mdimg/perfume/375x500.9828.jpg" alt="Creed Aventus" loading="lazy" onerror="this.outerHTML='🍂'" /></div>
+        <div class="product-actions">
+          <button class="product-action-btn add-to-cart">🛒</button>
+          <button class="product-action-btn">♡</button>
+          <button class="product-action-btn">👁</button>
+        </div>
+        <div class="product-info">
+          <div class="product-brand">Creed</div>
+          <div class="product-name">Aventus EDP</div>
+          <div class="product-size">50ml</div>
+          <div class="product-price">
+            <span class="price-current">$285.00</span>
+            <span class="price-old">$380.00</span>
+          </div>
+          <div class="product-stars">★★★★★</div>
+        </div>
+      </div>
+      <div class="product-card">
+        <div class="product-img"><img src="https://fimgs.net/mdimg/perfume/375x500.3575.jpg" alt="Byredo Gypsy Water" loading="lazy" onerror="this.outerHTML='🌶️'" /></div>
+        <div class="product-actions">
+          <button class="product-action-btn add-to-cart">🛒</button>
+          <button class="product-action-btn">♡</button>
+          <button class="product-action-btn">👁</button>
+        </div>
+        <div class="product-info">
+          <div class="product-brand">Byredo</div>
+          <div class="product-name">Gypsy Water EDP</div>
+          <div class="product-size">100ml</div>
+          <div class="product-price"><span class="price-current">$220.00</span></div>
+          <div class="product-stars">★★★★☆</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- SETS PANEL -->
+    <div class="products-panel" data-panel="sets" style="display:none; grid-template-columns: repeat(4,1fr); gap:24px;">
+      <div class="product-card">
+        <span class="product-badge new">BEST</span>
+        <div class="product-img">🎁</div>
+        <div class="product-actions">
+          <button class="product-action-btn add-to-cart">🛒</button>
+          <button class="product-action-btn">♡</button>
+          <button class="product-action-btn">👁</button>
+        </div>
+        <div class="product-info">
+          <div class="product-brand">Dior</div>
+          <div class="product-name">Miss Dior Gift Set</div>
+          <div class="product-size">3 piece set</div>
+          <div class="product-price"><span class="price-current">$145.00</span></div>
+          <div class="product-stars">★★★★★</div>
+        </div>
+      </div>
+      <div class="product-card">
+        <div class="product-img">🎀</div>
+        <div class="product-actions">
+          <button class="product-action-btn add-to-cart">🛒</button>
+          <button class="product-action-btn">♡</button>
+          <button class="product-action-btn">👁</button>
+        </div>
+        <div class="product-info">
+          <div class="product-brand">Chanel</div>
+          <div class="product-name">No.5 Collector Set</div>
+          <div class="product-size">2 piece set</div>
+          <div class="product-price"><span class="price-current">$178.00</span></div>
+          <div class="product-stars">★★★★★</div>
+        </div>
+      </div>
+      <div class="product-card">
+        <span class="product-badge">-30%</span>
+        <div class="product-img">💝</div>
+        <div class="product-actions">
+          <button class="product-action-btn add-to-cart">🛒</button>
+          <button class="product-action-btn">♡</button>
+          <button class="product-action-btn">👁</button>
+        </div>
+        <div class="product-info">
+          <div class="product-brand">Giorgio Armani</div>
+          <div class="product-name">Acqua di Gio Set</div>
+          <div class="product-size">Gift box</div>
+          <div class="product-price">
+            <span class="price-current">$84.00</span>
+            <span class="price-old">$120.00</span>
+          </div>
+          <div class="product-stars">★★★★☆</div>
+        </div>
+      </div>
+      <div class="product-card">
+        <div class="product-img">🏆</div>
+        <div class="product-actions">
+          <button class="product-action-btn add-to-cart">🛒</button>
+          <button class="product-action-btn">♡</button>
+          <button class="product-action-btn">👁</button>
+        </div>
+        <div class="product-info">
+          <div class="product-brand">Tom Ford</div>
+          <div class="product-name">Private Blend Discovery Set</div>
+          <div class="product-size">5 x 10ml</div>
+          <div class="product-price"><span class="price-current">$210.00</span></div>
+          <div class="product-stars">★★★★★</div>
+        </div>
+      </div>
+    </div>
+
+    <div style="text-align:center; margin-top:48px;">
+      <a href="pages/products.html" class="btn-outline">View Full Catalogue →</a>
+    </div>
+  </div>
+</section>
+
+<!-- ABOUT -->
+<section class="about-section">
+  <div class="container">
+    <div class="about-inner">
+
+      <div class="about-visual">
+        <div class="about-img-main">🧴</div>
+        <div class="about-accent">✨</div>
+        <div class="about-year-badge">
+          <span class="big">13</span>
+          <span class="small">Years<br>of Excellence</span>
+        </div>
+      </div>
+
+      <div class="about-content">
+        <span class="section-tag">About</span>
+        <h2 class="section-title" style="text-align:left;">The New Fresh<br>Sensation</h2>
+        <div class="section-line" style="margin-left:0;"></div>
+        <p style="margin-top:22px; color:var(--text-light); line-height:1.9;">
+          Luxe Scent is a leading perfume wholesale distributor with over 13 years of experience supplying premium fragrances to retailers, boutiques, and department stores worldwide. We source directly from top manufacturers to bring you the best prices without compromising on authenticity.
+        </p>
+        <div class="about-features">
+          <div class="about-feat">
+            <div class="feat-icon">🚚</div>
+            <div class="feat-text">
+              <h4>Free Shipping</h4>
+              <p>On all orders over $500</p>
+            </div>
+          </div>
+          <div class="about-feat">
+            <div class="feat-icon">🔒</div>
+            <div class="feat-text">
+              <h4>100% Authentic</h4>
+              <p>Direct from manufacturers</p>
+            </div>
+          </div>
+          <div class="about-feat">
+            <div class="feat-icon">🏷️</div>
+            <div class="feat-text">
+              <h4>Wholesale Pricing</h4>
+              <p>Best rates on bulk orders</p>
+            </div>
+          </div>
+          <div class="about-feat">
+            <div class="feat-icon">📞</div>
+            <div class="feat-text">
+              <h4>24/7 Support</h4>
+              <p>Dedicated account managers</p>
+            </div>
+          </div>
+        </div>
+        <a href="pages/about.html" class="btn-primary">Learn More</a>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- BENEFITS -->
+<section class="benefits-section">
+  <div class="container">
+    <div class="section-header">
+      <span class="section-tag">Why Choose Us</span>
+      <h2 class="section-title">Perks &amp; Benefits</h2>
+      <div class="section-line"></div>
+    </div>
+    <div class="benefits-grid">
+      <div class="benefit-card">
+        <div class="benefit-icon">⚡</div>
+        <h3>Quick Payment</h3>
+        <p>Multiple payment methods accepted including bank transfer, credit card, and trade credit for verified accounts.</p>
+      </div>
+      <div class="benefit-card">
+        <div class="benefit-icon">💰</div>
+        <h3>Affordable Prices</h3>
+        <p>Wholesale rates start at 40% below retail. Volume discounts available for orders of 50+ units per SKU.</p>
+      </div>
+      <div class="benefit-card">
+        <div class="benefit-icon">🎯</div>
+        <h3>Exclusive Deals</h3>
+        <p>Registered trade partners get early access to new stock, seasonal deals, and clearance lines before anyone else.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- SALE BANNERS -->
+<section class="sale-section">
+  <div class="container">
+    <div class="sale-grid">
+      <div class="sale-card">
+        <div class="sale-emoji">🌸</div>
+        <div class="sale-text">
+          <div class="label">Women's Collection</div>
+          <h3>Perfume <em>SALE</em></h3>
+          <div class="pct">30%</div>
+          <a href="pages/products.html" class="shop-link">Shop Now →</a>
+        </div>
+      </div>
+      <div class="sale-card">
+        <div class="sale-emoji">🖤</div>
+        <div class="sale-text">
+          <div class="label">Men's Collection</div>
+          <h3>Perfume <em>SALE</em></h3>
+          <div class="pct">15%</div>
+          <a href="pages/products.html" class="shop-link">Shop Now →</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- NEWSLETTER -->
+<section class="newsletter-section">
+  <div class="container">
+    <h2>Stay Updated</h2>
+    <p>Get notified when new stock arrives and access exclusive wholesale deals.</p>
+    <form class="newsletter-form" onsubmit="event.preventDefault(); this.querySelector('button').textContent='Subscribed ✓';">
+      <input type="email" placeholder="Enter your email address" required />
+      <button type="submit">Subscribe</button>
+    </form>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer>
+  <div class="container">
+    <div class="footer-grid">
+
+      <div class="footer-brand">
+        <div class="logo">
+          <div class="logo-icon">L</div>
+          <div class="logo-text">Luxe<span>Scent</span></div>
+        </div>
+        <p>Premium perfume wholesale supplier. Serving retailers, boutiques, and department stores across 42 countries since 2011.</p>
+        <div class="footer-social">
+          <a href="#" class="social-btn">f</a>
+          <a href="#" class="social-btn">in</a>
+          <a href="#" class="social-btn">tw</a>
+          <a href="#" class="social-btn">ig</a>
+        </div>
+      </div>
+
+      <div class="footer-col">
+        <h4>Navigation</h4>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="pages/products.html">Products</a></li>
+          <li><a href="pages/about.html">About Us</a></li>
+          <li><a href="pages/contact.html">Contact</a></li>
+          <li><a href="#">Blog</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col">
+        <h4>Quick Links</h4>
+        <ul>
+          <li><a href="#" data-modal="login">Sign In</a></li>
+          <li><a href="#" data-modal="register">Register</a></li>
+          <li><a href="pages/orders.html">Track Order</a></li>
+          <li><a href="#">FAQs</a></li>
+          <li><a href="#">Privacy Policy</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col">
+        <h4>Contact Us</h4>
+        <ul class="footer-contact">
+          <li>
+            <span class="icon">📍</span>
+            <span class="val">42 Fragrance Lane, London, UK, EC1A 1BB</span>
+          </li>
+          <li>
+            <span class="icon">📞</span>
+            <span class="val">+1 (888) 777-6685</span>
+          </li>
+          <li>
+            <span class="icon">✉️</span>
+            <span class="val">orders@luxescent.com</span>
+          </li>
+        </ul>
+      </div>
+
+    </div><!-- /footer-grid -->
+  </div>
+
+  <div class="container">
+    <div class="footer-bottom">
+      <span>© 2025 LuxeScent Wholesale. All Rights Reserved.</span>
+      <span>
+        <a href="#">Terms</a> &nbsp;|&nbsp;
+        <a href="#">Privacy</a> &nbsp;|&nbsp;
+        <a href="#">Shipping Policy</a>
+      </span>
+    </div>
+  </div>
+</footer>
+
+<!-- SIGN IN / REGISTER MODAL -->
+<div class="modal-overlay" id="modalOverlay">
+  <div class="modal">
+    <div class="modal-close" id="closeModal">✕</div>
+    <h2>Welcome Back</h2>
+    <p>Access wholesale pricing and manage your orders.</p>
+
+    <div class="modal-tabs">
+      <button class="modal-tab active" data-tab="login">Sign In</button>
+      <button class="modal-tab" data-tab="register">Register</button>
+    </div>
+
+    <!-- LOGIN FORM -->
+    <form class="modal-form modal-form-panel" data-form="login" id="loginForm" style="display:flex;flex-direction:column;gap:14px;">
+      <div id="loginError" style="display:none;color:#e74c3c;font-size:13px;background:rgba(231,76,60,0.1);padding:10px 14px;border-radius:4px;"></div>
+      <div class="form-group">
+        <label>Email Address</label>
+        <input type="email" name="email" placeholder="you@company.com" required />
+      </div>
+      <div class="form-group">
+        <label>Password</label>
+        <input type="password" name="password" placeholder="••••••••" required />
+      </div>
+      <button type="submit" class="form-submit">Sign In</button>
+      <div class="form-divider">or</div>
+      <div class="form-note">
+        No account? <a href="#" onclick="document.querySelector('[data-tab=register]').click(); return false;">Register as wholesale partner</a>
+      </div>
+      <div class="form-note"><a href="#">Forgot password?</a></div>
+    </form>
+
+    <!-- REGISTER FORM -->
+    <form class="modal-form modal-form-panel" data-form="register" id="registerForm" style="display:none;flex-direction:column;gap:14px;">
+      <div id="registerError" style="display:none;font-size:13px;background:rgba(231,76,60,0.1);padding:10px 14px;border-radius:4px;color:#e74c3c;"></div>
+      <div class="form-group">
+        <label>Your Full Name</label>
+        <input type="text" name="name" placeholder="Jane Smith" required />
+      </div>
+      <div class="form-group">
+        <label>Business / Company Name</label>
+        <input type="text" name="company" placeholder="Your Company Ltd." />
+      </div>
+      <div class="form-group">
+        <label>Email Address</label>
+        <input type="email" name="email" placeholder="you@company.com" required />
+      </div>
+      <div class="form-group">
+        <label>Password</label>
+        <input type="password" name="password" placeholder="Min 8 characters" minlength="8" required />
+      </div>
+      <div class="form-group">
+        <label>Phone Number</label>
+        <input type="tel" name="phone" placeholder="+1 (000) 000-0000" />
+      </div>
+      <button type="submit" class="form-submit">Create Trade Account</button>
+      <div class="form-note" style="font-size:11px; color:var(--text-light);">
+        By registering you agree to our <a href="#">Terms &amp; Conditions</a>. Trade accounts are verified within 24 hours.
+      </div>
+    </form>
+
+  </div>
+</div>
+
+<script src="js/auth.js"></script>
+<script src="js/cart.js"></script>
+<script src="js/regional-data.js"></script>
+<script src="js/main.js"></script>
+<script>
+// Render regional bestsellers section
+(function renderRegional() {
+  const grid = document.getElementById('regionalGrid');
+  const tabs = document.querySelectorAll('#regionalTabs .product-tab');
+  if (!grid || !REGIONAL_DATA) return;
+
+  function starStr(r) {
+    const full = Math.floor(r);
+    const half = r % 1 >= 0.5 ? 1 : 0;
+    return '★'.repeat(full) + (half ? '½' : '') + '☆'.repeat(5 - full - half);
+  }
+
+  function buildCard(p) {
+    const isLoggedIn = AUTH.isLoggedIn();
+    const priceHtml = isLoggedIn
+      ? `<span class="rc-price">$${p.price}</span>`
+      : `<span class="rc-price" style="font-size:13px;color:var(--gold)"><a href="#" data-modal="login" style="color:var(--gold)">🔒 Sign in</a></span>`;
+
+    const allNotes = [...(p.notes.top || []), ...(p.notes.middle || []), ...(p.notes.base || [])].slice(0, 6);
+    const noteTags = allNotes.map(n => `<span class="rc-note-tag">${n}</span>`).join('');
+
+    const badgeHtml = p.badge
+      ? `<span class="rc-badge ${['LUXURY','BEST'].includes(p.badge) ? '' : ''}">${p.badge}</span>`
+      : '';
+
+    return `
+      <div class="regional-card" data-product-id="${p.id}">
+        ${badgeHtml}
+        <div class="rc-img">
+          <img src="${p.img}" alt="${p.brand} ${p.name}" loading="lazy"
+               onerror="this.style.display='none';this.parentElement.insertAdjacentHTML('afterbegin','<span style=font-size:72px>${p.emoji || '🧴'}</span>')" />
+          <div class="rc-rating">⭐ ${p.rating}</div>
+        </div>
+        <div class="rc-body">
+          <div class="rc-brand">${p.brand}</div>
+          <div class="rc-name">${p.name}</div>
+          <div class="rc-gender-size">${p.gender} · ${p.size}</div>
+          <div class="rc-desc">${p.description}</div>
+          <div class="rc-notes">
+            <div class="rc-notes-label">Key Notes</div>
+            <div class="rc-note-tags">${noteTags}</div>
+          </div>
+          <div class="rc-meta">
+            <span class="rc-meta-tag">⏱ ${p.longevity}</span>
+            <span class="rc-meta-tag">💨 ${p.sillage}</span>
+            <span class="rc-meta-tag">🌡 ${p.season}</span>
+          </div>
+          <div class="rc-footer">
+            ${priceHtml}
+            <button class="rc-action add-to-cart"
+              onclick="if(!AUTH.isLoggedIn()){document.getElementById('modalOverlay').classList.add('open');return;}
+                       CART.addToCart({id:'${p.id}',name:'${p.name}',brand:'${p.brand}',size:'${p.size}',price:${p.price}});
+                       this.textContent='✓';setTimeout(()=>this.textContent='+ Cart',1400);">
+              + Cart
+            </button>
+          </div>
+        </div>
+      </div>`;
+  }
+
+  function show(region) {
+    const items = REGIONAL_DATA[region] || [];
+    grid.innerHTML = items.map(buildCard).join('');
+  }
+
+  tabs.forEach(tab => {
+    tab.addEventListener('click', () => {
+      tabs.forEach(t => t.classList.remove('active'));
+      tab.classList.add('active');
+      show(tab.dataset.region);
+    });
+  });
+
+  show('uae');
+})();
+</script>
+</body>
+</html>
