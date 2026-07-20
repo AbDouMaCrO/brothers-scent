@@ -1,0 +1,609 @@
+{
+  "scraped_at": "2026-07-20T17:47:04.048Z",
+  "data": {
+    "UAE": [
+      {
+        "name": "Designers",
+        "slug": "",
+        "url": "https://www.fragrantica.com/designers/",
+        "mentions": 2
+      },
+      {
+        "name": "Afnan",
+        "slug": "Afnan",
+        "url": "https://www.fragrantica.com/designers/Afnan.html",
+        "mentions": 2
+      },
+      {
+        "name": "Armaf",
+        "slug": "Armaf",
+        "url": "https://www.fragrantica.com/designers/Armaf.html",
+        "mentions": 2
+      },
+      {
+        "name": "Fragrance World",
+        "slug": "Fragrance-World",
+        "url": "https://www.fragrantica.com/designers/Fragrance-World.html",
+        "mentions": 2
+      },
+      {
+        "name": "French Avenue",
+        "slug": "French-Avenue",
+        "url": "https://www.fragrantica.com/designers/French-Avenue.html",
+        "mentions": 2
+      },
+      {
+        "name": "Kayali Fragrances",
+        "slug": "Kayali-Fragrances",
+        "url": "https://www.fragrantica.com/designers/Kayali-Fragrances.html",
+        "mentions": 2
+      },
+      {
+        "name": "Khadlaj Perfumes",
+        "slug": "Khadlaj-Perfumes",
+        "url": "https://www.fragrantica.com/designers/Khadlaj-Perfumes.html",
+        "mentions": 2
+      },
+      {
+        "name": "Lattafa Perfumes",
+        "slug": "Lattafa-Perfumes",
+        "url": "https://www.fragrantica.com/designers/Lattafa-Perfumes.html",
+        "mentions": 2
+      },
+      {
+        "name": "Maison Alhambra",
+        "slug": "Maison-Alhambra",
+        "url": "https://www.fragrantica.com/designers/Maison-Alhambra.html",
+        "mentions": 2
+      },
+      {
+        "name": "PARIS CORNER",
+        "slug": "PARIS-CORNER",
+        "url": "https://www.fragrantica.com/designers/PARIS-CORNER.html",
+        "mentions": 2
+      },
+      {
+        "name": "Rasasi",
+        "slug": "Rasasi",
+        "url": "https://www.fragrantica.com/designers/Rasasi.html",
+        "mentions": 2
+      },
+      {
+        "name": "Rayhaan",
+        "slug": "Rayhaan",
+        "url": "https://www.fragrantica.com/designers/Rayhaan.html",
+        "mentions": 2
+      },
+      {
+        "name": "Ahmed Al Maghribi",
+        "slug": "Ahmed-Al-Maghribi",
+        "url": "https://www.fragrantica.com/designers/Ahmed-Al-Maghribi.html",
+        "mentions": 1
+      },
+      {
+        "name": "Ajmal",
+        "slug": "Ajmal",
+        "url": "https://www.fragrantica.com/designers/Ajmal.html",
+        "mentions": 1
+      },
+      {
+        "name": "Al Ambra",
+        "slug": "Al-Ambra",
+        "url": "https://www.fragrantica.com/designers/Al-Ambra.html",
+        "mentions": 1
+      },
+      {
+        "name": "Al Haramain Perfumes",
+        "slug": "Al-Haramain-Perfumes",
+        "url": "https://www.fragrantica.com/designers/Al-Haramain-Perfumes.html",
+        "mentions": 1
+      },
+      {
+        "name": "Al Wataniah",
+        "slug": "Al-Wataniah",
+        "url": "https://www.fragrantica.com/designers/Al-Wataniah.html",
+        "mentions": 1
+      },
+      {
+        "name": "Amaran",
+        "slug": "Amaran",
+        "url": "https://www.fragrantica.com/designers/Amaran.html",
+        "mentions": 1
+      },
+      {
+        "name": "Anfar 1950",
+        "slug": "Anfar-1950",
+        "url": "https://www.fragrantica.com/designers/Anfar-1950.html",
+        "mentions": 1
+      },
+      {
+        "name": "Anfas",
+        "slug": "Anfas",
+        "url": "https://www.fragrantica.com/designers/Anfas.html",
+        "mentions": 1
+      },
+      {
+        "name": "Arabesque Perfumes",
+        "slug": "Arabesque-Perfumes",
+        "url": "https://www.fragrantica.com/designers/Arabesque-Perfumes.html",
+        "mentions": 1
+      },
+      {
+        "name": "Arabiyat Prestige",
+        "slug": "Arabiyat-Prestige",
+        "url": "https://www.fragrantica.com/designers/Arabiyat-Prestige.html",
+        "mentions": 1
+      },
+      {
+        "name": "Arabiyat Sugar",
+        "slug": "Arabiyat-Sugar",
+        "url": "https://www.fragrantica.com/designers/Arabiyat-Sugar.html",
+        "mentions": 1
+      },
+      {
+        "name": "Ard Al Zaafaran",
+        "slug": "Ard-Al-Zaafaran",
+        "url": "https://www.fragrantica.com/designers/Ard-Al-Zaafaran.html",
+        "mentions": 1
+      },
+      {
+        "name": "Aromatix X French Avenue",
+        "slug": "Aromatix-X-French-Avenue",
+        "url": "https://www.fragrantica.com/designers/Aromatix-X-French-Avenue.html",
+        "mentions": 1
+      },
+      {
+        "name": "Asdaaf",
+        "slug": "Asdaaf",
+        "url": "https://www.fragrantica.com/designers/Asdaaf.html",
+        "mentions": 1
+      },
+      {
+        "name": "Atralia",
+        "slug": "Atralia",
+        "url": "https://www.fragrantica.com/designers/Atralia.html",
+        "mentions": 1
+      },
+      {
+        "name": "Attar Collection",
+        "slug": "Attar-Collection",
+        "url": "https://www.fragrantica.com/designers/Attar-Collection.html",
+        "mentions": 1
+      },
+      {
+        "name": "Aurora Scents",
+        "slug": "Aurora-Scents",
+        "url": "https://www.fragrantica.com/designers/Aurora-Scents.html",
+        "mentions": 1
+      },
+      {
+        "name": "Azman",
+        "slug": "Azman",
+        "url": "https://www.fragrantica.com/designers/Azman.html",
+        "mentions": 1
+      },
+      {
+        "name": "Borouj",
+        "slug": "Borouj",
+        "url": "https://www.fragrantica.com/designers/Borouj.html",
+        "mentions": 1
+      },
+      {
+        "name": "Dumont",
+        "slug": "Dumont",
+        "url": "https://www.fragrantica.com/designers/Dumont.html",
+        "mentions": 1
+      },
+      {
+        "name": "Emirates Pride Perfumes",
+        "slug": "Emirates-Pride-Perfumes",
+        "url": "https://www.fragrantica.com/designers/Emirates-Pride-Perfumes.html",
+        "mentions": 1
+      },
+      {
+        "name": "Emper",
+        "slug": "Emper",
+        "url": "https://www.fragrantica.com/designers/Emper.html",
+        "mentions": 1
+      },
+      {
+        "name": "Flavia",
+        "slug": "Flavia",
+        "url": "https://www.fragrantica.com/designers/Flavia.html",
+        "mentions": 1
+      },
+      {
+        "name": "FOMO",
+        "slug": "FOMO",
+        "url": "https://www.fragrantica.com/designers/FOMO.html",
+        "mentions": 1
+      },
+      {
+        "name": "Gulf Orchid",
+        "slug": "Gulf-Orchid",
+        "url": "https://www.fragrantica.com/designers/Gulf-Orchid.html",
+        "mentions": 1
+      },
+      {
+        "name": "Hekayat Attar",
+        "slug": "Hekayat-Attar",
+        "url": "https://www.fragrantica.com/designers/Hekayat-Attar.html",
+        "mentions": 1
+      },
+      {
+        "name": "Kajal",
+        "slug": "Kajal",
+        "url": "https://www.fragrantica.com/designers/Kajal.html",
+        "mentions": 1
+      },
+      {
+        "name": "Khalis",
+        "slug": "Khalis",
+        "url": "https://www.fragrantica.com/designers/Khalis.html",
+        "mentions": 1
+      },
+      {
+        "name": "Le Chameau",
+        "slug": "Le-Chameau",
+        "url": "https://www.fragrantica.com/designers/Le-Chameau.html",
+        "mentions": 1
+      },
+      {
+        "name": "Le Falconé Perfumes",
+        "slug": "Le-Falcone-Perfumes",
+        "url": "https://www.fragrantica.com/designers/Le-Falcone-Perfumes.html",
+        "mentions": 1
+      },
+      {
+        "name": "Louis Cardin",
+        "slug": "Louis-Cardin",
+        "url": "https://www.fragrantica.com/designers/Louis-Cardin.html",
+        "mentions": 1
+      },
+      {
+        "name": "MAISON ASRAR",
+        "slug": "MAISON-ASRAR",
+        "url": "https://www.fragrantica.com/designers/MAISON-ASRAR.html",
+        "mentions": 1
+      },
+      {
+        "name": "Matin Martin",
+        "slug": "Matin-Martin",
+        "url": "https://www.fragrantica.com/designers/Matin-Martin.html",
+        "mentions": 1
+      },
+      {
+        "name": "Milestone Perfumes",
+        "slug": "Milestone-Perfumes",
+        "url": "https://www.fragrantica.com/designers/Milestone-Perfumes.html",
+        "mentions": 1
+      },
+      {
+        "name": "Nabeel",
+        "slug": "Nabeel",
+        "url": "https://www.fragrantica.com/designers/Nabeel.html",
+        "mentions": 1
+      },
+      {
+        "name": "Navitus Parfums",
+        "slug": "Navitus-Parfums",
+        "url": "https://www.fragrantica.com/designers/Navitus-Parfums.html",
+        "mentions": 1
+      },
+      {
+        "name": "Nusuk",
+        "slug": "Nusuk",
+        "url": "https://www.fragrantica.com/designers/Nusuk.html",
+        "mentions": 1
+      },
+      {
+        "name": "Orientica",
+        "slug": "Orientica",
+        "url": "https://www.fragrantica.com/designers/Orientica.html",
+        "mentions": 1
+      }
+    ],
+    "Saudi Arabia": [
+      {
+        "name": "Designers",
+        "slug": "",
+        "url": "https://www.fragrantica.com/designers/",
+        "mentions": 2
+      },
+      {
+        "name": "Abdul Samad Al Qurashi",
+        "slug": "Abdul-Samad-Al-Qurashi",
+        "url": "https://www.fragrantica.com/designers/Abdul-Samad-Al-Qurashi.html",
+        "mentions": 1
+      },
+      {
+        "name": "Al Majed Oud",
+        "slug": "Al-Majed-Oud",
+        "url": "https://www.fragrantica.com/designers/Al-Majed-Oud.html",
+        "mentions": 1
+      },
+      {
+        "name": "Al Musbah",
+        "slug": "Al-Musbah",
+        "url": "https://www.fragrantica.com/designers/Al-Musbah.html",
+        "mentions": 1
+      },
+      {
+        "name": "Alezz Oud",
+        "slug": "Alezz-Oud",
+        "url": "https://www.fragrantica.com/designers/Alezz-Oud.html",
+        "mentions": 1
+      },
+      {
+        "name": "ALREHAB PERFUMES",
+        "slug": "ALREHAB-PERFUMES",
+        "url": "https://www.fragrantica.com/designers/ALREHAB-PERFUMES.html",
+        "mentions": 1
+      },
+      {
+        "name": "Arabian Oud",
+        "slug": "Arabian-Oud",
+        "url": "https://www.fragrantica.com/designers/Arabian-Oud.html",
+        "mentions": 1
+      },
+      {
+        "name": "Assaf",
+        "slug": "Assaf",
+        "url": "https://www.fragrantica.com/designers/Assaf.html",
+        "mentions": 1
+      },
+      {
+        "name": "Ghalati",
+        "slug": "Ghalati",
+        "url": "https://www.fragrantica.com/designers/Ghalati.html",
+        "mentions": 1
+      },
+      {
+        "name": "Ibraheem AlQurashi",
+        "slug": "Ibraheem-AlQurashi",
+        "url": "https://www.fragrantica.com/designers/Ibraheem-AlQurashi.html",
+        "mentions": 1
+      },
+      {
+        "name": "Ibrahim Al Qurashi",
+        "slug": "Ibrahim-Al-Qurashi",
+        "url": "https://www.fragrantica.com/designers/Ibrahim-Al-Qurashi.html",
+        "mentions": 1
+      },
+      {
+        "name": "Laverne",
+        "slug": "Laverne",
+        "url": "https://www.fragrantica.com/designers/Laverne.html",
+        "mentions": 1
+      },
+      {
+        "name": "Le Bonheur Perfumes",
+        "slug": "Le-Bonheur-Perfumes",
+        "url": "https://www.fragrantica.com/designers/Le-Bonheur-Perfumes.html",
+        "mentions": 1
+      },
+      {
+        "name": "Majid Muzaffar Iterji",
+        "slug": "Majid-Muzaffar-Iterji",
+        "url": "https://www.fragrantica.com/designers/Majid-Muzaffar-Iterji.html",
+        "mentions": 1
+      },
+      {
+        "name": "Ô Médina Perfumery",
+        "slug": "O-Medina-Perfumery",
+        "url": "https://www.fragrantica.com/designers/O-Medina-Perfumery.html",
+        "mentions": 1
+      },
+      {
+        "name": "Reef Perfumes",
+        "slug": "Reef-Perfumes",
+        "url": "https://www.fragrantica.com/designers/Reef-Perfumes.html",
+        "mentions": 1
+      },
+      {
+        "name": "Al Qasim Oud",
+        "slug": "Al-Qasim-Oud",
+        "url": "https://www.fragrantica.com/designers/Al-Qasim-Oud.html",
+        "mentions": 1
+      },
+      {
+        "name": "Aldakheel Oud",
+        "slug": "Aldakheel-Oud",
+        "url": "https://www.fragrantica.com/designers/Aldakheel-Oud.html",
+        "mentions": 1
+      },
+      {
+        "name": "Alrehab Oriental",
+        "slug": "Alrehab-Oriental",
+        "url": "https://www.fragrantica.com/designers/Alrehab-Oriental.html",
+        "mentions": 1
+      },
+      {
+        "name": "Amer Perfumes",
+        "slug": "Amer-Perfumes",
+        "url": "https://www.fragrantica.com/designers/Amer-Perfumes.html",
+        "mentions": 1
+      },
+      {
+        "name": "Aromatic Families",
+        "slug": "Aromatic-Families",
+        "url": "https://www.fragrantica.com/designers/Aromatic-Families.html",
+        "mentions": 1
+      },
+      {
+        "name": "Badr Harqan",
+        "slug": "Badr-Harqan",
+        "url": "https://www.fragrantica.com/designers/Badr-Harqan.html",
+        "mentions": 1
+      },
+      {
+        "name": "Bana",
+        "slug": "Bana",
+        "url": "https://www.fragrantica.com/designers/Bana.html",
+        "mentions": 1
+      },
+      {
+        "name": "Banafa for Oud",
+        "slug": "Banafa-for-Oud",
+        "url": "https://www.fragrantica.com/designers/Banafa-for-Oud.html",
+        "mentions": 1
+      },
+      {
+        "name": "Batlah",
+        "slug": "Batlah",
+        "url": "https://www.fragrantica.com/designers/Batlah.html",
+        "mentions": 1
+      },
+      {
+        "name": "Beija Fine Perfumes",
+        "slug": "Beija-Fine-Perfumes",
+        "url": "https://www.fragrantica.com/designers/Beija-Fine-Perfumes.html",
+        "mentions": 1
+      },
+      {
+        "name": "Cage",
+        "slug": "Cage",
+        "url": "https://www.fragrantica.com/designers/Cage.html",
+        "mentions": 1
+      },
+      {
+        "name": "CALIFAH",
+        "slug": "CALIFAH",
+        "url": "https://www.fragrantica.com/designers/CALIFAH.html",
+        "mentions": 1
+      },
+      {
+        "name": "Caravana Luxury",
+        "slug": "Caravana-Luxury",
+        "url": "https://www.fragrantica.com/designers/Caravana-Luxury.html",
+        "mentions": 1
+      },
+      {
+        "name": "CLASSIC BLEND",
+        "slug": "CLASSIC-BLEND",
+        "url": "https://www.fragrantica.com/designers/CLASSIC-BLEND.html",
+        "mentions": 1
+      },
+      {
+        "name": "Del Río",
+        "slug": "Del-Rio",
+        "url": "https://www.fragrantica.com/designers/Del-Rio.html",
+        "mentions": 1
+      },
+      {
+        "name": "Deraah Private",
+        "slug": "Deraah-Private",
+        "url": "https://www.fragrantica.com/designers/Deraah-Private.html",
+        "mentions": 1
+      },
+      {
+        "name": "Elixir",
+        "slug": "Elixir",
+        "url": "https://www.fragrantica.com/designers/Elixir.html",
+        "mentions": 1
+      },
+      {
+        "name": "Elysium",
+        "slug": "Elysium",
+        "url": "https://www.fragrantica.com/designers/Elysium.html",
+        "mentions": 1
+      },
+      {
+        "name": "Essence Ethics",
+        "slug": "Essence-Ethics",
+        "url": "https://www.fragrantica.com/designers/Essence-Ethics.html",
+        "mentions": 1
+      },
+      {
+        "name": "Essence جوهر",
+        "slug": "Essence-jwhr",
+        "url": "https://www.fragrantica.com/designers/Essence-jwhr.html",
+        "mentions": 1
+      },
+      {
+        "name": "Gingle",
+        "slug": "Gingle",
+        "url": "https://www.fragrantica.com/designers/Gingle.html",
+        "mentions": 1
+      },
+      {
+        "name": "Givago",
+        "slug": "Givago",
+        "url": "https://www.fragrantica.com/designers/Givago.html",
+        "mentions": 1
+      },
+      {
+        "name": "Golan",
+        "slug": "Golan",
+        "url": "https://www.fragrantica.com/designers/Golan.html",
+        "mentions": 1
+      },
+      {
+        "name": "H2O",
+        "slug": "H2O",
+        "url": "https://www.fragrantica.com/designers/H2O.html",
+        "mentions": 1
+      },
+      {
+        "name": "House of Sal",
+        "slug": "House-of-Sal",
+        "url": "https://www.fragrantica.com/designers/House-of-Sal.html",
+        "mentions": 1
+      },
+      {
+        "name": "Ibrahim Fuhaid",
+        "slug": "Ibrahim-Fuhaid",
+        "url": "https://www.fragrantica.com/designers/Ibrahim-Fuhaid.html",
+        "mentions": 1
+      },
+      {
+        "name": "Jaddid",
+        "slug": "Jaddid",
+        "url": "https://www.fragrantica.com/designers/Jaddid.html",
+        "mentions": 1
+      },
+      {
+        "name": "Khamael",
+        "slug": "Khamael",
+        "url": "https://www.fragrantica.com/designers/Khamael.html",
+        "mentions": 1
+      },
+      {
+        "name": "La Beauté de L’amour",
+        "slug": "La-Beaute-de-L-amour",
+        "url": "https://www.fragrantica.com/designers/La-Beaute-de-L-amour.html",
+        "mentions": 1
+      },
+      {
+        "name": "LANSY",
+        "slug": "LANSY",
+        "url": "https://www.fragrantica.com/designers/LANSY.html",
+        "mentions": 1
+      },
+      {
+        "name": "LINK",
+        "slug": "LINK",
+        "url": "https://www.fragrantica.com/designers/LINK.html",
+        "mentions": 1
+      },
+      {
+        "name": "Lusso Maasa",
+        "slug": "Lusso-Maasa",
+        "url": "https://www.fragrantica.com/designers/Lusso-Maasa.html",
+        "mentions": 1
+      },
+      {
+        "name": "MAIOS",
+        "slug": "MAIOS",
+        "url": "https://www.fragrantica.com/designers/MAIOS.html",
+        "mentions": 1
+      },
+      {
+        "name": "Maison d'Orient",
+        "slug": "Maison-d-Orient",
+        "url": "https://www.fragrantica.com/designers/Maison-d-Orient.html",
+        "mentions": 1
+      }
+    ]
+  }
+}
