@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html lang="en" class="dark scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>All Products — BrotherScents</title>
+    <link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#050505">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js"></script>
+    <script src="/js/supabase.js"></script>
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    fontFamily: { sans: ['Inter', 'sans-serif'] },
+                    colors: {
+                        purple: { 400:'#c084fc', 500:'#a855f7', 600:'#9333ea', 700:'#7e22ce', 900:'#3b0764' },
+                        indigo: { 950:'#1e1b4b' },
+                        gold:   { 400:'#facc15', 500:'#eab308' }
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Inter', sans-serif; background: #050505; color: #fff; min-height: 100vh; overflow-x: hidden; }
+        ::-webkit-scrollbar { width: 6px; }
+        ::-webkit-scrollbar-thumb { background: #3b0764; border-radius: 3px; }
+
+        .card-bg {
+            background: linear-gradient(180deg, rgba(255,255,255,0.04) 0%, rgba(255,255,255,0.01) 100%);
+            border: 1px solid rgba(255,255,255,0.06);
+        }
+        .glass-panel {
+            background: rgba(255,255,255,0.04);
+            backdrop-filter: blur(12px);
+            border: 1px solid rgba(255,255,255,0.08);
+        }
+        .gradient-text {
+            background: linear-gradient(to right, #e9d5ff, #a855f7, #6366f1);
+            -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;
+        }
+        .gradient-text-gold {
+            background: linear-gradient(to right, #fde68a, #f59e0b, #d97706);
+            -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;
+        }
+
+        /* Product card */
+        .product-card { transition: all 0.3s ease; }
+        .product-card:hover { transform: translateY(-6px); border-color: rgba(168,85,247,0.3); }
+        .product-card:hover .product-img { transform: scale(1.05); }
+        .product-img { transition: transform 0.5s ease; position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+
+        /* Filter pill active */
+        .filter-pill { transition: all 0.2s ease; cursor: pointer; }
+        .filter-pill.active { background: #9333ea; color: #fff; border-color: #9333ea; }
+        .filter-pill:not(.active):hover { border-color: rgba(168,85,247,0.5); color: #c084fc; }
+
+        /* Search */
+        .search-input:focus { outline: none; border-color: rgba(168,85,247,0.6); }
+
+        /* Out of stock overlay */
+        .oos-overlay {
+            position: absolute; inset: 0;
+            background: rgba(5,5,5,0.7);
+            display: flex; align-items: center; justify-content: center;
+            z-index: 2;
+        }
+
+        /* Skeleton */
+        @keyframes shimmer { 0%{background-position:-200% 0} 100%{background-position:200% 0} }
+        .skeleton {
+            background: linear-gradient(90deg, rgba(255,255,255,0.03) 25%, rgba(255,255,255,0.07) 50%, rgba(255,255,255,0.03) 75%);
+            background-size: 200% 100%;
+            animation: shimmer 1.5s infinite;
+        }
+
+        /* Select styling */
+        select { appearance: none; background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%23666' stroke-width='2'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E"); background-repeat: no-repeat; background-position: right 10px center; }
+        select option { background: #111; }
+
+        /* Badge */
+        .badge-oos { background: rgba(239,68,68,0.15); color: #f87171; border: 1px solid rgba(239,68,68,0.25); }
+        .badge-gros { background: linear-gradient(135deg,rgba(168,85,247,0.2),rgba(99,102,241,0.2)); color: #c084fc; border: 1px solid rgba(168,85,247,0.25); }
+    </style>
+</head>
+<body>
+
+<!-- Nav -->
+<nav class="sticky top-0 z-50 px-4 py-4" style="background:rgba(5,5,5,0.92);backdrop-filter:blur(20px);border-bottom:1px solid rgba(255,255,255,0.05)">
+    <div class="max-w-7xl mx-auto flex items-center justify-between gap-4">
+        <a href="/" class="flex items-center gap-2.5 shrink-0">
+            <div class="w-8 h-8 rounded-lg bg-gradient-to-br from-purple-500 to-indigo-500 flex items-center justify-center">
+                <iconify-icon icon="lucide:droplets" width="16" class="text-white"></iconify-icon>
+            </div>
+            <span class="font-semibold text-white text-sm">BrotherScents</span>
+        </a>
+
+        <!-- Inline search on desktop -->
+        <div class="hidden md:flex flex-1 max-w-md relative">
+            <iconify-icon icon="lucide:search" width="15" class="absolute left-3 top-1/2 -translate-y-1/2 text-gray-500 pointer-events-none"></iconify-icon>
+            <input id="searchNav" type="text" placeholder="Search fragrances, brands…"
+                class="search-input w-full bg-white/5 border border-white/8 rounded-xl pl-9 pr-4 py-2 text-sm text-gray-200 placeholder-gray-600 transition-colors"
+                oninput="onSearch(this.value)">
+        </div>
+
+        <div class="flex items-center gap-3">
+            <button id="authBtn" onclick="openAuthModal()" class="text-sm px-4 py-2 rounded-xl bg-purple-600 hover:bg-purple-500 transition-colors font-medium">Sign In</button>
+        </div>
+    </div>
+</nav>
+
+<!-- Page header -->
+<header class="py-12 px-4 text-center relative overflow-hidden">
+    <div class="absolute inset-0 pointer-events-none" style="background:radial-gradient(ellipse 50% 60% at 50% 0%,rgba(168,85,247,0.1) 0%,transparent 70%)"></div>
+    <div class="relative z-10">
+        <p class="text-xs font-semibold uppercase tracking-widest text-purple-400 mb-3">Catalogue</p>
+        <h1 class="text-3xl md:text-5xl font-semibold tracking-tight mb-2">
+            All <span class="gradient-text">Products</span>
+        </h1>
+        <p id="count-label" class="text-gray-500 text-sm mt-2">Loading…</p>
+    </div>
+</header>
+
+<!-- ── FILTERS ── -->
+<div class="sticky top-[65px] z-40 px-4 py-3" style="background:rgba(5,5,5,0.92);backdrop-filter:blur(16px);border-bottom:1px solid rgba(255,255,255,0.04)">
+    <div class="max-w-7xl mx-auto space-y-3">
+
+        <!-- Row 1: Search (mobile) + sort + stock toggle -->
+        <div class="flex flex-wrap items-center gap-2">
+            <!-- Mobile search -->
+            <div class="md:hidden flex-1 min-w-[160px] relative">
+                <iconify-icon icon="lucide:search" width="14" class="absolute left-3 top-1/2 -translate-y-1/2 text-gray-500 pointer-events-none"></iconify-icon>
+                <input id="searchMobile" type="text" placeholder="Search…"
+                    class="search-input w-full bg-white/5 border border-white/8 rounded-xl pl-8 pr-3 py-2 text-sm text-gray-200 placeholder-gray-600"
+                    oninput="onSearch(this.value)">
+            </div>
+
+            <!-- Brand select -->
+            <select id="brandFilter" onchange="applyFilters()"
+                class="search-input bg-white/5 border border-white/8 rounded-xl px-3 pr-8 py-2 text-sm text-gray-300 transition-colors min-w-[140px]">
+                <option value="">All Brands</option>
+            </select>
+
+            <!-- Sort -->
+            <select id="sortSelect" onchange="applyFilters()"
+                class="search-input bg-white/5 border border-white/8 rounded-xl px-3 pr-8 py-2 text-sm text-gray-300 transition-colors">
+                <option value="newest">Newest</option>
+                <option value="az">A → Z</option>
+                <option value="price_asc">Price ↑</option>
+                <option value="price_desc">Price ↓</option>
+                <option value="brand">By Brand</option>
+            </select>
+
+            <!-- Stock toggle -->
+            <label class="flex items-center gap-2 text-sm text-gray-400 cursor-pointer select-none ml-auto">
+                <span>Show out of stock</span>
+                <div class="relative">
+                    <input id="oosToggle" type="checkbox" class="sr-only" onchange="applyFilters()" checked>
+                    <div class="toggle-track w-10 h-5 rounded-full transition-colors" style="background:rgba(168,85,247,0.3)"></div>
+                    <div class="toggle-thumb absolute top-0.5 left-0.5 w-4 h-4 rounded-full bg-purple-400 transition-transform"></div>
+                </div>
+            </label>
+
+            <!-- Result count -->
+            <span id="result-count" class="text-xs text-gray-600 shrink-0"></span>
+        </div>
+
+        <!-- Row 2: Category pills -->
+        <div class="flex flex-wrap gap-2">
+            <button data-cat="all"      class="filter-pill active text-xs font-medium px-4 py-1.5 rounded-full border border-white/10">All</button>
+            <button data-cat="oriental" class="filter-pill text-xs font-medium px-4 py-1.5 rounded-full border border-white/10 text-gray-400">Oriental</button>
+            <button data-cat="homme"    class="filter-pill text-xs font-medium px-4 py-1.5 rounded-full border border-white/10 text-gray-400">Homme</button>
+            <button data-cat="femme"    class="filter-pill text-xs font-medium px-4 py-1.5 rounded-full border border-white/10 text-gray-400">Femme</button>
+            <button data-cat="unisexe"  class="filter-pill text-xs font-medium px-4 py-1.5 rounded-full border border-white/10 text-gray-400">Unisexe</button>
+        </div>
+    </div>
+</div>
+
+<!-- Product grid -->
+<main class="max-w-7xl mx-auto px-4 py-10 pb-24">
+    <div id="productsGrid" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-4">
+        <!-- skeletons -->
+        <div class="skeleton rounded-2xl aspect-[3/4]"></div>
+        <div class="skeleton rounded-2xl aspect-[3/4]"></div>
+        <div class="skeleton rounded-2xl aspect-[3/4]"></div>
+        <div class="skeleton rounded-2xl aspect-[3/4]"></div>
+        <div class="skeleton rounded-2xl aspect-[3/4]"></div>
+        <div class="skeleton rounded-2xl aspect-[3/4]"></div>
+    </div>
+    <p id="emptyMsg" class="hidden text-center text-gray-500 py-24 text-sm">No products match your filters.</p>
+
+    <!-- Load more -->
+    <div class="text-center mt-10">
+        <button id="loadMoreBtn" onclick="loadMore()" class="hidden px-8 py-3 rounded-xl border border-purple-500/40 text-purple-400 hover:bg-purple-500/10 transition-colors text-sm font-medium">
+            Load more
+        </button>
+    </div>
+</main>
+
+<!-- Auth modal (minimal) -->
+<div id="authModal" class="hidden fixed inset-0 z-50 flex items-center justify-center p-4" style="background:rgba(0,0,0,0.8);backdrop-filter:blur(8px)">
+    <div class="card-bg rounded-2xl p-6 w-full max-w-sm">
+        <div class="flex items-center justify-between mb-6">
+            <h3 class="font-semibold">Sign In</h3>
+            <button onclick="closeAuthModal()" class="text-gray-500 hover:text-white transition-colors">✕</button>
+        </div>
+        <form onsubmit="handleLogin(event)" class="space-y-4">
+            <input id="loginEmail" type="email" placeholder="Email" required
+                class="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 text-sm placeholder-gray-600 focus:outline-none focus:border-purple-500/60">
+            <input id="loginPassword" type="password" placeholder="Password" required
+                class="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 text-sm placeholder-gray-600 focus:outline-none focus:border-purple-500/60">
+            <button type="submit" class="w-full bg-purple-600 hover:bg-purple-500 rounded-xl py-3 text-sm font-medium transition-colors">Sign In</button>
+        </form>
+    </div>
+</div>
+
+<style>
+#oosToggle:checked ~ .toggle-track { background: rgba(168,85,247,0.6); }
+#oosToggle:checked ~ .toggle-thumb { transform: translateX(20px); }
+.toggle-thumb { transition: transform 0.2s ease; }
+</style>
+
+<script>
+// ── State ──
+let allProducts = [];
+let currentUser = null;
+let activeCat   = 'all';
+let searchQuery = '';
+let visibleCount = 24;
+const PAGE_SIZE  = 24;
+
+// ── Auth ──
+SB.onAuthChange((_, session) => {
+    currentUser = session?.user || null;
+    document.getElementById('authBtn').textContent = currentUser ? 'Sign Out' : 'Sign In';
+    document.getElementById('authBtn').onclick     = currentUser ? () => SB.signOut() : openAuthModal;
+    renderGrid();
+});
+
+function openAuthModal()  { document.getElementById('authModal').classList.remove('hidden'); }
+function closeAuthModal() { document.getElementById('authModal').classList.add('hidden'); }
+async function handleLogin(e) {
+    e.preventDefault();
+    try {
+        await SB.signIn(document.getElementById('loginEmail').value, document.getElementById('loginPassword').value);
+        closeAuthModal();
+    } catch (err) { alert(err.message); }
+}
+
+// ── Load all products ──
+async function init() {
+    const { data, error } = await supabase
+        .createClient('https://lumhgprmkwjsbpvgckeq.supabase.co',
+            'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imx1bWhncHJta3dqc2Jwdmdja2VxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODQ1MzM2OTYsImV4cCI6MjEwMDEwOTY5Nn0.bb9nwmRtNK3AL70xBAYfh3MF3pjgDKZtK4vzHYATZuU')
+        .from('products')
+        .select('*')
+        .eq('active', true)
+        .order('created_at', { ascending: false });
+
+    if (error) { console.error(error); return; }
+
+    allProducts = data || [];
+
+    // Populate brand dropdown
+    const brands = [...new Set(allProducts.map(p => p.brand).filter(Boolean))].sort();
+    const sel = document.getElementById('brandFilter');
+    brands.forEach(b => {
+        const o = document.createElement('option');
+        o.value = b; o.textContent = b;
+        sel.appendChild(o);
+    });
+
+    document.getElementById('count-label').textContent =
+        `${allProducts.length} fragrances from UAE & Saudi Arabia`;
+
+    applyFilters();
+}
+
+// ── Filter + sort + render pipeline ──
+function filtered() {
+    const brand   = document.getElementById('brandFilter').value;
+    const sort    = document.getElementById('sortSelect').value;
+    const showOos = document.getElementById('oosToggle').checked;
+    const q       = searchQuery.toLowerCase();
+
+    let list = allProducts.filter(p => {
+        if (activeCat !== 'all' && p.category_slug !== activeCat) return false;
+        if (brand && p.brand !== brand) return false;
+        if (!showOos && (p.stock === 0 || p.price_gros === 0)) return false;
+        if (q && !p.name?.toLowerCase().includes(q) && !p.brand?.toLowerCase().includes(q)) return false;
+        return true;
+    });
+
+    list.sort((a, b) => {
+        if (sort === 'az')         return (a.name||'').localeCompare(b.name||'');
+        if (sort === 'price_asc')  return (a.price_gros||0) - (b.price_gros||0);
+        if (sort === 'price_desc') return (b.price_gros||0) - (a.price_gros||0);
+        if (sort === 'brand')      return (a.brand||'').localeCompare(b.brand||'');
+        return 0; // newest — already ordered by created_at from server
+    });
+
+    return list;
+}
+
+function applyFilters() {
+    visibleCount = PAGE_SIZE;
+    renderGrid();
+}
+
+function onSearch(val) {
+    searchQuery = val;
+    // sync both search inputs
+    document.getElementById('searchNav').value    = val;
+    document.getElementById('searchMobile').value = val;
+    applyFilters();
+}
+
+function loadMore() {
+    visibleCount += PAGE_SIZE;
+    renderGrid();
+}
+
+function formatDZD(n) {
+    return n ? n.toLocaleString('fr-DZ') + ' DA' : null;
+}
+
+function renderGrid() {
+    const list  = filtered();
+    const visible = list.slice(0, visibleCount);
+    const grid    = document.getElementById('productsGrid');
+    const empty   = document.getElementById('emptyMsg');
+    const lmBtn   = document.getElementById('loadMoreBtn');
+
+    document.getElementById('result-count').textContent =
+        list.length !== allProducts.length ? `${list.length} results` : '';
+
+    if (!visible.length) {
+        grid.innerHTML = '';
+        empty.classList.remove('hidden');
+        lmBtn.classList.add('hidden');
+        return;
+    }
+    empty.classList.add('hidden');
+
+    const isOos = p => !p.stock || p.stock === 0 || !p.price_gros || p.price_gros === 0;
+
+    grid.innerHTML = visible.map(p => {
+        const oos = isOos(p);
+        return `
+        <div class="product-card card-bg rounded-2xl overflow-hidden">
+            <div class="relative aspect-[3/4] bg-[#0d0d1a]">
+                <!-- Placeholder -->
+                <div class="absolute inset-0 flex flex-col items-center justify-center gap-1.5"
+                     style="background:linear-gradient(145deg,#0d0d1a,#090912)">
+                    <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="rgba(168,85,247,0.15)" stroke-width="1.2">
+                        <path d="M12 2C6 2 4 7 4 12s2 10 8 10 8-5 8-10S18 2 12 2z"/>
+                        <path d="M12 6v2M12 16v2M8 12H6M18 12h-2"/>
+                    </svg>
+                </div>
+                ${p.img ? `<img src="${p.img}" alt="${p.name}" class="product-img" loading="lazy" onerror="this.style.opacity='0'">` : ''}
+                <div class="absolute inset-0 bg-gradient-to-t from-[#050505] via-transparent to-transparent pointer-events-none"></div>
+
+                ${oos ? `<div class="oos-overlay"><span class="text-[10px] font-bold uppercase tracking-wider px-3 py-1 rounded-full badge-oos">Out of Stock</span></div>` : ''}
+                ${p.badge ? `<span class="absolute top-2 left-2 text-[9px] font-bold uppercase tracking-wider px-2 py-0.5 rounded-full badge-gros z-10">${p.badge}</span>` : ''}
+                <span class="absolute top-2 right-2 text-[9px] font-medium glass-panel px-2 py-0.5 rounded-lg z-10">${p.size || '100ml'}</span>
+            </div>
+            <div class="p-3">
+                <p class="text-[9px] text-purple-400 font-semibold uppercase tracking-wider mb-0.5 truncate">${p.brand || ''}</p>
+                <h3 class="text-xs font-medium leading-tight mb-2 line-clamp-2">${p.name}</h3>
+                ${currentUser && !oos
+                    ? `<div class="text-[10px] text-gray-600 line-through">${formatDZD(p.price_retail) || ''}</div>
+                       <div class="text-xs font-semibold gradient-text-gold">${formatDZD(p.price_gros)}<span class="text-[9px] text-gray-500 font-normal ml-1">/pc</span></div>`
+                    : oos
+                        ? `<p class="text-[10px] text-gray-600">Contact us to order</p>`
+                        : `<button onclick="openAuthModal()" class="text-[10px] text-purple-400 hover:text-purple-300 transition-colors">🔒 Sign in for price</button>`
+                }
+            </div>
+        </div>`;
+    }).join('');
+
+    lmBtn.classList.toggle('hidden', visible.length >= list.length);
+}
+
+// ── Category pills ──
+document.querySelectorAll('.filter-pill').forEach(btn => {
+    btn.addEventListener('click', () => {
+        document.querySelectorAll('.filter-pill').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        activeCat = btn.dataset.cat;
+        applyFilters();
+    });
+});
+
+init();
+</script>
+</body>
+</html>

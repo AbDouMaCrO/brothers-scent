@@ -202,9 +202,21 @@ async function uploadToSupabase(results, allBrands) {
     }
   }
 
-  if (!productRows.length) { console.log('No product rows to upsert'); return; }
+  // Deduplicate on (name, brand, size) — same fragrance can appear across multiple countries
+  const seen = new Map();
+  for (const r of productRows) {
+    const key = `${r.name}|${r.brand}|${r.size}`;
+    if (!seen.has(key)) seen.set(key, r);
+  }
+  const deduped = [...seen.values()];
 
-  console.log(`\n⬆️  Upserting ${productRows.length} products…`);
+  if (!deduped.length) { console.log('No product rows to upsert'); return; }
+
+  console.log(`\n⬆️  Upserting ${deduped.length} products (${productRows.length - deduped.length} dupes removed)…`);
+  const productRows_orig = productRows; // keep reference
+  // replace productRows with deduped for the loop below
+  productRows.length = 0;
+  deduped.forEach(r => productRows.push(r));
   const BATCH = 50;
   let upserted = 0;
   for (let i = 0; i < productRows.length; i += BATCH) {
