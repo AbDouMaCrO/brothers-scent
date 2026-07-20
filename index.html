@@ -601,6 +601,39 @@
     </div>
 </section>
 
+<!-- Trending Brands -->
+<section id="trending-brands" class="py-24 px-4 relative overflow-hidden">
+    <div class="absolute inset-0 bg-gradient-to-b from-transparent via-purple-900/5 to-transparent pointer-events-none"></div>
+    <div class="max-w-7xl mx-auto relative z-10">
+        <div class="text-center mb-12 reveal">
+            <span class="text-xs font-semibold uppercase tracking-widest text-purple-400 mb-4 block">Fragrantica Data</span>
+            <h2 class="text-3xl md:text-5xl font-semibold tracking-tight mb-4">
+                Trending <span class="gradient-text">Brands</span>
+            </h2>
+            <p class="text-gray-400 max-w-xl mx-auto text-sm">Top brands searched in the Gulf region — updated weekly from Fragrantica.</p>
+        </div>
+
+        <!-- Country tabs -->
+        <div class="flex justify-center gap-3 mb-10">
+            <button id="tab-uae" onclick="showBrandsTab('UAE')"
+                class="px-6 py-2 rounded-full text-sm font-medium transition-all bg-purple-600 text-white">
+                🇦🇪 UAE
+            </button>
+            <button id="tab-saudi" onclick="showBrandsTab('Saudi Arabia')"
+                class="px-6 py-2 rounded-full text-sm font-medium transition-all card-bg text-gray-400 hover:text-white">
+                🇸🇦 Saudi Arabia
+            </button>
+        </div>
+
+        <!-- Brands grid -->
+        <div id="brands-grid" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-3">
+            <!-- filled by JS -->
+        </div>
+
+        <p id="brands-meta" class="text-center text-[10px] text-gray-600 mt-8"></p>
+    </div>
+</section>
+
 <!-- Testimonials -->
 <section id="temoignages" class="py-24 px-4 relative">
     <div class="max-w-7xl mx-auto">
@@ -1485,6 +1518,48 @@ document.querySelectorAll('.magnetic-btn').forEach(btn => {
         btn.style.transform = '';
     });
 });
+
+// ==================== TRENDING BRANDS ====================
+let brandsData = {};
+let activeCountry = 'UAE';
+
+async function loadBrands() {
+    try {
+        const res = await fetch('/scraper/output/brands.json');
+        if (!res.ok) return;
+        const json = await res.json();
+        brandsData = json.data || {};
+        showBrandsTab('UAE');
+        const date = new Date(json.scraped_at).toLocaleDateString('en-GB', { day:'numeric', month:'short', year:'numeric' });
+        document.getElementById('brands-meta').textContent = `Last updated: ${date}`;
+    } catch (_) {}
+}
+
+function showBrandsTab(country) {
+    activeCountry = country;
+    const brands = (brandsData[country] || []).filter(b => b.slug).slice(0, 20);
+    const grid = document.getElementById('brands-grid');
+
+    document.getElementById('tab-uae').className    = `px-6 py-2 rounded-full text-sm font-medium transition-all ${country === 'UAE'           ? 'bg-purple-600 text-white' : 'card-bg text-gray-400 hover:text-white'}`;
+    document.getElementById('tab-saudi').className  = `px-6 py-2 rounded-full text-sm font-medium transition-all ${country === 'Saudi Arabia'  ? 'bg-purple-600 text-white' : 'card-bg text-gray-400 hover:text-white'}`;
+
+    if (!brands.length) {
+        grid.innerHTML = '<p class="col-span-full text-center text-gray-500 text-sm">No data yet.</p>';
+        return;
+    }
+
+    grid.innerHTML = brands.map((b, i) => `
+        <a href="${b.url}" target="_blank" rel="noopener"
+           class="card-bg rounded-xl p-4 flex items-center gap-3 hover:border-purple-500/40 transition-all group reveal">
+            <span class="text-xs font-bold text-purple-500 w-5 shrink-0">${i + 1}</span>
+            <span class="text-sm font-medium text-gray-200 group-hover:text-white leading-tight">${b.name}</span>
+        </a>
+    `).join('');
+
+    observeReveals();
+}
+
+loadBrands();
 
 // ==================== INIT ====================
 init();
