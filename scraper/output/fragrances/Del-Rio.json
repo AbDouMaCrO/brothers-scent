@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-20T18:49:48.090Z",
+  "scraped_at": "2026-07-20T19:06:23.453Z",
   "brand_name": "Del Río",
   "brand_slug": "Del-Rio",
   "brand_url": "https://www.fragrantica.com/designers/Del-Rio.html",
@@ -47,30 +47,30 @@
       "votes": 0
     },
     {
-      "name": "Zara",
-      "url": "https://www.fragrantica.com/perfume/Zara/Acqua-della-Fontana-135160.html",
-      "img": "https://fimgs.net/mdimg/perfume-thumbs/m.135160.jpg",
+      "name": "Carolina Herrera",
+      "url": "https://www.fragrantica.com/perfume/Carolina-Herrera/Cedar-Chic-109989.html",
+      "img": "https://fimgs.net/mdimg/perfume-thumbs/m.109989.jpg",
       "rating": null,
       "votes": 0
     },
     {
-      "name": "Bargello",
-      "url": "https://www.fragrantica.com/perfume/Bargello/Fleur-De-Perle-132951.html",
-      "img": "https://fimgs.net/mdimg/perfume-thumbs/m.132951.jpg",
-      "rating": null,
-      "votes": 0
-    },
-    {
-      "name": "Yves Saint Laurent",
-      "url": "https://www.fragrantica.com/perfume/Yves-Saint-Laurent/MYSLF-L-Absolu-107428.html",
-      "img": "https://fimgs.net/mdimg/perfume-thumbs/m.107428.jpg",
+      "name": "Ulric de Varens",
+      "url": "https://www.fragrantica.com/perfume/Ulric-de-Varens/Gold-Issime-10421.html",
+      "img": "https://fimgs.net/mdimg/perfume-thumbs/m.10421.jpg",
       "rating": null,
       "votes": 0
     },
     {
       "name": "Serge Lutens",
-      "url": "https://www.fragrantica.com/perfume/Serge-Lutens/La-Fille-de-Berlin-17162.html",
-      "img": "https://fimgs.net/mdimg/perfume-thumbs/m.17162.jpg",
+      "url": "https://www.fragrantica.com/perfume/Serge-Lutens/Le-Participe-Passe-50234.html",
+      "img": "https://fimgs.net/mdimg/perfume-thumbs/m.50234.jpg",
+      "rating": null,
+      "votes": 0
+    },
+    {
+      "name": "Etat Libre d'Orange",
+      "url": "https://www.fragrantica.com/perfume/Etat-Libre-d-Orange/Secretions-Magnifiques-4523.html",
+      "img": "https://fimgs.net/mdimg/perfume-thumbs/m.4523.jpg",
       "rating": null,
       "votes": 0
     }
