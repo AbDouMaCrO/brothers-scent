@@ -195,7 +195,7 @@ async function uploadToSupabase(results, allBrands) {
         price_retail:  0,
         price_gros:    0,
         stock:         0,
-        badge:         null,
+        badge:         '',
         img:           f.img || null,
         active:        true,
       });
