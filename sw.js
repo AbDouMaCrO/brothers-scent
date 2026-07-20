@@ -1,4 +1,4 @@
-const CACHE = 'parfumgros-v1';
+const CACHE = 'brotherscents-v1';
 const PRECACHE = ['/', '/index.html', '/js/supabase.js', '/manifest.json'];
 
 self.addEventListener('install', e => {
