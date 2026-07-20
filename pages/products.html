@@ -293,7 +293,7 @@ function filtered() {
     let list = allProducts.filter(p => {
         if (activeCat !== 'all' && p.category_slug !== activeCat) return false;
         if (brand && p.brand !== brand) return false;
-        if (!showOos && (p.stock === 0 || p.price_gros === 0)) return false;
+        if (!showOos && (!p.stock || p.stock === 0)) return false;
         if (q && !p.name?.toLowerCase().includes(q) && !p.brand?.toLowerCase().includes(q)) return false;
         return true;
     });
@@ -349,7 +349,7 @@ function renderGrid() {
     }
     empty.classList.add('hidden');
 
-    const isOos = p => !p.stock || p.stock === 0 || !p.price_gros || p.price_gros === 0;
+    const isOos = p => !p.stock || p.stock === 0;
 
     grid.innerHTML = visible.map(p => {
         const oos = isOos(p);

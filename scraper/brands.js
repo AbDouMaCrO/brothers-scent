@@ -191,7 +191,7 @@ async function uploadToSupabase(results, allBrands) {
         size:          '100ml',
         price_retail:  0,
         price_gros:    0,
-        stock:         0,
+        stock:         999,
         badge:         '',
         img:           f.img || null,
         active:        true,
