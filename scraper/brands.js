@@ -133,33 +133,87 @@ async function scrapeFragrances(page, brand) {
   return [];
 }
 
+// Gulf-region brand → category inference
+const CATEGORY_MAP = {
+  default: 'oriental',
+  homme:   ['sauvage','bleu de chanel','y yves','gentleman','boss','acqua di gio','terre d\'hermes','fahrenheit'],
+  femme:   ['black opium','chance','coco mademoiselle','la vie est belle','flora','daisy','mon guerlain'],
+  unisexe: ['baccarat rouge','oud wood','aventus','silver mountain','molecule','escentric'],
+};
+
+function inferCategory(name = '', brand = '') {
+  const q = (name + ' ' + brand).toLowerCase();
+  if (CATEGORY_MAP.homme.some(k => q.includes(k)))   return 'homme';
+  if (CATEGORY_MAP.femme.some(k => q.includes(k)))   return 'femme';
+  if (CATEGORY_MAP.unisexe.some(k => q.includes(k))) return 'unisexe';
+  return CATEGORY_MAP.default; // Gulf brands default to oriental
+}
+
 // ── Supabase upload ───────────────────────────────────────────────────────────
-async function uploadToSupabase(results) {
+async function uploadToSupabase(results, allBrands) {
   if (!SERVICE_KEY) { console.log('\nNo SUPABASE_SERVICE_KEY — skip upload'); return; }
 
   const sb = createClient(SUPABASE_URL, SERVICE_KEY, {
     auth: { autoRefreshToken: false, persistSession: false },
   });
 
-  const rows = [];
+  // 1. Upsert scraped_brands
+  const brandRows = [];
   const scrapedAt = new Date().toISOString();
-
   for (const [country, brands] of Object.entries(results)) {
     brands.forEach((b, i) => {
-      rows.push({
+      brandRows.push({
         country, rank: i + 1,
         brand_name: b.name, brand_slug: b.slug, brand_url: b.url,
         mentions: b.mentions, scraped_at: scrapedAt,
       });
     });
   }
-
   for (const country of Object.keys(results)) {
     await sb.from('scraped_brands').delete().eq('country', country);
   }
-  const { error } = await sb.from('scraped_brands').insert(rows);
-  if (error) console.error('❌  Supabase:', error.message);
-  else console.log(`✅  Supabase: ${rows.length} rows`);
+  const { error: brandErr } = await sb.from('scraped_brands').insert(brandRows);
+  if (brandErr) console.error('❌  scraped_brands:', brandErr.message);
+  else console.log(`✅  scraped_brands: ${brandRows.length} rows`);
+
+  // 2. Upsert fragrances → products table
+  const fragranceDir = path.join(__dirname, 'output', 'fragrances');
+  if (!fs.existsSync(fragranceDir)) return;
+
+  const productRows = [];
+  for (const brand of allBrands.values()) {
+    const file = path.join(fragranceDir, `${brand.slug}.json`);
+    if (!fs.existsSync(file)) continue;
+    const data = JSON.parse(fs.readFileSync(file, 'utf8'));
+    for (const f of (data.fragrances || [])) {
+      if (!f.name || !brand.name) continue;
+      productRows.push({
+        name:          f.name,
+        brand:         brand.name,
+        category_slug: inferCategory(f.name, brand.name),
+        size:          '100ml',
+        price_retail:  0,
+        price_gros:    0,
+        stock:         0,
+        badge:         null,
+        img:           f.img || null,
+        active:        true,
+      });
+    }
+  }
+
+  if (!productRows.length) { console.log('No product rows to upsert'); return; }
+
+  console.log(`\n⬆️  Upserting ${productRows.length} products…`);
+  const BATCH = 50;
+  let upserted = 0;
+  for (let i = 0; i < productRows.length; i += BATCH) {
+    const batch = productRows.slice(i, i + BATCH);
+    const { error } = await sb.from('products').upsert(batch, { onConflict: 'name,brand,size' });
+    if (error) console.error(`❌  products batch ${Math.floor(i/BATCH)+1}:`, error.message);
+    else { upserted += batch.length; console.log(`   ✓ batch ${Math.floor(i/BATCH)+1}: ${batch.length}`); }
+  }
+  console.log(`✅  products: ${upserted} upserted`);
 }
 
 // ── Main ──────────────────────────────────────────────────────────────────────
@@ -227,7 +281,7 @@ async function main() {
   console.log('📄  brands.json saved');
 
   // 4. Supabase
-  await uploadToSupabase(results);
+  await uploadToSupabase(results, allBrands);
 }
 
 main().catch((err) => { console.error('Fatal:', err.message); process.exit(1); });

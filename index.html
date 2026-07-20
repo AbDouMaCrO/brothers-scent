@@ -1140,8 +1140,17 @@ function renderProducts() {
     grid.innerHTML = visible.map(p => `
         <div class="product-card card-bg rounded-2xl overflow-hidden reveal active" data-cat="${p.category_slug}">
             <div class="relative aspect-[4/5] overflow-hidden bg-[#0a0a0a]">
-                <img src="${p.img}" alt="${p.name}" class="product-img w-full h-full object-cover" loading="lazy"
-                     onerror="this.style.display='none'">
+                <!-- uniform placeholder — shown when no image or image fails -->
+                <div class="product-placeholder absolute inset-0 flex flex-col items-center justify-center gap-2"
+                     style="background:linear-gradient(145deg,#0d0d1a 0%,#0a0a12 100%)">
+                    <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="rgba(168,85,247,0.25)" stroke-width="1.2">
+                        <path d="M12 2C6 2 4 7 4 12s2 10 8 10 8-5 8-10S18 2 12 2z"/>
+                        <path d="M12 6v2M12 16v2M8 12H6M18 12h-2"/>
+                    </svg>
+                    <span class="text-[10px] text-purple-900 font-medium tracking-wider uppercase">Parfum</span>
+                </div>
+                ${p.img ? `<img src="${p.img}" alt="${p.name}" class="product-img w-full h-full object-cover absolute inset-0" loading="lazy"
+                     onerror="this.style.opacity='0'">` : ''}
                 <div class="absolute inset-0 bg-gradient-to-t from-[#050505] via-transparent to-transparent"></div>
                 ${p.badge ? `<span class="absolute top-3 left-3 badge-gros">${p.badge}</span>` : ''}
                 <span class="absolute top-3 right-3 glass-panel text-[10px] font-medium text-gray-300 px-2 py-1 rounded-lg">${p.size}</span>
