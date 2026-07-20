@@ -1549,10 +1549,11 @@ function showBrandsTab(country) {
     }
 
     grid.innerHTML = brands.map((b, i) => `
-        <a href="${b.url}" target="_blank" rel="noopener"
+        <a href="/pages/brand.html?slug=${encodeURIComponent(b.slug)}"
            class="card-bg rounded-xl p-4 flex items-center gap-3 hover:border-purple-500/40 transition-all group reveal">
             <span class="text-xs font-bold text-purple-500 w-5 shrink-0">${i + 1}</span>
             <span class="text-sm font-medium text-gray-200 group-hover:text-white leading-tight">${b.name}</span>
+            <svg class="ml-auto w-3 h-3 text-gray-600 group-hover:text-purple-400 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
         </a>
     `).join('');
 

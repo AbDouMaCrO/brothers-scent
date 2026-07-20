@@ -2,16 +2,16 @@ name: Scrape Fragrantica Brands
 
 on:
   schedule:
-    - cron: '0 5 * * 1'   # Every Monday 05:00 UTC
-  workflow_dispatch:        # Manual trigger from GitHub UI
+    - cron: '*/30 * * * *'   # Every 30 minutes
+  workflow_dispatch:
 
 permissions:
-  contents: write           # Needed to commit brands.json back to repo
+  contents: write
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 25
 
     steps:
       - name: Checkout
@@ -38,10 +38,10 @@ jobs:
           SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
         run: node brands.js
 
-      - name: Commit updated brands.json
+      - name: Commit results
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add scraper/output/brands.json
-          git diff --staged --quiet && echo "No changes" || git commit -m "chore: update fragrantica brand data [skip ci]"
+          git add scraper/output/
+          git diff --staged --quiet && echo "No changes" || git commit -m "chore: update fragrantica data [skip ci]"
           git push

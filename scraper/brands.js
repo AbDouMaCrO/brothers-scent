@@ -1,13 +1,12 @@
 /**
- * Fragrantica Brand Scraper — UAE & Saudi Arabia
- * Runs via GitHub Actions cron or manually.
+ * Fragrantica Brand + Fragrance Scraper — UAE & Saudi Arabia
  *
  * Outputs:
- *   scraper/output/brands.json   — raw scraped data
- *   Supabase table: scraped_brands (if SUPABASE_SERVICE_KEY set)
+ *   scraper/output/brands.json              — country → ranked brand list
+ *   scraper/output/fragrances/{slug}.json   — top 10 fragrances per brand
+ *   Supabase table: scraped_brands          (if SUPABASE_SERVICE_KEY set)
  *
- * Usage:
- *   node brands.js
+ * Usage: node brands.js
  */
 
 const { chromium } = require('playwright-extra');
@@ -19,99 +18,124 @@ const path = require('path');
 chromium.use(StealthPlugin());
 
 const SUPABASE_URL = 'https://lumhgprmkwjsbpvgckeq.supabase.co';
-const SERVICE_KEY = process.env.SUPABASE_SERVICE_KEY;
+const SERVICE_KEY  = process.env.SUPABASE_SERVICE_KEY;
 
 const COUNTRIES = [
-  {
-    name: 'UAE',
-    slug: 'uae',
-    url: 'https://www.fragrantica.com/country/United%20Arab%20Emirates.html',
-  },
-  {
-    name: 'Saudi Arabia',
-    slug: 'saudi',
-    url: 'https://www.fragrantica.com/country/Saudi%20Arabia.html',
-  },
+  { name: 'UAE',          url: 'https://www.fragrantica.com/country/United%20Arab%20Emirates.html' },
+  { name: 'Saudi Arabia', url: 'https://www.fragrantica.com/country/Saudi%20Arabia.html' },
 ];
 
 const delay = (ms) => new Promise((r) => setTimeout(r, ms));
 const jitter = (base, spread = 2000) => base + Math.random() * spread;
 
+// ── Country page: extract ranked brands ──────────────────────────────────────
 async function scrapeCountry(page, country) {
-  console.log(`\n🌍  Scraping ${country.name}…`);
+  console.log(`\n🌍  ${country.name}…`);
 
   for (let attempt = 1; attempt <= 3; attempt++) {
     try {
       await page.goto(country.url, { waitUntil: 'domcontentloaded', timeout: 60000 });
       await delay(jitter(4000));
-
-      // Scroll to trigger lazy-loaded content
       await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight / 2));
-      await delay(jitter(2000));
+      await delay(jitter(1500));
       await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight));
-      await delay(jitter(2000));
+      await delay(jitter(1500));
 
       const brands = await page.evaluate(() => {
         const map = {};
-
-        // Brand links on Fragrantica always point to /designers/BrandName.html
         document.querySelectorAll('a[href*="/designers/"]').forEach((a) => {
           const href = a.href;
           const text = (a.textContent || '').trim();
           if (!text || text.length < 2) return;
-
-          // Normalize brand name: strip trailing .html, decode URI
           const slug = href.split('/designers/')[1]?.replace('.html', '') || '';
-          const name = text;
-
-          if (!map[slug]) {
-            map[slug] = {
-              name,
-              slug,
-              url: href,
-              mentions: 0,
-            };
-          }
+          if (!slug) return;
+          if (!map[slug]) map[slug] = { name: text, slug, url: href, mentions: 0 };
           map[slug].mentions++;
         });
-
-        // Also try to grab explicit "top brands" table/list if Fragrantica added one
-        const topSection = document.querySelector('.top-brands, [class*="topbrand"], [class*="designer-list"]');
-        if (topSection) {
-          topSection.querySelectorAll('a').forEach((a, rank) => {
-            const text = (a.textContent || '').trim();
-            const href = a.href || '';
-            if (text && href.includes('/designers/')) {
-              const slug = href.split('/designers/')[1]?.replace('.html', '') || '';
-              if (map[slug]) map[slug].rank = rank + 1;
-            }
-          });
-        }
-
-        return Object.values(map)
-          .sort((a, b) => b.mentions - a.mentions)
-          .slice(0, 50); // top 50 brands per country
+        return Object.values(map).sort((a, b) => b.mentions - a.mentions).slice(0, 30);
       });
 
-      if (!brands.length) throw new Error('No brands found — possible Cloudflare block');
-
-      console.log(`   ✓ ${brands.length} brands found`);
+      if (!brands.length) throw new Error('0 brands — possible Cloudflare block');
+      console.log(`   ✓ ${brands.length} brands`);
       return brands;
     } catch (err) {
-      console.warn(`   ⚠ Attempt ${attempt} failed: ${err.message}`);
+      console.warn(`   ⚠ attempt ${attempt}: ${err.message}`);
       if (attempt < 3) await delay(jitter(8000, 5000));
     }
   }
 
-  console.error(`   ✗ Failed to scrape ${country.name} after 3 attempts`);
+  console.error(`   ✗ ${country.name} failed after 3 attempts`);
   return [];
 }
 
-async function uploadToSupabase(results) {
-  if (!SERVICE_KEY) {
-    console.log('\nSUPABASE_SERVICE_KEY not set — skipping upload');
-    return;
+// ── Brand page: extract top 10 fragrances ────────────────────────────────────
+async function scrapeFragrances(page, brand) {
+  const url = brand.url;
+  console.log(`   🧴  ${brand.name}`);
+
+  for (let attempt = 1; attempt <= 2; attempt++) {
+    try {
+      await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 60000 });
+      await delay(jitter(3000, 1500));
+      await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight / 2));
+      await delay(jitter(1500));
+
+      const fragrances = await page.evaluate(() => {
+        const results = [];
+
+        // Fragrantica perfume cards — link href always contains /perfume/
+        const cards = document.querySelectorAll('a[href*="/perfume/"]');
+        const seen  = new Set();
+
+        for (const a of cards) {
+          const href = a.href || '';
+          if (seen.has(href) || !href.includes('/perfume/')) continue;
+
+          // Extract numeric ID from URL end: /perfume/Brand/Name-12345.html
+          const idMatch = href.match(/-(\d+)\.html$/);
+          const id = idMatch ? idMatch[1] : null;
+
+          // Image: look in parent tree for an img
+          const img   = a.querySelector('img') || a.closest('[class]')?.querySelector('img');
+          const imgSrc = img?.src || (id ? `https://fimgs.net/mdimg/perfume/375x500.${id}.jpg` : '');
+
+          // Name: try itemprop, then plain text, then alt
+          const nameEl = a.querySelector('[itemprop="name"], p, span');
+          const name   = (nameEl?.textContent || img?.alt || a.textContent || '').trim();
+          if (!name || name.length < 2) continue;
+
+          // Rating: look near the card
+          const container  = a.closest('[class]') || a.parentElement;
+          const ratingEl   = container?.querySelector('[itemprop="ratingValue"], .ratingValue, [class*="rating"] span');
+          const rating     = ratingEl ? parseFloat(ratingEl.textContent) : null;
+
+          // Votes
+          const votesEl    = container?.querySelector('[itemprop="ratingCount"], [class*="vote"], [class*="count"]');
+          const votes      = votesEl ? parseInt(votesEl.textContent.replace(/\D/g, '')) || 0 : 0;
+
+          seen.add(href);
+          results.push({ name, url: href, img: imgSrc, rating, votes });
+          if (results.length >= 10) break;
+        }
+
+        return results;
+      });
+
+      if (!fragrances.length) throw new Error('0 fragrances');
+      console.log(`      ✓ ${fragrances.length} fragrances`);
+      return fragrances;
+    } catch (err) {
+      console.warn(`      ⚠ attempt ${attempt}: ${err.message}`);
+      if (attempt < 2) await delay(jitter(5000, 3000));
+    }
   }
+
+  return [];
+}
+
+// ── Supabase upload ───────────────────────────────────────────────────────────
+async function uploadToSupabase(results) {
+  if (!SERVICE_KEY) { console.log('\nNo SUPABASE_SERVICE_KEY — skip upload'); return; }
 
   const sb = createClient(SUPABASE_URL, SERVICE_KEY, {
     auth: { autoRefreshToken: false, persistSession: false },
@@ -123,32 +147,22 @@ async function uploadToSupabase(results) {
   for (const [country, brands] of Object.entries(results)) {
     brands.forEach((b, i) => {
       rows.push({
-        country,
-        rank: i + 1,
-        brand_name: b.name,
-        brand_slug: b.slug,
-        brand_url: b.url,
-        mentions: b.mentions,
-        scraped_at: scrapedAt,
+        country, rank: i + 1,
+        brand_name: b.name, brand_slug: b.slug, brand_url: b.url,
+        mentions: b.mentions, scraped_at: scrapedAt,
       });
     });
   }
 
-  console.log(`\n⬆️  Uploading ${rows.length} rows to Supabase…`);
-
-  // Delete old data for these countries first, then insert fresh
   for (const country of Object.keys(results)) {
     await sb.from('scraped_brands').delete().eq('country', country);
   }
-
   const { error } = await sb.from('scraped_brands').insert(rows);
-  if (error) {
-    console.error('❌  Supabase upload failed:', error.message);
-  } else {
-    console.log('✅  Supabase upload complete');
-  }
+  if (error) console.error('❌  Supabase:', error.message);
+  else console.log(`✅  Supabase: ${rows.length} rows`);
 }
 
+// ── Main ──────────────────────────────────────────────────────────────────────
 async function main() {
   const browser = await chromium.launch({
     headless: true,
@@ -156,50 +170,64 @@ async function main() {
   });
 
   const context = await browser.newContext({
-    userAgent:
-      'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36',
+    userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36',
     locale: 'en-US',
     viewport: { width: 1366, height: 768 },
     extraHTTPHeaders: {
       'Accept-Language': 'en-US,en;q=0.9',
-      Accept:
-        'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
+      Accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
     },
   });
 
   const page = await context.newPage();
-  const results = {};
 
+  // 1. Scrape country pages
+  const results = {};
   for (const country of COUNTRIES) {
     results[country.name] = await scrapeCountry(page, country);
-    if (COUNTRIES.indexOf(country) < COUNTRIES.length - 1) {
-      await delay(jitter(6000, 4000)); // polite pause between countries
+    await delay(jitter(5000, 3000));
+  }
+
+  // 2. Dedupe brands across countries, scrape top 10 fragrances each
+  const allBrands = new Map();
+  for (const brands of Object.values(results)) {
+    for (const b of brands) {
+      if (!allBrands.has(b.slug)) allBrands.set(b.slug, b);
     }
   }
 
+  console.log(`\n🧴  Scraping fragrances for ${allBrands.size} unique brands…`);
+  const fragranceDir = path.join(__dirname, 'output', 'fragrances');
+  fs.mkdirSync(fragranceDir, { recursive: true });
+
+  let done = 0;
+  for (const brand of allBrands.values()) {
+    const fragrances = await scrapeFragrances(page, brand);
+    const outFile = path.join(fragranceDir, `${brand.slug}.json`);
+    fs.writeFileSync(outFile, JSON.stringify({
+      scraped_at:  new Date().toISOString(),
+      brand_name:  brand.name,
+      brand_slug:  brand.slug,
+      brand_url:   brand.url,
+      fragrances,
+    }, null, 2));
+    done++;
+    await delay(jitter(3000, 2000)); // polite delay between brand pages
+  }
+  console.log(`\n✓ ${done} fragrance files saved`);
+
   await browser.close();
 
-  // Save JSON output
+  // 3. Save brands.json
   const outDir = path.join(__dirname, 'output');
-  fs.mkdirSync(outDir, { recursive: true });
-  const outFile = path.join(outDir, 'brands.json');
   fs.writeFileSync(
-    outFile,
+    path.join(outDir, 'brands.json'),
     JSON.stringify({ scraped_at: new Date().toISOString(), data: results }, null, 2)
   );
-  console.log(`\n📄  Saved → scraper/output/brands.json`);
+  console.log('📄  brands.json saved');
 
-  // Print summary
-  for (const [country, brands] of Object.entries(results)) {
-    console.log(`\n${country} — top 10:`);
-    brands.slice(0, 10).forEach((b, i) => console.log(`  ${i + 1}. ${b.name} (${b.mentions} mentions)`));
-  }
-
-  // Upload to Supabase
+  // 4. Supabase
   await uploadToSupabase(results);
 }
 
-main().catch((err) => {
-  console.error('Fatal:', err.message);
-  process.exit(1);
-});
+main().catch((err) => { console.error('Fatal:', err.message); process.exit(1); });
