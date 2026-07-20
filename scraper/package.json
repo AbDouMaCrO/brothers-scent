@@ -1,0 +1,16 @@
+{
+  "name": "fragrantica-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "scrape": "node brands.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.4",
+    "playwright-extra": "^4.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  },
+  "devDependencies": {
+    "playwright": "^1.52.0"
+  }
+}
