@@ -93,40 +93,51 @@
 <body>
 
 <!-- Nav -->
-<nav class="sticky top-0 z-50 px-4 py-4" style="background:rgba(5,5,5,0.92);backdrop-filter:blur(20px);border-bottom:1px solid rgba(255,255,255,0.05)">
-    <div class="max-w-7xl mx-auto flex items-center justify-between gap-4">
-        <a href="/" class="flex items-center gap-2.5 shrink-0">
-            <div class="w-8 h-8 rounded-lg bg-gradient-to-br from-purple-500 to-indigo-500 flex items-center justify-center">
-                <iconify-icon icon="lucide:droplets" width="16" class="text-white"></iconify-icon>
+<nav class="fixed top-0 left-0 right-0 z-50 glass-panel">
+    <div class="max-w-7xl mx-auto px-4 md:px-6 py-3 flex items-center justify-between">
+        <a href="/index.html" class="flex items-center gap-2">
+            <div class="w-9 h-9 rounded-xl bg-gradient-to-br from-purple-500 to-indigo-500 flex items-center justify-center">
+                <iconify-icon icon="lucide:droplets" width="18" class="text-white"></iconify-icon>
             </div>
             <span class="font-semibold text-white text-sm">BrotherScents</span>
         </a>
-
-        <!-- Desktop nav links -->
-        <div class="hidden md:flex items-center gap-6">
-            <a href="/pages/products.html" class="text-sm font-medium text-purple-400 transition-colors">Products</a>
+        <div class="hidden lg:flex items-center gap-8">
+            <a href="/pages/products.html" class="text-sm font-medium text-purple-400">Products</a>
             <a href="/pages/brands.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Brands</a>
             <a href="/blog/index.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Blog</a>
             <a href="/pages/about.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">About</a>
             <a href="/pages/contact.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Contact</a>
         </div>
-
-        <!-- Inline search on desktop -->
-        <div class="hidden md:flex flex-1 max-w-xs relative">
-            <iconify-icon icon="lucide:search" width="15" class="absolute left-3 top-1/2 -translate-y-1/2 text-gray-500 pointer-events-none"></iconify-icon>
-            <input id="searchNav" type="text" placeholder="Search fragrances…"
-                class="search-input w-full bg-white/5 border border-white/8 rounded-xl pl-9 pr-4 py-2 text-sm text-gray-200 placeholder-gray-600 transition-colors"
-                oninput="onSearch(this.value)">
-        </div>
-
         <div class="flex items-center gap-3">
-            <button id="authBtn" onclick="openAuthModal()" class="text-sm px-4 py-2 rounded-xl bg-purple-600 hover:bg-purple-500 transition-colors font-medium">Sign In</button>
+            <a href="/pages/contact.html" class="hidden md:inline-flex items-center gap-2 bg-white text-black text-sm font-semibold px-5 py-2.5 rounded-xl hover:scale-105 transition-transform">
+                <iconify-icon icon="lucide:phone" width="14"></iconify-icon>
+                Order Now
+            </a>
+            <button id="menuToggle" class="lg:hidden p-2 rounded-xl hover:bg-white/5">
+                <iconify-icon icon="lucide:menu" width="20" class="text-gray-300"></iconify-icon>
+            </button>
         </div>
     </div>
 </nav>
 
+<!-- Mobile menu -->
+<div id="mobileMenu" class="fixed inset-y-0 right-0 w-72 z-[60] glass-panel p-6 flex-col gap-6 hidden" style="display:none">
+    <div class="flex justify-between items-center">
+        <span class="font-semibold">Menu</span>
+        <button id="menuClose"><iconify-icon icon="lucide:x" width="20" class="text-gray-300"></iconify-icon></button>
+    </div>
+    <nav class="flex flex-col gap-4 text-sm mt-4">
+        <a href="/index.html" class="text-gray-300 hover:text-purple-400">Home</a>
+        <a href="/pages/products.html" class="text-purple-400">Products</a>
+        <a href="/pages/brands.html" class="text-gray-300 hover:text-purple-400">Brands</a>
+        <a href="/blog/index.html" class="text-gray-300 hover:text-purple-400">Blog</a>
+        <a href="/pages/about.html" class="text-gray-300 hover:text-purple-400">About</a>
+        <a href="/pages/contact.html" class="text-gray-300 hover:text-purple-400">Contact</a>
+    </nav>
+</div>
+
 <!-- Page header -->
-<header class="py-12 px-4 text-center relative overflow-hidden">
+<header class="pt-28 pb-12 px-4 text-center relative overflow-hidden">
     <div class="absolute inset-0 pointer-events-none" style="background:radial-gradient(ellipse 50% 60% at 50% 0%,rgba(168,85,247,0.1) 0%,transparent 70%)"></div>
     <div class="relative z-10">
         <p class="text-xs font-semibold uppercase tracking-widest text-purple-400 mb-3">Catalogue</p>
@@ -138,7 +149,7 @@
 </header>
 
 <!-- ── FILTERS ── -->
-<div class="sticky top-[65px] z-40 px-4 py-3" style="background:rgba(5,5,5,0.92);backdrop-filter:blur(16px);border-bottom:1px solid rgba(255,255,255,0.04)">
+<div class="sticky top-[57px] z-40 px-4 py-3" style="background:rgba(5,5,5,0.92);backdrop-filter:blur(16px);border-bottom:1px solid rgba(255,255,255,0.04)">
     <div class="max-w-7xl mx-auto space-y-3">
 
         <!-- Row 1: Search (mobile) + sort + stock toggle -->
@@ -325,9 +336,8 @@ function applyFilters() {
 
 function onSearch(val) {
     searchQuery = val;
-    // sync both search inputs
-    document.getElementById('searchNav').value    = val;
-    document.getElementById('searchMobile').value = val;
+    const mob = document.getElementById('searchMobile');
+    if (mob) mob.value = val;
     applyFilters();
 }
 
@@ -408,6 +418,15 @@ document.querySelectorAll('.filter-pill').forEach(btn => {
 });
 
 init();
+
+// Mobile menu
+const menuToggle = document.getElementById('menuToggle');
+const mobileMenu = document.getElementById('mobileMenu');
+const menuClose  = document.getElementById('menuClose');
+if (menuToggle && mobileMenu) {
+    menuToggle.addEventListener('click', () => { mobileMenu.style.display = 'flex'; });
+    menuClose.addEventListener('click',  () => { mobileMenu.style.display = 'none'; });
+}
 </script>
 </body>
 </html>
