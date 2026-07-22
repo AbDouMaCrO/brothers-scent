@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="en" class="dark scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FAQ — BrotherScents</title>
+    <link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#050505">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    fontFamily: { sans: ['Inter', 'sans-serif'] },
+                    colors: {
+                        purple: { 400:'#c084fc', 500:'#a855f7', 600:'#9333ea', 700:'#7e22ce', 900:'#3b0764' },
+                        gold:   { 400:'#facc15', 500:'#eab308' }
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        * { margin:0; padding:0; box-sizing:border-box; }
+        body { font-family:'Inter',sans-serif; background:#050505; color:#fff; overflow-x:hidden; }
+        ::-webkit-scrollbar { width:6px; }
+        ::-webkit-scrollbar-thumb { background:#3b0764; border-radius:3px; }
+        .glass-panel { background:rgba(255,255,255,0.04); backdrop-filter:blur(12px); border:1px solid rgba(255,255,255,0.08); }
+        .card-bg { background:linear-gradient(180deg,rgba(255,255,255,0.04) 0%,rgba(255,255,255,0.01) 100%); border:1px solid rgba(255,255,255,0.06); }
+        .gradient-text { background:linear-gradient(to right,#e9d5ff,#a855f7,#6366f1); -webkit-background-clip:text; -webkit-text-fill-color:transparent; background-clip:text; }
+        .gradient-divider { height:1px; background:linear-gradient(to right,transparent,#3b0764,transparent); }
+        .faq-item { border:1px solid rgba(255,255,255,0.06); border-radius:16px; overflow:hidden; }
+        .faq-answer { max-height:0; overflow:hidden; transition:max-height 0.4s cubic-bezier(0.16,1,0.3,1); }
+        .faq-answer.open { max-height:400px; }
+        .faq-icon { transition:transform 0.3s ease; }
+        .faq-item.open .faq-icon { transform:rotate(45deg); }
+        .faq-item.open { border-color:rgba(168,85,247,0.25); }
+        .mobile-menu { transform:translateX(100%); transition:transform 0.4s cubic-bezier(0.16,1,0.3,1); }
+        .mobile-menu.open { transform:translateX(0); }
+        @keyframes fadeUp { from{opacity:0;transform:translateY(30px)} to{opacity:1;transform:translateY(0)} }
+        .fade-up { animation:fadeUp 0.7s ease forwards; }
+    </style>
+</head>
+<body>
+
+<!-- Nav -->
+<nav class="fixed top-0 left-0 right-0 z-50 glass-panel">
+    <div class="max-w-7xl mx-auto px-4 md:px-6 py-3 flex items-center justify-between">
+        <a href="/index.html" class="flex items-center gap-2">
+            <div class="w-9 h-9 rounded-xl bg-gradient-to-br from-purple-500 to-indigo-500 flex items-center justify-center">
+                <iconify-icon icon="lucide:droplets" width="18" class="text-white"></iconify-icon>
+            </div>
+            <span class="font-semibold text-white text-sm">BrotherScents</span>
+        </a>
+        <div class="hidden lg:flex items-center gap-8">
+            <a href="/index.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Home</a>
+            <a href="/pages/products.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Products</a>
+            <a href="/pages/services.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Services</a>
+            <a href="/pages/about.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">About</a>
+            <a href="/pages/faq.html" class="text-sm font-medium text-purple-400 transition-colors">FAQ</a>
+            <a href="/pages/contact.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Contact</a>
+        </div>
+        <div class="flex items-center gap-3">
+            <a href="/pages/contact.html" class="hidden md:inline-flex items-center gap-2 bg-white text-black text-sm font-semibold px-5 py-2.5 rounded-xl hover:scale-105 transition-transform">
+                <iconify-icon icon="lucide:phone" width="14"></iconify-icon>
+                Get in Touch
+            </a>
+            <button id="menuToggle" class="lg:hidden p-2 rounded-xl hover:bg-white/5 transition-colors">
+                <iconify-icon icon="lucide:menu" width="20" class="text-gray-300"></iconify-icon>
+            </button>
+        </div>
+    </div>
+</nav>
+
+<!-- Mobile menu -->
+<div id="mobileMenu" class="mobile-menu fixed inset-y-0 right-0 w-72 z-50 glass-panel p-6 flex flex-col gap-6">
+    <div class="flex justify-between items-center">
+        <span class="font-semibold text-white">Menu</span>
+        <button id="menuClose" class="p-2 rounded-xl hover:bg-white/5"><iconify-icon icon="lucide:x" width="20" class="text-gray-300"></iconify-icon></button>
+    </div>
+    <nav class="flex flex-col gap-4">
+        <a href="/index.html" class="text-gray-300 hover:text-purple-400 transition-colors">Home</a>
+        <a href="/pages/products.html" class="text-gray-300 hover:text-purple-400 transition-colors">Products</a>
+        <a href="/pages/services.html" class="text-gray-300 hover:text-purple-400 transition-colors">Services</a>
+        <a href="/pages/about.html" class="text-gray-300 hover:text-purple-400 transition-colors">About</a>
+        <a href="/pages/faq.html" class="text-purple-400">FAQ</a>
+        <a href="/pages/contact.html" class="text-gray-300 hover:text-purple-400 transition-colors">Contact</a>
+    </nav>
+</div>
+
+<!-- Hero -->
+<section class="relative pt-32 pb-16 px-4">
+    <div class="absolute inset-0 bg-gradient-to-b from-purple-900/20 via-transparent to-transparent pointer-events-none"></div>
+    <div class="max-w-3xl mx-auto text-center fade-up">
+        <div class="inline-flex items-center gap-2 glass-panel px-4 py-2 rounded-full mb-6 text-purple-300 text-sm">
+            <iconify-icon icon="lucide:help-circle" width="14"></iconify-icon>
+            Frequently Asked Questions
+        </div>
+        <h1 class="text-4xl md:text-5xl font-bold mb-5">
+            Got <span class="gradient-text">questions?</span><br>We have answers.
+        </h1>
+        <p class="text-gray-400 text-lg max-w-xl mx-auto leading-relaxed">
+            Everything you need to know about ordering, delivery, payment, and our wholesale programme.
+        </p>
+    </div>
+</section>
+
+<div class="gradient-divider max-w-6xl mx-auto"></div>
+
+<!-- FAQ sections -->
+<section class="py-16 px-4">
+    <div class="max-w-3xl mx-auto space-y-12">
+
+        <!-- Ordering -->
+        <div>
+            <div class="flex items-center gap-3 mb-6">
+                <div class="w-9 h-9 rounded-xl bg-purple-900/40 flex items-center justify-center">
+                    <iconify-icon icon="lucide:shopping-bag" width="16" class="text-purple-400"></iconify-icon>
+                </div>
+                <h2 class="text-lg font-semibold">Ordering</h2>
+            </div>
+            <div class="space-y-3" id="group-ordering">
+                <div class="faq-item" data-group="ordering">
+                    <button class="faq-trigger w-full flex items-center justify-between px-6 py-5 text-left">
+                        <span class="font-medium text-sm pr-4">What is the minimum order quantity?</span>
+                        <iconify-icon icon="lucide:plus" width="16" class="faq-icon text-purple-400 shrink-0"></iconify-icon>
+                    </button>
+                    <div class="faq-answer">
+                        <p class="px-6 pb-5 text-gray-400 text-sm leading-relaxed">The minimum order is 10 units for Starter accounts. Pro (Distributor) accounts start at 50 units, with volume discounts applied automatically. Enterprise accounts have no fixed minimum — we tailor each order to your needs.</p>
+                    </div>
+                </div>
+                <div class="faq-item" data-group="ordering">
+                    <button class="faq-trigger w-full flex items-center justify-between px-6 py-5 text-left">
+                        <span class="font-medium text-sm pr-4">How do I place an order?</span>
+                        <iconify-icon icon="lucide:plus" width="16" class="faq-icon text-purple-400 shrink-0"></iconify-icon>
+                    </button>
+                    <div class="faq-answer">
+                        <p class="px-6 pb-5 text-gray-400 text-sm leading-relaxed">Browse our catalogue, add items to your cart, then proceed to checkout — this generates a WhatsApp message with your full order. Our team confirms availability, sends you an invoice, and dispatches after payment.</p>
+                    </div>
+                </div>
+                <div class="faq-item" data-group="ordering">
+                    <button class="faq-trigger w-full flex items-center justify-between px-6 py-5 text-left">
+                        <span class="font-medium text-sm pr-4">Can I mix different fragrances in one order?</span>
+                        <iconify-icon icon="lucide:plus" width="16" class="faq-icon text-purple-400 shrink-0"></iconify-icon>
+                    </button>
+                    <div class="faq-answer">
+                        <p class="px-6 pb-5 text-gray-400 text-sm leading-relaxed">Yes — you can mix any fragrance, brand, or size to reach your minimum order tier. The 10-unit minimum applies to the total order, not per SKU.</p>
+                    </div>
+                </div>
+                <div class="faq-item" data-group="ordering">
+                    <button class="faq-trigger w-full flex items-center justify-between px-6 py-5 text-left">
+                        <span class="font-medium text-sm pr-4">Do I need an account to see prices?</span>
+                        <iconify-icon icon="lucide:plus" width="16" class="faq-icon text-purple-400 shrink-0"></iconify-icon>
+                    </button>
+                    <div class="faq-answer">
+                        <p class="px-6 pb-5 text-gray-400 text-sm leading-relaxed">Yes. Wholesale prices are hidden for guest visitors. Register for a free account, get approved by our team (usually within 24h), and you'll see full pricing upon login.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Products -->
+        <div>
+            <div class="flex items-center gap-3 mb-6">
+                <div class="w-9 h-9 rounded-xl bg-purple-900/40 flex items-center justify-center">
+                    <iconify-icon icon="lucide:package" width="16" class="text-purple-400"></iconify-icon>
+                </div>
+                <h2 class="text-lg font-semibold">Products</h2>
+            </div>
+            <div class="space-y-3">
+                <div class="faq-item">
+                    <button class="faq-trigger w-full flex items-center justify-between px-6 py-5 text-left">
+                        <span class="font-medium text-sm pr-4">Are all products genuine / authentic?</span>
+                        <iconify-icon icon="lucide:plus" width="16" class="faq-icon text-purple-400 shrink-0"></iconify-icon>
+                    </button>
+                    <div class="faq-answer">
+                        <p class="px-6 pb-5 text-gray-400 text-sm leading-relaxed">100% authentic. Every fragrance is sourced directly from brand-authorised distributors or directly from the houses themselves. We do not deal in grey-market, replica, or tester units sold as retail.</p>
+                    </div>
+                </div>
+                <div class="faq-item">
+                    <button class="faq-trigger w-full flex items-center justify-between px-6 py-5 text-left">
+                        <span class="font-medium text-sm pr-4">What sizes do you stock?</span>
+                        <iconify-icon icon="lucide:plus" width="16" class="faq-icon text-purple-400 shrink-0"></iconify-icon>
+                    </button>
+                    <div class="faq-answer">
+                        <p class="px-6 pb-5 text-gray-400 text-sm leading-relaxed">The majority of our catalogue is 100ml (the most popular wholesale size). Some brands also offer 50ml and 200ml. Contact us for specific size availability on any SKU.</p>
+                    </div>
+                </div>
+                <div class="faq-item">
+                    <button class="faq-trigger w-full flex items-center justify-between px-6 py-5 text-left">
+                        <span class="font-medium text-sm pr-4">How are products selected for the catalogue?</span>
+                        <iconify-icon icon="lucide:plus" width="16" class="faq-icon text-purple-400 shrink-0"></iconify-icon>
+                    </button>
+                    <div class="faq-answer">
+                        <p class="px-6 pb-5 text-gray-400 text-sm leading-relaxed">Our catalogue is built from Fragrantica's top-ranked fragrances across UAE and Saudi Arabia — the most-searched and most-rated scents in the Gulf region, curated for wholesale market demand. We refresh it regularly as trends shift.</p>
+                    </div>
+                </div>
+                <div class="faq-item">
+                    <button class="faq-trigger w-full flex items-center justify-between px-6 py-5 text-left">
+                        <span class="font-medium text-sm pr-4">Can I request a fragrance not listed?</span>
+                        <iconify-icon icon="lucide:plus" width="16" class="faq-icon text-purple-400 shrink-0"></iconify-icon>
+                    </button>
+                    <div class="faq-answer">
+                        <p class="px-6 pb-5 text-gray-400 text-sm leading-relaxed">Yes. Message us on WhatsApp with the brand and name. We'll check with our suppliers and get back to you with availability and pricing — usually within 24–48 hours.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Delivery -->
+        <div>
+            <div class="flex items-center gap-3 mb-6">
+                <div class="w-9 h-9 rounded-xl bg-purple-900/40 flex items-center justify-center">
+                    <iconify-icon icon="lucide:truck" width="16" class="text-purple-400"></iconify-icon>
+                </div>
+                <h2 class="text-lg font-semibold">Delivery</h2>
+            </div>
+            <div class="space-y-3">
+                <div class="faq-item">
+                    <button class="faq-trigger w-full flex items-center justify-between px-6 py-5 text-left">
+                        <span class="font-medium text-sm pr-4">Where do you ship?</span>
+                        <iconify-icon icon="lucide:plus" width="16" class="faq-icon text-purple-400 shrink-0"></iconify-icon>
+                    </button>
+                    <div class="faq-answer">
+                        <p class="px-6 pb-5 text-gray-400 text-sm leading-relaxed">We ship across the GCC: UAE, Saudi Arabia, Kuwait, Qatar, Bahrain, and Oman. For orders outside the GCC, contact us directly to discuss shipping options and rates.</p>
+                    </div>
+                </div>
+                <div class="faq-item">
+                    <button class="faq-trigger w-full flex items-center justify-between px-6 py-5 text-left">
+                        <span class="font-medium text-sm pr-4">How long does delivery take?</span>
+                        <iconify-icon icon="lucide:plus" width="16" class="faq-icon text-purple-400 shrink-0"></iconify-icon>
+                    </button>
+                    <div class="faq-answer">
+                        <p class="px-6 pb-5 text-gray-400 text-sm leading-relaxed">UAE: same day or next day. Saudi Arabia: 1–2 business days. Kuwait & Qatar: 2–3 business days. Bahrain & Oman: 3–5 business days. All orders are packed and dispatched within 24h of payment confirmation.</p>
+                    </div>
+                </div>
+                <div class="faq-item">
+                    <button class="faq-trigger w-full flex items-center justify-between px-6 py-5 text-left">
+                        <span class="font-medium text-sm pr-4">Is delivery tracked?</span>
+                        <iconify-icon icon="lucide:plus" width="16" class="faq-icon text-purple-400 shrink-0"></iconify-icon>
+                    </button>
+                    <div class="faq-answer">
+                        <p class="px-6 pb-5 text-gray-400 text-sm leading-relaxed">Yes. We send you a tracking number via WhatsApp as soon as the order is dispatched. You can track in real-time through the carrier's website.</p>
+                    </div>
+                </div>
+                <div class="faq-item">
+                    <button class="faq-trigger w-full flex items-center justify-between px-6 py-5 text-left">
+                        <span class="font-medium text-sm pr-4">What payment methods do you accept?</span>
+                        <iconify-icon icon="lucide:plus" width="16" class="faq-icon text-purple-400 shrink-0"></iconify-icon>
+                    </button>
+                    <div class="faq-answer">
+                        <p class="px-6 pb-5 text-gray-400 text-sm leading-relaxed">We accept bank transfer (preferred for large orders), and offer Net-15 / Net-30 payment terms for Pro and Enterprise accounts. All payments are confirmed before dispatch.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Account -->
+        <div>
+            <div class="flex items-center gap-3 mb-6">
+                <div class="w-9 h-9 rounded-xl bg-purple-900/40 flex items-center justify-center">
+                    <iconify-icon icon="lucide:user" width="16" class="text-purple-400"></iconify-icon>
+                </div>
+                <h2 class="text-lg font-semibold">Account &amp; Registration</h2>
+            </div>
+            <div class="space-y-3">
+                <div class="faq-item">
+                    <button class="faq-trigger w-full flex items-center justify-between px-6 py-5 text-left">
+                        <span class="font-medium text-sm pr-4">How do I register?</span>
+                        <iconify-icon icon="lucide:plus" width="16" class="faq-icon text-purple-400 shrink-0"></iconify-icon>
+                    </button>
+                    <div class="faq-answer">
+                        <p class="px-6 pb-5 text-gray-400 text-sm leading-relaxed">Click "Register" on the homepage, fill in your name, company, email, and phone. Our team reviews your application — legitimate business buyers are approved within 24 hours.</p>
+                    </div>
+                </div>
+                <div class="faq-item">
+                    <button class="faq-trigger w-full flex items-center justify-between px-6 py-5 text-left">
+                        <span class="font-medium text-sm pr-4">Do I need a trade licence to register?</span>
+                        <iconify-icon icon="lucide:plus" width="16" class="faq-icon text-purple-400 shrink-0"></iconify-icon>
+                    </button>
+                    <div class="faq-answer">
+                        <p class="px-6 pb-5 text-gray-400 text-sm leading-relaxed">We don't require documentation to register, but we do manually review each account. We prioritise verified retailers, boutiques, and established distributors. If you're a new business, include a brief note about your operation when you register.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</section>
+
+<!-- Still have questions -->
+<section class="py-12 px-4">
+    <div class="max-w-3xl mx-auto text-center card-bg rounded-2xl p-10">
+        <iconify-icon icon="ic:baseline-whatsapp" width="32" class="text-green-400 mb-4"></iconify-icon>
+        <h3 class="text-xl font-bold mb-3">Still have questions?</h3>
+        <p class="text-gray-400 text-sm mb-6">Message us directly on WhatsApp — our team replies within a couple of hours during business days.</p>
+        <a href="/pages/contact.html" class="inline-flex items-center gap-2 bg-gradient-to-r from-purple-600 to-indigo-600 text-white font-semibold px-8 py-3.5 rounded-xl hover:scale-105 transition-transform text-sm">
+            <iconify-icon icon="lucide:message-circle" width="16"></iconify-icon>
+            Contact Us
+        </a>
+    </div>
+</section>
+
+<!-- Footer -->
+<footer class="border-t border-white/5 py-10 px-4">
+    <div class="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
+        <div class="flex items-center gap-2">
+            <div class="w-7 h-7 rounded-lg bg-gradient-to-br from-purple-500 to-indigo-500 flex items-center justify-center">
+                <iconify-icon icon="lucide:droplets" width="14" class="text-white"></iconify-icon>
+            </div>
+            <span class="font-semibold text-sm text-white">BrotherScents</span>
+        </div>
+        <p class="text-gray-500 text-xs">&copy; 2025 BrotherScents. All rights reserved.</p>
+        <div class="flex gap-5 text-xs text-gray-500">
+            <a href="/pages/about.html" class="hover:text-purple-400 transition-colors">About</a>
+            <a href="/pages/services.html" class="hover:text-purple-400 transition-colors">Services</a>
+            <a href="/pages/contact.html" class="hover:text-purple-400 transition-colors">Contact</a>
+        </div>
+    </div>
+</footer>
+
+<a href="https://wa.me/" id="waFloat" class="fixed bottom-6 right-6 z-40 w-14 h-14 rounded-full bg-[#25D366] flex items-center justify-center shadow-lg shadow-green-500/30 hover:scale-110 transition-transform">
+    <iconify-icon icon="ic:baseline-whatsapp" width="26" class="text-white"></iconify-icon>
+</a>
+
+<script>
+    document.getElementById('menuToggle').addEventListener('click', () => document.getElementById('mobileMenu').classList.add('open'));
+    document.getElementById('menuClose').addEventListener('click', () => document.getElementById('mobileMenu').classList.remove('open'));
+
+    try {
+        const s = JSON.parse(localStorage.getItem('ls_settings') || '{}');
+        if (s.whatsappNumber) document.getElementById('waFloat').href = `https://wa.me/${s.whatsappNumber}`;
+    } catch(_) {}
+
+    document.querySelectorAll('.faq-trigger').forEach(btn => {
+        btn.addEventListener('click', () => {
+            const item = btn.closest('.faq-item');
+            const answer = item.querySelector('.faq-answer');
+            const isOpen = item.classList.contains('open');
+            item.classList.toggle('open', !isOpen);
+            answer.classList.toggle('open', !isOpen);
+        });
+    });
+</script>
+</body>
+</html>

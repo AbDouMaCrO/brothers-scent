@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en" class="dark scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact — BrotherScents</title>
+    <link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#050505">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    fontFamily: { sans: ['Inter', 'sans-serif'] },
+                    colors: {
+                        purple: { 400:'#c084fc', 500:'#a855f7', 600:'#9333ea', 700:'#7e22ce', 900:'#3b0764' },
+                        gold:   { 400:'#facc15', 500:'#eab308' }
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        * { margin:0; padding:0; box-sizing:border-box; }
+        body { font-family:'Inter',sans-serif; background:#050505; color:#fff; overflow-x:hidden; }
+        ::-webkit-scrollbar { width:6px; }
+        ::-webkit-scrollbar-thumb { background:#3b0764; border-radius:3px; }
+        .glass-panel { background:rgba(255,255,255,0.04); backdrop-filter:blur(12px); border:1px solid rgba(255,255,255,0.08); }
+        .card-bg { background:linear-gradient(180deg,rgba(255,255,255,0.04) 0%,rgba(255,255,255,0.01) 100%); border:1px solid rgba(255,255,255,0.06); }
+        .gradient-text { background:linear-gradient(to right,#e9d5ff,#a855f7,#6366f1); -webkit-background-clip:text; -webkit-text-fill-color:transparent; background-clip:text; }
+        .gradient-divider { height:1px; background:linear-gradient(to right,transparent,#3b0764,transparent); }
+        .form-input { background:rgba(255,255,255,0.04); border:1px solid rgba(255,255,255,0.08); color:#fff; outline:none; transition:border-color 0.2s; }
+        .form-input:focus { border-color:rgba(168,85,247,0.5); }
+        .form-input::placeholder { color:rgba(255,255,255,0.3); }
+        .mobile-menu { transform:translateX(100%); transition:transform 0.4s cubic-bezier(0.16,1,0.3,1); }
+        .mobile-menu.open { transform:translateX(0); }
+        @keyframes fadeUp { from{opacity:0;transform:translateY(30px)} to{opacity:1;transform:translateY(0)} }
+        .fade-up { animation:fadeUp 0.7s ease forwards; }
+    </style>
+</head>
+<body>
+
+<!-- Nav -->
+<nav class="fixed top-0 left-0 right-0 z-50 glass-panel">
+    <div class="max-w-7xl mx-auto px-4 md:px-6 py-3 flex items-center justify-between">
+        <a href="/index.html" class="flex items-center gap-2">
+            <div class="w-9 h-9 rounded-xl bg-gradient-to-br from-purple-500 to-indigo-500 flex items-center justify-center">
+                <iconify-icon icon="lucide:droplets" width="18" class="text-white"></iconify-icon>
+            </div>
+            <span class="font-semibold text-white text-sm">BrotherScents</span>
+        </a>
+        <div class="hidden lg:flex items-center gap-8">
+            <a href="/index.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Home</a>
+            <a href="/pages/products.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Products</a>
+            <a href="/pages/services.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Services</a>
+            <a href="/pages/about.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">About</a>
+            <a href="/pages/faq.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">FAQ</a>
+            <a href="/pages/contact.html" class="text-sm font-medium text-purple-400 transition-colors">Contact</a>
+        </div>
+        <div class="flex items-center gap-3">
+            <a href="/pages/contact.html" class="hidden md:inline-flex items-center gap-2 bg-white text-black text-sm font-semibold px-5 py-2.5 rounded-xl hover:scale-105 transition-transform">
+                <iconify-icon icon="lucide:phone" width="14"></iconify-icon>
+                Get in Touch
+            </a>
+            <button id="menuToggle" class="lg:hidden p-2 rounded-xl hover:bg-white/5 transition-colors">
+                <iconify-icon icon="lucide:menu" width="20" class="text-gray-300"></iconify-icon>
+            </button>
+        </div>
+    </div>
+</nav>
+
+<!-- Mobile menu -->
+<div id="mobileMenu" class="mobile-menu fixed inset-y-0 right-0 w-72 z-50 glass-panel p-6 flex flex-col gap-6">
+    <div class="flex justify-between items-center">
+        <span class="font-semibold text-white">Menu</span>
+        <button id="menuClose" class="p-2 rounded-xl hover:bg-white/5"><iconify-icon icon="lucide:x" width="20" class="text-gray-300"></iconify-icon></button>
+    </div>
+    <nav class="flex flex-col gap-4">
+        <a href="/index.html" class="text-gray-300 hover:text-purple-400 transition-colors">Home</a>
+        <a href="/pages/products.html" class="text-gray-300 hover:text-purple-400 transition-colors">Products</a>
+        <a href="/pages/services.html" class="text-gray-300 hover:text-purple-400 transition-colors">Services</a>
+        <a href="/pages/about.html" class="text-gray-300 hover:text-purple-400 transition-colors">About</a>
+        <a href="/pages/faq.html" class="text-gray-300 hover:text-purple-400 transition-colors">FAQ</a>
+        <a href="/pages/contact.html" class="text-purple-400">Contact</a>
+    </nav>
+</div>
+
+<!-- Hero -->
+<section class="relative pt-32 pb-16 px-4">
+    <div class="absolute inset-0 bg-gradient-to-b from-purple-900/20 via-transparent to-transparent pointer-events-none"></div>
+    <div class="max-w-4xl mx-auto text-center fade-up">
+        <div class="inline-flex items-center gap-2 glass-panel px-4 py-2 rounded-full mb-6 text-purple-300 text-sm">
+            <iconify-icon icon="lucide:message-circle" width="14"></iconify-icon>
+            Get in Touch
+        </div>
+        <h1 class="text-4xl md:text-6xl font-bold mb-6">
+            Let's talk <span class="gradient-text">business</span>
+        </h1>
+        <p class="text-gray-400 text-lg max-w-xl mx-auto leading-relaxed">
+            Ready to partner with us? Send your inquiry via WhatsApp or fill out the form below and we'll get back to you within 24 hours.
+        </p>
+    </div>
+</section>
+
+<div class="gradient-divider max-w-6xl mx-auto"></div>
+
+<!-- Contact section -->
+<section class="py-16 px-4">
+    <div class="max-w-6xl mx-auto grid md:grid-cols-2 gap-10">
+        <!-- Left: info -->
+        <div class="space-y-6">
+            <div>
+                <h2 class="text-2xl font-bold mb-2">Contact Information</h2>
+                <p class="text-gray-400 text-sm leading-relaxed">Our team is available Saturday–Thursday, 9am–7pm (GST). Orders and inquiries are responded to within a few hours during business days.</p>
+            </div>
+
+            <div class="space-y-4">
+                <a id="waDirectLink" href="https://wa.me/" target="_blank" class="card-bg rounded-2xl p-5 flex items-center gap-4 hover:border-green-500/30 transition-colors block">
+                    <div class="w-12 h-12 rounded-xl bg-green-900/30 flex items-center justify-center shrink-0">
+                        <iconify-icon icon="ic:baseline-whatsapp" width="22" class="text-green-400"></iconify-icon>
+                    </div>
+                    <div>
+                        <div class="font-semibold">WhatsApp</div>
+                        <div class="text-gray-400 text-sm">Fastest response — reply within 1–2h</div>
+                    </div>
+                    <iconify-icon icon="lucide:arrow-right" width="16" class="text-gray-500 ml-auto"></iconify-icon>
+                </a>
+
+                <div class="card-bg rounded-2xl p-5 flex items-center gap-4">
+                    <div class="w-12 h-12 rounded-xl bg-purple-900/40 flex items-center justify-center shrink-0">
+                        <iconify-icon icon="lucide:mail" width="20" class="text-purple-400"></iconify-icon>
+                    </div>
+                    <div>
+                        <div class="font-semibold">Email</div>
+                        <div class="text-gray-400 text-sm">wholesale@brotherscents.com</div>
+                    </div>
+                </div>
+
+                <div class="card-bg rounded-2xl p-5 flex items-center gap-4">
+                    <div class="w-12 h-12 rounded-xl bg-purple-900/40 flex items-center justify-center shrink-0">
+                        <iconify-icon icon="lucide:map-pin" width="20" class="text-purple-400"></iconify-icon>
+                    </div>
+                    <div>
+                        <div class="font-semibold">Location</div>
+                        <div class="text-gray-400 text-sm">Dubai, UAE — Shipping across the GCC</div>
+                    </div>
+                </div>
+
+                <div class="card-bg rounded-2xl p-5 flex items-center gap-4">
+                    <div class="w-12 h-12 rounded-xl bg-purple-900/40 flex items-center justify-center shrink-0">
+                        <iconify-icon icon="lucide:clock" width="20" class="text-purple-400"></iconify-icon>
+                    </div>
+                    <div>
+                        <div class="font-semibold">Business Hours</div>
+                        <div class="text-gray-400 text-sm">Sat–Thu 9:00am – 7:00pm GST</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Right: form -->
+        <div class="card-bg rounded-2xl p-8">
+            <h2 class="text-xl font-bold mb-6">Send a wholesale inquiry</h2>
+            <form id="inquiryForm" class="space-y-4">
+                <div class="grid sm:grid-cols-2 gap-4">
+                    <div>
+                        <label class="block text-xs text-gray-400 mb-1.5">Full Name *</label>
+                        <input id="fName" type="text" required placeholder="Ahmed Al-Rashid" class="form-input w-full rounded-xl px-4 py-3 text-sm">
+                    </div>
+                    <div>
+                        <label class="block text-xs text-gray-400 mb-1.5">Company</label>
+                        <input id="fCompany" type="text" placeholder="Al Noor Perfumes LLC" class="form-input w-full rounded-xl px-4 py-3 text-sm">
+                    </div>
+                </div>
+                <div>
+                    <label class="block text-xs text-gray-400 mb-1.5">WhatsApp / Phone *</label>
+                    <input id="fPhone" type="tel" required placeholder="+971 50 123 4567" class="form-input w-full rounded-xl px-4 py-3 text-sm">
+                </div>
+                <div>
+                    <label class="block text-xs text-gray-400 mb-1.5">Country</label>
+                    <select id="fCountry" class="form-input w-full rounded-xl px-4 py-3 text-sm">
+                        <option value="">Select your country</option>
+                        <option>UAE</option>
+                        <option>Saudi Arabia</option>
+                        <option>Kuwait</option>
+                        <option>Qatar</option>
+                        <option>Bahrain</option>
+                        <option>Oman</option>
+                        <option>Other</option>
+                    </select>
+                </div>
+                <div>
+                    <label class="block text-xs text-gray-400 mb-1.5">Message / Order Inquiry *</label>
+                    <textarea id="fMessage" rows="4" required placeholder="Tell us what fragrances you're interested in, approximate quantities, and any questions you have..." class="form-input w-full rounded-xl px-4 py-3 text-sm resize-none"></textarea>
+                </div>
+                <button type="submit" class="w-full flex items-center justify-center gap-2 bg-gradient-to-r from-green-600 to-green-700 text-white font-semibold py-3.5 rounded-xl hover:scale-[1.02] transition-transform text-sm">
+                    <iconify-icon icon="ic:baseline-whatsapp" width="18"></iconify-icon>
+                    Send via WhatsApp
+                </button>
+                <p class="text-gray-500 text-xs text-center">This opens WhatsApp with your message pre-filled</p>
+            </form>
+        </div>
+    </div>
+</section>
+
+<!-- FAQ teaser -->
+<section class="py-12 px-4">
+    <div class="max-w-3xl mx-auto text-center card-bg rounded-2xl p-10">
+        <iconify-icon icon="lucide:help-circle" width="28" class="text-purple-400 mb-4"></iconify-icon>
+        <h3 class="text-xl font-bold mb-3">Have a common question?</h3>
+        <p class="text-gray-400 text-sm mb-6">Check our FAQ page — minimum orders, payment terms, delivery times, and more.</p>
+        <a href="/pages/faq.html" class="inline-flex items-center gap-2 glass-panel px-6 py-3 rounded-xl text-sm font-semibold hover:border-purple-500/40 transition-colors">
+            <iconify-icon icon="lucide:book-open" width="14"></iconify-icon>
+            View FAQ
+        </a>
+    </div>
+</section>
+
+<!-- Footer -->
+<footer class="border-t border-white/5 py-10 px-4">
+    <div class="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
+        <div class="flex items-center gap-2">
+            <div class="w-7 h-7 rounded-lg bg-gradient-to-br from-purple-500 to-indigo-500 flex items-center justify-center">
+                <iconify-icon icon="lucide:droplets" width="14" class="text-white"></iconify-icon>
+            </div>
+            <span class="font-semibold text-sm text-white">BrotherScents</span>
+        </div>
+        <p class="text-gray-500 text-xs">&copy; 2025 BrotherScents. All rights reserved.</p>
+        <div class="flex gap-5 text-xs text-gray-500">
+            <a href="/pages/about.html" class="hover:text-purple-400 transition-colors">About</a>
+            <a href="/pages/services.html" class="hover:text-purple-400 transition-colors">Services</a>
+            <a href="/pages/contact.html" class="hover:text-purple-400 transition-colors">Contact</a>
+        </div>
+    </div>
+</footer>
+
+<a href="https://wa.me/" id="waFloat" class="fixed bottom-6 right-6 z-40 w-14 h-14 rounded-full bg-[#25D366] flex items-center justify-center shadow-lg shadow-green-500/30 hover:scale-110 transition-transform">
+    <iconify-icon icon="ic:baseline-whatsapp" width="26" class="text-white"></iconify-icon>
+</a>
+
+<script>
+    document.getElementById('menuToggle').addEventListener('click', () => document.getElementById('mobileMenu').classList.add('open'));
+    document.getElementById('menuClose').addEventListener('click', () => document.getElementById('mobileMenu').classList.remove('open'));
+
+    let waNumber = '';
+    try {
+        const s = JSON.parse(localStorage.getItem('ls_settings') || '{}');
+        waNumber = s.whatsappNumber || '';
+        if (waNumber) {
+            document.getElementById('waFloat').href = `https://wa.me/${waNumber}`;
+            document.getElementById('waDirectLink').href = `https://wa.me/${waNumber}`;
+        }
+    } catch(_) {}
+
+    document.getElementById('inquiryForm').addEventListener('submit', function(e) {
+        e.preventDefault();
+        const name    = document.getElementById('fName').value.trim();
+        const company = document.getElementById('fCompany').value.trim();
+        const phone   = document.getElementById('fPhone').value.trim();
+        const country = document.getElementById('fCountry').value;
+        const message = document.getElementById('fMessage').value.trim();
+
+        const text = [
+            `*Wholesale Inquiry — BrotherScents*`,
+            `Name: ${name}`,
+            company ? `Company: ${company}` : null,
+            `Phone: ${phone}`,
+            country ? `Country: ${country}` : null,
+            ``,
+            message
+        ].filter(Boolean).join('\n');
+
+        const num = waNumber || '';
+        window.open(`https://wa.me/${num}?text=${encodeURIComponent(text)}`, '_blank');
+    });
+</script>
+</body>
+</html>

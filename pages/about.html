@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en" class="dark scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us — BrotherScents</title>
+    <link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#050505">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    fontFamily: { sans: ['Inter', 'sans-serif'] },
+                    colors: {
+                        purple: { 400:'#c084fc', 500:'#a855f7', 600:'#9333ea', 700:'#7e22ce', 900:'#3b0764' },
+                        gold:   { 400:'#facc15', 500:'#eab308' }
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        * { margin:0; padding:0; box-sizing:border-box; }
+        body { font-family:'Inter',sans-serif; background:#050505; color:#fff; overflow-x:hidden; }
+        ::-webkit-scrollbar { width:6px; }
+        ::-webkit-scrollbar-thumb { background:#3b0764; border-radius:3px; }
+        .glass-panel { background:rgba(255,255,255,0.04); backdrop-filter:blur(12px); border:1px solid rgba(255,255,255,0.08); }
+        .card-bg { background:linear-gradient(180deg,rgba(255,255,255,0.04) 0%,rgba(255,255,255,0.01) 100%); border:1px solid rgba(255,255,255,0.06); }
+        .gradient-text { background:linear-gradient(to right,#e9d5ff,#a855f7,#6366f1); -webkit-background-clip:text; -webkit-text-fill-color:transparent; background-clip:text; }
+        .gradient-text-gold { background:linear-gradient(to right,#fde68a,#f59e0b,#d97706); -webkit-background-clip:text; -webkit-text-fill-color:transparent; background-clip:text; }
+        .gradient-divider { height:1px; background:linear-gradient(to right,transparent,#3b0764,transparent); }
+        .value-card { transition:all 0.3s ease; }
+        .value-card:hover { transform:translateY(-6px); border-color:rgba(168,85,247,0.3); }
+        .mobile-menu { transform:translateX(100%); transition:transform 0.4s cubic-bezier(0.16,1,0.3,1); }
+        .mobile-menu.open { transform:translateX(0); }
+        @keyframes fadeUp { from{opacity:0;transform:translateY(30px)} to{opacity:1;transform:translateY(0)} }
+        .fade-up { animation:fadeUp 0.7s ease forwards; }
+    </style>
+</head>
+<body>
+
+<!-- Nav -->
+<nav class="fixed top-0 left-0 right-0 z-50 glass-panel">
+    <div class="max-w-7xl mx-auto px-4 md:px-6 py-3 flex items-center justify-between">
+        <a href="/index.html" class="flex items-center gap-2">
+            <div class="w-9 h-9 rounded-xl bg-gradient-to-br from-purple-500 to-indigo-500 flex items-center justify-center">
+                <iconify-icon icon="lucide:droplets" width="18" class="text-white"></iconify-icon>
+            </div>
+            <span class="font-semibold text-white text-sm">BrotherScents</span>
+        </a>
+        <div class="hidden lg:flex items-center gap-8">
+            <a href="/index.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Home</a>
+            <a href="/pages/products.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Products</a>
+            <a href="/pages/services.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Services</a>
+            <a href="/pages/about.html" class="text-sm font-medium text-purple-400 transition-colors">About</a>
+            <a href="/pages/faq.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">FAQ</a>
+            <a href="/pages/contact.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Contact</a>
+        </div>
+        <div class="flex items-center gap-3">
+            <a href="/pages/contact.html" class="hidden md:inline-flex items-center gap-2 bg-white text-black text-sm font-semibold px-5 py-2.5 rounded-xl hover:scale-105 transition-transform">
+                <iconify-icon icon="lucide:phone" width="14"></iconify-icon>
+                Get in Touch
+            </a>
+            <button id="menuToggle" class="lg:hidden p-2 rounded-xl hover:bg-white/5 transition-colors">
+                <iconify-icon icon="lucide:menu" width="20" class="text-gray-300"></iconify-icon>
+            </button>
+        </div>
+    </div>
+</nav>
+
+<!-- Mobile menu -->
+<div id="mobileMenu" class="mobile-menu fixed inset-y-0 right-0 w-72 z-50 glass-panel p-6 flex flex-col gap-6">
+    <div class="flex justify-between items-center">
+        <span class="font-semibold text-white">Menu</span>
+        <button id="menuClose" class="p-2 rounded-xl hover:bg-white/5"><iconify-icon icon="lucide:x" width="20" class="text-gray-300"></iconify-icon></button>
+    </div>
+    <nav class="flex flex-col gap-4">
+        <a href="/index.html" class="text-gray-300 hover:text-purple-400 transition-colors">Home</a>
+        <a href="/pages/products.html" class="text-gray-300 hover:text-purple-400 transition-colors">Products</a>
+        <a href="/pages/services.html" class="text-gray-300 hover:text-purple-400 transition-colors">Services</a>
+        <a href="/pages/about.html" class="text-purple-400">About</a>
+        <a href="/pages/faq.html" class="text-gray-300 hover:text-purple-400 transition-colors">FAQ</a>
+        <a href="/pages/contact.html" class="text-gray-300 hover:text-purple-400 transition-colors">Contact</a>
+    </nav>
+</div>
+
+<!-- Hero -->
+<section class="relative pt-32 pb-20 px-4">
+    <div class="absolute inset-0 bg-gradient-to-b from-purple-900/20 via-transparent to-transparent pointer-events-none"></div>
+    <div class="max-w-4xl mx-auto text-center fade-up">
+        <div class="inline-flex items-center gap-2 glass-panel px-4 py-2 rounded-full mb-6 text-purple-300 text-sm">
+            <iconify-icon icon="lucide:sparkles" width="14"></iconify-icon>
+            Our Story
+        </div>
+        <h1 class="text-4xl md:text-6xl font-bold mb-6">
+            Redefining <span class="gradient-text">Luxury Wholesale</span><br>Fragrance
+        </h1>
+        <p class="text-gray-400 text-lg md:text-xl max-w-2xl mx-auto leading-relaxed">
+            BrotherScents connects wholesale buyers across the Gulf region with the world's finest fragrance houses — at prices that make business sense.
+        </p>
+    </div>
+</section>
+
+<div class="gradient-divider max-w-6xl mx-auto"></div>
+
+<!-- Stats -->
+<section class="py-16 px-4">
+    <div class="max-w-5xl mx-auto grid grid-cols-2 md:grid-cols-4 gap-6">
+        <div class="card-bg rounded-2xl p-6 text-center">
+            <div class="text-3xl font-bold gradient-text-gold mb-1">500+</div>
+            <div class="text-gray-400 text-sm">Fragrances</div>
+        </div>
+        <div class="card-bg rounded-2xl p-6 text-center">
+            <div class="text-3xl font-bold gradient-text mb-1">60+</div>
+            <div class="text-gray-400 text-sm">Premium Brands</div>
+        </div>
+        <div class="card-bg rounded-2xl p-6 text-center">
+            <div class="text-3xl font-bold gradient-text-gold mb-1">GCC</div>
+            <div class="text-gray-400 text-sm">Region Coverage</div>
+        </div>
+        <div class="card-bg rounded-2xl p-6 text-center">
+            <div class="text-3xl font-bold gradient-text mb-1">24h</div>
+            <div class="text-gray-400 text-sm">Order Processing</div>
+        </div>
+    </div>
+</section>
+
+<!-- Story -->
+<section class="py-16 px-4">
+    <div class="max-w-6xl mx-auto grid md:grid-cols-2 gap-12 items-center">
+        <div>
+            <div class="inline-flex items-center gap-2 text-purple-400 text-sm font-medium mb-4">
+                <iconify-icon icon="lucide:book-open" width="14"></iconify-icon>
+                WHO WE ARE
+            </div>
+            <h2 class="text-3xl md:text-4xl font-bold mb-6">Built for wholesale, <span class="gradient-text">born in the Gulf</span></h2>
+            <p class="text-gray-400 leading-relaxed mb-4">
+                BrotherScents was founded by fragrance enthusiasts who saw a gap in the Gulf wholesale market — buyers struggled to source authentic, premium perfumes at competitive bulk prices without flying to trade shows or dealing with unreliable distributors.
+            </p>
+            <p class="text-gray-400 leading-relaxed mb-4">
+                We built direct relationships with fragrance houses in France, the UAE, and Saudi Arabia — brands like Lattafa, Afnan, Al Haramain, and international names like Dior and Creed — so our clients skip the middleman entirely.
+            </p>
+            <p class="text-gray-400 leading-relaxed">
+                Today we serve perfume retailers, boutiques, and resellers across the GCC with a catalogue of over 500 authentic fragrances and same-week dispatch.
+            </p>
+        </div>
+        <div class="space-y-4">
+            <div class="card-bg rounded-2xl p-6 flex items-start gap-4">
+                <div class="w-10 h-10 rounded-xl bg-purple-900/40 flex items-center justify-center shrink-0">
+                    <iconify-icon icon="lucide:shield-check" width="18" class="text-purple-400"></iconify-icon>
+                </div>
+                <div>
+                    <h3 class="font-semibold mb-1">100% Authentic</h3>
+                    <p class="text-gray-400 text-sm leading-relaxed">Every bottle sourced directly from brand-authorised distributors. No grey market, no fakes.</p>
+                </div>
+            </div>
+            <div class="card-bg rounded-2xl p-6 flex items-start gap-4">
+                <div class="w-10 h-10 rounded-xl bg-purple-900/40 flex items-center justify-center shrink-0">
+                    <iconify-icon icon="lucide:package" width="18" class="text-purple-400"></iconify-icon>
+                </div>
+                <div>
+                    <h3 class="font-semibold mb-1">Wholesale Pricing</h3>
+                    <p class="text-gray-400 text-sm leading-relaxed">Tiered pricing structures for retailers, boutiques, and large distributors — the more you buy, the less you pay per unit.</p>
+                </div>
+            </div>
+            <div class="card-bg rounded-2xl p-6 flex items-start gap-4">
+                <div class="w-10 h-10 rounded-xl bg-purple-900/40 flex items-center justify-center shrink-0">
+                    <iconify-icon icon="lucide:zap" width="18" class="text-purple-400"></iconify-icon>
+                </div>
+                <div>
+                    <h3 class="font-semibold mb-1">Fast Dispatch</h3>
+                    <p class="text-gray-400 text-sm leading-relaxed">Orders confirmed via WhatsApp, packed, and shipped within 24–48 hours across the GCC.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<div class="gradient-divider max-w-6xl mx-auto"></div>
+
+<!-- Mission cards -->
+<section class="py-16 px-4">
+    <div class="max-w-6xl mx-auto">
+        <div class="text-center mb-12">
+            <div class="inline-flex items-center gap-2 text-purple-400 text-sm font-medium mb-3">
+                <iconify-icon icon="lucide:target" width="14"></iconify-icon>
+                OUR MISSION
+            </div>
+            <h2 class="text-3xl font-bold">What drives us every day</h2>
+        </div>
+        <div class="grid md:grid-cols-3 gap-6">
+            <div class="value-card card-bg rounded-2xl p-8 text-center">
+                <div class="w-14 h-14 rounded-2xl bg-gradient-to-br from-purple-700 to-purple-900 flex items-center justify-center mx-auto mb-5">
+                    <iconify-icon icon="lucide:gem" width="22" class="text-purple-300"></iconify-icon>
+                </div>
+                <h3 class="text-lg font-semibold mb-3">Premium Quality</h3>
+                <p class="text-gray-400 text-sm leading-relaxed">We never compromise on authenticity. Every fragrance in our catalogue passes strict quality verification before reaching our warehouse.</p>
+            </div>
+            <div class="value-card card-bg rounded-2xl p-8 text-center">
+                <div class="w-14 h-14 rounded-2xl bg-gradient-to-br from-yellow-600 to-yellow-900 flex items-center justify-center mx-auto mb-5">
+                    <iconify-icon icon="lucide:handshake" width="22" class="text-yellow-300"></iconify-icon>
+                </div>
+                <h3 class="text-lg font-semibold mb-3">Partner First</h3>
+                <p class="text-gray-400 text-sm leading-relaxed">Our clients aren't customers — they're partners. We offer dedicated account support, flexible payment terms, and priority restocking for repeat buyers.</p>
+            </div>
+            <div class="value-card card-bg rounded-2xl p-8 text-center">
+                <div class="w-14 h-14 rounded-2xl bg-gradient-to-br from-purple-700 to-indigo-900 flex items-center justify-center mx-auto mb-5">
+                    <iconify-icon icon="lucide:globe" width="22" class="text-indigo-300"></iconify-icon>
+                </div>
+                <h3 class="text-lg font-semibold mb-3">Gulf Expertise</h3>
+                <p class="text-gray-400 text-sm leading-relaxed">Deep knowledge of regional preferences — from oud-heavy oriental blends to fresh European classics — helps us stock what actually sells in your market.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Values -->
+<section class="py-16 px-4 bg-white/[0.01]">
+    <div class="max-w-6xl mx-auto">
+        <div class="text-center mb-12">
+            <h2 class="text-3xl font-bold mb-3">Our <span class="gradient-text">Core Values</span></h2>
+            <p class="text-gray-400">The principles that guide every decision we make</p>
+        </div>
+        <div class="grid sm:grid-cols-2 md:grid-cols-4 gap-5">
+            <div class="card-bg rounded-2xl p-6 text-center value-card">
+                <iconify-icon icon="lucide:lock" width="24" class="text-purple-400 mb-3"></iconify-icon>
+                <h4 class="font-semibold mb-2">Integrity</h4>
+                <p class="text-gray-400 text-xs leading-relaxed">Transparent pricing, honest stock levels, no hidden fees.</p>
+            </div>
+            <div class="card-bg rounded-2xl p-6 text-center value-card">
+                <iconify-icon icon="lucide:trending-up" width="24" class="text-gold-400 mb-3"></iconify-icon>
+                <h4 class="font-semibold mb-2">Growth</h4>
+                <p class="text-gray-400 text-xs leading-relaxed">We grow when our partners grow — their success is our metric.</p>
+            </div>
+            <div class="card-bg rounded-2xl p-6 text-center value-card">
+                <iconify-icon icon="lucide:refresh-cw" width="24" class="text-purple-400 mb-3"></iconify-icon>
+                <h4 class="font-semibold mb-2">Reliability</h4>
+                <p class="text-gray-400 text-xs leading-relaxed">Consistent supply chain so your shelves are never empty.</p>
+            </div>
+            <div class="card-bg rounded-2xl p-6 text-center value-card">
+                <iconify-icon icon="lucide:heart" width="24" class="text-gold-400 mb-3"></iconify-icon>
+                <h4 class="font-semibold mb-2">Passion</h4>
+                <p class="text-gray-400 text-xs leading-relaxed">We love fragrance. That passion shows in every order we pack.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- CTA -->
+<section class="py-20 px-4">
+    <div class="max-w-3xl mx-auto text-center">
+        <h2 class="text-3xl md:text-4xl font-bold mb-4">Ready to partner with us?</h2>
+        <p class="text-gray-400 mb-8">Join retailers across the GCC who trust BrotherScents for their wholesale fragrance needs.</p>
+        <div class="flex flex-col sm:flex-row gap-4 justify-center">
+            <a href="/pages/contact.html" class="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-purple-600 to-indigo-600 text-white font-semibold px-8 py-3.5 rounded-xl hover:scale-105 transition-transform">
+                <iconify-icon icon="lucide:message-circle" width="16"></iconify-icon>
+                Contact Us
+            </a>
+            <a href="/pages/products.html" class="inline-flex items-center justify-center gap-2 glass-panel text-white font-semibold px-8 py-3.5 rounded-xl hover:border-purple-500/40 transition-colors">
+                <iconify-icon icon="lucide:package" width="16"></iconify-icon>
+                Browse Catalogue
+            </a>
+        </div>
+    </div>
+</section>
+
+<!-- Footer -->
+<footer class="border-t border-white/5 py-10 px-4">
+    <div class="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
+        <div class="flex items-center gap-2">
+            <div class="w-7 h-7 rounded-lg bg-gradient-to-br from-purple-500 to-indigo-500 flex items-center justify-center">
+                <iconify-icon icon="lucide:droplets" width="14" class="text-white"></iconify-icon>
+            </div>
+            <span class="font-semibold text-sm text-white">BrotherScents</span>
+        </div>
+        <p class="text-gray-500 text-xs">&copy; 2025 BrotherScents. All rights reserved.</p>
+        <div class="flex gap-5 text-xs text-gray-500">
+            <a href="/pages/about.html" class="hover:text-purple-400 transition-colors">About</a>
+            <a href="/pages/services.html" class="hover:text-purple-400 transition-colors">Services</a>
+            <a href="/pages/contact.html" class="hover:text-purple-400 transition-colors">Contact</a>
+        </div>
+    </div>
+</footer>
+
+<!-- WhatsApp float -->
+<a href="https://wa.me/" id="waFloat" class="fixed bottom-6 right-6 z-40 w-14 h-14 rounded-full bg-[#25D366] flex items-center justify-center shadow-lg shadow-green-500/30 hover:scale-110 transition-transform">
+    <iconify-icon icon="ic:baseline-whatsapp" width="26" class="text-white"></iconify-icon>
+</a>
+
+<script>
+    document.getElementById('menuToggle').addEventListener('click', () => document.getElementById('mobileMenu').classList.add('open'));
+    document.getElementById('menuClose').addEventListener('click', () => document.getElementById('mobileMenu').classList.remove('open'));
+
+    // WA float number from settings
+    try {
+        const s = JSON.parse(localStorage.getItem('ls_settings') || '{}');
+        if (s.whatsappNumber) document.getElementById('waFloat').href = `https://wa.me/${s.whatsappNumber}`;
+    } catch(_) {}
+</script>
+</body>
+</html>
