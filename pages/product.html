@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en" class="dark scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product — BrotherScents</title>
+    <link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#050505">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    fontFamily: { sans: ['Inter', 'sans-serif'] },
+                    colors: {
+                        purple: { 400:'#c084fc', 500:'#a855f7', 600:'#9333ea', 700:'#7e22ce', 900:'#3b0764' },
+                        gold:   { 400:'#facc15', 500:'#eab308' }
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        * { margin:0; padding:0; box-sizing:border-box; }
+        body { font-family:'Inter',sans-serif; background:#050505; color:#fff; overflow-x:hidden; }
+        ::-webkit-scrollbar { width:6px; }
+        ::-webkit-scrollbar-thumb { background:#3b0764; border-radius:3px; }
+        .glass-panel { background:rgba(255,255,255,0.04); backdrop-filter:blur(12px); border:1px solid rgba(255,255,255,0.08); }
+        .card-bg { background:linear-gradient(180deg,rgba(255,255,255,0.04) 0%,rgba(255,255,255,0.01) 100%); border:1px solid rgba(255,255,255,0.06); }
+        .gradient-text { background:linear-gradient(to right,#e9d5ff,#a855f7,#6366f1); -webkit-background-clip:text; -webkit-text-fill-color:transparent; background-clip:text; }
+        .gradient-divider { height:1px; background:linear-gradient(to right,transparent,#3b0764,transparent); }
+        .thumb { cursor:pointer; transition:all 0.2s; border:2px solid transparent; }
+        .thumb.active, .thumb:hover { border-color:rgba(168,85,247,0.6); }
+        .related-card { transition:all 0.25s; }
+        .related-card:hover { transform:translateY(-4px); border-color:rgba(168,85,247,0.3); }
+        .related-card:hover img { transform:scale(1.05); }
+        .related-card img { transition:transform 0.4s; }
+        @keyframes shimmer { 0%{background-position:-200% 0} 100%{background-position:200% 0} }
+        .skeleton { background:linear-gradient(90deg,rgba(255,255,255,0.03) 25%,rgba(255,255,255,0.07) 50%,rgba(255,255,255,0.03) 75%); background-size:200% 100%; animation:shimmer 1.5s infinite; border-radius:16px; }
+    </style>
+</head>
+<body>
+
+<!-- Nav -->
+<nav class="fixed top-0 left-0 right-0 z-50 glass-panel">
+    <div class="max-w-7xl mx-auto px-4 py-3 flex items-center justify-between">
+        <a id="backLink" href="/pages/brands.html" class="flex items-center gap-2 text-sm text-gray-400 hover:text-purple-400 transition-colors">
+            <iconify-icon icon="lucide:arrow-left" width="14"></iconify-icon>
+            <span id="backLabel">Brands</span>
+        </a>
+        <a href="/index.html" class="flex items-center gap-2">
+            <div class="w-8 h-8 rounded-xl bg-gradient-to-br from-purple-500 to-indigo-500 flex items-center justify-center">
+                <iconify-icon icon="lucide:droplets" width="16" class="text-white"></iconify-icon>
+            </div>
+            <span class="font-semibold text-white text-sm hidden sm:block">BrotherScents</span>
+        </a>
+        <a href="/pages/contact.html" class="inline-flex items-center gap-2 bg-white text-black text-xs font-semibold px-4 py-2 rounded-xl hover:scale-105 transition-transform">
+            <iconify-icon icon="lucide:phone" width="12"></iconify-icon>
+            Order
+        </a>
+    </div>
+</nav>
+
+<!-- Breadcrumb -->
+<div id="breadcrumb" class="pt-20 pb-2 px-4 max-w-7xl mx-auto">
+    <div class="flex items-center gap-2 text-xs text-gray-500">
+        <a href="/index.html" class="hover:text-purple-400 transition-colors">Home</a>
+        <iconify-icon icon="lucide:chevron-right" width="10"></iconify-icon>
+        <a href="/pages/brands.html" class="hover:text-purple-400 transition-colors">Brands</a>
+        <iconify-icon icon="lucide:chevron-right" width="10"></iconify-icon>
+        <a id="bcBrand" href="#" class="hover:text-purple-400 transition-colors">…</a>
+        <iconify-icon icon="lucide:chevron-right" width="10"></iconify-icon>
+        <span id="bcProduct" class="text-gray-400 truncate max-w-[200px]">…</span>
+    </div>
+</div>
+
+<!-- Product detail -->
+<main class="max-w-7xl mx-auto px-4 py-8" id="productSection">
+    <div class="grid md:grid-cols-2 gap-10 lg:gap-16">
+
+        <!-- Images -->
+        <div class="space-y-3">
+            <div class="relative aspect-square bg-gray-900/50 rounded-2xl overflow-hidden" id="mainImgWrap">
+                <div class="skeleton w-full h-full"></div>
+            </div>
+            <div id="thumbStrip" class="flex gap-2 overflow-x-auto pb-1"></div>
+        </div>
+
+        <!-- Info -->
+        <div class="flex flex-col gap-5" id="productInfo">
+            <div class="skeleton h-8 w-3/4 rounded-xl"></div>
+            <div class="skeleton h-16 rounded-xl"></div>
+            <div class="skeleton h-10 w-1/2 rounded-xl"></div>
+        </div>
+    </div>
+</main>
+
+<div class="gradient-divider max-w-7xl mx-auto mt-4 mb-10"></div>
+
+<!-- Related products -->
+<section class="max-w-7xl mx-auto px-4 pb-24">
+    <h2 class="text-lg font-semibold mb-6">More from <span id="relatedBrandName" class="gradient-text">this brand</span></h2>
+    <div id="relatedGrid" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-4">
+        <div class="skeleton aspect-[3/4]"></div><div class="skeleton aspect-[3/4]"></div>
+        <div class="skeleton aspect-[3/4]"></div><div class="skeleton aspect-[3/4]"></div>
+    </div>
+</section>
+
+<!-- Footer -->
+<footer class="border-t border-white/5 py-8 px-4">
+    <div class="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
+        <div class="flex items-center gap-2">
+            <div class="w-7 h-7 rounded-lg bg-gradient-to-br from-purple-500 to-indigo-500 flex items-center justify-center">
+                <iconify-icon icon="lucide:droplets" width="14" class="text-white"></iconify-icon>
+            </div>
+            <span class="font-semibold text-sm">BrotherScents</span>
+        </div>
+        <p class="text-gray-500 text-xs">&copy; 2025 BrotherScents. All rights reserved.</p>
+    </div>
+</footer>
+
+<a href="https://wa.me/" id="waFloat" class="fixed bottom-6 right-6 z-40 w-14 h-14 rounded-full bg-[#25D366] flex items-center justify-center shadow-lg shadow-green-500/30 hover:scale-110 transition-transform">
+    <iconify-icon icon="ic:baseline-whatsapp" width="26" class="text-white"></iconify-icon>
+</a>
+
+<script>
+try { const s = JSON.parse(localStorage.getItem('ls_settings')||'{}'); if(s.whatsappNumber) document.getElementById('waFloat').href=`https://wa.me/${s.whatsappNumber}`; } catch(_){}
+
+const params  = new URLSearchParams(location.search);
+const brand   = params.get('brand');
+const handle  = params.get('handle');
+
+// Update nav/breadcrumb back link
+if (brand) {
+    document.getElementById('backLink').href = `/pages/brand-samawa.html?slug=${encodeURIComponent(brand)}`;
+    document.getElementById('backLabel').textContent = brand;
+    document.getElementById('bcBrand').href  = `/pages/brand-samawa.html?slug=${encodeURIComponent(brand)}`;
+    document.getElementById('bcBrand').textContent = brand;
+}
+
+if (!brand || !handle) {
+    document.getElementById('productInfo').innerHTML = '<p class="text-gray-500">Product not found.</p>';
+} else {
+    fetch(`/scraper/output/by-brand/${encodeURIComponent(brand)}.json`)
+        .then(r => { if (!r.ok) throw new Error('Brand data not found'); return r.json(); })
+        .then(data => {
+            const product = data.products.find(p => p.handle === handle);
+            if (!product) throw new Error('Product not found in brand file');
+            renderProduct(product, data);
+        })
+        .catch(err => {
+            document.getElementById('productInfo').innerHTML = `<p class="text-gray-500">${err.message}</p>`;
+            document.getElementById('mainImgWrap').innerHTML = '';
+        });
+}
+
+function renderProduct(p, brandData) {
+    document.title = `${p.name} — BrotherScents`;
+    document.getElementById('bcProduct').textContent = p.name;
+    document.getElementById('bcBrand').textContent   = p.brand;
+    document.getElementById('relatedBrandName').textContent = p.brand;
+
+    // Main image
+    const mainWrap = document.getElementById('mainImgWrap');
+    mainWrap.innerHTML = p.img
+        ? `<img id="mainImg" src="${p.img}" alt="${p.name}" class="w-full h-full object-cover">`
+        : `<div class="w-full h-full flex items-center justify-center"><iconify-icon icon="lucide:sparkles" width="48" class="text-purple-800"></iconify-icon></div>`;
+
+    // Thumb strip (use same img for now — full product fetch would give more)
+    const thumbStrip = document.getElementById('thumbStrip');
+    if (p.img) {
+        thumbStrip.innerHTML = `<img src="${p.img}" class="thumb active w-20 h-20 rounded-xl object-cover">`;
+    }
+
+    // Badge
+    const badge = p.badge ? `<span class="inline-block bg-gradient-to-r from-amber-500 to-yellow-500 text-black text-[10px] font-bold px-2.5 py-0.5 rounded-full">${p.badge}</span>` : '';
+
+    // Price block
+    const priceBlock = `
+        <div class="flex items-baseline gap-3">
+            <span class="text-3xl font-bold text-purple-300">AED ${(p.price_gros||0).toFixed(0)}</span>
+            ${p.price_retail && p.price_retail !== p.price_gros
+                ? `<span class="text-gray-500 line-through text-lg">AED ${p.price_retail.toFixed(0)}</span>
+                   <span class="text-green-400 text-sm font-semibold">Save AED ${(p.price_retail - p.price_gros).toFixed(0)}</span>`
+                : ''}
+        </div>`;
+
+    // WA order message
+    const waMsg = encodeURIComponent(`Hi BrotherScents,\n\nI'm interested in ordering:\n*${p.name}*\nBrand: ${p.brand}\nSize: ${p.size}\nPrice: AED ${(p.price_gros||0).toFixed(0)}\n\nPlease confirm availability and payment details.`);
+    let waNum = '';
+    try { waNum = JSON.parse(localStorage.getItem('ls_settings')||'{}').whatsappNumber || ''; } catch(_){}
+
+    // Tags pills
+    const tagList = Array.isArray(p.tags) ? p.tags : (p.tags||'').split(',').map(t=>t.trim()).filter(Boolean);
+    const tagPills = tagList.length ? `<div class="flex flex-wrap gap-2">${tagList.map(t => `<span class="text-[10px] border border-white/10 text-gray-400 px-2.5 py-1 rounded-full">${t}</span>`).join('')}</div>` : '';
+
+    document.getElementById('productInfo').innerHTML = `
+        <div class="space-y-5">
+            <div>
+                <div class="flex items-center gap-2 mb-2">
+                    <span class="text-xs font-semibold text-purple-400 uppercase tracking-widest">${p.brand}</span>
+                    ${badge}
+                </div>
+                <h1 class="text-2xl md:text-3xl font-bold leading-snug">${p.name}</h1>
+            </div>
+
+            <div class="flex items-center gap-4 text-sm text-gray-400">
+                <span class="flex items-center gap-1.5"><iconify-icon icon="lucide:ruler" width="13"></iconify-icon>${p.size}</span>
+                <span class="flex items-center gap-1.5"><iconify-icon icon="lucide:tag" width="13"></iconify-icon>${p.category_slug}</span>
+                ${p.sku ? `<span class="flex items-center gap-1.5 text-gray-600"><iconify-icon icon="lucide:hash" width="13"></iconify-icon>${p.sku}</span>` : ''}
+            </div>
+
+            ${priceBlock}
+
+            <p class="text-xs text-gray-500">Wholesale price · Min. order 10 units · Sign in to see bulk tiers</p>
+
+            <div class="flex flex-col sm:flex-row gap-3">
+                <a href="https://wa.me/${waNum}?text=${waMsg}" target="_blank"
+                   class="flex-1 flex items-center justify-center gap-2 bg-[#25D366] hover:bg-[#1fba5a] text-white font-semibold py-3.5 rounded-xl transition-colors text-sm">
+                    <iconify-icon icon="ic:baseline-whatsapp" width="18"></iconify-icon>
+                    Order via WhatsApp
+                </a>
+                ${p.product_url ? `
+                <a href="${p.product_url}" target="_blank" rel="noopener"
+                   class="flex items-center justify-center gap-2 glass-panel px-5 py-3.5 rounded-xl text-sm hover:border-purple-500/40 transition-colors">
+                    <iconify-icon icon="lucide:external-link" width="14"></iconify-icon>
+                    View on Samawa
+                </a>` : ''}
+            </div>
+
+            <div class="card-bg rounded-xl p-4 space-y-3">
+                <div class="flex items-center gap-2 text-sm"><iconify-icon icon="lucide:shield-check" width="14" class="text-purple-400"></iconify-icon><span class="text-gray-300">100% Authentic</span></div>
+                <div class="flex items-center gap-2 text-sm"><iconify-icon icon="lucide:truck" width="14" class="text-purple-400"></iconify-icon><span class="text-gray-300">Fast dispatch across GCC</span></div>
+                <div class="flex items-center gap-2 text-sm"><iconify-icon icon="lucide:refresh-cw" width="14" class="text-purple-400"></iconify-icon><span class="text-gray-300">Wholesale pricing available</span></div>
+            </div>
+
+            ${tagPills}
+        </div>`;
+
+    // Related products (exclude current, take up to 12)
+    const related = brandData.products
+        .filter(r => r.handle !== handle && r.img)
+        .slice(0, 12);
+
+    const relGrid = document.getElementById('relatedGrid');
+    if (!related.length) {
+        relGrid.innerHTML = '<p class="col-span-full text-gray-600 text-sm">No other products from this brand.</p>';
+    } else {
+        relGrid.innerHTML = related.map(r => {
+            const href = r.handle
+                ? `/pages/product.html?brand=${encodeURIComponent(brand)}&handle=${encodeURIComponent(r.handle)}`
+                : (r.product_url || '#');
+            return `
+            <a href="${href}" class="related-card card-bg rounded-xl overflow-hidden block">
+                <div class="relative aspect-square bg-gray-900/50 overflow-hidden">
+                    <img src="${r.img}" alt="${r.name}" class="w-full h-full object-cover" onerror="this.style.opacity='0'">
+                </div>
+                <div class="p-2.5">
+                    <p class="text-[11px] text-gray-300 leading-tight line-clamp-2">${r.name}</p>
+                    ${r.price_gros ? `<p class="text-purple-300 text-xs font-semibold mt-1">AED ${r.price_gros.toFixed(0)}</p>` : ''}
+                </div>
+            </a>`;
+        }).join('');
+    }
+}
+</script>
+</body>
+</html>

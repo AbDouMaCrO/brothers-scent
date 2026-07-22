@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en" class="dark scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>All Brands — BrotherScents</title>
+    <link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#050505">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    fontFamily: { sans: ['Inter', 'sans-serif'] },
+                    colors: {
+                        purple: { 400:'#c084fc', 500:'#a855f7', 600:'#9333ea', 700:'#7e22ce', 900:'#3b0764' },
+                        gold:   { 400:'#facc15', 500:'#eab308' }
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        * { margin:0; padding:0; box-sizing:border-box; }
+        body { font-family:'Inter',sans-serif; background:#050505; color:#fff; overflow-x:hidden; }
+        ::-webkit-scrollbar { width:6px; }
+        ::-webkit-scrollbar-thumb { background:#3b0764; border-radius:3px; }
+        .glass-panel { background:rgba(255,255,255,0.04); backdrop-filter:blur(12px); border:1px solid rgba(255,255,255,0.08); }
+        .card-bg { background:linear-gradient(180deg,rgba(255,255,255,0.04) 0%,rgba(255,255,255,0.01) 100%); border:1px solid rgba(255,255,255,0.06); }
+        .gradient-text { background:linear-gradient(to right,#e9d5ff,#a855f7,#6366f1); -webkit-background-clip:text; -webkit-text-fill-color:transparent; background-clip:text; }
+        .gradient-divider { height:1px; background:linear-gradient(to right,transparent,#3b0764,transparent); }
+        .brand-card { transition:all 0.25s ease; cursor:pointer; }
+        .brand-card:hover { transform:translateY(-5px); border-color:rgba(168,85,247,0.35); }
+        .brand-card:hover .brand-img { transform:scale(1.06); }
+        .brand-img { transition:transform 0.4s ease; }
+        .mobile-menu { transform:translateX(100%); transition:transform 0.4s cubic-bezier(0.16,1,0.3,1); }
+        .mobile-menu.open { transform:translateX(0); }
+        @keyframes shimmer { 0%{background-position:-200% 0} 100%{background-position:200% 0} }
+        .skeleton { background:linear-gradient(90deg,rgba(255,255,255,0.03) 25%,rgba(255,255,255,0.07) 50%,rgba(255,255,255,0.03) 75%); background-size:200% 100%; animation:shimmer 1.5s infinite; border-radius:16px; }
+        .search-input:focus { outline:none; border-color:rgba(168,85,247,0.6); }
+    </style>
+</head>
+<body>
+
+<!-- Nav -->
+<nav class="fixed top-0 left-0 right-0 z-50 glass-panel">
+    <div class="max-w-7xl mx-auto px-4 md:px-6 py-3 flex items-center justify-between">
+        <a href="/index.html" class="flex items-center gap-2">
+            <div class="w-9 h-9 rounded-xl bg-gradient-to-br from-purple-500 to-indigo-500 flex items-center justify-center">
+                <iconify-icon icon="lucide:droplets" width="18" class="text-white"></iconify-icon>
+            </div>
+            <span class="font-semibold text-white text-sm">BrotherScents</span>
+        </a>
+        <div class="hidden lg:flex items-center gap-8">
+            <a href="/index.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Home</a>
+            <a href="/pages/products.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Products</a>
+            <a href="/pages/brands.html" class="text-sm font-medium text-purple-400">Brands</a>
+            <a href="/pages/services.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Services</a>
+            <a href="/pages/about.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">About</a>
+            <a href="/pages/contact.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Contact</a>
+        </div>
+        <div class="flex items-center gap-3">
+            <a href="/pages/contact.html" class="hidden md:inline-flex items-center gap-2 bg-white text-black text-sm font-semibold px-5 py-2.5 rounded-xl hover:scale-105 transition-transform">
+                <iconify-icon icon="lucide:phone" width="14"></iconify-icon>
+                Order Now
+            </a>
+            <button id="menuToggle" class="lg:hidden p-2 rounded-xl hover:bg-white/5">
+                <iconify-icon icon="lucide:menu" width="20" class="text-gray-300"></iconify-icon>
+            </button>
+        </div>
+    </div>
+</nav>
+
+<!-- Mobile menu -->
+<div id="mobileMenu" class="mobile-menu fixed inset-y-0 right-0 w-72 z-50 glass-panel p-6 flex flex-col gap-6">
+    <div class="flex justify-between items-center">
+        <span class="font-semibold">Menu</span>
+        <button id="menuClose"><iconify-icon icon="lucide:x" width="20" class="text-gray-300"></iconify-icon></button>
+    </div>
+    <nav class="flex flex-col gap-4 text-sm">
+        <a href="/index.html" class="text-gray-300 hover:text-purple-400">Home</a>
+        <a href="/pages/products.html" class="text-gray-300 hover:text-purple-400">Products</a>
+        <a href="/pages/brands.html" class="text-purple-400">Brands</a>
+        <a href="/pages/services.html" class="text-gray-300 hover:text-purple-400">Services</a>
+        <a href="/pages/about.html" class="text-gray-300 hover:text-purple-400">About</a>
+        <a href="/pages/contact.html" class="text-gray-300 hover:text-purple-400">Contact</a>
+    </nav>
+</div>
+
+<!-- Hero -->
+<section class="pt-28 pb-10 px-4 text-center relative">
+    <div class="absolute inset-0 bg-gradient-to-b from-purple-900/15 to-transparent pointer-events-none"></div>
+    <div class="relative z-10">
+        <div class="inline-flex items-center gap-2 glass-panel px-4 py-2 rounded-full mb-5 text-purple-300 text-sm">
+            <iconify-icon icon="lucide:building-2" width="14"></iconify-icon>
+            Brand Directory
+        </div>
+        <h1 class="text-4xl md:text-5xl font-bold mb-3">
+            <span class="gradient-text">893 Brands</span> in our catalogue
+        </h1>
+        <p class="text-gray-400 mb-8 text-sm">Every major fragrance house — browse by brand, explore their full product range.</p>
+
+        <!-- Search -->
+        <div class="max-w-md mx-auto relative">
+            <iconify-icon icon="lucide:search" width="16" class="absolute left-4 top-1/2 -translate-y-1/2 text-gray-500"></iconify-icon>
+            <input id="searchInput" type="text" placeholder="Search brand…"
+                class="search-input w-full bg-white/5 border border-white/10 text-white placeholder-gray-500 rounded-xl pl-10 pr-4 py-3 text-sm">
+        </div>
+    </div>
+</section>
+
+<!-- Sort / stats bar -->
+<div class="max-w-7xl mx-auto px-4 mb-6 flex items-center justify-between">
+    <span id="countLabel" class="text-gray-500 text-sm">Loading…</span>
+    <select id="sortSelect" class="bg-white/5 border border-white/10 text-gray-300 text-sm rounded-xl px-3 py-2 outline-none">
+        <option value="count">Most Products</option>
+        <option value="name">A–Z</option>
+    </select>
+</div>
+
+<div class="gradient-divider max-w-7xl mx-auto mb-8"></div>
+
+<!-- Grid -->
+<main class="max-w-7xl mx-auto px-4 pb-24">
+    <div id="grid" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-4">
+        <!-- skeletons -->
+        <div class="skeleton h-56"></div><div class="skeleton h-56"></div>
+        <div class="skeleton h-56"></div><div class="skeleton h-56"></div>
+        <div class="skeleton h-56"></div><div class="skeleton h-56"></div>
+    </div>
+    <p id="emptyMsg" class="hidden text-center text-gray-500 mt-16 text-sm">No brands match your search.</p>
+</main>
+
+<!-- Footer -->
+<footer class="border-t border-white/5 py-8 px-4">
+    <div class="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
+        <div class="flex items-center gap-2">
+            <div class="w-7 h-7 rounded-lg bg-gradient-to-br from-purple-500 to-indigo-500 flex items-center justify-center">
+                <iconify-icon icon="lucide:droplets" width="14" class="text-white"></iconify-icon>
+            </div>
+            <span class="font-semibold text-sm">BrotherScents</span>
+        </div>
+        <p class="text-gray-500 text-xs">&copy; 2025 BrotherScents. All rights reserved.</p>
+    </div>
+</footer>
+
+<a href="https://wa.me/" id="waFloat" class="fixed bottom-6 right-6 z-40 w-14 h-14 rounded-full bg-[#25D366] flex items-center justify-center shadow-lg shadow-green-500/30 hover:scale-110 transition-transform">
+    <iconify-icon icon="ic:baseline-whatsapp" width="26" class="text-white"></iconify-icon>
+</a>
+
+<script>
+document.getElementById('menuToggle').addEventListener('click', () => document.getElementById('mobileMenu').classList.add('open'));
+document.getElementById('menuClose').addEventListener('click', () => document.getElementById('mobileMenu').classList.remove('open'));
+try { const s = JSON.parse(localStorage.getItem('ls_settings')||'{}'); if(s.whatsappNumber) document.getElementById('waFloat').href=`https://wa.me/${s.whatsappNumber}`; } catch(_){}
+
+let allBrands = [];
+
+fetch('/scraper/output/brand-index.json')
+    .then(r => { if (!r.ok) throw new Error('brand-index not found'); return r.json(); })
+    .then(data => {
+        allBrands = data.brands;
+        document.querySelector('h1').innerHTML = `<span class="gradient-text">${data.total_brands} Brands</span> in our catalogue`;
+        render(allBrands);
+    })
+    .catch(err => {
+        document.getElementById('grid').innerHTML = `<p class="col-span-full text-center text-gray-500 py-20">Failed to load brands. Run the scraper first.<br><small class="text-gray-600">${err.message}</small></p>`;
+    });
+
+function render(brands) {
+    const grid = document.getElementById('grid');
+    const empty = document.getElementById('emptyMsg');
+    document.getElementById('countLabel').textContent = `${brands.length} brands`;
+
+    if (!brands.length) {
+        grid.innerHTML = '';
+        empty.classList.remove('hidden');
+        return;
+    }
+    empty.classList.add('hidden');
+
+    grid.innerHTML = brands.map(b => {
+        const img = b.img
+            ? `<img src="${b.img}" alt="${b.name}" class="brand-img w-full h-full object-cover" onerror="this.parentElement.innerHTML='<div class=\'w-full h-full flex items-center justify-center\'><iconify-icon icon=\'lucide:sparkles\' width=\'28\' class=\'text-purple-800\'></iconify-icon></div>'">`
+            : `<div class="w-full h-full flex items-center justify-center"><iconify-icon icon="lucide:sparkles" width="28" class="text-purple-800"></iconify-icon></div>`;
+
+        return `
+        <a href="/pages/brand-samawa.html?slug=${encodeURIComponent(b.slug)}" class="brand-card card-bg rounded-2xl overflow-hidden block">
+            <div class="relative h-40 bg-gray-900/50 overflow-hidden">
+                ${img}
+                <div class="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div>
+                <div class="absolute bottom-2 right-2 bg-purple-600/80 text-white text-[9px] font-bold px-1.5 py-0.5 rounded-full">${b.count}</div>
+            </div>
+            <div class="p-3">
+                <p class="text-xs font-semibold text-white leading-tight truncate">${b.name}</p>
+                <p class="text-[10px] text-gray-500 mt-0.5">${b.count} products</p>
+            </div>
+        </a>`;
+    }).join('');
+}
+
+function filterAndSort() {
+    const q    = document.getElementById('searchInput').value.toLowerCase();
+    const sort = document.getElementById('sortSelect').value;
+    let filtered = allBrands.filter(b => b.name.toLowerCase().includes(q));
+    if (sort === 'name') filtered.sort((a, b) => a.name.localeCompare(b.name));
+    render(filtered);
+}
+
+document.getElementById('searchInput').addEventListener('input', filterAndSort);
+document.getElementById('sortSelect').addEventListener('change', filterAndSort);
+</script>
+</body>
+</html>

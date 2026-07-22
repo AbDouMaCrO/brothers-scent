@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en" class="dark scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brand — BrotherScents</title>
+    <link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#050505">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    fontFamily: { sans: ['Inter', 'sans-serif'] },
+                    colors: {
+                        purple: { 400:'#c084fc', 500:'#a855f7', 600:'#9333ea', 700:'#7e22ce', 900:'#3b0764' },
+                        gold:   { 400:'#facc15', 500:'#eab308' }
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        * { margin:0; padding:0; box-sizing:border-box; }
+        body { font-family:'Inter',sans-serif; background:#050505; color:#fff; overflow-x:hidden; }
+        ::-webkit-scrollbar { width:6px; }
+        ::-webkit-scrollbar-thumb { background:#3b0764; border-radius:3px; }
+        .glass-panel { background:rgba(255,255,255,0.04); backdrop-filter:blur(12px); border:1px solid rgba(255,255,255,0.08); }
+        .card-bg { background:linear-gradient(180deg,rgba(255,255,255,0.04) 0%,rgba(255,255,255,0.01) 100%); border:1px solid rgba(255,255,255,0.06); }
+        .gradient-text { background:linear-gradient(to right,#e9d5ff,#a855f7,#6366f1); -webkit-background-clip:text; -webkit-text-fill-color:transparent; background-clip:text; }
+        .gradient-text-gold { background:linear-gradient(to right,#fde68a,#f59e0b,#d97706); -webkit-background-clip:text; -webkit-text-fill-color:transparent; background-clip:text; }
+        .gradient-divider { height:1px; background:linear-gradient(to right,transparent,#3b0764,transparent); }
+        .product-card { transition:all 0.25s ease; }
+        .product-card:hover { transform:translateY(-5px); border-color:rgba(168,85,247,0.35); }
+        .product-card:hover .prod-img { transform:scale(1.06); }
+        .prod-img { transition:transform 0.4s ease; position:absolute; inset:0; width:100%; height:100%; object-fit:cover; }
+        .filter-pill { transition:all 0.2s; cursor:pointer; }
+        .filter-pill.active { background:#9333ea; color:#fff; border-color:#9333ea; }
+        .filter-pill:not(.active):hover { border-color:rgba(168,85,247,0.5); color:#c084fc; }
+        @keyframes shimmer { 0%{background-position:-200% 0} 100%{background-position:200% 0} }
+        .skeleton { background:linear-gradient(90deg,rgba(255,255,255,0.03) 25%,rgba(255,255,255,0.07) 50%,rgba(255,255,255,0.03) 75%); background-size:200% 100%; animation:shimmer 1.5s infinite; border-radius:16px; }
+    </style>
+</head>
+<body>
+
+<!-- Nav -->
+<nav class="fixed top-0 left-0 right-0 z-50 glass-panel">
+    <div class="max-w-7xl mx-auto px-4 md:px-6 py-3 flex items-center justify-between">
+        <a href="/pages/brands.html" class="flex items-center gap-2 text-sm text-gray-400 hover:text-purple-400 transition-colors">
+            <iconify-icon icon="lucide:arrow-left" width="14"></iconify-icon>
+            All Brands
+        </a>
+        <a href="/index.html" class="flex items-center gap-2">
+            <div class="w-8 h-8 rounded-xl bg-gradient-to-br from-purple-500 to-indigo-500 flex items-center justify-center">
+                <iconify-icon icon="lucide:droplets" width="16" class="text-white"></iconify-icon>
+            </div>
+            <span class="font-semibold text-white text-sm hidden sm:block">BrotherScents</span>
+        </a>
+        <a href="/pages/contact.html" class="inline-flex items-center gap-2 bg-white text-black text-xs font-semibold px-4 py-2 rounded-xl hover:scale-105 transition-transform">
+            <iconify-icon icon="lucide:phone" width="12"></iconify-icon>
+            Order
+        </a>
+    </div>
+</nav>
+
+<!-- Brand hero -->
+<header class="pt-24 pb-12 px-4 relative overflow-hidden">
+    <div class="absolute inset-0 pointer-events-none" style="background:radial-gradient(ellipse 60% 40% at 50% 0%,rgba(168,85,247,0.12) 0%,transparent 70%)"></div>
+    <div class="max-w-5xl mx-auto relative z-10 flex flex-col md:flex-row items-center md:items-end gap-6">
+        <!-- Brand image -->
+        <div id="heroImgWrap" class="w-28 h-28 rounded-2xl card-bg overflow-hidden flex items-center justify-center shrink-0">
+            <iconify-icon icon="lucide:sparkles" width="32" class="text-purple-800"></iconify-icon>
+        </div>
+        <div class="text-center md:text-left flex-1">
+            <p class="text-xs font-semibold uppercase tracking-widest text-purple-400 mb-2">Brand</p>
+            <h1 id="brandName" class="text-4xl md:text-5xl font-bold gradient-text mb-2">Loading…</h1>
+            <p id="brandMeta" class="text-gray-500 text-sm"></p>
+        </div>
+    </div>
+</header>
+
+<div class="gradient-divider max-w-7xl mx-auto"></div>
+
+<!-- Filters -->
+<div class="max-w-7xl mx-auto px-4 py-5 flex flex-wrap gap-3 items-center">
+    <div class="relative flex-1 min-w-[180px]">
+        <iconify-icon icon="lucide:search" width="14" class="absolute left-3 top-1/2 -translate-y-1/2 text-gray-500"></iconify-icon>
+        <input id="searchInput" type="text" placeholder="Search products…"
+            class="w-full bg-white/5 border border-white/10 text-white placeholder-gray-500 rounded-xl pl-9 pr-4 py-2 text-sm outline-none focus:border-purple-500/50">
+    </div>
+    <select id="catFilter" class="bg-white/5 border border-white/10 text-gray-300 text-sm rounded-xl px-3 py-2 outline-none">
+        <option value="">All Categories</option>
+        <option value="homme">Men</option>
+        <option value="femme">Women</option>
+        <option value="unisexe">Unisex</option>
+        <option value="oriental">Oriental / Arabic</option>
+        <option value="niche">Niche</option>
+    </select>
+    <select id="sortSelect" class="bg-white/5 border border-white/10 text-gray-300 text-sm rounded-xl px-3 py-2 outline-none">
+        <option value="default">Default</option>
+        <option value="price-asc">Price: Low → High</option>
+        <option value="price-desc">Price: High → Low</option>
+        <option value="name">Name A–Z</option>
+    </select>
+    <span id="countLabel" class="text-gray-500 text-xs ml-auto"></span>
+</div>
+
+<!-- Grid -->
+<main class="max-w-7xl mx-auto px-4 pb-24">
+    <div id="grid" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4">
+        <div class="skeleton aspect-[3/4]"></div><div class="skeleton aspect-[3/4]"></div>
+        <div class="skeleton aspect-[3/4]"></div><div class="skeleton aspect-[3/4]"></div>
+        <div class="skeleton aspect-[3/4]"></div>
+    </div>
+
+    <!-- Load more -->
+    <div class="text-center mt-10">
+        <button id="loadMoreBtn" class="hidden glass-panel px-8 py-3 rounded-xl text-sm font-medium hover:border-purple-500/40 transition-colors">
+            Load more
+        </button>
+    </div>
+</main>
+
+<!-- Footer -->
+<footer class="border-t border-white/5 py-8 px-4">
+    <div class="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
+        <div class="flex items-center gap-2">
+            <div class="w-7 h-7 rounded-lg bg-gradient-to-br from-purple-500 to-indigo-500 flex items-center justify-center">
+                <iconify-icon icon="lucide:droplets" width="14" class="text-white"></iconify-icon>
+            </div>
+            <span class="font-semibold text-sm">BrotherScents</span>
+        </div>
+        <p class="text-gray-500 text-xs">&copy; 2025 BrotherScents. All rights reserved.</p>
+    </div>
+</footer>
+
+<a href="https://wa.me/" id="waFloat" class="fixed bottom-6 right-6 z-40 w-14 h-14 rounded-full bg-[#25D366] flex items-center justify-center shadow-lg shadow-green-500/30 hover:scale-110 transition-transform">
+    <iconify-icon icon="ic:baseline-whatsapp" width="26" class="text-white"></iconify-icon>
+</a>
+
+<script>
+try { const s = JSON.parse(localStorage.getItem('ls_settings')||'{}'); if(s.whatsappNumber) document.getElementById('waFloat').href=`https://wa.me/${s.whatsappNumber}`; } catch(_){}
+
+const params = new URLSearchParams(location.search);
+const slug   = params.get('slug');
+
+if (!slug) { document.getElementById('brandName').textContent = 'Brand not found'; }
+else {
+    fetch(`/scraper/output/by-brand/${encodeURIComponent(slug)}.json`)
+        .then(r => { if (!r.ok) throw new Error('Brand data not found'); return r.json(); })
+        .then(init)
+        .catch(err => {
+            document.getElementById('brandName').textContent = 'Not found';
+            document.getElementById('grid').innerHTML = `<p class="col-span-full text-center text-gray-500 py-20">${err.message}</p>`;
+        });
+}
+
+const PAGE_SIZE = 30;
+let allProducts = [], filtered = [], page = 0;
+
+function init(data) {
+    document.title = `${data.name} — BrotherScents`;
+    document.getElementById('brandName').textContent = data.name;
+    document.getElementById('brandMeta').textContent = `${data.products.length} products`;
+
+    // Hero image
+    const heroImg = data.products.find(p => p.img)?.img;
+    if (heroImg) {
+        const wrap = document.getElementById('heroImgWrap');
+        wrap.innerHTML = `<img src="${heroImg}" alt="${data.name}" class="w-full h-full object-cover">`;
+    }
+
+    allProducts = data.products;
+    applyFilters();
+}
+
+function applyFilters() {
+    const q    = document.getElementById('searchInput').value.toLowerCase();
+    const cat  = document.getElementById('catFilter').value;
+    const sort = document.getElementById('sortSelect').value;
+
+    filtered = allProducts.filter(p => {
+        const matchQ   = !q || p.name.toLowerCase().includes(q);
+        const matchCat = !cat || p.category_slug === cat;
+        return matchQ && matchCat;
+    });
+
+    if (sort === 'price-asc')  filtered.sort((a, b) => a.price_gros - b.price_gros);
+    if (sort === 'price-desc') filtered.sort((a, b) => b.price_gros - a.price_gros);
+    if (sort === 'name')       filtered.sort((a, b) => a.name.localeCompare(b.name));
+
+    page = 0;
+    document.getElementById('countLabel').textContent = `${filtered.length} products`;
+    renderPage();
+}
+
+function renderPage() {
+    const grid  = document.getElementById('grid');
+    const start = page * PAGE_SIZE;
+    const slice = filtered.slice(start, start + PAGE_SIZE);
+    const btn   = document.getElementById('loadMoreBtn');
+
+    if (page === 0) grid.innerHTML = '';
+
+    grid.insertAdjacentHTML('beforeend', slice.map(p => productCard(p)).join(''));
+    page++;
+
+    btn.classList.toggle('hidden', page * PAGE_SIZE >= filtered.length);
+    if (!filtered.length) grid.innerHTML = '<p class="col-span-full text-center text-gray-500 py-20">No products match your filters.</p>';
+}
+
+function productCard(p) {
+    const brandSlug = encodeURIComponent(slug);
+    const href = p.handle
+        ? `/pages/product.html?brand=${brandSlug}&handle=${encodeURIComponent(p.handle)}`
+        : (p.product_url || '#');
+
+    const placeholder = `<div class="absolute inset-0 flex items-center justify-center bg-purple-950/30"><iconify-icon icon="lucide:sparkles" width="28" class="text-purple-800"></iconify-icon></div>`;
+
+    const img = p.img
+        ? `<img src="${p.img}" alt="${p.name}" class="prod-img" onerror="this.style.opacity='0'">${placeholder}`
+        : placeholder;
+
+    const badge = p.badge ? `<div class="absolute top-2 left-2 bg-gradient-to-r from-amber-500 to-yellow-500 text-black text-[9px] font-bold px-2 py-0.5 rounded-full">${p.badge}</div>` : '';
+
+    const price = p.price_gros
+        ? `<div class="flex items-center gap-2 mt-1">
+               <span class="text-purple-300 text-xs font-semibold">AED ${p.price_gros.toFixed(0)}</span>
+               ${p.price_retail && p.price_retail !== p.price_gros ? `<span class="text-gray-600 text-[10px] line-through">AED ${p.price_retail.toFixed(0)}</span>` : ''}
+           </div>`
+        : '';
+
+    return `
+    <a href="${href}" class="product-card card-bg rounded-2xl overflow-hidden block">
+        <div class="relative aspect-[3/4] bg-gray-900/50 overflow-hidden">
+            ${img}
+            ${badge}
+        </div>
+        <div class="p-3">
+            <p class="text-xs font-medium text-gray-200 leading-tight line-clamp-2">${p.name}</p>
+            ${price}
+            <p class="text-[10px] text-gray-600 mt-1 capitalize">${p.size} · ${p.category_slug}</p>
+        </div>
+    </a>`;
+}
+
+document.getElementById('loadMoreBtn').addEventListener('click', renderPage);
+document.getElementById('searchInput').addEventListener('input', applyFilters);
+document.getElementById('catFilter').addEventListener('change', applyFilters);
+document.getElementById('sortSelect').addEventListener('change', applyFilters);
+</script>
+</body>
+</html>

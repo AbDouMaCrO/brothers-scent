@@ -237,9 +237,9 @@
         <div class="hidden lg:flex items-center gap-8">
             <a href="#accueil" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Home</a>
             <a href="pages/products.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Products</a>
+            <a href="pages/brands.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Brands</a>
             <a href="pages/services.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Services</a>
             <a href="pages/about.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">About</a>
-            <a href="pages/faq.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">FAQ</a>
             <a href="pages/contact.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Contact</a>
         </div>
 
@@ -274,9 +274,9 @@
     <div class="flex flex-col gap-4">
         <a href="#accueil" class="mobile-link text-gray-400 hover:text-white py-2 transition-colors">Home</a>
         <a href="pages/products.html" class="mobile-link text-gray-400 hover:text-white py-2 transition-colors">Products</a>
+        <a href="pages/brands.html" class="mobile-link text-gray-400 hover:text-white py-2 transition-colors">Brands</a>
         <a href="pages/services.html" class="mobile-link text-gray-400 hover:text-white py-2 transition-colors">Services</a>
         <a href="pages/about.html" class="mobile-link text-gray-400 hover:text-white py-2 transition-colors">About</a>
-        <a href="pages/faq.html" class="mobile-link text-gray-400 hover:text-white py-2 transition-colors">FAQ</a>
         <a href="pages/contact.html" class="mobile-link text-gray-400 hover:text-white py-2 transition-colors">Contact</a>
         <div class="gradient-divider my-4"></div>
         <a href="https://wa.me/213550000000" class="flex items-center gap-3 bg-[#25D366]/10 text-[#25D366] px-4 py-3 rounded-xl text-sm font-medium">
@@ -600,36 +600,35 @@
     </div>
 </section>
 
-<!-- Trending Brands -->
+<!-- Brands Section -->
 <section id="trending-brands" class="py-24 px-4 relative overflow-hidden">
     <div class="absolute inset-0 bg-gradient-to-b from-transparent via-purple-900/5 to-transparent pointer-events-none"></div>
     <div class="max-w-7xl mx-auto relative z-10">
         <div class="text-center mb-12 reveal">
-            <span class="text-xs font-semibold uppercase tracking-widest text-purple-400 mb-4 block">Fragrantica Data</span>
+            <span class="text-xs font-semibold uppercase tracking-widest text-purple-400 mb-4 block">893+ Brands</span>
             <h2 class="text-3xl md:text-5xl font-semibold tracking-tight mb-4">
-                Trending <span class="gradient-text">Brands</span>
+                Every major <span class="gradient-text">fragrance house</span>
             </h2>
-            <p class="text-gray-400 max-w-xl mx-auto text-sm">Top brands searched in the Gulf region — updated weekly from Fragrantica.</p>
+            <p class="text-gray-400 max-w-xl mx-auto text-sm">From Dior to Lattafa — browse our full catalogue of 25,000+ products across 893 brands.</p>
         </div>
 
-        <!-- Country tabs -->
-        <div class="flex justify-center gap-3 mb-10">
-            <button id="tab-uae" onclick="showBrandsTab('UAE')"
-                class="px-6 py-2 rounded-full text-sm font-medium transition-all bg-purple-600 text-white">
-                🇦🇪 UAE
-            </button>
-            <button id="tab-saudi" onclick="showBrandsTab('Saudi Arabia')"
-                class="px-6 py-2 rounded-full text-sm font-medium transition-all card-bg text-gray-400 hover:text-white">
-                🇸🇦 Saudi Arabia
-            </button>
+        <!-- Top brands grid — loaded from brand-index.json -->
+        <div id="brands-grid" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-4">
+            <div class="skeleton h-40 rounded-2xl"></div>
+            <div class="skeleton h-40 rounded-2xl"></div>
+            <div class="skeleton h-40 rounded-2xl"></div>
+            <div class="skeleton h-40 rounded-2xl"></div>
+            <div class="skeleton h-40 rounded-2xl"></div>
+            <div class="skeleton h-40 rounded-2xl"></div>
         </div>
 
-        <!-- Brands grid -->
-        <div id="brands-grid" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-3">
-            <!-- filled by JS -->
+        <div class="text-center mt-10">
+            <a href="/pages/brands.html" class="inline-flex items-center gap-2 glass-panel px-8 py-3 rounded-xl text-sm font-semibold hover:border-purple-500/40 transition-colors">
+                <iconify-icon icon="lucide:building-2" width="14"></iconify-icon>
+                View all 893 brands
+            </a>
         </div>
-
-        <p id="brands-meta" class="text-center text-[10px] text-gray-600 mt-8"></p>
+        <p id="brands-meta" class="text-center text-[10px] text-gray-600 mt-4"></p>
     </div>
 </section>
 
@@ -1528,45 +1527,37 @@ document.querySelectorAll('.magnetic-btn').forEach(btn => {
     });
 });
 
-// ==================== TRENDING BRANDS ====================
-let brandsData = {};
-let activeCountry = 'UAE';
-
+// ==================== BRANDS (samawa) ====================
 async function loadBrands() {
     try {
-        const res = await fetch('/scraper/output/brands.json');
+        const res = await fetch('/scraper/output/brand-index.json');
         if (!res.ok) return;
         const json = await res.json();
-        brandsData = json.data || {};
-        showBrandsTab('UAE');
-        const date = new Date(json.scraped_at).toLocaleDateString('en-GB', { day:'numeric', month:'short', year:'numeric' });
-        document.getElementById('brands-meta').textContent = `Last updated: ${date}`;
+        const top  = (json.brands || []).slice(0, 12);
+        const grid = document.getElementById('brands-grid');
+        if (!top.length) return;
+        grid.innerHTML = top.map(b => {
+            const img = b.img
+                ? `<img src="${b.img}" alt="${b.name}" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" onerror="this.style.opacity='0'">`
+                : '';
+            return `
+            <a href="/pages/brand-samawa.html?slug=${encodeURIComponent(b.slug)}"
+               class="card-bg rounded-2xl overflow-hidden group reveal" style="transition:all 0.25s">
+                <div class="relative h-28 bg-gray-900/50 overflow-hidden">
+                    ${img}
+                    <div class="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent"></div>
+                    <div class="absolute bottom-1.5 right-1.5 bg-purple-600/80 text-white text-[9px] font-bold px-1.5 py-0.5 rounded-full">${b.count}</div>
+                </div>
+                <div class="p-3">
+                    <p class="text-xs font-semibold truncate">${b.name}</p>
+                    <p class="text-[10px] text-gray-500">${b.count} products</p>
+                </div>
+            </a>`;
+        }).join('');
+        const date = new Date(json.generated_at).toLocaleDateString('en-GB', { day:'numeric', month:'short', year:'numeric' });
+        document.getElementById('brands-meta').textContent = `Updated ${date} · ${json.total_brands} brands total`;
+        observeReveals();
     } catch (_) {}
-}
-
-function showBrandsTab(country) {
-    activeCountry = country;
-    const brands = (brandsData[country] || []).filter(b => b.slug).slice(0, 20);
-    const grid = document.getElementById('brands-grid');
-
-    document.getElementById('tab-uae').className    = `px-6 py-2 rounded-full text-sm font-medium transition-all ${country === 'UAE'           ? 'bg-purple-600 text-white' : 'card-bg text-gray-400 hover:text-white'}`;
-    document.getElementById('tab-saudi').className  = `px-6 py-2 rounded-full text-sm font-medium transition-all ${country === 'Saudi Arabia'  ? 'bg-purple-600 text-white' : 'card-bg text-gray-400 hover:text-white'}`;
-
-    if (!brands.length) {
-        grid.innerHTML = '<p class="col-span-full text-center text-gray-500 text-sm">No data yet.</p>';
-        return;
-    }
-
-    grid.innerHTML = brands.map((b, i) => `
-        <a href="/pages/brand.html?slug=${encodeURIComponent(b.slug)}"
-           class="card-bg rounded-xl p-4 flex items-center gap-3 hover:border-purple-500/40 transition-all group reveal">
-            <span class="text-xs font-bold text-purple-500 w-5 shrink-0">${i + 1}</span>
-            <span class="text-sm font-medium text-gray-200 group-hover:text-white leading-tight">${b.name}</span>
-            <svg class="ml-auto w-3 h-3 text-gray-600 group-hover:text-purple-400 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
-        </a>
-    `).join('');
-
-    observeReveals();
 }
 
 loadBrands();
