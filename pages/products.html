@@ -102,10 +102,19 @@
             <span class="font-semibold text-white text-sm">BrotherScents</span>
         </a>
 
+        <!-- Desktop nav links -->
+        <div class="hidden md:flex items-center gap-6">
+            <a href="/pages/products.html" class="text-sm font-medium text-purple-400 transition-colors">Products</a>
+            <a href="/pages/brands.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Brands</a>
+            <a href="/blog/index.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Blog</a>
+            <a href="/pages/about.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">About</a>
+            <a href="/pages/contact.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Contact</a>
+        </div>
+
         <!-- Inline search on desktop -->
-        <div class="hidden md:flex flex-1 max-w-md relative">
+        <div class="hidden md:flex flex-1 max-w-xs relative">
             <iconify-icon icon="lucide:search" width="15" class="absolute left-3 top-1/2 -translate-y-1/2 text-gray-500 pointer-events-none"></iconify-icon>
-            <input id="searchNav" type="text" placeholder="Search fragrances, brands…"
+            <input id="searchNav" type="text" placeholder="Search fragrances…"
                 class="search-input w-full bg-white/5 border border-white/8 rounded-xl pl-9 pr-4 py-2 text-sm text-gray-200 placeholder-gray-600 transition-colors"
                 oninput="onSearch(this.value)">
         </div>
