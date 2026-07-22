@@ -93,7 +93,7 @@
 <body>
 
 <!-- Nav -->
-<nav class="fixed top-0 left-0 right-0 z-50 glass-panel">
+<nav class="fixed top-0 left-0 right-0 z-50" style="background:rgba(5,5,5,0.95);backdrop-filter:blur(20px);border-bottom:1px solid rgba(255,255,255,0.07)">
     <div class="max-w-7xl mx-auto px-4 md:px-6 py-3 flex items-center justify-between">
         <a href="/index.html" class="flex items-center gap-2">
             <div class="w-9 h-9 rounded-xl bg-gradient-to-br from-purple-500 to-indigo-500 flex items-center justify-center">
@@ -109,10 +109,7 @@
             <a href="/pages/contact.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Contact</a>
         </div>
         <div class="flex items-center gap-3">
-            <a href="/pages/contact.html" class="hidden md:inline-flex items-center gap-2 bg-white text-black text-sm font-semibold px-5 py-2.5 rounded-xl hover:scale-105 transition-transform">
-                <iconify-icon icon="lucide:phone" width="14"></iconify-icon>
-                Order Now
-            </a>
+            <button id="authBtn" class="text-sm px-4 py-2 rounded-xl bg-purple-600 hover:bg-purple-500 transition-colors font-medium text-white">Sign In</button>
             <button id="menuToggle" class="lg:hidden p-2 rounded-xl hover:bg-white/5">
                 <iconify-icon icon="lucide:menu" width="20" class="text-gray-300"></iconify-icon>
             </button>
