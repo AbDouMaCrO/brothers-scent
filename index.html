@@ -238,7 +238,7 @@
             <a href="#accueil" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Home</a>
             <a href="pages/products.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Products</a>
             <a href="pages/brands.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Brands</a>
-            <a href="pages/services.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Services</a>
+            <a href="blog/index.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Blog</a>
             <a href="pages/about.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">About</a>
             <a href="pages/contact.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Contact</a>
         </div>
@@ -920,6 +920,70 @@
     </div>
 </section>
 
+<!-- Social Section -->
+<section class="py-20 px-4 relative">
+    <div class="absolute inset-0 bg-gradient-to-b from-transparent via-purple-900/5 to-transparent pointer-events-none"></div>
+    <div class="max-w-5xl mx-auto relative z-10">
+        <div class="text-center mb-12 reveal">
+            <span class="text-xs font-semibold uppercase tracking-widest text-purple-400 mb-3 block">Follow Us</span>
+            <h2 class="text-3xl md:text-4xl font-semibold mb-3">Stay updated on <span class="gradient-text">new arrivals</span></h2>
+            <p class="text-gray-400 text-sm">Follow BrotherScents for new product drops, wholesale deals, and fragrance insights.</p>
+        </div>
+        <div class="grid md:grid-cols-2 gap-6">
+            <!-- Instagram -->
+            <a id="igLink" href="https://www.instagram.com/brotherscents/" target="_blank" rel="noopener"
+               class="card-bg rounded-2xl p-8 flex items-center gap-5 hover:border-pink-500/30 transition-all group reveal">
+                <div class="w-14 h-14 rounded-2xl flex items-center justify-center shrink-0"
+                     style="background:linear-gradient(135deg,#f09433,#e6683c,#dc2743,#cc2366,#bc1888)">
+                    <iconify-icon icon="mdi:instagram" width="28" class="text-white"></iconify-icon>
+                </div>
+                <div class="flex-1">
+                    <div class="font-semibold text-white mb-1" id="igHandle">@brotherscents</div>
+                    <div class="text-gray-400 text-sm">New arrivals, featured scents, and behind-the-scenes</div>
+                </div>
+                <iconify-icon icon="lucide:arrow-right" width="16" class="text-gray-600 group-hover:text-pink-400 transition-colors"></iconify-icon>
+            </a>
+            <!-- TikTok -->
+            <a id="ttLink" href="https://www.tiktok.com/@brotherscents" target="_blank" rel="noopener"
+               class="card-bg rounded-2xl p-8 flex items-center gap-5 hover:border-white/20 transition-all group reveal">
+                <div class="w-14 h-14 rounded-2xl bg-black flex items-center justify-center shrink-0 border border-white/10">
+                    <iconify-icon icon="ic:baseline-tiktok" width="28" class="text-white"></iconify-icon>
+                </div>
+                <div class="flex-1">
+                    <div class="font-semibold text-white mb-1" id="ttHandle">@brotherscents</div>
+                    <div class="text-gray-400 text-sm">Fragrance reviews, unboxings, and wholesale tips</div>
+                </div>
+                <iconify-icon icon="lucide:arrow-right" width="16" class="text-gray-600 group-hover:text-white transition-colors"></iconify-icon>
+            </a>
+        </div>
+    </div>
+</section>
+
+<!-- Blog Section -->
+<section class="py-20 px-4">
+    <div class="max-w-6xl mx-auto">
+        <div class="flex items-end justify-between mb-12 reveal">
+            <div>
+                <span class="text-xs font-semibold uppercase tracking-widest text-purple-400 mb-3 block">Knowledge Base</span>
+                <h2 class="text-3xl md:text-4xl font-semibold">Wholesale <span class="gradient-text">Intelligence</span></h2>
+            </div>
+            <a href="/blog/index.html" class="hidden md:flex items-center gap-2 text-sm text-purple-400 hover:text-purple-300 transition-colors">
+                All articles <iconify-icon icon="lucide:arrow-right" width="14"></iconify-icon>
+            </a>
+        </div>
+        <div id="blogPreviewGrid" class="grid md:grid-cols-3 gap-6">
+            <div class="skeleton h-52 rounded-2xl"></div>
+            <div class="skeleton h-52 rounded-2xl"></div>
+            <div class="skeleton h-52 rounded-2xl"></div>
+        </div>
+        <div class="text-center mt-8 md:hidden">
+            <a href="/blog/index.html" class="inline-flex items-center gap-2 glass-panel px-6 py-3 rounded-xl text-sm font-medium hover:border-purple-500/40 transition-colors">
+                View all articles <iconify-icon icon="lucide:arrow-right" width="14"></iconify-icon>
+            </a>
+        </div>
+    </div>
+</section>
+
 <!-- Footer -->
 <footer class="border-t border-white/5 py-16 px-4">
     <div class="max-w-7xl mx-auto">
@@ -1561,6 +1625,46 @@ async function loadBrands() {
 }
 
 loadBrands();
+
+// ==================== SOCIAL ====================
+(async () => {
+    try {
+        const s = JSON.parse(localStorage.getItem('ls_settings') || '{}');
+        if (s.instagramHandle) {
+            document.getElementById('igHandle').textContent = '@' + s.instagramHandle.replace('@','');
+            document.getElementById('igLink').href = 'https://www.instagram.com/' + s.instagramHandle.replace('@','') + '/';
+        }
+        if (s.tiktokHandle) {
+            document.getElementById('ttHandle').textContent = '@' + s.tiktokHandle.replace('@','');
+            document.getElementById('ttLink').href = 'https://www.tiktok.com/@' + s.tiktokHandle.replace('@','');
+        }
+    } catch(_) {}
+})();
+
+// ==================== BLOG PREVIEW ====================
+(async () => {
+    try {
+        const res  = await fetch('/blog/data.json');
+        if (!res.ok) return;
+        const data = await res.json();
+        const top  = (data.articles || []).slice(0, 3);
+        if (!top.length) return;
+        const catColors = {
+            'Wholesale Guide':'text-purple-400 bg-purple-900/30',
+            'Market Intelligence':'text-blue-400 bg-blue-900/30',
+            'Brand Spotlight':'text-yellow-400 bg-yellow-900/30',
+            'Business Guide':'text-green-400 bg-green-900/30',
+        };
+        document.getElementById('blogPreviewGrid').innerHTML = top.map(a => `
+            <a href="/blog/${a.slug}.html" class="card-bg rounded-2xl p-6 block hover:border-purple-500/30 transition-all hover:-translate-y-1 reveal">
+                <span class="text-[10px] font-semibold px-2.5 py-1 rounded-full mb-4 inline-block ${catColors[a.category]||'text-gray-400 bg-gray-900/30'}">${a.category}</span>
+                <h3 class="font-semibold text-sm leading-snug mb-3 text-white">${a.title}</h3>
+                <p class="text-gray-400 text-xs leading-relaxed line-clamp-3 mb-4">${a.description}</p>
+                <span class="text-xs text-purple-400 flex items-center gap-1">Read · ${a.readTime} <iconify-icon icon="lucide:arrow-right" width="11"></iconify-icon></span>
+            </a>`).join('');
+        observeReveals();
+    } catch(_) {}
+})();
 
 // ==================== INIT ====================
 init();

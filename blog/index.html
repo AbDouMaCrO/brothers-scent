@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en" class="dark scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wholesale Fragrance Blog — BrotherScents</title>
+    <meta name="description" content="Expert guides, market intelligence, and brand spotlights for wholesale fragrance buyers in the UAE and GCC. Updated weekly.">
+    <meta name="keywords" content="wholesale perfume UAE, fragrance wholesale blog, buy perfume Dubai, GCC fragrance market">
+    <link rel="canonical" href="https://brotherscents.vercel.app/blog/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Wholesale Fragrance Blog — BrotherScents">
+    <meta property="og:description" content="Expert guides for wholesale fragrance buyers in the UAE and GCC.">
+    <meta property="og:url" content="https://brotherscents.vercel.app/blog/">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#050505">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: { extend: { fontFamily: { sans: ['Inter', 'sans-serif'] }, colors: { purple: { 400:'#c084fc', 500:'#a855f7', 600:'#9333ea', 700:'#7e22ce', 900:'#3b0764' } } } }
+        }
+    </script>
+    <style>
+        * { margin:0; padding:0; box-sizing:border-box; }
+        body { font-family:'Inter',sans-serif; background:#050505; color:#fff; overflow-x:hidden; }
+        ::-webkit-scrollbar { width:6px; }
+        ::-webkit-scrollbar-thumb { background:#3b0764; border-radius:3px; }
+        .glass-panel { background:rgba(255,255,255,0.04); backdrop-filter:blur(12px); border:1px solid rgba(255,255,255,0.08); }
+        .card-bg { background:linear-gradient(180deg,rgba(255,255,255,0.04) 0%,rgba(255,255,255,0.01) 100%); border:1px solid rgba(255,255,255,0.06); }
+        .gradient-text { background:linear-gradient(to right,#e9d5ff,#a855f7,#6366f1); -webkit-background-clip:text; -webkit-text-fill-color:transparent; background-clip:text; }
+        .gradient-divider { height:1px; background:linear-gradient(to right,transparent,#3b0764,transparent); }
+        .article-card { transition:all 0.25s ease; }
+        .article-card:hover { transform:translateY(-4px); border-color:rgba(168,85,247,0.3); }
+        .category-pill { transition:all 0.2s; cursor:pointer; }
+        .category-pill.active { background:#9333ea; color:#fff; border-color:#9333ea; }
+        .category-pill:not(.active):hover { border-color:rgba(168,85,247,0.5); }
+    </style>
+
+    <!-- Schema.org BreadcrumbList -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Blog",
+        "name": "BrotherScents Wholesale Fragrance Blog",
+        "url": "https://brotherscents.vercel.app/blog/",
+        "description": "Expert guides for wholesale fragrance buyers in the UAE and GCC",
+        "publisher": {
+            "@type": "Organization",
+            "name": "BrotherScents",
+            "url": "https://brotherscents.vercel.app"
+        }
+    }
+    </script>
+</head>
+<body>
+
+<!-- Nav -->
+<nav class="fixed top-0 left-0 right-0 z-50 glass-panel">
+    <div class="max-w-7xl mx-auto px-4 md:px-6 py-3 flex items-center justify-between">
+        <a href="/index.html" class="flex items-center gap-2">
+            <div class="w-9 h-9 rounded-xl bg-gradient-to-br from-purple-500 to-indigo-500 flex items-center justify-center">
+                <iconify-icon icon="lucide:droplets" width="18" class="text-white"></iconify-icon>
+            </div>
+            <span class="font-semibold text-white text-sm">BrotherScents</span>
+        </a>
+        <div class="hidden lg:flex items-center gap-8">
+            <a href="/index.html" class="text-sm text-gray-400 hover:text-purple-400 transition-colors">Home</a>
+            <a href="/pages/products.html" class="text-sm text-gray-400 hover:text-purple-400 transition-colors">Products</a>
+            <a href="/pages/brands.html" class="text-sm text-gray-400 hover:text-purple-400 transition-colors">Brands</a>
+            <a href="/blog/index.html" class="text-sm text-purple-400">Blog</a>
+            <a href="/pages/contact.html" class="text-sm text-gray-400 hover:text-purple-400 transition-colors">Contact</a>
+        </div>
+        <a href="/pages/contact.html" class="hidden md:inline-flex items-center gap-2 bg-white text-black text-sm font-semibold px-5 py-2.5 rounded-xl hover:scale-105 transition-transform">
+            <iconify-icon icon="lucide:phone" width="14"></iconify-icon>
+            Order Now
+        </a>
+    </div>
+</nav>
+
+<!-- Hero -->
+<section class="relative pt-28 pb-14 px-4 text-center">
+    <div class="absolute inset-0 bg-gradient-to-b from-purple-900/15 to-transparent pointer-events-none"></div>
+    <div class="relative z-10 max-w-3xl mx-auto">
+        <div class="inline-flex items-center gap-2 glass-panel px-4 py-2 rounded-full mb-5 text-purple-300 text-sm">
+            <iconify-icon icon="lucide:book-open" width="14"></iconify-icon>
+            Wholesale Knowledge Base
+        </div>
+        <h1 class="text-4xl md:text-5xl font-bold mb-4">
+            The <span class="gradient-text">Fragrance Wholesale</span> Blog
+        </h1>
+        <p class="text-gray-400 text-lg">Market guides, brand spotlights, and business intelligence for GCC fragrance buyers.</p>
+    </div>
+</section>
+
+<div class="gradient-divider max-w-6xl mx-auto mb-10"></div>
+
+<!-- Category filters -->
+<div class="max-w-6xl mx-auto px-4 mb-8 flex flex-wrap gap-3">
+    <button class="category-pill active glass-panel text-xs font-medium px-4 py-2 rounded-full border" data-cat="">All</button>
+    <button class="category-pill glass-panel text-xs font-medium px-4 py-2 rounded-full border border-white/10 text-gray-400" data-cat="Wholesale Guide">Wholesale Guide</button>
+    <button class="category-pill glass-panel text-xs font-medium px-4 py-2 rounded-full border border-white/10 text-gray-400" data-cat="Market Intelligence">Market Intelligence</button>
+    <button class="category-pill glass-panel text-xs font-medium px-4 py-2 rounded-full border border-white/10 text-gray-400" data-cat="Brand Spotlight">Brand Spotlight</button>
+    <button class="category-pill glass-panel text-xs font-medium px-4 py-2 rounded-full border border-white/10 text-gray-400" data-cat="Business Guide">Business Guide</button>
+</div>
+
+<!-- Articles grid -->
+<main class="max-w-6xl mx-auto px-4 pb-24">
+    <div id="articlesGrid" class="grid md:grid-cols-2 lg:grid-cols-3 gap-6"></div>
+    <p id="emptyMsg" class="hidden text-center text-gray-500 py-16 text-sm">No articles in this category yet.</p>
+</main>
+
+<!-- Footer -->
+<footer class="border-t border-white/5 py-8 px-4">
+    <div class="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
+        <div class="flex items-center gap-2">
+            <div class="w-7 h-7 rounded-lg bg-gradient-to-br from-purple-500 to-indigo-500 flex items-center justify-center">
+                <iconify-icon icon="lucide:droplets" width="14" class="text-white"></iconify-icon>
+            </div>
+            <span class="font-semibold text-sm">BrotherScents</span>
+        </div>
+        <p class="text-gray-500 text-xs">&copy; 2025 BrotherScents. All rights reserved.</p>
+    </div>
+</footer>
+
+<script>
+const CATEGORY_COLORS = {
+    'Wholesale Guide':     'text-purple-400 bg-purple-900/30',
+    'Market Intelligence': 'text-blue-400 bg-blue-900/30',
+    'Brand Spotlight':     'text-yellow-400 bg-yellow-900/30',
+    'Business Guide':      'text-green-400 bg-green-900/30',
+};
+
+let allArticles = [];
+let activeCategory = '';
+
+fetch('/blog/data.json')
+    .then(r => r.json())
+    .then(data => {
+        allArticles = data.articles || [];
+        render(allArticles);
+    });
+
+function render(articles) {
+    const grid  = document.getElementById('articlesGrid');
+    const empty = document.getElementById('emptyMsg');
+    if (!articles.length) { grid.innerHTML=''; empty.classList.remove('hidden'); return; }
+    empty.classList.add('hidden');
+
+    const featured = articles.filter(a => a.featured);
+    const rest     = articles.filter(a => !a.featured);
+
+    grid.innerHTML = [...featured, ...rest].map((a, i) => {
+        const catClass = CATEGORY_COLORS[a.category] || 'text-gray-400 bg-gray-900/30';
+        const big = i === 0 && !activeCategory;
+        return `
+        <a href="/blog/${a.slug}.html" class="article-card card-bg rounded-2xl overflow-hidden block ${big ? 'md:col-span-2 lg:col-span-2' : ''}">
+            <div class="p-6">
+                <div class="flex items-center justify-between mb-4">
+                    <span class="text-[10px] font-semibold px-2.5 py-1 rounded-full ${catClass}">${a.category}</span>
+                    <span class="text-[10px] text-gray-600">${a.readTime} read</span>
+                </div>
+                <h2 class="font-bold leading-snug mb-3 ${big ? 'text-xl' : 'text-sm'} text-white">${a.title}</h2>
+                <p class="text-gray-400 text-xs leading-relaxed line-clamp-3 mb-4">${a.description}</p>
+                <div class="flex items-center justify-between">
+                    <span class="text-[10px] text-gray-600">${new Date(a.published).toLocaleDateString('en-GB',{day:'numeric',month:'short',year:'numeric'})}</span>
+                    <span class="text-xs text-purple-400 flex items-center gap-1">Read <iconify-icon icon="lucide:arrow-right" width="11"></iconify-icon></span>
+                </div>
+            </div>
+        </a>`;
+    }).join('');
+}
+
+document.querySelectorAll('.category-pill').forEach(btn => {
+    btn.addEventListener('click', () => {
+        document.querySelectorAll('.category-pill').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        activeCategory = btn.dataset.cat;
+        const filtered = activeCategory ? allArticles.filter(a => a.category === activeCategory) : allArticles;
+        render(filtered);
+    });
+});
+</script>
+</body>
+</html>

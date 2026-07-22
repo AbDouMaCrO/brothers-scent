@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://brotherscents.vercel.app/sitemap.xml
+
+Disallow: /dashboard.html
+Disallow: /scraper/
