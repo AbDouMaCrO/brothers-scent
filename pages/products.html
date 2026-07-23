@@ -39,10 +39,12 @@
             border: 1px solid rgba(255,255,255,0.06);
         }
         .glass-panel {
-            background: rgba(255,255,255,0.04);
+            background: linear-gradient(145deg, rgba(255,255,255,0.05) 0%, rgba(255,255,255,0.01) 100%);
             backdrop-filter: blur(12px);
             border: 1px solid rgba(255,255,255,0.08);
+            box-shadow: 0 4px 30px rgba(0,0,0,0.1);
         }
+        .gradient-divider { height: 1px; background: linear-gradient(to right, transparent, rgba(168,85,247,0.3), transparent); }
         .mobile-menu { transform: translateX(100%); transition: transform 0.4s cubic-bezier(0.16,1,0.3,1); }
         .mobile-menu.open { transform: translateX(0); }
         .gradient-text {
@@ -96,15 +98,16 @@
 <body>
 
 <!-- Nav -->
-<nav class="fixed top-0 left-0 right-0 z-50 glass-panel">
+<nav id="navbar" class="fixed top-0 left-0 right-0 z-50 glass-panel transition-all duration-300">
     <div class="max-w-7xl mx-auto px-4 md:px-6 py-3 flex items-center justify-between">
         <a href="/index.html" class="flex items-center gap-2">
             <div class="w-9 h-9 rounded-xl bg-gradient-to-br from-purple-500 to-indigo-500 flex items-center justify-center">
                 <iconify-icon icon="lucide:droplets" width="18" class="text-white"></iconify-icon>
             </div>
-            <span class="font-semibold text-white text-sm">BrotherScents</span>
+            <div><span class="font-semibold text-white text-sm">BrotherScents</span></div>
         </a>
         <div class="hidden lg:flex items-center gap-8">
+            <a href="/index.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Home</a>
             <a href="/pages/products.html" class="text-sm font-medium text-purple-400">Products</a>
             <a href="/pages/brands.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Brands</a>
             <a href="/blog/index.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Blog</a>
@@ -112,29 +115,43 @@
             <a href="/pages/contact.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Contact</a>
         </div>
         <div class="flex items-center gap-3">
-            <button id="authBtn" class="text-sm px-4 py-2 rounded-xl bg-purple-600 hover:bg-purple-500 transition-colors font-medium text-white">Sign In</button>
-            <button id="menuToggle" class="lg:hidden p-2 rounded-xl hover:bg-white/5">
-                <iconify-icon icon="lucide:menu" width="20" class="text-gray-300"></iconify-icon>
+            <button id="authBtn" title="Sign in" class="relative p-2 rounded-xl hover:bg-white/5 transition-colors">
+                <iconify-icon id="authBtnIcon" icon="lucide:user" width="20" class="text-gray-400"></iconify-icon>
+            </button>
+            <a href="/pages/contact.html" class="hidden md:inline-flex items-center gap-2 bg-white text-black text-sm font-semibold px-5 py-2.5 rounded-xl hover:scale-105 transition-transform">
+                <iconify-icon icon="lucide:phone" width="14"></iconify-icon>
+                Order Now
+            </a>
+            <button id="menuToggle" class="lg:hidden p-2 rounded-xl hover:bg-white/5 transition-colors">
+                <iconify-icon icon="lucide:menu" width="22" class="text-white"></iconify-icon>
             </button>
         </div>
     </div>
 </nav>
 
-<!-- Mobile menu (slide-in, same pattern as brands.html) -->
-<div id="mobileMenu" class="mobile-menu fixed inset-y-0 right-0 w-72 z-[60] glass-panel p-6 flex flex-col gap-6">
-    <div class="flex justify-between items-center">
+<!-- Mobile menu -->
+<div id="mobileMenu" class="mobile-menu fixed top-0 right-0 w-80 h-full z-50 bg-[#0a0a0a] border-l border-white/5 p-6">
+    <div class="flex justify-between items-center mb-8">
         <span class="font-semibold">Menu</span>
-        <button id="menuClose"><iconify-icon icon="lucide:x" width="20" class="text-gray-300"></iconify-icon></button>
+        <button id="menuClose" class="p-2 rounded-xl hover:bg-white/5">
+            <iconify-icon icon="lucide:x" width="22" class="text-white"></iconify-icon>
+        </button>
     </div>
-    <nav class="flex flex-col gap-4 text-sm">
-        <a href="/index.html" class="text-gray-300 hover:text-purple-400">Home</a>
-        <a href="/pages/products.html" class="text-purple-400">Products</a>
-        <a href="/pages/brands.html" class="text-gray-300 hover:text-purple-400">Brands</a>
-        <a href="/blog/index.html" class="text-gray-300 hover:text-purple-400">Blog</a>
-        <a href="/pages/about.html" class="text-gray-300 hover:text-purple-400">About</a>
-        <a href="/pages/contact.html" class="text-gray-300 hover:text-purple-400">Contact</a>
-    </nav>
+    <div class="flex flex-col gap-4">
+        <a href="/index.html" class="text-gray-400 hover:text-white py-2 transition-colors">Home</a>
+        <a href="/pages/products.html" class="text-purple-400 py-2">Products</a>
+        <a href="/pages/brands.html" class="text-gray-400 hover:text-white py-2 transition-colors">Brands</a>
+        <a href="/pages/services.html" class="text-gray-400 hover:text-white py-2 transition-colors">Services</a>
+        <a href="/pages/about.html" class="text-gray-400 hover:text-white py-2 transition-colors">About</a>
+        <a href="/pages/contact.html" class="text-gray-400 hover:text-white py-2 transition-colors">Contact</a>
+        <div class="gradient-divider my-4"></div>
+        <a href="/pages/contact.html" class="flex items-center gap-3 bg-white/5 text-white px-4 py-3 rounded-xl text-sm font-medium">
+            <iconify-icon icon="lucide:phone" width="18"></iconify-icon>
+            Order Now
+        </a>
+    </div>
 </div>
+<div id="menuOverlay" class="fixed inset-0 bg-black/50 z-40 hidden"></div>
 
 <!-- Page header -->
 <header class="pt-28 pb-12 px-4 text-center relative overflow-hidden">
@@ -259,8 +276,8 @@ const PAGE_SIZE  = 24;
 // ── Auth ──
 SB.onAuthChange((_, session) => {
     currentUser = session?.user || null;
-    document.getElementById('authBtn').textContent = currentUser ? 'Sign Out' : 'Sign In';
-    document.getElementById('authBtn').onclick     = currentUser ? () => SB.signOut() : openAuthModal;
+    document.getElementById('authBtnIcon').setAttribute('icon', currentUser ? 'lucide:log-out' : 'lucide:user');
+    document.getElementById('authBtn').onclick = currentUser ? () => SB.signOut() : openAuthModal;
     renderGrid();
 });
 
@@ -415,8 +432,11 @@ document.querySelectorAll('.filter-pill').forEach(btn => {
 init();
 
 // Mobile menu
-document.getElementById('menuToggle').addEventListener('click', () => document.getElementById('mobileMenu').classList.add('open'));
-document.getElementById('menuClose').addEventListener('click',  () => document.getElementById('mobileMenu').classList.remove('open'));
+function openMenu()  { document.getElementById('mobileMenu').classList.add('open');    document.getElementById('menuOverlay').classList.remove('hidden'); }
+function closeMenu() { document.getElementById('mobileMenu').classList.remove('open'); document.getElementById('menuOverlay').classList.add('hidden'); }
+document.getElementById('menuToggle').addEventListener('click', openMenu);
+document.getElementById('menuClose').addEventListener('click',  closeMenu);
+document.getElementById('menuOverlay').addEventListener('click', closeMenu);
 </script>
 </body>
 </html>
