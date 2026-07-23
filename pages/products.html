@@ -108,11 +108,11 @@
         </a>
         <div class="hidden lg:flex items-center gap-8">
             <a href="/index.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Home</a>
-            <a href="/pages/products.html" class="text-sm font-medium text-purple-400">Products</a>
-            <a href="/pages/brands.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Brands</a>
-            <a href="/blog/index.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Blog</a>
-            <a href="/pages/about.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">About</a>
-            <a href="/pages/contact.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Contact</a>
+            <a href="#products" class="text-sm font-medium text-purple-400">Products</a>
+            <a href="#brands" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Brands</a>
+            <a href="#services" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Services</a>
+            <a href="#about" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">About</a>
+            <a href="#contact" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Contact</a>
         </div>
         <div class="flex items-center gap-3">
             <button id="authBtn" title="Sign in" class="relative p-2 rounded-xl hover:bg-white/5 transition-colors">
@@ -221,7 +221,7 @@
 </div>
 
 <!-- Product grid -->
-<main class="max-w-7xl mx-auto px-4 py-10 pb-24">
+<main id="products" class="max-w-7xl mx-auto px-4 py-10 pb-24">
     <div id="productsGrid" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-4">
         <!-- skeletons -->
         <div class="skeleton rounded-2xl aspect-[3/4]"></div>
@@ -240,6 +240,303 @@
         </button>
     </div>
 </main>
+
+<!-- ══════════════════════════════════════════════
+     BRANDS SECTION
+══════════════════════════════════════════════ -->
+<section id="brands" class="py-24 px-4 relative overflow-hidden">
+    <div class="absolute inset-0 bg-gradient-to-b from-transparent via-indigo-950/10 to-transparent pointer-events-none"></div>
+    <div class="max-w-7xl mx-auto relative z-10">
+        <div class="text-center mb-12">
+            <span class="text-xs font-semibold uppercase tracking-widest text-purple-400 mb-4 block">Browse by Brand</span>
+            <h2 class="text-3xl md:text-5xl font-semibold tracking-tight mb-4">Top <span class="gradient-text">Brands</span></h2>
+            <p class="text-gray-400 max-w-xl mx-auto text-sm">893 brands in our catalogue — from Lattafa and Armaf to Dior and Chanel.</p>
+        </div>
+        <div id="brandsGrid" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-4 mb-10">
+            <div class="skeleton rounded-2xl h-32"></div>
+            <div class="skeleton rounded-2xl h-32"></div>
+            <div class="skeleton rounded-2xl h-32"></div>
+            <div class="skeleton rounded-2xl h-32"></div>
+            <div class="skeleton rounded-2xl h-32"></div>
+            <div class="skeleton rounded-2xl h-32"></div>
+        </div>
+        <div class="text-center">
+            <a href="/pages/brands.html" class="inline-flex items-center gap-2 glass-panel px-8 py-3 rounded-xl text-sm font-semibold hover:border-purple-500/40 transition-colors">
+                View all 893 brands <iconify-icon icon="lucide:arrow-right" width="14"></iconify-icon>
+            </a>
+        </div>
+    </div>
+</section>
+
+<div class="gradient-divider max-w-6xl mx-auto"></div>
+
+<!-- ══════════════════════════════════════════════
+     SERVICES SECTION
+══════════════════════════════════════════════ -->
+<section id="services" class="py-24 px-4 relative">
+    <div class="max-w-7xl mx-auto">
+        <div class="text-center mb-16">
+            <span class="text-xs font-semibold uppercase tracking-widest text-purple-400 mb-4 block">Wholesale Tiers</span>
+            <h2 class="text-3xl md:text-5xl font-semibold tracking-tight mb-4">Our <span class="gradient-text">Services</span></h2>
+            <p class="text-gray-400 max-w-xl mx-auto text-sm">Competitive wholesale pricing across GCC with fast dispatch and full authenticity guarantee.</p>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-16">
+            <!-- Starter -->
+            <div class="card-bg rounded-2xl p-8">
+                <div class="w-12 h-12 rounded-xl bg-purple-500/10 flex items-center justify-center mb-5">
+                    <iconify-icon icon="lucide:package" width="22" class="text-purple-400"></iconify-icon>
+                </div>
+                <div class="text-xs font-semibold text-purple-400 uppercase tracking-wider mb-2">Starter</div>
+                <h3 class="text-xl font-semibold mb-2">10+ Units</h3>
+                <p class="text-gray-500 text-sm leading-relaxed mb-5">Entry-level wholesale. Mix and match from our full catalogue. Perfect for small retailers and new businesses.</p>
+                <ul class="space-y-2 text-sm text-gray-400">
+                    <li class="flex items-center gap-2"><iconify-icon icon="lucide:check" width="14" class="text-purple-400"></iconify-icon> Access to full catalogue</li>
+                    <li class="flex items-center gap-2"><iconify-icon icon="lucide:check" width="14" class="text-purple-400"></iconify-icon> Standard wholesale pricing</li>
+                    <li class="flex items-center gap-2"><iconify-icon icon="lucide:check" width="14" class="text-purple-400"></iconify-icon> WhatsApp support</li>
+                </ul>
+            </div>
+            <!-- Pro -->
+            <div class="card-bg rounded-2xl p-8 border-purple-500/30" style="border-color:rgba(168,85,247,0.3)">
+                <div class="w-12 h-12 rounded-xl bg-purple-500/20 flex items-center justify-center mb-5">
+                    <iconify-icon icon="lucide:zap" width="22" class="text-purple-400"></iconify-icon>
+                </div>
+                <div class="text-xs font-semibold text-purple-400 uppercase tracking-wider mb-2">Pro</div>
+                <h3 class="text-xl font-semibold mb-2">50+ Units</h3>
+                <p class="text-gray-500 text-sm leading-relaxed mb-5">Best value for established retailers. Priority dispatch, better margins, dedicated account support.</p>
+                <ul class="space-y-2 text-sm text-gray-400">
+                    <li class="flex items-center gap-2"><iconify-icon icon="lucide:check" width="14" class="text-purple-400"></iconify-icon> Deeper wholesale pricing</li>
+                    <li class="flex items-center gap-2"><iconify-icon icon="lucide:check" width="14" class="text-purple-400"></iconify-icon> Priority dispatch</li>
+                    <li class="flex items-center gap-2"><iconify-icon icon="lucide:check" width="14" class="text-purple-400"></iconify-icon> Dedicated account manager</li>
+                </ul>
+            </div>
+            <!-- Enterprise -->
+            <div class="card-bg rounded-2xl p-8">
+                <div class="w-12 h-12 rounded-xl bg-purple-500/10 flex items-center justify-center mb-5">
+                    <iconify-icon icon="lucide:building-2" width="22" class="text-purple-400"></iconify-icon>
+                </div>
+                <div class="text-xs font-semibold text-purple-400 uppercase tracking-wider mb-2">Enterprise</div>
+                <h3 class="text-xl font-semibold mb-2">Custom Volume</h3>
+                <p class="text-gray-500 text-sm leading-relaxed mb-5">For chains, distributors, and large importers. Custom pricing, exclusive SKUs, and logistics support.</p>
+                <ul class="space-y-2 text-sm text-gray-400">
+                    <li class="flex items-center gap-2"><iconify-icon icon="lucide:check" width="14" class="text-purple-400"></iconify-icon> Custom pricing</li>
+                    <li class="flex items-center gap-2"><iconify-icon icon="lucide:check" width="14" class="text-purple-400"></iconify-icon> Exclusive SKUs</li>
+                    <li class="flex items-center gap-2"><iconify-icon icon="lucide:check" width="14" class="text-purple-400"></iconify-icon> Full logistics support</li>
+                </ul>
+            </div>
+        </div>
+        <!-- Why us -->
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+            <div class="card-bg rounded-2xl p-5 text-center">
+                <iconify-icon icon="lucide:truck" width="22" class="text-purple-400 mx-auto mb-3"></iconify-icon>
+                <div class="text-sm font-medium mb-1">Fast Dispatch</div>
+                <div class="text-xs text-gray-500">GCC-wide delivery</div>
+            </div>
+            <div class="card-bg rounded-2xl p-5 text-center">
+                <iconify-icon icon="lucide:shield-check" width="22" class="text-purple-400 mx-auto mb-3"></iconify-icon>
+                <div class="text-sm font-medium mb-1">100% Authentic</div>
+                <div class="text-xs text-gray-500">Verified sources only</div>
+            </div>
+            <div class="card-bg rounded-2xl p-5 text-center">
+                <iconify-icon icon="lucide:banknote" width="22" class="text-purple-400 mx-auto mb-3"></iconify-icon>
+                <div class="text-sm font-medium mb-1">Best Margins</div>
+                <div class="text-xs text-gray-500">Competitive wholesale</div>
+            </div>
+            <div class="card-bg rounded-2xl p-5 text-center">
+                <iconify-icon icon="lucide:headphones" width="22" class="text-purple-400 mx-auto mb-3"></iconify-icon>
+                <div class="text-sm font-medium mb-1">WA Support</div>
+                <div class="text-xs text-gray-500">Response within 1hr</div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<div class="gradient-divider max-w-6xl mx-auto"></div>
+
+<!-- ══════════════════════════════════════════════
+     ABOUT SECTION
+══════════════════════════════════════════════ -->
+<section id="about" class="py-24 px-4 relative">
+    <div class="max-w-6xl mx-auto">
+        <div class="grid lg:grid-cols-2 gap-16 items-center">
+            <div>
+                <span class="text-xs font-semibold uppercase tracking-widest text-purple-400 mb-4 block">About BrotherScents</span>
+                <h2 class="text-3xl md:text-5xl font-semibold tracking-tight mb-6">
+                    Your Trusted <span class="gradient-text">Wholesale Partner</span>
+                </h2>
+                <p class="text-gray-400 leading-relaxed mb-6">BrotherScents is a wholesale fragrance distributor serving retailers across the UAE, Saudi Arabia, Qatar, Kuwait, and the wider GCC. We source authentic perfumes directly from brands and authorised distributors — no grey market, no counterfeits.</p>
+                <p class="text-gray-400 leading-relaxed mb-8">Our catalogue spans 893 brands and 25,000+ SKUs — from Arabic oud and niche luxury to mass-market bestsellers. Whether you run one shop or a chain of fifty, we have the stock, the pricing, and the logistics to support you.</p>
+                <div class="grid grid-cols-3 gap-6">
+                    <div class="text-center card-bg rounded-2xl p-5">
+                        <div class="text-2xl font-bold gradient-text mb-1">893</div>
+                        <div class="text-xs text-gray-500">Brands</div>
+                    </div>
+                    <div class="text-center card-bg rounded-2xl p-5">
+                        <div class="text-2xl font-bold gradient-text mb-1">25K+</div>
+                        <div class="text-xs text-gray-500">SKUs</div>
+                    </div>
+                    <div class="text-center card-bg rounded-2xl p-5">
+                        <div class="text-2xl font-bold gradient-text mb-1">GCC</div>
+                        <div class="text-xs text-gray-500">Coverage</div>
+                    </div>
+                </div>
+            </div>
+            <div class="grid grid-cols-2 gap-4">
+                <div class="card-bg rounded-2xl p-6">
+                    <iconify-icon icon="lucide:award" width="28" class="text-purple-400 mb-4"></iconify-icon>
+                    <h4 class="font-medium mb-2">Quality First</h4>
+                    <p class="text-sm text-gray-500">Every product verified authentic before dispatch.</p>
+                </div>
+                <div class="card-bg rounded-2xl p-6">
+                    <iconify-icon icon="lucide:users" width="28" class="text-purple-400 mb-4"></iconify-icon>
+                    <h4 class="font-medium mb-2">Retailer Focus</h4>
+                    <p class="text-sm text-gray-500">Built for shop owners, not end consumers.</p>
+                </div>
+                <div class="card-bg rounded-2xl p-6">
+                    <iconify-icon icon="lucide:refresh-cw" width="28" class="text-purple-400 mb-4"></iconify-icon>
+                    <h4 class="font-medium mb-2">Always Stocked</h4>
+                    <p class="text-sm text-gray-500">Deep inventory on fast-moving lines.</p>
+                </div>
+                <div class="card-bg rounded-2xl p-6">
+                    <iconify-icon icon="lucide:globe" width="28" class="text-purple-400 mb-4"></iconify-icon>
+                    <h4 class="font-medium mb-2">GCC Delivery</h4>
+                    <p class="text-sm text-gray-500">Fast, reliable shipping across the Gulf.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<div class="gradient-divider max-w-6xl mx-auto"></div>
+
+<!-- ══════════════════════════════════════════════
+     CONTACT SECTION
+══════════════════════════════════════════════ -->
+<section id="contact" class="py-24 px-4 relative">
+    <div class="max-w-6xl mx-auto">
+        <div class="grid lg:grid-cols-2 gap-12">
+            <div>
+                <span class="text-xs font-semibold uppercase tracking-widest text-purple-400 mb-4 block">Get in Touch</span>
+                <h2 class="text-3xl md:text-5xl font-semibold tracking-tight mb-6">
+                    Place an <span class="gradient-text">Order</span>
+                </h2>
+                <p class="text-gray-400 mb-8 leading-relaxed">Contact us on WhatsApp for fastest response — most wholesale inquiries answered within 1 hour during business hours.</p>
+                <div class="space-y-4">
+                    <a id="contactWABtn" href="https://wa.me/971500000000" target="_blank" class="flex items-center gap-4 card-bg rounded-xl p-4 hover:border-green-500/30 transition-colors group">
+                        <div class="w-12 h-12 rounded-xl bg-[#25D366]/10 flex items-center justify-center">
+                            <iconify-icon icon="ic:baseline-whatsapp" width="22" class="text-[#25D366]"></iconify-icon>
+                        </div>
+                        <div>
+                            <div class="text-sm font-medium group-hover:text-green-400 transition-colors">WhatsApp</div>
+                            <div class="text-xs text-gray-500">Fastest response — click to chat</div>
+                        </div>
+                        <iconify-icon icon="lucide:arrow-right" width="16" class="text-gray-600 group-hover:text-green-400 ml-auto transition-colors"></iconify-icon>
+                    </a>
+                    <div class="flex items-center gap-4 card-bg rounded-xl p-4">
+                        <div class="w-12 h-12 rounded-xl bg-purple-500/10 flex items-center justify-center">
+                            <iconify-icon icon="lucide:mail" width="22" class="text-purple-400"></iconify-icon>
+                        </div>
+                        <div>
+                            <div class="text-sm font-medium">Email</div>
+                            <div class="text-xs text-gray-500">wholesale@brotherscents.com</div>
+                        </div>
+                    </div>
+                    <div class="flex items-center gap-4 card-bg rounded-xl p-4">
+                        <div class="w-12 h-12 rounded-xl bg-purple-500/10 flex items-center justify-center">
+                            <iconify-icon icon="lucide:map-pin" width="22" class="text-purple-400"></iconify-icon>
+                        </div>
+                        <div>
+                            <div class="text-sm font-medium">Location</div>
+                            <div class="text-xs text-gray-500">Dubai, UAE — serving all GCC</div>
+                        </div>
+                    </div>
+                    <div class="flex items-center gap-4 card-bg rounded-xl p-4">
+                        <div class="w-12 h-12 rounded-xl bg-purple-500/10 flex items-center justify-center">
+                            <iconify-icon icon="lucide:clock" width="22" class="text-purple-400"></iconify-icon>
+                        </div>
+                        <div>
+                            <div class="text-sm font-medium">Hours</div>
+                            <div class="text-xs text-gray-500">Sun – Thu: 9am – 6pm GST</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Quick inquiry form -->
+            <div>
+                <form id="inquiryForm" class="card-bg rounded-2xl p-8 space-y-5">
+                    <h3 class="font-semibold text-lg mb-2">Quick Inquiry</h3>
+                    <div class="grid grid-cols-2 gap-4">
+                        <div>
+                            <label class="text-xs font-medium text-gray-400 mb-1.5 block">Your Name</label>
+                            <input id="iqName" type="text" placeholder="Ahmed Al Rashid" class="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-white placeholder-gray-600 focus:outline-none focus:border-purple-500/50 transition-colors">
+                        </div>
+                        <div>
+                            <label class="text-xs font-medium text-gray-400 mb-1.5 block">Business Name</label>
+                            <input id="iqBusiness" type="text" placeholder="Al Noor Perfumes" class="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-white placeholder-gray-600 focus:outline-none focus:border-purple-500/50 transition-colors">
+                        </div>
+                    </div>
+                    <div>
+                        <label class="text-xs font-medium text-gray-400 mb-1.5 block">What are you looking for?</label>
+                        <textarea id="iqMsg" rows="4" placeholder="e.g. 50 units Lattafa Khamrah 100ml, looking for best wholesale price..." class="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-white placeholder-gray-600 focus:outline-none focus:border-purple-500/50 transition-colors resize-none"></textarea>
+                    </div>
+                    <button type="submit" class="w-full flex items-center justify-center gap-2 bg-[#25D366] text-black font-semibold py-3.5 rounded-xl hover:opacity-90 transition-opacity text-sm">
+                        <iconify-icon icon="ic:baseline-whatsapp" width="18"></iconify-icon>
+                        Send via WhatsApp
+                    </button>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Footer -->
+<footer class="border-t border-white/5 py-12 px-4">
+    <div class="max-w-7xl mx-auto">
+        <div class="grid grid-cols-1 md:grid-cols-4 gap-10 mb-10">
+            <div class="md:col-span-2">
+                <div class="flex items-center gap-2 mb-4">
+                    <div class="w-9 h-9 rounded-xl bg-gradient-to-br from-purple-500 to-indigo-500 flex items-center justify-center">
+                        <iconify-icon icon="lucide:droplets" width="18" class="text-white"></iconify-icon>
+                    </div>
+                    <span class="font-semibold text-white text-sm">BrotherScents</span>
+                </div>
+                <p class="text-sm text-gray-500 leading-relaxed max-w-sm mb-4">Your trusted wholesale fragrance partner in the GCC. 893 brands, 25,000+ SKUs, authenticated stock.</p>
+                <div class="flex items-center gap-3">
+                    <a href="https://www.instagram.com/brotherscents/" target="_blank" class="w-9 h-9 rounded-xl bg-white/5 flex items-center justify-center hover:bg-purple-500/20 transition-colors">
+                        <iconify-icon icon="lucide:instagram" width="16" class="text-gray-400"></iconify-icon>
+                    </a>
+                    <a href="https://www.tiktok.com/@brotherscents" target="_blank" class="w-9 h-9 rounded-xl bg-white/5 flex items-center justify-center hover:bg-purple-500/20 transition-colors">
+                        <iconify-icon icon="ic:baseline-tiktok" width="16" class="text-gray-400"></iconify-icon>
+                    </a>
+                    <a href="#contact" class="w-9 h-9 rounded-xl bg-white/5 flex items-center justify-center hover:bg-green-500/20 transition-colors">
+                        <iconify-icon icon="ic:baseline-whatsapp" width="16" class="text-gray-400"></iconify-icon>
+                    </a>
+                </div>
+            </div>
+            <div>
+                <h4 class="text-sm font-medium mb-4">Navigation</h4>
+                <div class="space-y-2">
+                    <a href="/index.html" class="block text-sm text-gray-500 hover:text-purple-400 transition-colors">Home</a>
+                    <a href="#products" class="block text-sm text-gray-500 hover:text-purple-400 transition-colors">Products</a>
+                    <a href="#brands" class="block text-sm text-gray-500 hover:text-purple-400 transition-colors">Brands</a>
+                    <a href="#services" class="block text-sm text-gray-500 hover:text-purple-400 transition-colors">Services</a>
+                    <a href="#about" class="block text-sm text-gray-500 hover:text-purple-400 transition-colors">About</a>
+                    <a href="#contact" class="block text-sm text-gray-500 hover:text-purple-400 transition-colors">Contact</a>
+                </div>
+            </div>
+            <div>
+                <h4 class="text-sm font-medium mb-4">Resources</h4>
+                <div class="space-y-2">
+                    <a href="/blog/index.html" class="block text-sm text-gray-500 hover:text-purple-400 transition-colors">Wholesale Blog</a>
+                    <a href="/pages/faq.html" class="block text-sm text-gray-500 hover:text-purple-400 transition-colors">FAQ</a>
+                    <a href="/pages/brands.html" class="block text-sm text-gray-500 hover:text-purple-400 transition-colors">All Brands</a>
+                    <a href="/dashboard.html" class="block text-sm text-gray-500 hover:text-purple-400 transition-colors">Admin</a>
+                </div>
+            </div>
+        </div>
+        <div class="gradient-divider mb-6"></div>
+        <p class="text-center text-gray-600 text-xs">&copy; 2025 BrotherScents. All rights reserved.</p>
+    </div>
+</footer>
 
 <!-- Auth modal (minimal) -->
 <div id="authModal" class="hidden fixed inset-0 z-50 flex items-center justify-center p-4" style="background:rgba(0,0,0,0.8);backdrop-filter:blur(8px)">
@@ -430,6 +727,41 @@ document.querySelectorAll('.filter-pill').forEach(btn => {
 });
 
 init();
+
+// Brands section loader
+fetch('/scraper/output/brand-index.json')
+    .then(r => r.json())
+    .then(brands => {
+        const grid = document.getElementById('brandsGrid');
+        grid.innerHTML = brands.slice(0, 12).map(b => `
+            <a href="/pages/brand-samawa.html?slug=${encodeURIComponent(b.slug)}"
+               class="card-bg rounded-2xl p-4 text-center hover:border-purple-500/30 transition-all hover:-translate-y-1 block">
+                ${b.img ? `<img src="${b.img}" alt="${b.name}" class="w-16 h-16 rounded-xl object-cover mx-auto mb-3">` :
+                  `<div class="w-16 h-16 rounded-xl bg-purple-500/10 flex items-center justify-center mx-auto mb-3">
+                      <iconify-icon icon="lucide:droplets" width="24" class="text-purple-400"></iconify-icon>
+                   </div>`}
+                <div class="text-xs font-medium truncate">${b.name}</div>
+                <div class="text-[10px] text-gray-500 mt-0.5">${b.count} products</div>
+            </a>`).join('');
+    }).catch(() => {});
+
+// WhatsApp inquiry form
+document.getElementById('inquiryForm').addEventListener('submit', e => {
+    e.preventDefault();
+    const name = document.getElementById('iqName').value.trim();
+    const biz  = document.getElementById('iqBusiness').value.trim();
+    const msg  = document.getElementById('iqMsg').value.trim();
+    const text = encodeURIComponent(`Hi BrotherScents,\n\nName: ${name}\nBusiness: ${biz}\n\nInquiry:\n${msg}`);
+    const wa   = (JSON.parse(localStorage.getItem('ls_settings') || '{}').whatsappNumber || '971500000000').replace(/\D/g,'');
+    window.open(`https://wa.me/${wa}?text=${text}`, '_blank');
+});
+
+// WhatsApp contact button
+const waSettings = JSON.parse(localStorage.getItem('ls_settings') || '{}');
+if (waSettings.whatsappNumber) {
+    const n = waSettings.whatsappNumber.replace(/\D/g,'');
+    document.getElementById('contactWABtn').href = `https://wa.me/${n}`;
+}
 
 // Mobile menu
 function openMenu()  { document.getElementById('mobileMenu').classList.add('open');    document.getElementById('menuOverlay').classList.remove('hidden'); }
