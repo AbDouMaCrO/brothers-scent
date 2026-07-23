@@ -9,6 +9,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <script src="https://cdn.tailwindcss.com"></script>
+    <script src="/js/i18n.js"></script>
     <script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js"></script>
     <script src="/js/supabase.js"></script>
@@ -158,7 +159,7 @@
     <div class="absolute inset-0 pointer-events-none" style="background:radial-gradient(ellipse 50% 60% at 50% 0%,rgba(168,85,247,0.1) 0%,transparent 70%)"></div>
     <div class="relative z-10">
         <p class="text-xs font-semibold uppercase tracking-widest text-purple-400 mb-3">Catalogue</p>
-        <h1 class="text-3xl md:text-5xl font-semibold tracking-tight mb-2">
+        <h1 class="text-3xl md:text-5xl font-semibold tracking-tight mb-2" data-i18n="products.title">
             All <span class="gradient-text">Products</span>
         </h1>
         <p id="count-label" class="text-gray-500 text-sm mt-2">Loading…</p>
@@ -174,7 +175,7 @@
             <!-- Mobile search -->
             <div class="md:hidden flex-1 min-w-[160px] relative">
                 <iconify-icon icon="lucide:search" width="14" class="absolute left-3 top-1/2 -translate-y-1/2 text-gray-500 pointer-events-none"></iconify-icon>
-                <input id="searchMobile" type="text" placeholder="Search…"
+                <input id="searchMobile" type="text" placeholder="Search…" data-i18n-placeholder="products.search"
                     class="search-input w-full bg-white/5 border border-white/8 rounded-xl pl-8 pr-3 py-2 text-sm text-gray-200 placeholder-gray-600"
                     oninput="onSearch(this.value)">
             </div>

@@ -9,6 +9,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <script src="https://cdn.tailwindcss.com"></script>
+    <script src="/js/i18n.js"></script>
     <script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
     <script>
         tailwind.config = {
@@ -108,10 +109,10 @@
             <iconify-icon icon="lucide:sparkles" width="14"></iconify-icon>
             Our Story
         </div>
-        <h1 class="text-4xl md:text-6xl font-bold mb-6">
+        <h1 class="text-4xl md:text-6xl font-bold mb-6" data-i18n="about.title">
             Redefining <span class="gradient-text">Luxury Wholesale</span><br>Fragrance
         </h1>
-        <p class="text-gray-400 text-lg md:text-xl max-w-2xl mx-auto leading-relaxed">
+        <p class="text-gray-400 text-lg md:text-xl max-w-2xl mx-auto leading-relaxed" data-i18n="about.subtitle">
             BrotherScents connects wholesale buyers across the Gulf region with the world's finest fragrance houses — at prices that make business sense.
         </p>
     </div>
@@ -149,8 +150,8 @@
                 <iconify-icon icon="lucide:book-open" width="14"></iconify-icon>
                 WHO WE ARE
             </div>
-            <h2 class="text-3xl md:text-4xl font-bold mb-6">Built for wholesale, <span class="gradient-text">born in the Gulf</span></h2>
-            <p class="text-gray-400 leading-relaxed mb-4">
+            <h2 class="text-3xl md:text-4xl font-bold mb-6" data-i18n="about.who.title">Built for wholesale, <span class="gradient-text">born in the Gulf</span></h2>
+            <p class="text-gray-400 leading-relaxed mb-4" data-i18n="about.who.text">
                 BrotherScents was founded by fragrance enthusiasts who saw a gap in the Gulf wholesale market — buyers struggled to source authentic, premium perfumes at competitive bulk prices without flying to trade shows or dealing with unreliable distributors.
             </p>
             <p class="text-gray-400 leading-relaxed mb-4">
@@ -202,7 +203,7 @@
                 <iconify-icon icon="lucide:target" width="14"></iconify-icon>
                 OUR MISSION
             </div>
-            <h2 class="text-3xl font-bold">What drives us every day</h2>
+            <h2 class="text-3xl font-bold" data-i18n="about.mission.title">What drives us every day</h2>
         </div>
         <div class="grid md:grid-cols-3 gap-6">
             <div class="value-card card-bg rounded-2xl p-8 text-center">
@@ -234,24 +235,24 @@
 <section class="py-16 px-4 bg-white/[0.01]">
     <div class="max-w-6xl mx-auto">
         <div class="text-center mb-12">
-            <h2 class="text-3xl font-bold mb-3">Our <span class="gradient-text">Core Values</span></h2>
+            <h2 class="text-3xl font-bold mb-3" data-i18n="about.values.title">Our <span class="gradient-text">Core Values</span></h2>
             <p class="text-gray-400">The principles that guide every decision we make</p>
         </div>
         <div class="grid sm:grid-cols-2 md:grid-cols-4 gap-5">
             <div class="card-bg rounded-2xl p-6 text-center value-card">
                 <iconify-icon icon="lucide:lock" width="24" class="text-purple-400 mb-3"></iconify-icon>
-                <h4 class="font-semibold mb-2">Integrity</h4>
-                <p class="text-gray-400 text-xs leading-relaxed">Transparent pricing, honest stock levels, no hidden fees.</p>
+                <h4 class="font-semibold mb-2" data-i18n="about.auth">Integrity</h4>
+                <p class="text-gray-400 text-xs leading-relaxed" data-i18n="about.auth.text">Transparent pricing, honest stock levels, no hidden fees.</p>
             </div>
             <div class="card-bg rounded-2xl p-6 text-center value-card">
                 <iconify-icon icon="lucide:trending-up" width="24" class="text-gold-400 mb-3"></iconify-icon>
-                <h4 class="font-semibold mb-2">Growth</h4>
-                <p class="text-gray-400 text-xs leading-relaxed">We grow when our partners grow — their success is our metric.</p>
+                <h4 class="font-semibold mb-2" data-i18n="about.trust">Growth</h4>
+                <p class="text-gray-400 text-xs leading-relaxed" data-i18n="about.trust.text">We grow when our partners grow — their success is our metric.</p>
             </div>
             <div class="card-bg rounded-2xl p-6 text-center value-card">
                 <iconify-icon icon="lucide:refresh-cw" width="24" class="text-purple-400 mb-3"></iconify-icon>
-                <h4 class="font-semibold mb-2">Reliability</h4>
-                <p class="text-gray-400 text-xs leading-relaxed">Consistent supply chain so your shelves are never empty.</p>
+                <h4 class="font-semibold mb-2" data-i18n="about.quality">Reliability</h4>
+                <p class="text-gray-400 text-xs leading-relaxed" data-i18n="about.quality.text">Consistent supply chain so your shelves are never empty.</p>
             </div>
             <div class="card-bg rounded-2xl p-6 text-center value-card">
                 <iconify-icon icon="lucide:heart" width="24" class="text-gold-400 mb-3"></iconify-icon>

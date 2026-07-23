@@ -9,6 +9,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <script src="https://cdn.tailwindcss.com"></script>
+    <script src="/js/i18n.js"></script>
     <script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
     <script>
         tailwind.config = {
@@ -110,15 +111,15 @@
             <iconify-icon icon="lucide:building-2" width="14"></iconify-icon>
             Brand Directory
         </div>
-        <h1 class="text-4xl md:text-5xl font-bold mb-3">
+        <h1 class="text-4xl md:text-5xl font-bold mb-3" data-i18n="brands.title">
             <span class="gradient-text">893 Brands</span> in our catalogue
         </h1>
-        <p class="text-gray-400 mb-8 text-sm">Every major fragrance house — browse by brand, explore their full product range.</p>
+        <p class="text-gray-400 mb-8 text-sm" data-i18n="brands.subtitle">Every major fragrance house — browse by brand, explore their full product range.</p>
 
         <!-- Search -->
         <div class="max-w-md mx-auto relative">
             <iconify-icon icon="lucide:search" width="16" class="absolute left-4 top-1/2 -translate-y-1/2 text-gray-500"></iconify-icon>
-            <input id="searchInput" type="text" placeholder="Search brand…"
+            <input id="searchInput" type="text" placeholder="Search brand…" data-i18n-placeholder="brands.search"
                 class="search-input w-full bg-white/5 border border-white/10 text-white placeholder-gray-500 rounded-xl pl-10 pr-4 py-3 text-sm">
         </div>
     </div>

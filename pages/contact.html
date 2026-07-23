@@ -9,6 +9,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <script src="https://cdn.tailwindcss.com"></script>
+    <script src="/js/i18n.js"></script>
     <script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
     <script>
         tailwind.config = {
@@ -108,10 +109,10 @@
             <iconify-icon icon="lucide:message-circle" width="14"></iconify-icon>
             Get in Touch
         </div>
-        <h1 class="text-4xl md:text-6xl font-bold mb-6">
+        <h1 class="text-4xl md:text-6xl font-bold mb-6" data-i18n="contact.title">
             Let's talk <span class="gradient-text">business</span>
         </h1>
-        <p class="text-gray-400 text-lg max-w-xl mx-auto leading-relaxed">
+        <p class="text-gray-400 text-lg max-w-xl mx-auto leading-relaxed" data-i18n="contact.subtitle">
             Ready to partner with us? Send your inquiry via WhatsApp or fill out the form below and we'll get back to you within 24 hours.
         </p>
     </div>
@@ -135,7 +136,7 @@
                         <iconify-icon icon="ic:baseline-whatsapp" width="22" class="text-green-400"></iconify-icon>
                     </div>
                     <div>
-                        <div class="font-semibold">WhatsApp</div>
+                        <div class="font-semibold" data-i18n="contact.whatsapp">WhatsApp</div>
                         <div class="text-gray-400 text-sm">Fastest response — reply within 1–2h</div>
                     </div>
                     <iconify-icon icon="lucide:arrow-right" width="16" class="text-gray-500 ml-auto"></iconify-icon>
@@ -156,8 +157,8 @@
                         <iconify-icon icon="lucide:map-pin" width="20" class="text-purple-400"></iconify-icon>
                     </div>
                     <div>
-                        <div class="font-semibold">Location</div>
-                        <div class="text-gray-400 text-sm">Dubai, UAE — Shipping across the GCC</div>
+                        <div class="font-semibold" data-i18n="contact.location">Location</div>
+                        <div class="text-gray-400 text-sm" data-i18n="contact.location.v">Dubai, UAE — Shipping across the GCC</div>
                     </div>
                 </div>
 
@@ -166,8 +167,8 @@
                         <iconify-icon icon="lucide:clock" width="20" class="text-purple-400"></iconify-icon>
                     </div>
                     <div>
-                        <div class="font-semibold">Business Hours</div>
-                        <div class="text-gray-400 text-sm">Sat–Thu 9:00am – 7:00pm GST</div>
+                        <div class="font-semibold" data-i18n="contact.hours">Business Hours</div>
+                        <div class="text-gray-400 text-sm" data-i18n="contact.hours.v">Sat–Thu 9:00am – 7:00pm GST</div>
                     </div>
                 </div>
             </div>
@@ -175,16 +176,16 @@
 
         <!-- Right: form -->
         <div class="card-bg rounded-2xl p-8">
-            <h2 class="text-xl font-bold mb-6">Send a wholesale inquiry</h2>
+            <h2 class="text-xl font-bold mb-6" data-i18n="contact.form.title">Send a wholesale inquiry</h2>
             <form id="inquiryForm" class="space-y-4">
                 <div class="grid sm:grid-cols-2 gap-4">
                     <div>
                         <label class="block text-xs text-gray-400 mb-1.5">Full Name *</label>
-                        <input id="fName" type="text" required placeholder="Ahmed Al-Rashid" class="form-input w-full rounded-xl px-4 py-3 text-sm">
+                        <input id="fName" type="text" required placeholder="Ahmed Al-Rashid" data-i18n-placeholder="contact.name" class="form-input w-full rounded-xl px-4 py-3 text-sm">
                     </div>
                     <div>
                         <label class="block text-xs text-gray-400 mb-1.5">Company</label>
-                        <input id="fCompany" type="text" placeholder="Al Noor Perfumes LLC" class="form-input w-full rounded-xl px-4 py-3 text-sm">
+                        <input id="fCompany" type="text" placeholder="Al Noor Perfumes LLC" data-i18n-placeholder="contact.company" class="form-input w-full rounded-xl px-4 py-3 text-sm">
                     </div>
                 </div>
                 <div>
@@ -206,11 +207,11 @@
                 </div>
                 <div>
                     <label class="block text-xs text-gray-400 mb-1.5">Message / Order Inquiry *</label>
-                    <textarea id="fMessage" rows="4" required placeholder="Tell us what fragrances you're interested in, approximate quantities, and any questions you have..." class="form-input w-full rounded-xl px-4 py-3 text-sm resize-none"></textarea>
+                    <textarea id="fMessage" rows="4" required placeholder="Tell us what fragrances you're interested in, approximate quantities, and any questions you have..." data-i18n-placeholder="contact.message" class="form-input w-full rounded-xl px-4 py-3 text-sm resize-none"></textarea>
                 </div>
                 <button type="submit" class="w-full flex items-center justify-center gap-2 bg-gradient-to-r from-green-600 to-green-700 text-white font-semibold py-3.5 rounded-xl hover:scale-[1.02] transition-transform text-sm">
                     <iconify-icon icon="ic:baseline-whatsapp" width="18"></iconify-icon>
-                    Send via WhatsApp
+                    <span data-i18n="contact.send">Send via WhatsApp</span>
                 </button>
                 <p class="text-gray-500 text-xs text-center">This opens WhatsApp with your message pre-filled</p>
             </form>
