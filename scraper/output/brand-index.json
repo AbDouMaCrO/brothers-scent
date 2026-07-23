@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T16:30:14.090Z",
+  "generated_at": "2026-07-23T18:00:18.312Z",
   "total_brands": 892,
   "brands": [
     {
@@ -155,7 +155,7 @@
     {
       "name": "Dolce & Gabbana",
       "slug": "dolce-gabbana",
-      "count": 363,
+      "count": 362,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/dd-removebg-preview.png?v=1784819576",
       "preview": [
         {
@@ -2053,6 +2053,56 @@
       ]
     },
     {
+      "name": "Ralph Lauren",
+      "slug": "ralph-lauren",
+      "count": 141,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ralp-removebg-preview.png?v=1784823885",
+      "preview": [
+        {
+          "name": "Ralph Lauren Club New York Edp For Men Woody 60ml",
+          "handle": "ralph-lauren-club-new-york-edp-for-men-woody-60ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ralp-removebg-preview.png?v=1784823885",
+          "price": 204,
+          "badge": ""
+        },
+        {
+          "name": "Ralph Lauren Gift Set For Men Chypre",
+          "handle": "ralph-lauren-gift-set-for-men-chypre",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/polo-removebg-preview.png?v=1784794700",
+          "price": 407,
+          "badge": ""
+        },
+        {
+          "name": "Ralph Lauren Gift Set For Men Aromatic",
+          "handle": "ralph-lauren-gift-set-for-men-aromatic",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bl-removebg.png?v=1784794162",
+          "price": 407,
+          "badge": ""
+        },
+        {
+          "name": "Ralph Lauren Gift Set For Men Woody",
+          "handle": "ralph-lauren-gift-set-for-men-woody-1",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ralph-removeb.png?v=1784793683",
+          "price": 296,
+          "badge": ""
+        },
+        {
+          "name": "Ralph Lauren Polo Est. 67 Eau De Parfum For Men - Woody Aromatic Perfume 125ml",
+          "handle": "ralph-lauren-polo-est-67-eau-de-parfum-for-men-woody-aromatic-perfume-125ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/4874846301.jpg?v=1767804442",
+          "price": 306,
+          "badge": ""
+        },
+        {
+          "name": "Ralph Lauren Polo Est. 67 Eau De Toilette For Men - Woody Citrus Perfume 150ml Refill",
+          "handle": "ralph-lauren-polo-est-67-eau-de-toilette-for-men-woody-citrus-perfume-150ml-refill",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3605972910226_enfr_01_1200.jpg?v=1767080735",
+          "price": 214,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Azzaro",
       "slug": "azzaro",
       "count": 141,
@@ -2098,56 +2148,6 @@
           "handle": "azzaro-wanted-for-men-set-edp-100ml-edp-10ml-hair-body-shampoo-75ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3614274306446_1.jpg?v=1736322083",
           "price": 334,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Ralph Lauren",
-      "slug": "ralph-lauren",
-      "count": 140,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/polo-removebg-preview.png?v=1784794700",
-      "preview": [
-        {
-          "name": "Ralph Lauren Gift Set For Men Chypre",
-          "handle": "ralph-lauren-gift-set-for-men-chypre",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/polo-removebg-preview.png?v=1784794700",
-          "price": 407,
-          "badge": ""
-        },
-        {
-          "name": "Ralph Lauren Gift Set For Men Aromatic",
-          "handle": "ralph-lauren-gift-set-for-men-aromatic",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bl-removebg.png?v=1784794162",
-          "price": 407,
-          "badge": ""
-        },
-        {
-          "name": "Ralph Lauren Gift Set For Men Woody",
-          "handle": "ralph-lauren-gift-set-for-men-woody-1",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ralph-removeb.png?v=1784793683",
-          "price": 296,
-          "badge": ""
-        },
-        {
-          "name": "Ralph Lauren Polo Est. 67 Eau De Parfum For Men - Woody Aromatic Perfume 125ml",
-          "handle": "ralph-lauren-polo-est-67-eau-de-parfum-for-men-woody-aromatic-perfume-125ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/4874846301.jpg?v=1767804442",
-          "price": 306,
-          "badge": ""
-        },
-        {
-          "name": "Ralph Lauren Polo Est. 67 Eau De Toilette For Men - Woody Citrus Perfume 150ml Refill",
-          "handle": "ralph-lauren-polo-est-67-eau-de-toilette-for-men-woody-citrus-perfume-150ml-refill",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3605972910226_enfr_01_1200.jpg?v=1767080735",
-          "price": 214,
-          "badge": ""
-        },
-        {
-          "name": "Ralph Lauren Polo Earth Eau De Toilette For Unisex -Citrus & Floral Perfume 200ml Refill",
-          "handle": "ralph-lauren-polo-earth-eau-de-toilette-for-unisex-citrus-floral-perfume-200ml-refill",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/s7-1446039_lifestyle_3aa0c77d-b5cf-45d8-be18-5ef90df13d58.jpg?v=1767079973",
-          "price": 269,
           "badge": ""
         }
       ]
