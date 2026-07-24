@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T09:48:23.161Z",
-  "total_brands": 889,
+  "generated_at": "2026-07-24T11:45:21.647Z",
+  "total_brands": 890,
   "brands": [
     {
       "name": "Amazing Creation",
@@ -1355,7 +1355,7 @@
     {
       "name": "Rasasi",
       "slug": "rasasi",
-      "count": 196,
+      "count": 195,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Hawas_Chrome.png?v=1784619105",
       "preview": [
         {
@@ -5503,6 +5503,56 @@
       ]
     },
     {
+      "name": "JULIETTE HAS A GUN",
+      "slug": "juliette-has-a-gun",
+      "count": 52,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/shakee-removebg-preview.png?v=1784885877",
+      "preview": [
+        {
+          "name": "Juliette Has A Gun Miami Shake Eau de Parfum For Women Gourmand 100ml",
+          "handle": "juliette-has-a-gun-miami-shake-eau-de-parfum-for-women-gourmand-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/shakee-removebg-preview.png?v=1784885877",
+          "price": 315,
+          "badge": ""
+        },
+        {
+          "name": "Juliette Has A Gun Lust for Sun Eau de Parfum For Men And Women Floral 100ml",
+          "handle": "juliette-has-a-gun-lust-for-sun-eau-de-parfum-for-men-and-women-floral-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/lust-removebg-preview.png?v=1784885562",
+          "price": 315,
+          "badge": ""
+        },
+        {
+          "name": "Juliette Has A Gun Madeleine Impériale Eau de Parfum For Men And Women Amber 100ml",
+          "handle": "juliette-has-a-gun-madeleine-imperiale-eau-de-parfum-for-men-and-women-amber-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bold-removebg-preview.png?v=1784884740",
+          "price": 455,
+          "badge": ""
+        },
+        {
+          "name": "Juliette Has A Gun Banana Rush Eau de Parfum For Men And Women Gourmand 100ml",
+          "handle": "juliette-has-a-gun-banana-rush-eau-de-parfum-for-men-and-women-gourmand-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/gunn-removebg-preview.png?v=1784884457",
+          "price": 362,
+          "badge": ""
+        },
+        {
+          "name": "Juliette Has A Gun Juliette Perfume For Women EDP 100ml",
+          "handle": "juliette-has-a-gun-juliette-perfume-for-women-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3760022734112-3.4oz-1.jpg?v=1741244377",
+          "price": 296,
+          "badge": ""
+        },
+        {
+          "name": "Juliette Has A Gun Ode To Dullness For Unisex Mini Spray EDP 5ml",
+          "handle": "juliette-has-a-gun-ode-to-dullness-for-unisex-mini-spray-edp-5ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3760022733887_2.jpg?v=1740752111",
+          "price": 30,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "SISLEY",
       "slug": "sisley",
       "count": 52,
@@ -5548,56 +5598,6 @@
           "handle": "sisley-eau-de-campagne-for-unisex-perfumed-deo-spray-150ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3473311927026.jpg?v=1738347462",
           "price": 155,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "JULIETTE HAS A GUN",
-      "slug": "juliette-has-a-gun",
-      "count": 51,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/lust-removebg-preview.png?v=1784885562",
-      "preview": [
-        {
-          "name": "Juliette Has A Gun Lust for Sun Eau de Parfum For Men And Women Floral 100ml",
-          "handle": "juliette-has-a-gun-lust-for-sun-eau-de-parfum-for-men-and-women-floral-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/lust-removebg-preview.png?v=1784885562",
-          "price": 315,
-          "badge": ""
-        },
-        {
-          "name": "Juliette Has A Gun Madeleine Impériale Eau de Parfum For Men And Women Amber 100ml",
-          "handle": "juliette-has-a-gun-madeleine-imperiale-eau-de-parfum-for-men-and-women-amber-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bold-removebg-preview.png?v=1784884740",
-          "price": 455,
-          "badge": ""
-        },
-        {
-          "name": "Juliette Has A Gun Banana Rush Eau de Parfum For Men And Women Gourmand 100ml",
-          "handle": "juliette-has-a-gun-banana-rush-eau-de-parfum-for-men-and-women-gourmand-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/gunn-removebg-preview.png?v=1784884457",
-          "price": 362,
-          "badge": ""
-        },
-        {
-          "name": "Juliette Has A Gun Juliette Perfume For Women EDP 100ml",
-          "handle": "juliette-has-a-gun-juliette-perfume-for-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3760022734112-3.4oz-1.jpg?v=1741244377",
-          "price": 296,
-          "badge": ""
-        },
-        {
-          "name": "Juliette Has A Gun Ode To Dullness For Unisex Mini Spray EDP 5ml",
-          "handle": "juliette-has-a-gun-ode-to-dullness-for-unisex-mini-spray-edp-5ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3760022733887_2.jpg?v=1740752111",
-          "price": 30,
-          "badge": ""
-        },
-        {
-          "name": "Juliette Has A Gun MMMM… For Unisex Mini Spray EDP 5ml",
-          "handle": "juliette-has-a-gun-mmmm-for-unisex-mini-spray-edp-5ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3760022730282_1.jpg?v=1740751457",
-          "price": 30,
           "badge": ""
         }
       ]
@@ -16753,6 +16753,56 @@
       ]
     },
     {
+      "name": "KAYALI",
+      "slug": "kayali",
+      "count": 12,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/maui-removebg-preview.png?v=1784889612",
+      "preview": [
+        {
+          "name": "Kayali Maui in a Bottle Sweet Banana 37 Eau de Parfum For Men And Women Gourmand 50ml",
+          "handle": "kayali-maui-in-a-bottle-sweet-banana-37-eau-de-parfum-for-men-and-women-gourmand-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/maui-removebg-preview.png?v=1784889612",
+          "price": 512,
+          "badge": ""
+        },
+        {
+          "name": "Kayali Gift Set For Women Fruity",
+          "handle": "kayali-gift-set-for-women-fruity",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/lychee-removebg-preview.png?v=1784797553",
+          "price": 585,
+          "badge": ""
+        },
+        {
+          "name": "Kayali Gift Set For Men And Women Gourmand",
+          "handle": "kayali-gift-set-for-men-and-women-gourmand",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/kayali-removeb.png?v=1784797134",
+          "price": 603,
+          "badge": ""
+        },
+        {
+          "name": "KayAli Yum Pistachio Gelato 33 Intense Edp For Men And Women Sweet 50ml",
+          "handle": "kayali-yum-pistachio-gelato-33-intense-edp-for-men-and-women-sweet-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/kayaliii_1ce6f2bf-84fc-4b6f-ba6a-2072a0cbfd76.avif?v=1774696046",
+          "price": 530,
+          "badge": ""
+        },
+        {
+          "name": "KayAli Yum Pistachio Gelato 33 Intense Edp For Men And Women Sweet 100ml",
+          "handle": "kayali-yum-pistachio-gelato-33-intense-edp-for-men-and-women-sweet-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/kayaliii.avif?v=1774695746",
+          "price": 732,
+          "badge": ""
+        },
+        {
+          "name": "KayAli Yum Boujee Marshmallow 81 Intense Edp For Women Sweet 50ml",
+          "handle": "kayali-yum-boujee-marshmallow-81-intense-edp-for-women-sweet-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/marsh-removebg-preview_077738b4-f471-4bc6-85c3-c0d6d1615b6c.png?v=1774691343",
+          "price": 512,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "EL GANSO",
       "slug": "el-ganso",
       "count": 12,
@@ -17598,56 +17648,6 @@
           "handle": "gianfranco-ferre-gieffeffe-edt-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/8011530041304_6ef65f57eb80ffac8707c16af362b525.jpg?v=1624457439",
           "price": 86,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "KAYALI",
-      "slug": "kayali",
-      "count": 11,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/lychee-removebg-preview.png?v=1784797553",
-      "preview": [
-        {
-          "name": "Kayali Gift Set For Women Fruity",
-          "handle": "kayali-gift-set-for-women-fruity",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/lychee-removebg-preview.png?v=1784797553",
-          "price": 585,
-          "badge": ""
-        },
-        {
-          "name": "Kayali Gift Set For Men And Women Gourmand",
-          "handle": "kayali-gift-set-for-men-and-women-gourmand",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/kayali-removeb.png?v=1784797134",
-          "price": 603,
-          "badge": ""
-        },
-        {
-          "name": "KayAli Yum Pistachio Gelato 33 Intense Edp For Men And Women Sweet 50ml",
-          "handle": "kayali-yum-pistachio-gelato-33-intense-edp-for-men-and-women-sweet-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/kayaliii_1ce6f2bf-84fc-4b6f-ba6a-2072a0cbfd76.avif?v=1774696046",
-          "price": 530,
-          "badge": ""
-        },
-        {
-          "name": "KayAli Yum Pistachio Gelato 33 Intense Edp For Men And Women Sweet 100ml",
-          "handle": "kayali-yum-pistachio-gelato-33-intense-edp-for-men-and-women-sweet-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/kayaliii.avif?v=1774695746",
-          "price": 732,
-          "badge": ""
-        },
-        {
-          "name": "KayAli Yum Boujee Marshmallow 81 Intense Edp For Women Sweet 50ml",
-          "handle": "kayali-yum-boujee-marshmallow-81-intense-edp-for-women-sweet-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/marsh-removebg-preview_077738b4-f471-4bc6-85c3-c0d6d1615b6c.png?v=1774691343",
-          "price": 512,
-          "badge": ""
-        },
-        {
-          "name": "KayAli Yum Boujee Marshmallow 81 Intense Edp For Women Sweet 100ml",
-          "handle": "kayali-yum-boujee-marshmallow-81-intense-edp-for-women-sweet-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/marsh-removebg-preview.png?v=1774691152",
-          "price": 750,
           "badge": ""
         }
       ]
@@ -22403,56 +22403,6 @@
       ]
     },
     {
-      "name": "Nike",
-      "slug": "nike",
-      "count": 7,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/nike_gold_edition_w_edt_100ml.jpg?v=1624498513",
-      "preview": [
-        {
-          "name": "Nike Gold Edition Women Edt 100ml",
-          "handle": "nike-gold-edition-women-edt-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/nike_gold_edition_w_edt_100ml.jpg?v=1624498513",
-          "price": 45,
-          "badge": ""
-        },
-        {
-          "name": "Nike Gold Edition Men Edt 100ml",
-          "handle": "nike-gold-edition-men-edt-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/nike_gold_edition_m_edt_100ml.jpg?v=1624498497",
-          "price": 45,
-          "badge": ""
-        },
-        {
-          "name": "Body & Deo Spray Nike Trendy for Women 200ml",
-          "handle": "body-deo-spray-nike-trendy-for-women-200ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/61nsuiedbul._sl1500.jpg?v=1624927531",
-          "price": 10,
-          "badge": ""
-        },
-        {
-          "name": "Nike Extreme Deo for Women 200ml",
-          "handle": "nike-extreme-deo-for-women-200ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/nikeextremedeodorant_088846.jpg?v=1624448380",
-          "price": 10,
-          "badge": ""
-        },
-        {
-          "name": "Nike Original Woman Deodorant 200ml",
-          "handle": "nike-original-woman-deodorant-200ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/nikeoriginaldeodorant_9f9c7e.jpg?v=1624426370",
-          "price": 10,
-          "badge": ""
-        },
-        {
-          "name": "Nike Women Fission Deo for Women, White, 200ml",
-          "handle": "nike-women-fission-deo-for-women-white-200ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/nike_women_fission_deo_for_women_white_200ml.jpg?v=1624393644",
-          "price": 10,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Dar El Ward",
       "slug": "dar-el-ward",
       "count": 6,
@@ -25188,6 +25138,49 @@
           "handle": "alex-simone-en-terrasse-unisex-edp-100-ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/alex_simone_en_terrasse_u_edp_100_ml_fr.jpg?v=1633601575",
           "price": 298,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Nike",
+      "slug": "nike",
+      "count": 5,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/nike_gold_edition_w_edt_100ml.jpg?v=1624498513",
+      "preview": [
+        {
+          "name": "Nike Gold Edition Women Edt 100ml",
+          "handle": "nike-gold-edition-women-edt-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/nike_gold_edition_w_edt_100ml.jpg?v=1624498513",
+          "price": 45,
+          "badge": ""
+        },
+        {
+          "name": "Nike Gold Edition Men Edt 100ml",
+          "handle": "nike-gold-edition-men-edt-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/nike_gold_edition_m_edt_100ml.jpg?v=1624498497",
+          "price": 45,
+          "badge": ""
+        },
+        {
+          "name": "Body & Deo Spray Nike Trendy for Women 200ml",
+          "handle": "body-deo-spray-nike-trendy-for-women-200ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/61nsuiedbul._sl1500.jpg?v=1624927531",
+          "price": 10,
+          "badge": ""
+        },
+        {
+          "name": "Nike Extreme Deo for Women 200ml",
+          "handle": "nike-extreme-deo-for-women-200ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/nikeextremedeodorant_088846.jpg?v=1624448380",
+          "price": 10,
+          "badge": ""
+        },
+        {
+          "name": "Nike Original Woman Deodorant 200ml",
+          "handle": "nike-original-woman-deodorant-200ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/nikeoriginaldeodorant_9f9c7e.jpg?v=1624426370",
+          "price": 10,
           "badge": ""
         }
       ]
@@ -31048,6 +31041,21 @@
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/arqus_roulette_uomo.jpg?v=1624397277",
           "price": 10,
           "badge": "SALE"
+        }
+      ]
+    },
+    {
+      "name": "kajal",
+      "slug": "kajal",
+      "count": 1,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/masa-removebg-preview_cdabcbc3-d35f-4026-8338-98f77d0e84f0.png?v=1784888759",
+      "preview": [
+        {
+          "name": "Kajal Masa Eau de Parfum For Men And Women Woody 100ml",
+          "handle": "kajal-masa-eau-de-parfum-for-men-and-women-woody-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/masa-removebg-preview_cdabcbc3-d35f-4026-8338-98f77d0e84f0.png?v=1784888759",
+          "price": 455,
+          "badge": ""
         }
       ]
     },
