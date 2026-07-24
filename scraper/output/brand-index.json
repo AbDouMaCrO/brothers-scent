@@ -1,52 +1,52 @@
 {
-  "generated_at": "2026-07-24T01:01:58.445Z",
-  "total_brands": 892,
+  "generated_at": "2026-07-24T07:11:11.638Z",
+  "total_brands": 891,
   "brands": [
     {
       "name": "Amazing Creation",
       "slug": "amazing-creation",
-      "count": 1101,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Silk_Musk_Roll_On_Perfume_Oil_For_Unisex_10ml.jpg?v=1784816020",
+      "count": 1108,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Oud_Saffron_Perfume_Oil_For_Unisex_10ml_1.jpg?v=1784876173",
       "preview": [
         {
-          "name": "Amazing Creation Silk Musk Roll On Perfume Oil For Unisex 10ml",
-          "handle": "amazing-creation-silk-musk-roll-on-perfume-oil-for-unisex-10ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Silk_Musk_Roll_On_Perfume_Oil_For_Unisex_10ml.jpg?v=1784816020",
+          "name": "Amazing Creation Oud Saffron Roll On Perfume Oil For Unisex 10ml",
+          "handle": "amazing-creation-oud-saffron-roll-on-perfume-oil-for-unisex-10ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Oud_Saffron_Perfume_Oil_For_Unisex_10ml_1.jpg?v=1784876173",
           "price": 10,
           "badge": "SALE"
         },
         {
-          "name": "Amazing Creation Oud Intense Roll On Perfume Oil For Unisex 10ml",
-          "handle": "amazing-creation-oud-intense-roll-on-perfume-oil-for-unisex-10ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Oud_Intense_Roll_On_Perfume_Oil_For_Unisex_10ml.jpg?v=1784814042",
+          "name": "Amazing Creation Annone Roll On Perfume Oil For Unisex 10ml",
+          "handle": "amazing-creation-annone-roll-on-perfume-oil-for-unisex-10ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Annone_Perfume_Oil_For_Unisex_10ml_1.jpg?v=1784875579",
           "price": 10,
           "badge": "SALE"
         },
         {
-          "name": "Amazing Creation Oud Maracuja Roll On Perfume Oil For Unisex 10ml",
-          "handle": "amazing-creation-oud-maracuja-roll-on-perfume-oil-for-unisex-10ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Oud_Maracuja_Roll-on_Perfume_Oil_For_Unisex_10ml.jpg?v=1784813280",
+          "name": "Amazing Creation Oud Bouquet Roll On Perfume Oil For Unisex 10ml",
+          "handle": "amazing-creation-oud-bouquet-roll-on-perfume-oil-for-unisex-10ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Oud_Bouquet_Perfume_Oil_For_Unisex_10ml_1.jpg?v=1784875289",
           "price": 10,
           "badge": "SALE"
         },
         {
-          "name": "Amazing Creation Ice Blaze Perfume For Men EDP 100ml",
-          "handle": "amazing-creation-ice-blaze-perfume-for-men-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Ice_Blaze_Perfume_For_Men_EDP_100ml_1.jpg?v=1784379527",
-          "price": 75,
-          "badge": "SALE"
-        },
-        {
-          "name": "Amazing Creation Oud Intense Travel Size Mini Perfume For Unisex EDP PFB-142 10ml",
-          "handle": "amazing-creation-oud-intense-travel-size-mini-perfume-for-unisex-edp-pfb-142-10ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Oud_Intense_10ml.png?v=1784288052",
+          "name": "Amazing Creation Tobacco Oud Roll On Perfume Oil For Unisex 10ml",
+          "handle": "amazing-creation-tobacco-oud-roll-on-perfume-oil-for-unisex-10ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Tobacco_Oud_Perfume_Oil_For_Unisex_10ml_1.jpg?v=1784874501",
           "price": 10,
           "badge": "SALE"
         },
         {
-          "name": "Amazing Creation Intensely Travel Size Mini Perfume For Men EDP PFB-421 10ml",
-          "handle": "amazing-creation-intensely-travel-size-mini-perfume-for-men-edp-pfb-421-10ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Intensely_Travel_Size_Mini_Perfume_10ml.png?v=1784287604",
+          "name": "Amazing Creation Oud For Greatness Roll On Perfume Oil For Unisex 10ml",
+          "handle": "amazing-creation-oud-for-greatness-roll-on-perfume-oil-for-unisex-10ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Oud_For_Greatness_Perfume_Oil_For_Unisex_10ml.jpg?v=1784874093",
+          "price": 10,
+          "badge": "SALE"
+        },
+        {
+          "name": "Amazing Creation Musc Shamal Roll On Perfume Oil For Unisex 10ml",
+          "handle": "amazing-creation-musc-shamal-roll-on-perfume-oil-for-unisex-10ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Desert_Musc_Shamal_Roll-on_Perfume_Oil_For_Unisex_EDP_10ml_1.jpg?v=1784871899",
           "price": 10,
           "badge": "SALE"
         }
@@ -205,9 +205,16 @@
     {
       "name": "Christian Dior",
       "slug": "christian-dior",
-      "count": 351,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rose_glow-removebg.png?v=1784536564",
+      "count": 352,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3348901738217_1.webp?v=1782230777",
       "preview": [
+        {
+          "name": "Christian Dior J'Adore  (Not for sale)",
+          "handle": "christian-dior-jadore-not-for-sale",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3348901738217_1.webp?v=1782230777",
+          "price": 622,
+          "badge": ""
+        },
         {
           "name": "Christian Dior Addict Rosy Glow Eau de Parfum For Women Floral 100ml",
           "handle": "christian-dior-addict-rosy-glow-eau-de-parfum-for-women-floral-100ml",
@@ -241,13 +248,6 @@
           "handle": "christian-dior-addict-peachy-glow-eau-de-parfum-for-women-floral-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/dior-removebg-preview_7802345b-6e3e-474b-ade9-73392c207d7c.png?v=1784487627",
           "price": 939,
-          "badge": ""
-        },
-        {
-          "name": "Christian Dior J'Adore  Eau De Parfum For Women- Floral Fruity Perfume 50ml",
-          "handle": "christian-dior-jadore-eau-de-parfum-for-women-floral-fruity-perfume-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3348901738217_1.webp?v=1782230777",
-          "price": 622,
           "badge": ""
         }
       ]
@@ -3153,56 +3153,6 @@
       ]
     },
     {
-      "name": "Ard Al Zafraan",
-      "slug": "ard-al-zafraan",
-      "count": 102,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/botllll-removebg.png?v=1784456293",
-      "preview": [
-        {
-          "name": "Ard Al Zaafaran Sheikh Shuyukh Eau de Parfum For Men And Women Woody 50ml",
-          "handle": "ard-al-zaafaran-sheikh-shuyukh-eau-de-parfum-for-men-and-women-woody-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/botllll-removebg.png?v=1784456293",
-          "price": 26,
-          "badge": ""
-        },
-        {
-          "name": "Rasasi Mousuf Wardi Eau de Parfum For Women Floral 100ml",
-          "handle": "rasasi-mousuf-wardi-eau-de-parfum-for-women-floral-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/mousuf.webp?v=1782571957",
-          "price": 54,
-          "badge": ""
-        },
-        {
-          "name": "Ard Al Zaafaran Qaed Al Fursan  Eau De Parfum For Men-Oriental Woody Perfume 50ml",
-          "handle": "ard-al-zaafaran-qaed-al-fursan-eau-de-parfum-for-men-oriental-woody-perfume-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/QAEDALFURSAN50ML_1.png?v=1782227346",
-          "price": 26,
-          "badge": ""
-        },
-        {
-          "name": "Ard Al Zaafaran  Rose Paris EDP For Women 100ml",
-          "handle": "ard-al-zaafaran-rose-paris-edp-for-women-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Ard_Al_Zaafaran_Rose_Paris.jpg?v=1773046114",
-          "price": 36,
-          "badge": ""
-        },
-        {
-          "name": "Ard Al Zaafaran Romancea For Unisex EDP 50ml",
-          "handle": "ard-al-zaafaran-romancea-for-unisex-edp50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Ard_Al_Zaafaran_Romancea_For_Unisex_EDP_50ml.jpg?v=1769677215",
-          "price": 12,
-          "badge": ""
-        },
-        {
-          "name": "Ard Al Zaafaran Oud Romancea Edp For Men And Women Oriental 50ml",
-          "handle": "ard-al-zaafaran-oud-romancea-edp-for-men-and-women-oriental-50ml-1",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/romancea.webp?v=1769177685",
-          "price": 26,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Kilian",
       "slug": "kilian",
       "count": 101,
@@ -3298,6 +3248,56 @@
           "handle": "franck-olivier-nature-pour-elle-for-women-edp-75ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3516642227325_2.jpg?v=1740146931",
           "price": 73,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Ard Al Zafraan",
+      "slug": "ard-al-zafraan",
+      "count": 96,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/botllll-removebg.png?v=1784456293",
+      "preview": [
+        {
+          "name": "Ard Al Zaafaran Sheikh Shuyukh Eau de Parfum For Men And Women Woody 50ml",
+          "handle": "ard-al-zaafaran-sheikh-shuyukh-eau-de-parfum-for-men-and-women-woody-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/botllll-removebg.png?v=1784456293",
+          "price": 26,
+          "badge": ""
+        },
+        {
+          "name": "Rasasi Mousuf Wardi Eau de Parfum For Women Floral 100ml",
+          "handle": "rasasi-mousuf-wardi-eau-de-parfum-for-women-floral-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/mousuf.webp?v=1782571957",
+          "price": 54,
+          "badge": ""
+        },
+        {
+          "name": "Ard Al Zaafaran Qaed Al Fursan  Eau De Parfum For Men-Oriental Woody Perfume 50ml",
+          "handle": "ard-al-zaafaran-qaed-al-fursan-eau-de-parfum-for-men-oriental-woody-perfume-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/QAEDALFURSAN50ML_1.png?v=1782227346",
+          "price": 26,
+          "badge": ""
+        },
+        {
+          "name": "Ard Al Zaafaran  Rose Paris EDP For Women 100ml",
+          "handle": "ard-al-zaafaran-rose-paris-edp-for-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Ard_Al_Zaafaran_Rose_Paris.jpg?v=1773046114",
+          "price": 36,
+          "badge": ""
+        },
+        {
+          "name": "Ard Al Zaafaran Romancea For Unisex EDP 50ml",
+          "handle": "ard-al-zaafaran-romancea-for-unisex-edp50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Ard_Al_Zaafaran_Romancea_For_Unisex_EDP_50ml.jpg?v=1769677215",
+          "price": 12,
+          "badge": ""
+        },
+        {
+          "name": "Ard Al Zaafaran Oud Romancea Edp For Men And Women Oriental 50ml",
+          "handle": "ard-al-zaafaran-oud-romancea-edp-for-men-and-women-oriental-50ml-1",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/romancea.webp?v=1769177685",
+          "price": 26,
           "badge": ""
         }
       ]
@@ -31052,28 +31052,6 @@
       ]
     },
     {
-      "name": "Axis Cavier",
-      "slug": "axis-cavier",
-      "count": 2,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/axis_caviar_grand_prix_red_90ml_edt_for_men.jpg?v=1624393565",
-      "preview": [
-        {
-          "name": "Axis Caviar Grand Prix Red for men edt, 90ml",
-          "handle": "axis-caviar-grand-prix-red-for-men-edt-90ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/axis_caviar_grand_prix_red_90ml_edt_for_men.jpg?v=1624393565",
-          "price": 53,
-          "badge": ""
-        },
-        {
-          "name": "Axis Caviar Grand Prix Black for Men Edt, 90ml",
-          "handle": "axis-caviar-grand-prix-black-for-men-edt-90ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/axis_caviar_grand_prix_black.jpg?v=1624393556",
-          "price": 53,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Yardley",
       "slug": "yardley",
       "count": 1,
@@ -33759,16 +33737,16 @@
       ]
     },
     {
-      "name": "Arno Sorel",
-      "slug": "arno-sorel",
+      "name": "Axis Cavier",
+      "slug": "axis-cavier",
       "count": 1,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/deep_ocean_by_arno_sorel_100ml_eau_de_toilette.jpg?v=1624393540",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/axis_caviar_grand_prix_red_90ml_edt_for_men.jpg?v=1624393565",
       "preview": [
         {
-          "name": "Arno Sorel Deep Ocean Eau de Toilette, 100ml",
-          "handle": "arno-sorel-deep-ocean-eau-de-toilette-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/deep_ocean_by_arno_sorel_100ml_eau_de_toilette.jpg?v=1624393540",
-          "price": 45,
+          "name": "Axis Caviar Grand Prix Red for men edt, 90ml",
+          "handle": "axis-caviar-grand-prix-red-for-men-edt-90ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/axis_caviar_grand_prix_red_90ml_edt_for_men.jpg?v=1624393565",
+          "price": 53,
           "badge": ""
         }
       ]
