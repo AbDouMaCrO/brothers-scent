@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T07:11:11.638Z",
-  "total_brands": 891,
+  "generated_at": "2026-07-24T09:48:23.161Z",
+  "total_brands": 889,
   "brands": [
     {
       "name": "Amazing Creation",
@@ -205,16 +205,9 @@
     {
       "name": "Christian Dior",
       "slug": "christian-dior",
-      "count": 352,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3348901738217_1.webp?v=1782230777",
+      "count": 351,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rose_glow-removebg.png?v=1784536564",
       "preview": [
-        {
-          "name": "Christian Dior J'Adore  (Not for sale)",
-          "handle": "christian-dior-jadore-not-for-sale",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3348901738217_1.webp?v=1782230777",
-          "price": 622,
-          "badge": ""
-        },
         {
           "name": "Christian Dior Addict Rosy Glow Eau de Parfum For Women Floral 100ml",
           "handle": "christian-dior-addict-rosy-glow-eau-de-parfum-for-women-floral-100ml",
@@ -248,6 +241,13 @@
           "handle": "christian-dior-addict-peachy-glow-eau-de-parfum-for-women-floral-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/dior-removebg-preview_7802345b-6e3e-474b-ade9-73392c207d7c.png?v=1784487627",
           "price": 939,
+          "badge": ""
+        },
+        {
+          "name": "Christian Dior J'Adore  Eau De Parfum For Women- Floral Fruity Perfume 50ml",
+          "handle": "christian-dior-jadore-eau-de-parfum-for-women-floral-fruity-perfume-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3348901738217_1.webp?v=1782230777",
+          "price": 622,
           "badge": ""
         }
       ]
@@ -2255,9 +2255,16 @@
     {
       "name": "Jo Malone",
       "slug": "jo-malone",
-      "count": 130,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/690251082704_enfr_03_1200.jpg?v=1772101159",
+      "count": 131,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/wood-removebg-preview.png?v=1784883889",
       "preview": [
+        {
+          "name": "Jo Malone London Wood Sage And Sea Salt Cologne For Men And Women 50ml",
+          "handle": "jo-malone-london-wood-sage-and-sea-salt-cologne-for-men-and-women-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/wood-removebg-preview.png?v=1784883889",
+          "price": 370,
+          "badge": ""
+        },
         {
           "name": "Jo Malone Peony & Blush Suede Scented Candle 200gm",
           "handle": "jo-malone-peony-blush-suede-scented-candle-200gm",
@@ -2291,13 +2298,6 @@
           "handle": "jo-malone-lime-basil-mandarin-exfoliating-shower-gel-for-unisex-75ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/jo_sku_LE2P01_1000x1000_0.png?v=1767364151",
           "price": 78,
-          "badge": ""
-        },
-        {
-          "name": "Jo Malone English Pear & Freesia Exfoliating Shower Gel For Women 75ml",
-          "handle": "jo-malone-english-pear-freesia-exfoliating-shower-gel-for-women-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/jo_sku_LE2T01_1000x1000_0.png?v=1767363437",
-          "price": 76,
           "badge": ""
         }
       ]
@@ -4153,6 +4153,56 @@
       ]
     },
     {
+      "name": "VIKTOR & ROLF",
+      "slug": "viktor-rolf",
+      "count": 80,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/spice_bottle-removebg-preview.png?v=1784883545",
+      "preview": [
+        {
+          "name": "Viktor And Rolf Spice bomb Metallic Musk Pour Homme Eau de Parfum For Men Spicy 50ml",
+          "handle": "viktor-and-rolf-spice-bomb-metallic-musk-pour-homme-eau-de-parfum-for-men-spicy-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/spice_bottle-removebg-preview.png?v=1784883545",
+          "price": 259,
+          "badge": ""
+        },
+        {
+          "name": "Viktor And Rolf Flower bomb Frozen Flower Limited Edition Eau de Parfum For Women Floral 100ml",
+          "handle": "viktor-and-rolf-flowerbomb-frozen-flower-limited-edition-eau-de-parfum-for-women-floral-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/frozen-removebg-preview.png?v=1784882631",
+          "price": 389,
+          "badge": ""
+        },
+        {
+          "name": "Viktor And Rolf Flower bomb Eau de Parfum For Women Floral 30ml",
+          "handle": "viktor-and-rolf-flower-bomb-eau-de-parfum-for-women-floral-30ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/flower-removebg-preview.png?v=1784881439",
+          "price": 241,
+          "badge": ""
+        },
+        {
+          "name": "Viktor & Rolf Flowerbomb Pretty Peony Eau De Parfum For Women-  Floral Fruity Perfume 50ml",
+          "handle": "viktor-rolf-flowerbomb-pretty-peony-eau-de-parfum-for-women-floral-fruity-perfume-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/1771249285-53807800.jpg?v=1781629178",
+          "price": 296,
+          "badge": ""
+        },
+        {
+          "name": "Viktor & Rolf Flowerbomb Extreme Eau De Parfum Intense For Women-  Floral Fruity Perfume 50ml",
+          "handle": "viktor-rolf-flowerbomb-extreme-eau-de-parfum-intense-for-women-floral-fruity-perfume-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/IMG1_0e0bf8a5-b072-4dfa-9eb0-90aef2e21478.jpg?v=1781543210",
+          "price": 325,
+          "badge": ""
+        },
+        {
+          "name": "Viktor & Rolf Good Fortune Eau De Parfum For Women - Oriental Floral Perfume 100ml Refill",
+          "handle": "viktor-rolf-good-fortune-eau-de-parfum-for-women-oriental-floral-perfume-100ml-refill",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3614273665933_enfr_02_1200.jpg?v=1774548611",
+          "price": 222,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Marc Jacobs",
       "slug": "marc-jacobs",
       "count": 80,
@@ -4248,56 +4298,6 @@
           "handle": "davidoff-cool-elixir-oud-aromatique-parfum-intense-for-men-oriental-fougere-perfume-50ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/WLP6S_SQ1_0000000088_NO_COLOR_SLf.jpg?v=1760519027",
           "price": 158,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "VIKTOR & ROLF",
-      "slug": "viktor-rolf",
-      "count": 77,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/1771249285-53807800.jpg?v=1781629178",
-      "preview": [
-        {
-          "name": "Viktor & Rolf Flowerbomb Pretty Peony Eau De Parfum For Women-  Floral Fruity Perfume 50ml",
-          "handle": "viktor-rolf-flowerbomb-pretty-peony-eau-de-parfum-for-women-floral-fruity-perfume-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/1771249285-53807800.jpg?v=1781629178",
-          "price": 296,
-          "badge": ""
-        },
-        {
-          "name": "Viktor & Rolf Flowerbomb Extreme Eau De Parfum Intense For Women-  Floral Fruity Perfume 50ml",
-          "handle": "viktor-rolf-flowerbomb-extreme-eau-de-parfum-intense-for-women-floral-fruity-perfume-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/IMG1_0e0bf8a5-b072-4dfa-9eb0-90aef2e21478.jpg?v=1781543210",
-          "price": 325,
-          "badge": ""
-        },
-        {
-          "name": "Viktor & Rolf Good Fortune Eau De Parfum For Women - Oriental Floral Perfume 100ml Refill",
-          "handle": "viktor-rolf-good-fortune-eau-de-parfum-for-women-oriental-floral-perfume-100ml-refill",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3614273665933_enfr_02_1200.jpg?v=1774548611",
-          "price": 222,
-          "badge": ""
-        },
-        {
-          "name": "Viktor & Rolf Flowerbomb Bomblicious Hair Mist For Women Floral 30ml",
-          "handle": "viktor-rolf-flowerbomb-bomblicious-hair-mist-for-women-floral-30ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/241008484.png?v=1765659381",
-          "price": 136,
-          "badge": ""
-        },
-        {
-          "name": "Viktor & Rolf Flowerbomb Extreme Eau De Parfum Intense For Women -  Floral Fruity Perfume 100ml",
-          "handle": "viktor-rolf-flowerbomb-extreme-eau-de-parfum-intense-for-women-floral-fruity-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3614273987936_Front.png?v=1763380755",
-          "price": 418,
-          "badge": ""
-        },
-        {
-          "name": "Viktor & Rolf Spicebomb Extreme Pour Homme Gift Set For Men",
-          "handle": "viktor-rolf-spicebomb-extreme-pour-homme-gift-set-for-men",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3614274417579-2.jpg?v=1762706457",
-          "price": 459,
           "badge": ""
         }
       ]
@@ -5553,6 +5553,56 @@
       ]
     },
     {
+      "name": "JULIETTE HAS A GUN",
+      "slug": "juliette-has-a-gun",
+      "count": 51,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/lust-removebg-preview.png?v=1784885562",
+      "preview": [
+        {
+          "name": "Juliette Has A Gun Lust for Sun Eau de Parfum For Men And Women Floral 100ml",
+          "handle": "juliette-has-a-gun-lust-for-sun-eau-de-parfum-for-men-and-women-floral-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/lust-removebg-preview.png?v=1784885562",
+          "price": 315,
+          "badge": ""
+        },
+        {
+          "name": "Juliette Has A Gun Madeleine Impériale Eau de Parfum For Men And Women Amber 100ml",
+          "handle": "juliette-has-a-gun-madeleine-imperiale-eau-de-parfum-for-men-and-women-amber-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bold-removebg-preview.png?v=1784884740",
+          "price": 455,
+          "badge": ""
+        },
+        {
+          "name": "Juliette Has A Gun Banana Rush Eau de Parfum For Men And Women Gourmand 100ml",
+          "handle": "juliette-has-a-gun-banana-rush-eau-de-parfum-for-men-and-women-gourmand-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/gunn-removebg-preview.png?v=1784884457",
+          "price": 362,
+          "badge": ""
+        },
+        {
+          "name": "Juliette Has A Gun Juliette Perfume For Women EDP 100ml",
+          "handle": "juliette-has-a-gun-juliette-perfume-for-women-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3760022734112-3.4oz-1.jpg?v=1741244377",
+          "price": 296,
+          "badge": ""
+        },
+        {
+          "name": "Juliette Has A Gun Ode To Dullness For Unisex Mini Spray EDP 5ml",
+          "handle": "juliette-has-a-gun-ode-to-dullness-for-unisex-mini-spray-edp-5ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3760022733887_2.jpg?v=1740752111",
+          "price": 30,
+          "badge": ""
+        },
+        {
+          "name": "Juliette Has A Gun MMMM… For Unisex Mini Spray EDP 5ml",
+          "handle": "juliette-has-a-gun-mmmm-for-unisex-mini-spray-edp-5ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3760022730282_1.jpg?v=1740751457",
+          "price": 30,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "ETIENNE AIGNER",
       "slug": "etienne-aigner",
       "count": 51,
@@ -5798,56 +5848,6 @@
           "handle": "caron-belle-de-niassa-perfume-for-women-edp-50ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/CaronCaronBelleDeNiassa50MlEdp_a6af7db4-7283-4d67-a61e-72f4035d7988.webp?v=1729062693",
           "price": 607,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Juliette Has a Gun",
-      "slug": "juliette-has-a-gun",
-      "count": 48,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3760022734112-3.4oz-1.jpg?v=1741244377",
-      "preview": [
-        {
-          "name": "Juliette Has A Gun Juliette Perfume For Women EDP 100ml",
-          "handle": "juliette-has-a-gun-juliette-perfume-for-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3760022734112-3.4oz-1.jpg?v=1741244377",
-          "price": 296,
-          "badge": ""
-        },
-        {
-          "name": "Juliette Has A Gun Ode To Dullness For Unisex Mini Spray EDP 5ml",
-          "handle": "juliette-has-a-gun-ode-to-dullness-for-unisex-mini-spray-edp-5ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3760022733887_2.jpg?v=1740752111",
-          "price": 30,
-          "badge": ""
-        },
-        {
-          "name": "Juliette Has A Gun MMMM… For Unisex Mini Spray EDP 5ml",
-          "handle": "juliette-has-a-gun-mmmm-for-unisex-mini-spray-edp-5ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3760022730282_1.jpg?v=1740751457",
-          "price": 30,
-          "badge": ""
-        },
-        {
-          "name": "Juliette Has A Gun Lili Fantasy For Women Mini Spray EDP 5ml",
-          "handle": "juliette-has-a-gun-lili-fantasy-for-women-mini-spray-edp-5ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3760022733108_1.jpg?v=1740750751",
-          "price": 26,
-          "badge": ""
-        },
-        {
-          "name": "Juliette Has A Gun Lady Vengeance For Women Mini Spray EDP 5ml",
-          "handle": "juliette-has-a-gun-lady-vengeance-for-women-mini-spray-edp-5ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3760022730206_1.jpg?v=1740743019",
-          "price": 42,
-          "badge": ""
-        },
-        {
-          "name": "Juliette Has A Gun Ode To Dullness For Unisex EDP 100ml",
-          "handle": "juliette-has-a-gun-ode-to-dullness-for-unisex-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3760022733924.jpg?v=1736867840",
-          "price": 306,
           "badge": ""
         }
       ]
@@ -17803,56 +17803,6 @@
       ]
     },
     {
-      "name": "Barbie",
-      "slug": "barbie",
-      "count": 11,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/798411114092409.jpg?v=1712175625",
-      "preview": [
-        {
-          "name": "Barbie EDT  75ml Spray For Girls",
-          "handle": "barbie-edt-75ml-spray-for-women",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/798411114092409.jpg?v=1712175625",
-          "price": 52,
-          "badge": ""
-        },
-        {
-          "name": "Barbie Be You Perfume For Women EDT 50ml",
-          "handle": "barbie-be-you-perfume-for-women-edt-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/BarbieBeYouEdt50ml.jpg?v=1694327014",
-          "price": 43,
-          "badge": "SALE"
-        },
-        {
-          "name": "Barbie Edt 30ml+70ml Shower Gel Set",
-          "handle": "barbie-edt-30ml-70ml-shower-gel-set",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/230673.jpg?v=1624533919",
-          "price": 37,
-          "badge": ""
-        },
-        {
-          "name": "Barbie Edt 30ml",
-          "handle": "barbie-edt-30ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/663350055788.jpg?v=1624527387",
-          "price": 29,
-          "badge": ""
-        },
-        {
-          "name": "Mattel Barbie for Kids, 100 ml - EDT Spray (Metalic Heart)",
-          "handle": "mattel-barbie-for-kids-100-ml-edt-spray-metalic-heart",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/652638004532_1.jpg?v=1624464439",
-          "price": 58,
-          "badge": ""
-        },
-        {
-          "name": "Air-Val Barbie Pink Power Eau De Toilette Perfume For Children, 75ml",
-          "handle": "air-val-barbie-pink-power-eau-de-toilette-perfume-for-children-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/8411114082745_-400x400.jpg?v=1633601068",
-          "price": 45,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Alfred Verne",
       "slug": "alfred-verne",
       "count": 11,
@@ -21798,6 +21748,56 @@
           "handle": "olfattology-yosemite-exstrait-de-parfum-for-unisex-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/Yosemite.jpg?v=1656753956",
           "price": 644,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Barbie",
+      "slug": "barbie",
+      "count": 7,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/798411114092409.jpg?v=1712175625",
+      "preview": [
+        {
+          "name": "Barbie EDT  75ml Spray For Girls",
+          "handle": "barbie-edt-75ml-spray-for-women",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/798411114092409.jpg?v=1712175625",
+          "price": 52,
+          "badge": ""
+        },
+        {
+          "name": "Barbie Be You Perfume For Women EDT 50ml",
+          "handle": "barbie-be-you-perfume-for-women-edt-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/BarbieBeYouEdt50ml.jpg?v=1694327014",
+          "price": 43,
+          "badge": "SALE"
+        },
+        {
+          "name": "Barbie Edt 30ml+70ml Shower Gel Set",
+          "handle": "barbie-edt-30ml-70ml-shower-gel-set",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/230673.jpg?v=1624533919",
+          "price": 37,
+          "badge": ""
+        },
+        {
+          "name": "Barbie Edt 30ml",
+          "handle": "barbie-edt-30ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/663350055788.jpg?v=1624527387",
+          "price": 29,
+          "badge": ""
+        },
+        {
+          "name": "Mattel Barbie for Kids, 100 ml - EDT Spray (Metalic Heart)",
+          "handle": "mattel-barbie-for-kids-100-ml-edt-spray-metalic-heart",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/652638004532_1.jpg?v=1624464439",
+          "price": 58,
+          "badge": ""
+        },
+        {
+          "name": "Air-Val Barbie Pink Power Eau De Toilette Perfume For Children, 75ml",
+          "handle": "air-val-barbie-pink-power-eau-de-toilette-perfume-for-children-75ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/8411114082745_-400x400.jpg?v=1633601068",
+          "price": 45,
           "badge": ""
         }
       ]
@@ -33717,36 +33717,6 @@
           "handle": "louis-varel-black-side-for-women-eau-de-parfum-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/black_side_by_louis_varel_for_women_-_eau_de_parfum_100ml.jpg?v=1624393688",
           "price": 57,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Havoc",
-      "slug": "havoc",
-      "count": 1,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/havoc_spray_deodorant_for_men_-_200_ml.jpg?v=1624393609",
-      "preview": [
-        {
-          "name": "Havoc Spray Deodorant For Men - 200 ml",
-          "handle": "havoc-spray-deodorant-for-men-200-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/havoc_spray_deodorant_for_men_-_200_ml.jpg?v=1624393609",
-          "price": 10,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Axis Cavier",
-      "slug": "axis-cavier",
-      "count": 1,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/axis_caviar_grand_prix_red_90ml_edt_for_men.jpg?v=1624393565",
-      "preview": [
-        {
-          "name": "Axis Caviar Grand Prix Red for men edt, 90ml",
-          "handle": "axis-caviar-grand-prix-red-for-men-edt-90ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/axis_caviar_grand_prix_red_90ml_edt_for_men.jpg?v=1624393565",
-          "price": 53,
           "badge": ""
         }
       ]
