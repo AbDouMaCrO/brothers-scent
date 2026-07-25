@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T06:21:20.630Z",
+  "generated_at": "2026-07-25T08:34:35.403Z",
   "total_brands": 886,
   "brands": [
     {
@@ -9853,56 +9853,6 @@
       ]
     },
     {
-      "name": "Bentley",
-      "slug": "bentley",
-      "count": 24,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bentley-become-edp-60-ml-erkek-parfum-bentley-12074-18-B.jpg?v=1774157048",
-      "preview": [
-        {
-          "name": "Bentley Become Eau De Parfum For Men - Woody Aromatic Perfume 60ml",
-          "handle": "bentley-become-eau-de-parfum-for-men-woody-aromatic-perfume-60ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bentley-become-edp-60-ml-erkek-parfum-bentley-12074-18-B.jpg?v=1774157048",
-          "price": 145,
-          "badge": ""
-        },
-        {
-          "name": "Bentley Become Eau De Parfum For Men - Woody Aromatic Perfume 100ml",
-          "handle": "bentley-become-eau-de-parfum-for-men-woody-aromatic-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/7640473480089_Bentley_BECOME_EDP_100ml_Bottle.jpg?v=1774156589",
-          "price": 182,
-          "badge": ""
-        },
-        {
-          "name": "Bentley Beyond The Collection Vibrant Hibiscus Perfume For Women EDP 100ml",
-          "handle": "bentley-beyond-the-collection-vibrant-hibiscus-perfume-for-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/BentlyByBeyoundVHibiscusHer100MlEdp_4035e80d-e061-45f7-8ecf-8e6110f4abc3.jpg?v=1727678860",
-          "price": 295,
-          "badge": ""
-        },
-        {
-          "name": "Bentley Beyond The Collection Wild Vetiver Perfume For Unisex EDP 100ml",
-          "handle": "bentley-beyond-the-collection-wild-vetiver-perfume-for-unisex-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/BentlyByBeyoundTheCoWildVetiver100MlEdp_4eb2eb08-8f65-4a72-8705-57211b76e391.webp?v=1727678190",
-          "price": 349,
-          "badge": ""
-        },
-        {
-          "name": "Bentley Beyond The Collection Radiant Osmanthus Perfume For Unisex EDP 100ml",
-          "handle": "bentley-beyond-the-collection-radiant-osmanthus-perfume-for-unisex-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/BentlyByBeyoundROsmantus100MlEdp_b25db962-c6e3-41e7-970b-c31875afbdc6.jpg?v=1727677790",
-          "price": 301,
-          "badge": ""
-        },
-        {
-          "name": "Bentley Beyond The Collection Mellow Heliotrope Perfume For Women EDP 100ml",
-          "handle": "bentley-beyond-the-collection-mellow-heliotrope-perfume-for-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/BentlyByBeyoundMHeliotropeHer100MlEdp_016923af-272e-49d9-98ce-b2c1fea0ec3e.jpg?v=1727677323",
-          "price": 349,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "VERTUS",
       "slug": "vertus",
       "count": 24,
@@ -10398,6 +10348,56 @@
           "handle": "clinique-aromatics-elixir-parfum-gift-set-for-women-1",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/478334.jpg?v=1773831641",
           "price": 163,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Bentley",
+      "slug": "bentley",
+      "count": 23,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bentley-become-edp-60-ml-erkek-parfum-bentley-12074-18-B.jpg?v=1774157048",
+      "preview": [
+        {
+          "name": "Bentley Become Eau De Parfum For Men - Woody Aromatic Perfume 60ml",
+          "handle": "bentley-become-eau-de-parfum-for-men-woody-aromatic-perfume-60ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bentley-become-edp-60-ml-erkek-parfum-bentley-12074-18-B.jpg?v=1774157048",
+          "price": 145,
+          "badge": ""
+        },
+        {
+          "name": "Bentley Become Eau De Parfum For Men - Woody Aromatic Perfume 100ml",
+          "handle": "bentley-become-eau-de-parfum-for-men-woody-aromatic-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/7640473480089_Bentley_BECOME_EDP_100ml_Bottle.jpg?v=1774156589",
+          "price": 182,
+          "badge": ""
+        },
+        {
+          "name": "Bentley Beyond The Collection Vibrant Hibiscus Perfume For Women EDP 100ml",
+          "handle": "bentley-beyond-the-collection-vibrant-hibiscus-perfume-for-women-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/BentlyByBeyoundVHibiscusHer100MlEdp_4035e80d-e061-45f7-8ecf-8e6110f4abc3.jpg?v=1727678860",
+          "price": 295,
+          "badge": ""
+        },
+        {
+          "name": "Bentley Beyond The Collection Wild Vetiver Perfume For Unisex EDP 100ml",
+          "handle": "bentley-beyond-the-collection-wild-vetiver-perfume-for-unisex-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/BentlyByBeyoundTheCoWildVetiver100MlEdp_4eb2eb08-8f65-4a72-8705-57211b76e391.webp?v=1727678190",
+          "price": 349,
+          "badge": ""
+        },
+        {
+          "name": "Bentley Beyond The Collection Radiant Osmanthus Perfume For Unisex EDP 100ml",
+          "handle": "bentley-beyond-the-collection-radiant-osmanthus-perfume-for-unisex-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/BentlyByBeyoundROsmantus100MlEdp_b25db962-c6e3-41e7-970b-c31875afbdc6.jpg?v=1727677790",
+          "price": 301,
+          "badge": ""
+        },
+        {
+          "name": "Bentley Beyond The Collection Mellow Heliotrope Perfume For Women EDP 100ml",
+          "handle": "bentley-beyond-the-collection-mellow-heliotrope-perfume-for-women-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/BentlyByBeyoundMHeliotropeHer100MlEdp_016923af-272e-49d9-98ce-b2c1fea0ec3e.jpg?v=1727677323",
+          "price": 349,
           "badge": ""
         }
       ]
@@ -18153,6 +18153,56 @@
       ]
     },
     {
+      "name": "Ahmed Al Maghribi",
+      "slug": "ahmed-al-maghribi",
+      "count": 10,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rawdha-by-ahmed-Photoroom.png?v=1784964678",
+      "preview": [
+        {
+          "name": "Ahmed Al Maghribi Rawdha Eau De Parfum For Unisex- Oriental Woody Perfume 50ml",
+          "handle": "ahmed-al-maghribi-rawdha-eau-de-parfum-for-unisex-oriental-woody-perfume-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rawdha-by-ahmed-Photoroom.png?v=1784964678",
+          "price": 222,
+          "badge": ""
+        },
+        {
+          "name": "Ahmed Al Maghribi Summer Oud Eau De Parfum For Unisex -Oriental Woody Perfume 60ml",
+          "handle": "ahmed-al-maghribi-summer-oud-eau-de-parfum-for-unisex-oriental-woody-perfume-60ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/6290360614731.jpg?v=1779870061",
+          "price": 185,
+          "badge": ""
+        },
+        {
+          "name": "Ahmed Al Maghribi Ignite Rose Eau De Parfum For Unisex - Aromatic Fougere Perfume 60ml",
+          "handle": "ahmed-al-maghribi-ignite-rose-eau-de-parfum-for-unisex-aromatic-fougere-perfume-60ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ignite-rose_e8b39cf2-e222-4d90-83eb-594c03bf1cf7.jpg?v=1777725053",
+          "price": 185,
+          "badge": ""
+        },
+        {
+          "name": "Ahmed Al Maghribi Matcha Edp For Men And Women Fresh 100ml",
+          "handle": "ahmed-al-maghribi-matcha-edp-for-men-and-women-fresh-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/AMG-MATCHA-100-ml.jpg?v=1771767833",
+          "price": 85,
+          "badge": ""
+        },
+        {
+          "name": "Ahmed Al Maghribi Sapphire Eau De Parfum For Unisex - Fruity floral Perfume 100ml",
+          "handle": "ahmed-al-maghribi-sapphire-eau-de-parfum-for-unisex-fruity-floral-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rn-image_picker_lib_temp_028e80ed-e7ce-42c6-9e0e-fdbe6ef6de5b.png?v=1771518470",
+          "price": 47,
+          "badge": ""
+        },
+        {
+          "name": "Ahmed Al Maghribi Bloom Spectrum Pink Eau De Parfum For Unisex - Floral-Woody Perfume 100ml",
+          "handle": "ahmed-al-maghribi-bloom-spectrum-pink-eau-de-parfum-for-unisex-floral-woody-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/AhmedMaghribi7-01.png?v=1771437197",
+          "price": 85,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Billie Eilish",
       "slug": "billie-eilish",
       "count": 10,
@@ -19248,56 +19298,6 @@
           "handle": "stella-mccartney-pop-perfume-for-women-edp-100-ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/719346645447_1.jpg?v=1624464712",
           "price": 221,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Ahmed Al Maghribi",
-      "slug": "ahmed-al-maghribi",
-      "count": 9,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/6290360614731.jpg?v=1779870061",
-      "preview": [
-        {
-          "name": "Ahmed Al Maghribi Summer Oud Eau De Parfum For Unisex -Oriental Woody Perfume 60ml",
-          "handle": "ahmed-al-maghribi-summer-oud-eau-de-parfum-for-unisex-oriental-woody-perfume-60ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/6290360614731.jpg?v=1779870061",
-          "price": 185,
-          "badge": ""
-        },
-        {
-          "name": "Ahmed Al Maghribi Ignite Rose Eau De Parfum For Unisex - Aromatic Fougere Perfume 60ml",
-          "handle": "ahmed-al-maghribi-ignite-rose-eau-de-parfum-for-unisex-aromatic-fougere-perfume-60ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ignite-rose_e8b39cf2-e222-4d90-83eb-594c03bf1cf7.jpg?v=1777725053",
-          "price": 185,
-          "badge": ""
-        },
-        {
-          "name": "Ahmed Al Maghribi Matcha Edp For Men And Women Fresh 100ml",
-          "handle": "ahmed-al-maghribi-matcha-edp-for-men-and-women-fresh-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/AMG-MATCHA-100-ml.jpg?v=1771767833",
-          "price": 85,
-          "badge": ""
-        },
-        {
-          "name": "Ahmed Al Maghribi Sapphire Eau De Parfum For Unisex - Fruity floral Perfume 100ml",
-          "handle": "ahmed-al-maghribi-sapphire-eau-de-parfum-for-unisex-fruity-floral-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rn-image_picker_lib_temp_028e80ed-e7ce-42c6-9e0e-fdbe6ef6de5b.png?v=1771518470",
-          "price": 47,
-          "badge": ""
-        },
-        {
-          "name": "Ahmed Al Maghribi Bloom Spectrum Pink Eau De Parfum For Unisex - Floral-Woody Perfume 100ml",
-          "handle": "ahmed-al-maghribi-bloom-spectrum-pink-eau-de-parfum-for-unisex-floral-woody-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/AhmedMaghribi7-01.png?v=1771437197",
-          "price": 85,
-          "badge": ""
-        },
-        {
-          "name": "Ahmed Al Maghribi Ameer Al Oud Eau De Parfum For Unisex - Oriental Oud Perfume 100ml",
-          "handle": "ahmed-al-maghribi-ameer-al-oud-eau-de-parfum-for-unisex-oriental-oud-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/image_78169a29-9b6e-45b6-8777-8c213c16ea48.jpg?v=1771436583",
-          "price": 93,
           "badge": ""
         }
       ]

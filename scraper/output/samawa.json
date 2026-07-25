@@ -1,8 +1,32 @@
 {
-  "scraped_at": "2026-07-25T06:19:26.972Z",
+  "scraped_at": "2026-07-25T08:33:13.783Z",
   "source": "https://samawa.ae",
   "count": 25016,
   "products": [
+    {
+      "name": "Ahmed Al Maghribi Rawdha Eau De Parfum For Unisex- Oriental Woody Perfume 50ml",
+      "brand": "Ahmed Al Maghribi",
+      "category_slug": "homme",
+      "size": "50ml",
+      "price_retail": 222,
+      "price_gros": 222,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rawdha-by-ahmed-Photoroom.png?v=1784964678",
+      "active": true,
+      "_handle": "ahmed-al-maghribi-rawdha-eau-de-parfum-for-unisex-oriental-woody-perfume-50ml",
+      "_sku": "6290360616377",
+      "_tags": [
+        "50ml",
+        "Arabic Perfume",
+        "Fragrance",
+        "Men",
+        "unisex",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/ahmed-al-maghribi-rawdha-eau-de-parfum-for-unisex-oriental-woody-perfume-50ml"
+    },
     {
       "name": "Electimuss Amber Aquilaria Pure Parfum For Men And Women Amber 100ml",
       "brand": "Electimuss",
@@ -581496,31 +581520,6 @@
       ],
       "_product_type": "Fragrance",
       "_url": "https://samawa.ae/products/guerlain-samsara-for-woman-edt-50ml"
-    },
-    {
-      "name": "Bentley for Men Intense EDP 100ml",
-      "brand": "Bentley",
-      "category_slug": "homme",
-      "size": "100ml",
-      "price_retail": 175,
-      "price_gros": 96,
-      "stock": 999,
-      "badge": "SALE",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Bentley_for_Men_Intense_EDP_100ml.jpg?v=1776327042",
-      "active": true,
-      "_handle": "bentley-for-men-intense-edp-100ml",
-      "_sku": "7640111497547",
-      "_tags": [
-        "100ml",
-        "badge_Best Seller",
-        "Best Seller",
-        "Branded Perfumes",
-        "Fragrance",
-        "Men",
-        "summer collection"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/bentley-for-men-intense-edp-100ml"
     }
   ]
 }
