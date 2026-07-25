@@ -385,6 +385,7 @@
 
     ctaDiv.insertBefore(themeBtn, ctaDiv.firstChild);
     ctaDiv.insertBefore(langBtn, ctaDiv.firstChild);
+  }
 
   // ── Init ────────────────────────────────────────────────────────────────────
   function init() {
