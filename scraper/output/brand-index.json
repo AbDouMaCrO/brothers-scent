@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T13:24:10.641Z",
-  "total_brands": 886,
+  "generated_at": "2026-07-25T14:52:19.804Z",
+  "total_brands": 887,
   "brands": [
     {
       "name": "Amazing Creation",
@@ -305,9 +305,16 @@
     {
       "name": "Giorgio Armani",
       "slug": "giorgio-armani",
-      "count": 347,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Emporio-Armani-Stronger-with-You-Powerfully-Eau-de-Parfum.png?v=1783497205",
+      "count": 348,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/the-removebg-preview.png?v=1784989914",
       "preview": [
+        {
+          "name": "Giorgio Armani Privé Thé Yulong Eau de Toilette For Men And Women Citrus 100ml",
+          "handle": "giorgio-armani-prive-the-yulong-eau-de-toilette-for-men-and-women-citrus-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/the-removebg-preview.png?v=1784989914",
+          "price": 759,
+          "badge": ""
+        },
         {
           "name": "Giorgio Armani Emporio Armani Stronger With You Powerfull Eau de Parfum For Men Amber 50ml",
           "handle": "giorgio-armani-emporio-armani-stronger-with-you-powerfull-eau-de-parfum-for-men-amber-50ml",
@@ -342,20 +349,13 @@
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/01.jpg?v=1781189670",
           "price": 497,
           "badge": ""
-        },
-        {
-          "name": "Giorgio Armani Armani Prive Oud Royal Eau De Parfume Intense For Unisex -Oriental Woody Perfume 100ml",
-          "handle": "giorgio-armani-armani-prive-oud-royal-eau-de-parfume-for-unisex-intense-oriental-woody-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3614274222067_armani-prive-oud-royal-collector_main.webp?v=1781188140",
-          "price": 1011,
-          "badge": ""
         }
       ]
     },
     {
       "name": "Paco Rabanne",
       "slug": "paco-rabanne",
-      "count": 332,
+      "count": 333,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/11-removebg-preview.png?v=1784898854",
       "preview": [
         {
@@ -2255,9 +2255,16 @@
     {
       "name": "Jo Malone",
       "slug": "jo-malone",
-      "count": 131,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/wood-removebg-preview.png?v=1784883889",
+      "count": 132,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/jooo-removebg-preview.png?v=1784990241",
       "preview": [
+        {
+          "name": "Jo Malone Orange Blossom Cologne For Men And Women 100ml",
+          "handle": "jo-malone-orange-blossom-cologne-for-men-and-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/jooo-removebg-preview.png?v=1784990241",
+          "price": 549,
+          "badge": ""
+        },
         {
           "name": "Jo Malone London Wood Sage And Sea Salt Cologne For Men And Women 50ml",
           "handle": "jo-malone-london-wood-sage-and-sea-salt-cologne-for-men-and-women-50ml",
@@ -2291,13 +2298,6 @@
           "handle": "jo-malone-london-bronze-wood-and-leather-cologne-intense-for-men-and-women-woody-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/jo_malonee-removebg-preview.png?v=1771177754",
           "price": 603,
-          "badge": ""
-        },
-        {
-          "name": "Jo Malone Lime Basil & Mandarin Exfoliating Shower Gel For Unisex 75ml",
-          "handle": "jo-malone-lime-basil-mandarin-exfoliating-shower-gel-for-unisex-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/jo_sku_LE2P01_1000x1000_0.png?v=1767364151",
-          "price": 78,
           "badge": ""
         }
       ]
@@ -13303,56 +13303,6 @@
       ]
     },
     {
-      "name": "Misk Al Ghazaal",
-      "slug": "misk-al-ghazaal",
-      "count": 18,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/Dukhoonak-Shy_044c8b9c-4291-4951-9ca6-ebc8c85ff829.jpg?v=1632150538",
-      "preview": [
-        {
-          "name": "Misk Al Ghazaal Dukhoonak Shy Bakhoor 80gm",
-          "handle": "misk-al-ghazaal-dukhoonak-shy-bakhoor-80gm",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/Dukhoonak-Shy_044c8b9c-4291-4951-9ca6-ebc8c85ff829.jpg?v=1632150538",
-          "price": 143,
-          "badge": ""
-        },
-        {
-          "name": "Misk Al Ghazaal Dukhoonak Big Boss Bakhoor 80gm",
-          "handle": "misk-al-ghazaal-dukhoonak-big-boss-bakhoor-80gm",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/Dukhoonak-Big-Boss.jpg?v=1632148034",
-          "price": 135,
-          "badge": ""
-        },
-        {
-          "name": "Misk Al Ghazaal Anfasic Al Ward Dukhoon, Bakhoor Incense  Tablets, 100gms",
-          "handle": "misk-al-ghazaal-anfasic-al-ward-dukhoon-bakhoor-incense-tablets-100gms",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/anfasic-al-ward.jpg?v=1624927932",
-          "price": 160,
-          "badge": ""
-        },
-        {
-          "name": "Misk Al Barari Perfume for Men and Women EDP 50ml",
-          "handle": "misk-al-barari-perfume-for-men-and-women-edp-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/misk-al-barari.jpg?v=1624472459",
-          "price": 198,
-          "badge": ""
-        },
-        {
-          "name": "Misk Al Ghazaal Petales  for Unisex EDP 50ml",
-          "handle": "misk-al-ghazaal-petales-for-unisex-edp-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/71c0rh3bwkl._sl1300.jpg?v=1624448557",
-          "price": 207,
-          "badge": ""
-        },
-        {
-          "name": "Misk Al Ghazaal Dukhoon Misk Al Ghazaal, Bakhoor, Incense Tablets, 100gms",
-          "handle": "misk-al-ghazaal-dukhoon-misk-al-ghazaal-bakhoor-incense-tablets-100gms",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/misk-al-ghazaal-bottle.jpg?v=1624402037",
-          "price": 198,
-          "badge": "SALE"
-        }
-      ]
-    },
-    {
       "name": "Angel Schlesser",
       "slug": "angel-schlesser",
       "count": 18,
@@ -16649,6 +16599,56 @@
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/IdeoParfumeursMalika_STemptation_U_Edp100Ml.jpg?v=1639380020",
           "price": 309,
           "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Misk Al Ghazaal",
+      "slug": "misk-al-ghazaal",
+      "count": 13,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/Dukhoonak-Shy_044c8b9c-4291-4951-9ca6-ebc8c85ff829.jpg?v=1632150538",
+      "preview": [
+        {
+          "name": "Misk Al Ghazaal Dukhoonak Shy Bakhoor 80gm",
+          "handle": "misk-al-ghazaal-dukhoonak-shy-bakhoor-80gm",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/Dukhoonak-Shy_044c8b9c-4291-4951-9ca6-ebc8c85ff829.jpg?v=1632150538",
+          "price": 143,
+          "badge": ""
+        },
+        {
+          "name": "Misk Al Ghazaal Dukhoonak Big Boss Bakhoor 80gm",
+          "handle": "misk-al-ghazaal-dukhoonak-big-boss-bakhoor-80gm",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/Dukhoonak-Big-Boss.jpg?v=1632148034",
+          "price": 135,
+          "badge": ""
+        },
+        {
+          "name": "Misk Al Ghazaal Anfasic Al Ward Dukhoon, Bakhoor Incense  Tablets, 100gms",
+          "handle": "misk-al-ghazaal-anfasic-al-ward-dukhoon-bakhoor-incense-tablets-100gms",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/anfasic-al-ward.jpg?v=1624927932",
+          "price": 160,
+          "badge": ""
+        },
+        {
+          "name": "Misk Al Barari Perfume for Men and Women EDP 50ml",
+          "handle": "misk-al-barari-perfume-for-men-and-women-edp-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/misk-al-barari.jpg?v=1624472459",
+          "price": 198,
+          "badge": ""
+        },
+        {
+          "name": "Misk Al Ghazaal Petales  for Unisex EDP 50ml",
+          "handle": "misk-al-ghazaal-petales-for-unisex-edp-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/71c0rh3bwkl._sl1300.jpg?v=1624448557",
+          "price": 207,
+          "badge": ""
+        },
+        {
+          "name": "Misk Al Ghazaal Dukhoon Misk Al Ghazaal, Bakhoor, Incense Tablets, 100gms",
+          "handle": "misk-al-ghazaal-dukhoon-misk-al-ghazaal-bakhoor-incense-tablets-100gms",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/misk-al-ghazaal-bottle.jpg?v=1624402037",
+          "price": 198,
+          "badge": "SALE"
         }
       ]
     },
@@ -29237,6 +29237,28 @@
           "handle": "envy-1000-noir-no-gas-deodorant-spray-for-men-130ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/3_27_2.jpg?v=1624400853",
           "price": 12,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Essenzia",
+      "slug": "essenzia",
+      "count": 2,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ula-removebg-preview.png?v=1784987547",
+      "preview": [
+        {
+          "name": "Essenzia Al Ula Eau de Parfum For Men And Women Amber 100ml",
+          "handle": "essenzia-al-ula-eau-de-parfum-for-men-and-women-amber-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ula-removebg-preview.png?v=1784987547",
+          "price": 185,
+          "badge": ""
+        },
+        {
+          "name": "Essenzia Al Maha Eau de Parfum For Men And Women Amber 100ml",
+          "handle": "essenzia-al-maha-eau-de-parfum-for-men-and-women-amber-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/azhaa-removebg-preview_e73dfa5a-1d4b-4c45-b2e9-86fcc9b6f793.png?v=1784987069",
+          "price": 185,
           "badge": ""
         }
       ]

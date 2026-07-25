@@ -1,8 +1,103 @@
 {
-  "scraped_at": "2026-07-25T13:23:06.828Z",
+  "scraped_at": "2026-07-25T14:50:21.965Z",
   "source": "https://samawa.ae",
   "count": 25016,
   "products": [
+    {
+      "name": "Jo Malone Orange Blossom Cologne For Men And Women 100ml",
+      "brand": "Jo Malone",
+      "category_slug": "homme",
+      "size": "100ml",
+      "price_retail": 549,
+      "price_gros": 549,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/jooo-removebg-preview.png?v=1784990241",
+      "active": true,
+      "_handle": "jo-malone-orange-blossom-cologne-for-men-and-women-100ml",
+      "_sku": "690251006496",
+      "_tags": [
+        "100ml",
+        "cologne",
+        "Fragrance",
+        "Men",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/jo-malone-orange-blossom-cologne-for-men-and-women-100ml"
+    },
+    {
+      "name": "Giorgio Armani Privé Thé Yulong Eau de Toilette For Men And Women Citrus 100ml",
+      "brand": "Giorgio Armani",
+      "category_slug": "homme",
+      "size": "100ml",
+      "price_retail": 759,
+      "price_gros": 759,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/the-removebg-preview.png?v=1784989914",
+      "active": true,
+      "_handle": "giorgio-armani-prive-the-yulong-eau-de-toilette-for-men-and-women-citrus-100ml",
+      "_sku": "3614274102116",
+      "_tags": [
+        "100ml",
+        "Branded Perfumes",
+        "EDT",
+        "Fragrance",
+        "Men",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/giorgio-armani-prive-the-yulong-eau-de-toilette-for-men-and-women-citrus-100ml"
+    },
+    {
+      "name": "Essenzia Al Ula Eau de Parfum For Men And Women Amber 100ml",
+      "brand": "Essenzia",
+      "category_slug": "homme",
+      "size": "100ml",
+      "price_retail": 185,
+      "price_gros": 185,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ula-removebg-preview.png?v=1784987547",
+      "active": true,
+      "_handle": "essenzia-al-ula-eau-de-parfum-for-men-and-women-amber-100ml",
+      "_sku": "6292024110986",
+      "_tags": [
+        "100ml",
+        "Branded Perfumes",
+        "EDP",
+        "Fragrance",
+        "Men",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/essenzia-al-ula-eau-de-parfum-for-men-and-women-amber-100ml"
+    },
+    {
+      "name": "Essenzia Al Maha Eau de Parfum For Men And Women Amber 100ml",
+      "brand": "Essenzia",
+      "category_slug": "homme",
+      "size": "100ml",
+      "price_retail": 185,
+      "price_gros": 185,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/azhaa-removebg-preview_e73dfa5a-1d4b-4c45-b2e9-86fcc9b6f793.png?v=1784987069",
+      "active": true,
+      "_handle": "essenzia-al-maha-eau-de-parfum-for-men-and-women-amber-100ml",
+      "_sku": "6292024116742",
+      "_tags": [
+        "100ml",
+        "Branded Perfumes",
+        "EDP",
+        "Fragrance",
+        "Men",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/essenzia-al-maha-eau-de-parfum-for-men-and-women-amber-100ml"
+    },
     {
       "name": "BornToStandOut Purple Stain Extrait Extrême For Men And Women 50ml",
       "brand": "BornToStandOut",
@@ -111792,6 +111887,29 @@
       ],
       "_product_type": "Fragrance",
       "_url": "https://samawa.ae/products/surrati-royal-musk-perfume-for-unisex-edp-100ml"
+    },
+    {
+      "name": "Paco Rabanne Million Gold For Men Mini EDP Intense 5ml",
+      "brand": "Paco Rabanne",
+      "category_slug": "homme",
+      "size": "5ml",
+      "price_retail": 39,
+      "price_gros": 39,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3349668630523_1.jpg?v=1737704730",
+      "active": true,
+      "_handle": "paco-rabanne-million-gold-for-men-mini-edp-intense-5ml",
+      "_sku": "3349668630523",
+      "_tags": [
+        "5ml",
+        "Branded Perfumes",
+        "EDP",
+        "Fragrance",
+        "Men"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/paco-rabanne-million-gold-for-men-mini-edp-intense-5ml"
     },
     {
       "name": "Paco Rabanne Million Gold For Men Mini EDP Intense 5ml",
@@ -581416,124 +581534,6 @@
       ],
       "_product_type": "Fragrance",
       "_url": "https://samawa.ae/products/misk-al-ghazaal-hob-al-banaat-perfume-for-men-and-women-edp-50ml"
-    },
-    {
-      "name": "Misk Al Ghazaal Misk Al Hob, Perfume For Men And Women, EDP, 50ml",
-      "brand": "Misk Al Ghazaal",
-      "category_slug": "homme",
-      "size": "50ml",
-      "price_retail": 205,
-      "price_gros": 198,
-      "stock": 999,
-      "badge": "SALE",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/misk-al-hob.jpg?v=1624394176",
-      "active": true,
-      "_handle": "misk-al-ghazaal-misk-al-hob-perfume-for-men-and-women-edp-50ml",
-      "_sku": "6295348868960",
-      "_tags": [
-        "50ml",
-        "Branded Perfumes",
-        "EDP",
-        "Fragrance",
-        "Men",
-        "Women"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/misk-al-ghazaal-misk-al-hob-perfume-for-men-and-women-edp-50ml"
-    },
-    {
-      "name": "Misk Al Ghazaal Louvre, Perfume For Men And Women, EDP, 50ml",
-      "brand": "Misk Al Ghazaal",
-      "category_slug": "homme",
-      "size": "50ml",
-      "price_retail": 205,
-      "price_gros": 198,
-      "stock": 999,
-      "badge": "SALE",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/louvre.jpg?v=1624394157",
-      "active": true,
-      "_handle": "misk-al-ghazaal-louvre-perfume-for-men-and-women-edp-50ml",
-      "_sku": "6295348868991",
-      "_tags": [
-        "50ml",
-        "Branded Perfumes",
-        "EDP",
-        "Fragrance",
-        "Men",
-        "Women"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/misk-al-ghazaal-louvre-perfume-for-men-and-women-edp-50ml"
-    },
-    {
-      "name": "Misk Al Ghazaal Misk Al Khaleej, Perfume For Men And Women, EDP, 50ml",
-      "brand": "Misk Al Ghazaal",
-      "category_slug": "homme",
-      "size": "50ml",
-      "price_retail": 205,
-      "price_gros": 198,
-      "stock": 999,
-      "badge": "SALE",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/misk-al-khaleej-bottle.jpg?v=1624394136",
-      "active": true,
-      "_handle": "misk-al-ghazaal-misk-al-khaleej-perfume-for-men-and-women-edp-50ml",
-      "_sku": "6295348868977",
-      "_tags": [
-        "50ml",
-        "Branded Perfumes",
-        "EDP",
-        "Fragrance",
-        "Men",
-        "Women"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/misk-al-ghazaal-misk-al-khaleej-perfume-for-men-and-women-edp-50ml"
-    },
-    {
-      "name": "Misk Al Ghazaal August 28, Perfume For Men And Women, EDP 50ml",
-      "brand": "Misk Al Ghazaal",
-      "category_slug": "homme",
-      "size": "50ml",
-      "price_retail": 205,
-      "price_gros": 198,
-      "stock": 999,
-      "badge": "SALE",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/august-28.jpg?v=1624394104",
-      "active": true,
-      "_handle": "misk-al-ghazaal-august-28-perfume-for-men-and-women-edp-50ml",
-      "_sku": "4100488690048",
-      "_tags": [
-        "50ml",
-        "Branded Perfumes",
-        "EDP",
-        "Fragrance",
-        "Men",
-        "Women"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/misk-al-ghazaal-august-28-perfume-for-men-and-women-edp-50ml"
-    },
-    {
-      "name": "Misk Al Ghazaal Al Ghazaal, Perfume For Men And Women, EDP, 50ml",
-      "brand": "Misk Al Ghazaal",
-      "category_slug": "homme",
-      "size": "50ml",
-      "price_retail": 205,
-      "price_gros": 198,
-      "stock": 999,
-      "badge": "SALE",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/al-ghazaal.jpg?v=1624394089",
-      "active": true,
-      "_handle": "misk-al-ghazaal-al-ghazaal-perfume-for-men-and-women-edp-50ml",
-      "_sku": "6295348869004",
-      "_tags": [
-        "EDP",
-        "Fragrance",
-        "Men",
-        "Women"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/misk-al-ghazaal-al-ghazaal-perfume-for-men-and-women-edp-50ml"
     }
   ]
 }
