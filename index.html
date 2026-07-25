@@ -161,7 +161,7 @@
         .qty-btn:hover { background: rgba(168,85,247,0.2); border-color: rgba(168,85,247,0.4); }
 
         /* Badge */
-        .badge-gros {
+        .badge-wholesale {
             background: linear-gradient(135deg, #f59e0b, #d97706);
             color: #000;
             font-size: 10px;
@@ -236,7 +236,7 @@
 
         <!-- Desktop Menu -->
         <div class="hidden lg:flex items-center gap-8">
-            <a href="#accueil" class="text-sm font-medium text-gray-400 hover:text-gold-400 transition-colors">Home</a>
+            <a href="#home" class="text-sm font-medium text-gray-400 hover:text-gold-400 transition-colors">Home</a>
             <a href="pages/products.html" class="text-sm font-medium text-gray-400 hover:text-gold-400 transition-colors">Products</a>
             <a href="pages/brands.html" class="text-sm font-medium text-gray-400 hover:text-gold-400 transition-colors">Brands</a>
             <a href="blog/index.html" class="text-sm font-medium text-gray-400 hover:text-gold-400 transition-colors">Blog</a>
@@ -246,7 +246,7 @@
 
         <!-- CTA + Cart -->
         <div class="flex items-center gap-3">
-            <button id="authBtn" title="Se connecter" class="relative p-2 rounded-xl hover:bg-white/5 transition-colors">
+            <button id="authBtn" title="Sign in" class="relative p-2 rounded-xl hover:bg-white/5 transition-colors">
                 <iconify-icon id="authBtnIcon" icon="lucide:user" width="20" class="text-gray-400"></iconify-icon>
             </button>
             <button id="cartBtn" class="relative p-2 rounded-xl hover:bg-white/5 transition-colors">
@@ -255,7 +255,7 @@
             </button>
             <a href="#contact" class="hidden md:inline-flex items-center gap-2 bg-white text-black text-sm font-semibold px-5 py-2.5 rounded-xl hover:scale-105 transition-transform">
                 <iconify-icon icon="lucide:phone" width="14"></iconify-icon>
-                Commander
+                Order
             </a>
             <button id="menuToggle" class="lg:hidden p-2 rounded-xl hover:bg-white/5 transition-colors">
                 <iconify-icon icon="lucide:menu" width="22" class="text-white"></iconify-icon>
@@ -273,7 +273,7 @@
         </button>
     </div>
     <div class="flex flex-col gap-4">
-        <a href="#accueil" class="mobile-link text-gray-400 hover:text-white py-2 transition-colors">Home</a>
+        <a href="#home" class="mobile-link text-gray-400 hover:text-white py-2 transition-colors">Home</a>
         <a href="pages/products.html" class="mobile-link text-gray-400 hover:text-white py-2 transition-colors">Products</a>
         <a href="pages/brands.html" class="mobile-link text-gray-400 hover:text-white py-2 transition-colors">Brands</a>
         <a href="pages/services.html" class="mobile-link text-gray-400 hover:text-white py-2 transition-colors">Services</a>
@@ -289,7 +289,7 @@
 <div id="menuOverlay" class="fixed inset-0 bg-black/50 z-40 hidden"></div>
 
 <!-- Hero Section -->
-<section id="accueil" class="relative min-h-screen flex flex-col items-center justify-center px-4 pt-20 overflow-hidden">
+<section id="home" class="relative min-h-screen flex flex-col items-center justify-center px-4 pt-20 overflow-hidden">
     <!-- Glow -->
     <div class="absolute top-1/4 left-1/2 -translate-x-1/2 w-[500px] h-[500px] bg-yellow-900/20 rounded-full blur-[100px] animate-pulse-slow pointer-events-none"></div>
     <div class="absolute bottom-1/4 right-1/4 w-[300px] h-[300px] bg-indigo-950/30 rounded-full blur-[80px] animate-pulse-slow pointer-events-none" style="animation-delay: 2s;"></div>
@@ -306,8 +306,8 @@
 
         <!-- Heading -->
         <h1 class="text-4xl sm:text-6xl lg:text-8xl font-semibold leading-[1.1] tracking-[-0.04em] mb-6">
-            <span class="block text-white" data-i18n="hero.title1">Grossiste</span>
-            <span class="block gradient-text" data-i18n="hero.title2">Parfums</span>
+            <span class="block text-white" data-i18n="hero.title1">Wholesalesiste</span>
+            <span class="block gradient-text" data-i18n="hero.title2">Perfumes</span>
         </h1>
 
         <p class="text-base md:text-lg text-gray-400 max-w-2xl mx-auto mb-10 leading-relaxed" data-i18n="hero.subtitle">
@@ -316,13 +316,13 @@
 
         <!-- CTA Buttons -->
         <div class="flex flex-col sm:flex-row items-center justify-center gap-4">
-            <a href="#produits" class="magnetic-btn inline-flex items-center gap-2 bg-white text-black font-bold text-sm px-8 py-4 rounded-xl hover:scale-105 transition-transform">
+            <a href="#products" class="magnetic-btn inline-flex items-center gap-2 bg-white text-black font-bold text-sm px-8 py-4 rounded-xl hover:scale-105 transition-transform">
                 <iconify-icon icon="lucide:package" width="18"></iconify-icon>
-                Voir le Catalogue
+                View Catalogue
             </a>
-            <a href="https://wa.me/213550000000?text=Bonjour%2C%20je%20suis%20intéressé%20par%20vos%20parfums%20en%20gros" target="_blank" class="inline-flex items-center gap-2 glass-panel text-white font-medium text-sm px-8 py-4 rounded-xl hover:bg-white/10 transition-all">
+            <a href="https://wa.me/213550000000?text=Hello%2C%20I%20am%20interested%20in%20your%20wholesale%20perfumes" target="_blank" class="inline-flex items-center gap-2 glass-panel text-white font-medium text-sm px-8 py-4 rounded-xl hover:bg-white/10 transition-all">
                 <iconify-icon icon="lucide:message-circle" width="18" class="text-green-400"></iconify-icon>
-                Commander via WhatsApp
+                Order via WhatsApp
             </a>
         </div>
 
@@ -345,7 +345,7 @@
 
     <!-- Scroll indicator -->
     <div class="absolute bottom-8 left-1/2 -translate-x-1/2 flex flex-col items-center gap-2 animate-float" style="animation-duration: 3s;">
-        <span class="text-[10px] text-gray-500 uppercase tracking-widest">Défiler</span>
+        <span class="text-[10px] text-gray-500 uppercase tracking-widest">Scroll</span>
         <iconify-icon icon="lucide:chevron-down" width="16" class="text-gray-500"></iconify-icon>
     </div>
 </section>
@@ -399,23 +399,23 @@
 </section>
 
 <!-- Products Section -->
-<section id="produits" class="py-24 px-4 relative">
+<section id="products" class="py-24 px-4 relative">
     <div class="max-w-7xl mx-auto">
         <!-- Section Header -->
         <div class="text-center mb-16 reveal">
-            <span class="text-xs font-semibold uppercase tracking-widest text-gold-400 mb-4 block">Catalogue Gros</span>
+            <span class="text-xs font-semibold uppercase tracking-widest text-gold-400 mb-4 block">Wholesale Catalogue</span>
             <h2 class="text-3xl md:text-5xl font-semibold tracking-tight mb-4" data-i18n="section.featured">
                 Nos <span class="gradient-text">Best-Sellers</span>
             </h2>
-            <p class="text-gray-400 max-w-xl mx-auto">Prix unitaires à partir de 6 pièces. Plus la quantité augmente, plus le prix diminue.</p>
+            <p class="text-gray-400 max-w-xl mx-auto">Unit prices starting from 6 pieces. The more you buy, the lower the price.</p>
         </div>
 
         <!-- Category Tabs -->
         <div class="flex flex-wrap justify-center gap-3 mb-12 reveal">
-            <button class="tab-btn active text-xs font-medium px-4 py-2 rounded-full border border-white/10" data-cat="all">Tous</button>
-            <button class="tab-btn text-xs font-medium px-4 py-2 rounded-full border border-white/10 text-gray-400" data-cat="homme">Homme</button>
-            <button class="tab-btn text-xs font-medium px-4 py-2 rounded-full border border-white/10 text-gray-400" data-cat="femme">Femme</button>
-            <button class="tab-btn text-xs font-medium px-4 py-2 rounded-full border border-white/10 text-gray-400" data-cat="unisexe">Unisexe</button>
+            <button class="tab-btn active text-xs font-medium px-4 py-2 rounded-full border border-white/10" data-cat="all">All</button>
+            <button class="tab-btn text-xs font-medium px-4 py-2 rounded-full border border-white/10 text-gray-400" data-cat="homme">Men</button>
+            <button class="tab-btn text-xs font-medium px-4 py-2 rounded-full border border-white/10 text-gray-400" data-cat="femme">Women</button>
+            <button class="tab-btn text-xs font-medium px-4 py-2 rounded-full border border-white/10 text-gray-400" data-cat="unisexe">Unisex</button>
             <button class="tab-btn text-xs font-medium px-4 py-2 rounded-full border border-white/10 text-gray-400" data-cat="oriental">Oriental</button>
         </div>
 
@@ -432,7 +432,7 @@
         <div class="text-center mt-12 reveal">
             <button id="loadMore" class="inline-flex items-center gap-2 glass-panel text-gray-300 font-medium text-sm px-8 py-3.5 rounded-xl hover:bg-white/10 transition-all">
                 <iconify-icon icon="lucide:plus" width="16"></iconify-icon>
-                Voir plus de produits
+                View more products
             </button>
         </div>
     </div>
@@ -443,11 +443,11 @@
     <div class="absolute inset-0 bg-gradient-to-b from-transparent via-yellow-900/5 to-transparent pointer-events-none"></div>
     <div class="max-w-5xl mx-auto relative z-10">
         <div class="text-center mb-16 reveal">
-            <span class="text-xs font-semibold uppercase tracking-widest text-gold-400 mb-4 block">Tarification Gros</span>
+            <span class="text-xs font-semibold uppercase tracking-widest text-gold-400 mb-4 block">Wholesale Pricing</span>
             <h2 class="text-3xl md:text-5xl font-semibold tracking-tight mb-4">
-                Prix selon <span class="gradient-text">Quantité</span>
+                Volume Based <span class="gradient-text">Pricing</span>
             </h2>
-            <p class="text-gray-400 max-w-xl mx-auto">Des remises progressives pour encourager vos commandes en gros.</p>
+            <p class="text-gray-400 max-w-xl mx-auto">Progressive discounts to scale your wholesale orders.</p>
         </div>
 
         <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -456,12 +456,12 @@
                 <div class="w-12 h-12 rounded-xl bg-white/5 flex items-center justify-center mx-auto mb-4">
                     <iconify-icon icon="lucide:box" width="24" class="text-gray-400"></iconify-icon>
                 </div>
-                <h3 class="text-lg font-medium mb-2">Semi-Gros</h3>
+                <h3 class="text-lg font-medium mb-2">Small Wholesale</h3>
                 <div class="text-3xl font-semibold text-white mb-1">6 – 11</div>
-                <div class="text-sm text-gray-500 mb-6">pièces par référence</div>
+                <div class="text-sm text-gray-500 mb-6">pieces per SKU</div>
                 <div class="gradient-divider mb-6"></div>
                 <div class="text-2xl font-semibold gradient-text-gold mb-1">-15%</div>
-                <p class="text-xs text-gray-500">sur le prix détail</p>
+                <p class="text-xs text-gray-500">off retail price</p>
             </div>
 
             <!-- Tier 2 - Popular -->
@@ -472,12 +472,12 @@
                 <div class="w-12 h-12 rounded-xl bg-gold-500/10 flex items-center justify-center mx-auto mb-4">
                     <iconify-icon icon="lucide:boxes" width="24" class="text-gold-400"></iconify-icon>
                 </div>
-                <h3 class="text-lg font-medium mb-2">Gros</h3>
+                <h3 class="text-lg font-medium mb-2">Wholesale</h3>
                 <div class="text-3xl font-semibold text-white mb-1">12 – 47</div>
-                <div class="text-sm text-gray-500 mb-6">pièces par référence</div>
+                <div class="text-sm text-gray-500 mb-6">pieces per SKU</div>
                 <div class="gradient-divider mb-6"></div>
                 <div class="text-2xl font-semibold gradient-text-gold mb-1">-30%</div>
-                <p class="text-xs text-gray-500">sur le prix détail</p>
+                <p class="text-xs text-gray-500">off retail price</p>
             </div>
 
             <!-- Tier 3 -->
@@ -485,12 +485,12 @@
                 <div class="w-12 h-12 rounded-xl bg-white/5 flex items-center justify-center mx-auto mb-4">
                     <iconify-icon icon="lucide:warehouse" width="24" class="text-gray-400"></iconify-icon>
                 </div>
-                <h3 class="text-lg font-medium mb-2">Hyper-Gros</h3>
+                <h3 class="text-lg font-medium mb-2">Hyper-Wholesale</h3>
                 <div class="text-3xl font-semibold text-white mb-1">48+</div>
-                <div class="text-sm text-gray-500 mb-6">pièces par référence</div>
+                <div class="text-sm text-gray-500 mb-6">pieces per SKU</div>
                 <div class="gradient-divider mb-6"></div>
                 <div class="text-2xl font-semibold gradient-text-gold mb-1">-45%</div>
-                <p class="text-xs text-gray-500">sur le prix détail</p>
+                <p class="text-xs text-gray-500">off retail price</p>
             </div>
         </div>
     </div>
@@ -500,7 +500,7 @@
 <section id="avantages" class="py-24 px-4 relative">
     <div class="max-w-7xl mx-auto">
         <div class="text-center mb-16 reveal">
-            <span class="text-xs font-semibold uppercase tracking-widest text-gold-400 mb-4 block">Pourquoi Nous</span>
+            <span class="text-xs font-semibold uppercase tracking-widest text-gold-400 mb-4 block">Why Us</span>
             <h2 class="text-3xl md:text-5xl font-semibold tracking-tight mb-4" data-i18n="section.why">
                 Vos <span class="gradient-text">Avantages</span>
             </h2>
@@ -526,15 +526,15 @@
                 <div class="w-12 h-12 rounded-xl bg-gold-500/10 flex items-center justify-center mb-4 group-hover:scale-110 transition-transform">
                     <iconify-icon icon="lucide:shield-check" width="22" class="text-gold-400"></iconify-icon>
                 </div>
-                <h3 class="font-medium mb-2">Qualité Garantie</h3>
-                <p class="text-sm text-gray-500 leading-relaxed">Concentrations élevées (EDP, Parfum). Tenue longue durée garantie ou remboursement.</p>
+                <h3 class="font-medium mb-2">Guaranteed Quality</h3>
+                <p class="text-sm text-gray-500 leading-relaxed">Concentrations élevées (EDP, Perfume). Tenue longue durée garantie ou remboursement.</p>
             </div>
             <div class="card-bg rounded-2xl p-6 reveal tilt-card group" style="transition-delay: 0.3s;">
                 <div class="w-12 h-12 rounded-xl bg-gold-500/10 flex items-center justify-center mb-4 group-hover:scale-110 transition-transform">
                     <iconify-icon icon="lucide:repeat" width="22" class="text-gold-400"></iconify-icon>
                 </div>
-                <h3 class="font-medium mb-2">Retour & Échange</h3>
-                <p class="text-sm text-gray-500 leading-relaxed">Satisfait ou remboursé sous 7 jours. Service client réactif sur WhatsApp.</p>
+                <h3 class="font-medium mb-2">Returns & Exchanges</h3>
+                <p class="text-sm text-gray-500 leading-relaxed">7-day money back guarantee. Highly responsive customer support via WhatsApp.</p>
             </div>
         </div>
     </div>
@@ -549,7 +549,7 @@
             <h2 class="text-3xl md:text-5xl font-semibold tracking-tight mb-4">
                 Nos <span class="gradient-text">Collections</span>
             </h2>
-            <p class="text-gray-400 max-w-xl mx-auto">Des inspirations des plus grandes maisons de parfumerie mondiale.</p>
+            <p class="text-gray-400 max-w-xl mx-auto">Premium GCC fragrances and high-quality Middle Eastern blends.</p>
         </div>
 
         <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4">
@@ -558,42 +558,42 @@
                     <iconify-icon icon="lucide:crown" width="28" class="text-gold-400"></iconify-icon>
                 </div>
                 <h3 class="text-sm font-medium">Royal</h3>
-                <p class="text-[10px] text-gray-500 mt-1">24 références</p>
+                <p class="text-[10px] text-gray-500 mt-1">24 products</p>
             </div>
             <div class="card-bg rounded-2xl p-6 text-center reveal tilt-card group cursor-pointer">
                 <div class="w-16 h-16 rounded-2xl bg-gradient-to-br from-amber-500/20 to-orange-500/20 flex items-center justify-center mx-auto mb-3 group-hover:scale-110 transition-transform">
                     <iconify-icon icon="lucide:flame" width="28" class="text-amber-400"></iconify-icon>
                 </div>
                 <h3 class="text-sm font-medium">Oriental</h3>
-                <p class="text-[10px] text-gray-500 mt-1">38 références</p>
+                <p class="text-[10px] text-gray-500 mt-1">38 products</p>
             </div>
             <div class="card-bg rounded-2xl p-6 text-center reveal tilt-card group cursor-pointer">
                 <div class="w-16 h-16 rounded-2xl bg-gradient-to-br from-blue-500/20 to-cyan-500/20 flex items-center justify-center mx-auto mb-3 group-hover:scale-110 transition-transform">
                     <iconify-icon icon="lucide:waves" width="28" class="text-blue-400"></iconify-icon>
                 </div>
                 <h3 class="text-sm font-medium">Fresh</h3>
-                <p class="text-[10px] text-gray-500 mt-1">31 références</p>
+                <p class="text-[10px] text-gray-500 mt-1">31 products</p>
             </div>
             <div class="card-bg rounded-2xl p-6 text-center reveal tilt-card group cursor-pointer">
                 <div class="w-16 h-16 rounded-2xl bg-gradient-to-br from-pink-500/20 to-rose-500/20 flex items-center justify-center mx-auto mb-3 group-hover:scale-110 transition-transform">
                     <iconify-icon icon="lucide:heart" width="28" class="text-pink-400"></iconify-icon>
                 </div>
                 <h3 class="text-sm font-medium">Romantic</h3>
-                <p class="text-[10px] text-gray-500 mt-1">19 références</p>
+                <p class="text-[10px] text-gray-500 mt-1">19 products</p>
             </div>
             <div class="card-bg rounded-2xl p-6 text-center reveal tilt-card group cursor-pointer">
                 <div class="w-16 h-16 rounded-2xl bg-gradient-to-br from-emerald-500/20 to-green-500/20 flex items-center justify-center mx-auto mb-3 group-hover:scale-110 transition-transform">
                     <iconify-icon icon="lucide:leaf" width="28" class="text-emerald-400"></iconify-icon>
                 </div>
                 <h3 class="text-sm font-medium">Woody</h3>
-                <p class="text-[10px] text-gray-500 mt-1">27 références</p>
+                <p class="text-[10px] text-gray-500 mt-1">27 products</p>
             </div>
             <div class="card-bg rounded-2xl p-6 text-center reveal tilt-card group cursor-pointer">
                 <div class="w-16 h-16 rounded-2xl bg-gradient-to-br from-violet-500/20 to-gold-500/20 flex items-center justify-center mx-auto mb-3 group-hover:scale-110 transition-transform">
                     <iconify-icon icon="lucide:sparkles" width="28" class="text-violet-400"></iconify-icon>
                 </div>
                 <h3 class="text-sm font-medium">Premium</h3>
-                <p class="text-[10px] text-gray-500 mt-1">42 références</p>
+                <p class="text-[10px] text-gray-500 mt-1">42 products</p>
             </div>
         </div>
     </div>
@@ -635,7 +635,7 @@
 <section id="temoignages" class="py-24 px-4 relative">
     <div class="max-w-7xl mx-auto">
         <div class="text-center mb-16 reveal">
-            <span class="text-xs font-semibold uppercase tracking-widest text-gold-400 mb-4 block">Témoignages</span>
+            <span class="text-xs font-semibold uppercase tracking-widest text-gold-400 mb-4 block">Testimonials</span>
             <h2 class="text-3xl md:text-5xl font-semibold tracking-tight mb-4">
                 Ce que disent nos <span class="gradient-text">Clients</span>
             </h2>
@@ -650,12 +650,12 @@
                     <iconify-icon icon="lucide:star" width="14" class="text-amber-400"></iconify-icon>
                     <iconify-icon icon="lucide:star" width="14" class="text-amber-400"></iconify-icon>
                 </div>
-                <p class="text-sm text-gray-400 leading-relaxed mb-6">"J'ai commandé 50 pièces pour ma boutique à Oran. La qualité est incroyable, mes clients reviennent toujours. Le prix gros est vraiment compétitif."</p>
+                <p class="text-sm text-gray-400 leading-relaxed mb-6">"I ordered 50 pieces for my store in New York. The quality is incredible and my customers keep coming back. The wholesale pricing is extremely competitive."</p>
                 <div class="flex items-center gap-3">
                     <div class="w-10 h-10 rounded-full bg-gradient-to-br from-gold-500 to-indigo-500 flex items-center justify-center text-sm font-bold">K</div>
                     <div>
                         <div class="text-sm font-medium">Karim B.</div>
-                        <div class="text-xs text-gray-500">Oran — Revendeur</div>
+                        <div class="text-xs text-gray-500">New York — Retailer</div>
                     </div>
                 </div>
             </div>
@@ -667,12 +667,12 @@
                     <iconify-icon icon="lucide:star" width="14" class="text-amber-400"></iconify-icon>
                     <iconify-icon icon="lucide:star" width="14" class="text-amber-400"></iconify-icon>
                 </div>
-                <p class="text-sm text-gray-400 leading-relaxed mb-6">"Livraison à Constantine en 48h via Yalidine. L'emballage est soigné, aucune fuite. Je travaille avec eux depuis 6 mois, jamais déçu."</p>
+                <p class="text-sm text-gray-400 leading-relaxed mb-6">"Delivery to London in 4 days via DHL. Packaging is pristine, no leaks. I've been working with them for 6 months, never disappointed."</p>
                 <div class="flex items-center gap-3">
                     <div class="w-10 h-10 rounded-full bg-gradient-to-br from-pink-500 to-rose-500 flex items-center justify-center text-sm font-bold">S</div>
                     <div>
                         <div class="text-sm font-medium">Sara M.</div>
-                        <div class="text-xs text-gray-500">Constantine — Boutique</div>
+                        <div class="text-xs text-gray-500">London — Boutique / Store Owner</div>
                     </div>
                 </div>
             </div>
@@ -684,12 +684,12 @@
                     <iconify-icon icon="lucide:star" width="14" class="text-amber-400"></iconify-icon>
                     <iconify-icon icon="lucide:star" width="14" class="text-amber-400"></iconify-icon>
                 </div>
-                <p class="text-sm text-gray-400 leading-relaxed mb-6">"Le paiement à la livraison m'a rassuré dès le début. Maintenant je paie par virement CCP car j'ai confiance. Excellent service client sur WhatsApp."</p>
+                <p class="text-sm text-gray-400 leading-relaxed mb-6">"The seamless FBA prep service gave me peace of mind from the start. Now I wire transfer for bulk orders with full trust. Excellent WhatsApp support."</p>
                 <div class="flex items-center gap-3">
                     <div class="w-10 h-10 rounded-full bg-gradient-to-br from-emerald-500 to-green-500 flex items-center justify-center text-sm font-bold">A</div>
                     <div>
                         <div class="text-sm font-medium">Amine L.</div>
-                        <div class="text-xs text-gray-500">Alger — Distributeur</div>
+                        <div class="text-xs text-gray-500">Miami — Amazon FBA Seller</div>
                     </div>
                 </div>
             </div>
@@ -702,9 +702,9 @@
     <div class="absolute inset-0 bg-gradient-to-b from-transparent via-yellow-900/5 to-transparent pointer-events-none"></div>
     <div class="max-w-5xl mx-auto relative z-10">
         <div class="text-center mb-16 reveal">
-            <span class="text-xs font-semibold uppercase tracking-widest text-gold-400 mb-4 block">Commander</span>
+            <span class="text-xs font-semibold uppercase tracking-widest text-gold-400 mb-4 block">Order</span>
             <h2 class="text-3xl md:text-5xl font-semibold tracking-tight mb-4" data-i18n="section.how">
-                Comment <span class="gradient-text">Commander</span>
+                Comment <span class="gradient-text">Order</span>
             </h2>
         </div>
 
@@ -713,29 +713,29 @@
                 <div class="w-14 h-14 rounded-2xl bg-gold-500/10 border border-gold-500/20 flex items-center justify-center mx-auto mb-4">
                     <span class="text-lg font-semibold text-gold-400">1</span>
                 </div>
-                <h3 class="font-medium text-sm mb-2">Choisissez</h3>
-                <p class="text-xs text-gray-500">Parcourez le catalogue et ajoutez vos produits au panier</p>
+                <h3 class="font-medium text-sm mb-2">Choose</h3>
+                <p class="text-xs text-gray-500">Browse the catalogue and select your products</p>
             </div>
             <div class="text-center reveal" style="transition-delay: 0.1s;">
                 <div class="w-14 h-14 rounded-2xl bg-gold-500/10 border border-gold-500/20 flex items-center justify-center mx-auto mb-4">
                     <span class="text-lg font-semibold text-gold-400">2</span>
                 </div>
-                <h3 class="font-medium text-sm mb-2">Contactez-nous</h3>
-                <p class="text-xs text-gray-500">Envoyez votre commande via WhatsApp ou le formulaire</p>
+                <h3 class="font-medium text-sm mb-2">Contact us</h3>
+                <p class="text-xs text-gray-500">Send your order via WhatsApp or the contact form</p>
             </div>
             <div class="text-center reveal" style="transition-delay: 0.2s;">
                 <div class="w-14 h-14 rounded-2xl bg-gold-500/10 border border-gold-500/20 flex items-center justify-center mx-auto mb-4">
                     <span class="text-lg font-semibold text-gold-400">3</span>
                 </div>
                 <h3 class="font-medium text-sm mb-2">Confirmation</h3>
-                <p class="text-xs text-gray-500">Nous confirmons la disponibilité et le prix final avec remise</p>
+                <p class="text-xs text-gray-500">We confirm availability and final discounted price</p>
             </div>
             <div class="text-center reveal" style="transition-delay: 0.3s;">
                 <div class="w-14 h-14 rounded-2xl bg-gold-500/10 border border-gold-500/20 flex items-center justify-center mx-auto mb-4">
                     <span class="text-lg font-semibold text-gold-400">4</span>
                 </div>
-                <h3 class="font-medium text-sm mb-2">Réception</h3>
-                <p class="text-xs text-gray-500">Livraison à domicile, payez à la réception</p>
+                <h3 class="font-medium text-sm mb-2">Delivery</h3>
+                <p class="text-xs text-gray-500">Direct delivery to your warehouse or Amazon FBA center</p>
             </div>
         </div>
     </div>
@@ -749,9 +749,9 @@
             <div class="reveal">
                 <span class="text-xs font-semibold uppercase tracking-widest text-gold-400 mb-4 block">Contact</span>
                 <h2 class="text-3xl md:text-5xl font-semibold tracking-tight mb-6">
-                    Passer <span class="gradient-text">Commande</span>
+                    Place an <span class="gradient-text">Order</span>
                 </h2>
-                <p class="text-gray-400 mb-8 leading-relaxed">Remplissez le formulaire ou contactez-nous directement sur WhatsApp pour une réponse rapide.</p>
+                <p class="text-gray-400 mb-8 leading-relaxed">Fill out the form or contact us directly on WhatsApp for a fast response.</p>
 
                 <div class="space-y-4">
                     <a href="https://wa.me/213550000000" target="_blank" class="flex items-center gap-4 card-bg rounded-xl p-4 hover:border-green-500/30 transition-colors group">
@@ -768,7 +768,7 @@
                             <iconify-icon icon="lucide:phone" width="22" class="text-gold-400"></iconify-icon>
                         </div>
                         <div>
-                            <div class="text-sm font-medium">Téléphone</div>
+                            <div class="text-sm font-medium">Phone</div>
                             <div class="text-xs text-gray-500">+213 5 50 00 00 00</div>
                         </div>
                     </div>
@@ -778,7 +778,7 @@
                         </div>
                         <div>
                             <div class="text-sm font-medium">Adresse</div>
-                            <div class="text-xs text-gray-500">Alger Centre, Algérie</div>
+                            <div class="text-xs text-gray-500">Dubai, UAE</div>
                         </div>
                     </div>
                     <div class="flex items-center gap-4 card-bg rounded-xl p-4">
@@ -786,8 +786,8 @@
                             <iconify-icon icon="lucide:clock" width="22" class="text-gold-400"></iconify-icon>
                         </div>
                         <div>
-                            <div class="text-sm font-medium">Horaires</div>
-                            <div class="text-xs text-gray-500">Sam – Jeu : 9h – 18h</div>
+                            <div class="text-sm font-medium">Hours</div>
+                            <div class="text-xs text-gray-500">Mon – Fri : 9am – 6pm</div>
                         </div>
                     </div>
                 </div>
@@ -798,80 +798,29 @@
                 <form id="orderForm" class="card-bg rounded-2xl p-8 space-y-5">
                     <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
                         <div>
-                            <label class="text-xs font-medium text-gray-400 mb-1.5 block">Nom complet *</label>
+                            <label class="text-xs font-medium text-gray-400 mb-1.5 block">Full Name *</label>
                             <input type="text" required placeholder="Mohamed Benali" class="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-white placeholder-gray-600 focus:outline-none focus:border-gold-500/50 transition-colors">
                         </div>
                         <div>
-                            <label class="text-xs font-medium text-gray-400 mb-1.5 block">Téléphone *</label>
+                            <label class="text-xs font-medium text-gray-400 mb-1.5 block">Phone *</label>
                             <input type="tel" required placeholder="05 50 00 00 00" class="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-white placeholder-gray-600 focus:outline-none focus:border-gold-500/50 transition-colors">
                         </div>
                     </div>
                     <div>
-                        <label class="text-xs font-medium text-gray-400 mb-1.5 block">Wilaya *</label>
+                        <label class="text-xs font-medium text-gray-400 mb-1.5 block">Country *</label>
                         <select required class="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-gray-400 focus:outline-none focus:border-gold-500/50 transition-colors appearance-none cursor-pointer">
-                            <option value="">Choisir votre wilaya...</option>
-                            <option>01 - Adrar</option>
-                            <option>02 - Chlef</option>
-                            <option>03 - Laghouat</option>
-                            <option>04 - Oum El Bouaghi</option>
-                            <option>05 - Batna</option>
-                            <option>06 - Béjaïa</option>
-                            <option>07 - Biskra</option>
-                            <option>08 - Béchar</option>
-                            <option>09 - Blida</option>
-                            <option>10 - Bouira</option>
-                            <option>11 - Tamanrasset</option>
-                            <option>12 - Tébessa</option>
-                            <option>13 - Tlemcen</option>
-                            <option>14 - Tiaret</option>
-                            <option>15 - Tizi Ouzou</option>
-                            <option>16 - Alger</option>
-                            <option>17 - Djelfa</option>
-                            <option>18 - Jijel</option>
-                            <option>19 - Sétif</option>
-                            <option>20 - Saïda</option>
-                            <option>21 - Skikda</option>
-                            <option>22 - Sidi Bel Abbès</option>
-                            <option>23 - Annaba</option>
-                            <option>24 - Guelma</option>
-                            <option>25 - Constantine</option>
-                            <option>26 - Médéa</option>
-                            <option>27 - Mostaganem</option>
-                            <option>28 - M'Sila</option>
-                            <option>29 - Mascara</option>
-                            <option>30 - Ouargla</option>
-                            <option>31 - Oran</option>
-                            <option>32 - El Bayadh</option>
-                            <option>33 - Illizi</option>
-                            <option>34 - Bordj Bou Arréridj</option>
-                            <option>35 - Boumerdès</option>
-                            <option>36 - El Tarf</option>
-                            <option>37 - Tindouf</option>
-                            <option>38 - Tissemsilt</option>
-                            <option>39 - El Oued</option>
-                            <option>40 - Khenchela</option>
-                            <option>41 - Souk Ahras</option>
-                            <option>42 - Tipaza</option>
-                            <option>43 - Mila</option>
-                            <option>44 - Aïn Defla</option>
-                            <option>45 - Naâma</option>
-                            <option>46 - Aïn Témouchent</option>
-                            <option>47 - Ghardaïa</option>
-                            <option>48 - Relizane</option>
-                            <option>49 - El M'Ghair</option>
-                            <option>50 - El Meniaa</option>
-                            <option>51 - Ouled Djellal</option>
-                            <option>52 - Bordj Badji Mokhtar</option>
-                            <option>53 - Béni Abbès</option>
-                            <option>54 - Timimoun</option>
-                            <option>55 - Touggourt</span>
-                            <option>56 - Djanet</option>
-                            <option>57 - In Salah</option>
-                            <option>58 - In Guezzam</option>
+                            <option value="">Choose your country...</option>
+                            <option>United States</option>
+                            <option>United Kingdom</option>
+                            <option>Canada</option>
+                            <option>European Union</option>
+                            <option>United Arab Emirates</option>
+                            <option>Australia</option>
+                            <option>Other / Global</option>
                         </select>
                     </div>
                     <div>
-                        <label class="text-xs font-medium text-gray-400 mb-1.5 block">Commune / Adresse</label>
+                        <label class="text-xs font-medium text-gray-400 mb-1.5 block">City / Address</label>
                         <input type="text" placeholder="Bab El Oued, Rue..." class="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-white placeholder-gray-600 focus:outline-none focus:border-gold-500/50 transition-colors">
                     </div>
                     <div>
@@ -879,40 +828,40 @@
                         <div class="flex gap-3">
                             <label class="flex-1 cursor-pointer">
                                 <input type="radio" name="clientType" value="revendeur" class="hidden peer" checked>
-                                <div class="peer-checked:border-gold-500/50 peer-checked:bg-gold-500/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-center text-gray-400 peer-checked:text-gold-400 transition-all">Revendeur</div>
+                                <div class="peer-checked:border-gold-500/50 peer-checked:bg-gold-500/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-center text-gray-400 peer-checked:text-gold-400 transition-all">Retailer</div>
                             </label>
                             <label class="flex-1 cursor-pointer">
                                 <input type="radio" name="clientType" value="boutique" class="hidden peer">
-                                <div class="peer-checked:border-gold-500/50 peer-checked:bg-gold-500/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-center text-gray-400 peer-checked:text-gold-400 transition-all">Boutique</div>
+                                <div class="peer-checked:border-gold-500/50 peer-checked:bg-gold-500/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-center text-gray-400 peer-checked:text-gold-400 transition-all">Boutique / Store</div>
                             </label>
                             <label class="flex-1 cursor-pointer">
                                 <input type="radio" name="clientType" value="distributeur" class="hidden peer">
-                                <div class="peer-checked:border-gold-500/50 peer-checked:bg-gold-500/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-center text-gray-400 peer-checked:text-gold-400 transition-all">Distributeur</div>
+                                <div class="peer-checked:border-gold-500/50 peer-checked:bg-gold-500/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-center text-gray-400 peer-checked:text-gold-400 transition-all">Distributor</div>
                             </label>
                         </div>
                     </div>
                     <div>
-                        <label class="text-xs font-medium text-gray-400 mb-1.5 block">Détails de la commande</label>
+                        <label class="text-xs font-medium text-gray-400 mb-1.5 block">Order Details</label>
                         <textarea rows="4" placeholder="Ex: 10x Sauvage 100ml, 6x Baccarat Rouge 100ml..." class="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-white placeholder-gray-600 focus:outline-none focus:border-gold-500/50 transition-colors resize-none"></textarea>
                     </div>
                     <div>
-                        <label class="text-xs font-medium text-gray-400 mb-1.5 block">Mode de paiement</label>
+                        <label class="text-xs font-medium text-gray-400 mb-1.5 block">Payment Method</label>
                         <div class="flex gap-3">
                             <label class="flex-1 cursor-pointer">
                                 <input type="radio" name="payment" value="cod" class="hidden peer" checked>
-                                <div class="peer-checked:border-gold-500/50 peer-checked:bg-gold-500/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-center text-gray-400 peer-checked:text-gold-400 transition-all">💰 À la livraison</div>
+                                <div class="peer-checked:border-gold-500/50 peer-checked:bg-gold-500/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-center text-gray-400 peer-checked:text-gold-400 transition-all">💰 Credit Card</div>
                             </label>
                             <label class="flex-1 cursor-pointer">
                                 <input type="radio" name="payment" value="virement" class="hidden peer">
-                                <div class="peer-checked:border-gold-500/50 peer-checked:bg-gold-500/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-center text-gray-400 peer-checked:text-gold-400 transition-all">🏦 Virement CCP</div>
+                                <div class="peer-checked:border-gold-500/50 peer-checked:bg-gold-500/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-center text-gray-400 peer-checked:text-gold-400 transition-all">🏦 Wire Transfer</div>
                             </label>
                         </div>
                     </div>
                     <button type="submit" class="w-full bg-white text-black font-bold text-sm py-4 rounded-xl hover:scale-[1.02] transition-transform flex items-center justify-center gap-2">
                         <iconify-icon icon="lucide:send" width="16"></iconify-icon>
-                        Envoyer la Commande
+                        Send Order
                     </button>
-                    <p class="text-[10px] text-gray-600 text-center">Nous vous répondons sous 30 minutes pendant les heures ouvrables</p>
+                    <p class="text-[10px] text-gray-600 text-center">We will reply within 30 minutes during business hours</p>
                 </form>
             </div>
         </div>
@@ -998,7 +947,7 @@
                         <span class="text-gold-400 text-xs font-medium">.com</span>
                     </div>
                 </div>
-                <p class="text-sm text-gray-500 leading-relaxed max-w-sm mb-4">Votre partenaire grossiste de confiance pour réussir sur Amazon. Marques GCC, préparation FBA.</p>
+                <p class="text-sm text-gray-500 leading-relaxed max-w-sm mb-4">Your trusted wholesale partner for Amazon success. GCC Brands, FBA prep.</p>
                 <div class="flex items-center gap-3">
                     <a href="#" class="w-10 h-10 rounded-xl bg-white/5 flex items-center justify-center hover:bg-gold-500/20 transition-colors">
                         <iconify-icon icon="lucide:facebook" width="18" class="text-gray-400"></iconify-icon>
@@ -1019,7 +968,7 @@
             <div>
                 <h4 class="text-sm font-medium mb-4">Navigation</h4>
                 <div class="space-y-3">
-                    <a href="#accueil" class="block text-sm text-gray-500 hover:text-gold-400 transition-colors">Home</a>
+                    <a href="#home" class="block text-sm text-gray-500 hover:text-gold-400 transition-colors">Home</a>
                     <a href="pages/products.html" class="block text-sm text-gray-500 hover:text-gold-400 transition-colors">Products</a>
                     <a href="pages/services.html" class="block text-sm text-gray-500 hover:text-gold-400 transition-colors">Services</a>
                     <a href="pages/about.html" class="block text-sm text-gray-500 hover:text-gold-400 transition-colors">About</a>
@@ -1032,10 +981,10 @@
             <div>
                 <h4 class="text-sm font-medium mb-4">Informations</h4>
                 <div class="space-y-3">
-                    <p class="text-sm text-gray-500">Livraison : Yalidine, ZR Express, EMS</p>
-                    <p class="text-sm text-gray-500">Paiement : COD, Virement CCP</p>
-                    <p class="text-sm text-gray-500">Ouvert : Sam – Jeu, 9h–18h</p>
-                    <p class="text-sm text-gray-500">N° Registre : 16/00-XXXXXX</p>
+                    <p class="text-sm text-gray-500">Shipping: DHL, FedEx, UPS</p>
+                    <p class="text-sm text-gray-500">Paiement : COD, Wire Transfer</p>
+                    <p class="text-sm text-gray-500">Open: Mon – Fri, 9am–6pm</p>
+                    <p class="text-sm text-gray-500">License: Dubai DET-XXXXXX</p>
                 </div>
             </div>
         </div>
@@ -1043,17 +992,17 @@
         <div class="gradient-divider mb-8"></div>
 
         <div class="flex flex-col md:flex-row items-center justify-between gap-4">
-            <p class="text-xs text-gray-600">© 2025 BrotherScents — Tous droits réservés</p>
+            <p class="text-xs text-gray-600">© 2025 BrotherScents — All droits réservés</p>
             <div class="flex items-center gap-2 text-xs text-gray-600">
                 <iconify-icon icon="lucide:shield" width="12" class="text-green-500"></iconify-icon>
-                <span>Site sécurisé — Données protégées</span>
+                <span>Secure Site — Protected Data</span>
             </div>
         </div>
     </div>
 </footer>
 
 <!-- WhatsApp Float Button -->
-<a href="https://wa.me/213550000000?text=Bonjour%2C%20je%20souhaite%20commander%20des%20parfums%20en%20gros" target="_blank" class="whatsapp-float">
+<a href="https://wa.me/213550000000?text=Hello%2C%20I%20would%20like%20to%20order%20wholesale%20perfumes" target="_blank" class="whatsapp-float">
     <iconify-icon icon="lucide:message-circle" width="28" class="text-white"></iconify-icon>
 </a>
 
@@ -1061,7 +1010,7 @@
 <div id="cartModal" class="modal-overlay">
     <div class="modal-content w-full max-w-md mx-4 card-bg rounded-2xl p-6 max-h-[80vh] overflow-y-auto">
         <div class="flex items-center justify-between mb-6">
-            <h3 class="text-lg font-semibold">Votre Panier</h3>
+            <h3 class="text-lg font-semibold">Your Cart</h3>
             <button id="cartClose" class="p-2 rounded-xl hover:bg-white/5 transition-colors">
                 <iconify-icon icon="lucide:x" width="20" class="text-gray-400"></iconify-icon>
             </button>
@@ -1069,19 +1018,19 @@
         <div id="cartItems" class="space-y-4">
             <div class="text-center py-8">
                 <iconify-icon icon="lucide:shopping-bag" width="40" class="text-gray-700 mb-3"></iconify-icon>
-                <p class="text-sm text-gray-500">Votre panier est vide</p>
+                <p class="text-sm text-gray-500">Your cart is empty</p>
             </div>
         </div>
         <div id="cartFooter" class="hidden mt-6 pt-4 border-t border-white/5">
             <div class="flex justify-between items-center mb-4">
                 <span class="text-sm text-gray-400">Total estimé</span>
-                <span id="cartTotal" class="text-lg font-semibold gradient-text-gold">0 DA</span>
+                <span id="cartTotal" class="text-lg font-semibold gradient-text-gold">0 USD</span>
             </div>
             <a id="whatsappOrder" href="#" target="_blank" class="w-full bg-[#25D366] text-white font-bold text-sm py-4 rounded-xl flex items-center justify-center gap-2 hover:brightness-110 transition-all">
                 <iconify-icon icon="lucide:message-circle" width="18"></iconify-icon>
-                Commander via WhatsApp
+                Order via WhatsApp
             </a>
-            <p class="text-[10px] text-gray-600 text-center mt-2">Le prix final sera confirmé par notre équipe</p>
+            <p class="text-[10px] text-gray-600 text-center mt-2">Final price will be confirmed by our team</p>
         </div>
     </div>
 </div>
@@ -1090,14 +1039,14 @@
 <div id="authModal" class="modal-overlay">
     <div class="modal-content w-full max-w-sm mx-4 card-bg rounded-2xl p-6">
         <div class="flex items-center justify-between mb-6">
-            <h3 class="text-lg font-semibold" id="authModalTitle">Connexion</h3>
+            <h3 class="text-lg font-semibold" id="authModalTitle">Login</h3>
             <button onclick="closeAuthModal()" class="p-2 rounded-xl hover:bg-white/5 transition-colors">
                 <iconify-icon icon="lucide:x" width="20" class="text-gray-400"></iconify-icon>
             </button>
         </div>
         <div class="flex gap-2 mb-6">
-            <button onclick="switchAuthTab('login')" id="tabLogin" class="tab-btn active flex-1 text-xs font-medium px-4 py-2 rounded-full border border-white/10">Connexion</button>
-            <button onclick="switchAuthTab('register')" id="tabRegister" class="tab-btn flex-1 text-xs font-medium px-4 py-2 rounded-full border border-white/10 text-gray-400">Créer un compte</button>
+            <button onclick="switchAuthTab('login')" id="tabLogin" class="tab-btn active flex-1 text-xs font-medium px-4 py-2 rounded-full border border-white/10">Login</button>
+            <button onclick="switchAuthTab('register')" id="tabRegister" class="tab-btn flex-1 text-xs font-medium px-4 py-2 rounded-full border border-white/10 text-gray-400">Create an account</button>
         </div>
         <!-- Login -->
         <form id="loginForm" class="space-y-4">
@@ -1108,12 +1057,12 @@
                     class="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-white placeholder-gray-600 focus:outline-none focus:border-gold-500/50 transition-colors">
             </div>
             <div>
-                <label class="block text-xs text-gray-400 mb-1.5">Mot de passe</label>
+                <label class="block text-xs text-gray-400 mb-1.5">Password</label>
                 <input type="password" id="loginPassword" placeholder="••••••••" required
                     class="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-white placeholder-gray-600 focus:outline-none focus:border-gold-500/50 transition-colors">
             </div>
             <button type="submit" class="w-full bg-gradient-to-r from-gold-500 to-indigo-500 text-white font-semibold text-sm py-3 rounded-xl hover:opacity-90 transition-opacity">
-                Se connecter
+                Sign in
             </button>
         </form>
         <!-- Register -->
@@ -1125,12 +1074,12 @@
                     class="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-white placeholder-gray-600 focus:outline-none focus:border-gold-500/50 transition-colors">
             </div>
             <div>
-                <label class="block text-xs text-gray-400 mb-1.5">Boutique / Entreprise</label>
-                <input type="text" id="regCompany" placeholder="Nom de votre boutique"
+                <label class="block text-xs text-gray-400 mb-1.5">Boutique / Store / Business</label>
+                <input type="text" id="regCompany" placeholder="Store name"
                     class="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-white placeholder-gray-600 focus:outline-none focus:border-gold-500/50 transition-colors">
             </div>
             <div>
-                <label class="block text-xs text-gray-400 mb-1.5">Téléphone</label>
+                <label class="block text-xs text-gray-400 mb-1.5">Phone</label>
                 <input type="tel" id="regPhone" placeholder="0550 000 000"
                     class="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-white placeholder-gray-600 focus:outline-none focus:border-gold-500/50 transition-colors">
             </div>
@@ -1140,7 +1089,7 @@
                     class="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-white placeholder-gray-600 focus:outline-none focus:border-gold-500/50 transition-colors">
             </div>
             <div>
-                <label class="block text-xs text-gray-400 mb-1.5">Mot de passe</label>
+                <label class="block text-xs text-gray-400 mb-1.5">Password</label>
                 <input type="password" id="regPassword" placeholder="Min. 8 caractères" minlength="8" required
                     class="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-white placeholder-gray-600 focus:outline-none focus:border-gold-500/50 transition-colors">
             </div>
@@ -1165,8 +1114,8 @@ let cart = [];
 let visibleCount = 8;
 let currentCat = 'all';
 
-function formatDZD(n) {
-    return n.toLocaleString('fr-DZ') + ' DA';
+function formatUSD(n) {
+    return n.toLocaleString('en-US', { style: 'currency', currency: 'USD' });
 }
 
 // ==================== LOAD FROM SUPABASE ====================
@@ -1212,12 +1161,12 @@ function renderProducts() {
                         <path d="M12 2C6 2 4 7 4 12s2 10 8 10 8-5 8-10S18 2 12 2z"/>
                         <path d="M12 6v2M12 16v2M8 12H6M18 12h-2"/>
                     </svg>
-                    <span class="text-[10px] text-yellow-900 font-medium tracking-wider uppercase">Parfum</span>
+                    <span class="text-[10px] text-yellow-900 font-medium tracking-wider uppercase">Perfume</span>
                 </div>
                 ${p.img ? `<img src="${p.img}" alt="${p.name}" class="product-img w-full h-full object-cover absolute inset-0" loading="lazy"
                      onerror="this.style.opacity='0'">` : ''}
                 <div class="absolute inset-0 bg-gradient-to-t from-[#050505] via-transparent to-transparent"></div>
-                ${p.badge ? `<span class="absolute top-3 left-3 badge-gros">${p.badge}</span>` : ''}
+                ${p.badge ? `<span class="absolute top-3 left-3 badge-wholesale">${p.badge}</span>` : ''}
                 <span class="absolute top-3 right-3 glass-panel text-[10px] font-medium text-gray-300 px-2 py-1 rounded-lg">${p.size}</span>
                 ${currentUser
                     ? `<button onclick="addToCart('${p.id}')" class="absolute bottom-3 right-3 w-10 h-10 bg-white text-black rounded-xl flex items-center justify-center hover:scale-110 transition-transform shadow-lg">
@@ -1233,9 +1182,9 @@ function renderProducts() {
                 <h3 class="text-sm font-medium mb-2">${p.name}</h3>
                 <div>
                     ${currentUser
-                        ? `<div class="text-xs text-gray-600 line-through">${formatDZD(p.price_retail)}</div>
-                           <div class="text-sm font-semibold gradient-text-gold">${formatDZD(p.price_gros)} <span class="text-[10px] text-gray-500 font-normal">/pièce (gros)</span></div>`
-                        : `<button onclick="openAuthModal()" class="text-xs text-gold-400 font-medium hover:text-purple-300 transition-colors">🔒 Connectez-vous pour le prix gros</button>`
+                        ? `<div class="text-xs text-gray-600 line-through">${formatUSD(p.price_retail)}</div>
+                           <div class="text-sm font-semibold gradient-text-gold">${formatUSD(p.price_wholesale)} <span class="text-[10px] text-gray-500 font-normal">/piece (wholesale)</span></div>`
+                        : `<button onclick="openAuthModal()" class="text-xs text-gold-400 font-medium hover:text-purple-300 transition-colors">🔒 Login for wholesale price</button>`
                     }
                 </div>
             </div>
@@ -1276,7 +1225,7 @@ function updateAuthUI() {
     } else {
         icon.setAttribute('icon', 'lucide:user');
         icon.className = 'text-gray-400';
-        btn.title = 'Se connecter';
+        btn.title = 'Sign in';
         btn.onclick = openAuthModal;
     }
 }
@@ -1297,7 +1246,7 @@ function switchAuthTab(tab) {
     document.getElementById('tabRegister').classList.toggle('active', !isLogin);
     document.getElementById('tabLogin').classList.toggle('text-gray-400', !isLogin);
     document.getElementById('tabRegister').classList.toggle('text-gray-400', isLogin);
-    document.getElementById('authModalTitle').textContent = isLogin ? 'Connexion' : 'Créer un compte';
+    document.getElementById('authModalTitle').textContent = isLogin ? 'Login' : 'Create an account';
 }
 
 document.getElementById('loginForm').addEventListener('submit', async (e) => {
@@ -1352,7 +1301,7 @@ function addToCart(id) {
         cart.push({ id, qty: 1 });
     }
     updateCartUI();
-    showToast('Produit ajouté au panier ✓');
+    showToast('Product added to cart ✓');
 }
 
 function removeFromCart(id) {
@@ -1382,7 +1331,7 @@ function updateCartUI() {
     const footerEl = document.getElementById('cartFooter');
 
     if (cart.length === 0) {
-        itemsEl.innerHTML = `<div class="text-center py-8"><iconify-icon icon="lucide:shopping-bag" width="40" class="text-gray-700 mb-3"></iconify-icon><p class="text-sm text-gray-500">Votre panier est vide</p></div>`;
+        itemsEl.innerHTML = `<div class="text-center py-8"><iconify-icon icon="lucide:shopping-bag" width="40" class="text-gray-700 mb-3"></iconify-icon><p class="text-sm text-gray-500">Your cart is empty</p></div>`;
         footerEl.classList.add('hidden');
         return;
     }
@@ -1392,14 +1341,14 @@ function updateCartUI() {
 
     itemsEl.innerHTML = cart.map(c => {
         const p = products.find(pr => pr.id === c.id);
-        const subtotal = p.price_gros * c.qty;
+        const subtotal = p.price_wholesale * c.qty;
         grandTotal += subtotal;
         return `
             <div class="flex gap-3 items-center">
                 <img src="${p.img}" class="w-14 h-14 rounded-xl object-cover flex-shrink-0">
                 <div class="flex-1 min-w-0">
                     <p class="text-sm font-medium truncate">${p.name}</p>
-                    <p class="text-xs text-gray-500">${formatDZD(p.price_gros)} × ${c.qty}</p>
+                    <p class="text-xs text-gray-500">${formatUSD(p.price_wholesale)} × ${c.qty}</p>
                 </div>
                 <div class="flex items-center gap-1.5">
                     <button onclick="changeQty('${p.id}', -1)" class="qty-btn"><iconify-icon icon="lucide:minus" width="12"></iconify-icon></button>
@@ -1413,15 +1362,15 @@ function updateCartUI() {
         `;
     }).join('');
 
-    document.getElementById('cartTotal').textContent = formatDZD(grandTotal);
+    document.getElementById('cartTotal').textContent = formatUSD(grandTotal);
 
     const waNum = siteSettings.whatsapp_number || '213550000000';
-    let msg = 'Bonjour, je souhaite commander :\n\n';
+    let msg = 'Hello, I would like to order:\n\n';
     cart.forEach(c => {
         const p = products.find(pr => pr.id === c.id);
-        msg += `• ${p.name} (${p.size}) × ${c.qty} = ${formatDZD(p.price_gros * c.qty)}\n`;
+        msg += `• ${p.name} (${p.size}) × ${c.qty} = ${formatUSD(p.price_wholesale * c.qty)}\n`;
     });
-    msg += `\nTotal estimé : ${formatDZD(grandTotal)}`;
+    msg += `\nTotal estimé : ${formatUSD(grandTotal)}`;
     document.getElementById('whatsappOrder').href = `https://wa.me/${waNum}?text=${encodeURIComponent(msg)}`;
 }
 
@@ -1447,7 +1396,7 @@ function showToast(msg) {
 // ==================== ORDER FORM ====================
 document.getElementById('orderForm').addEventListener('submit', (e) => {
     e.preventDefault();
-    showToast('Commande envoyée avec succès ! Nous vous contacterons bientôt ✓');
+    showToast('Order sent successfully! We will contact you shortly ✓');
     e.target.reset();
 });
 
