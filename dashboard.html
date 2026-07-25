@@ -291,9 +291,9 @@ select.form-control option{background:#0d0d1a}
             <input type="text" class="search-input" id="productSearch" placeholder="Search name or brand…" oninput="filterProducts()"/>
             <button class="filter-pill active" data-cat="all" onclick="setCatFilter(this)">All</button>
             <button class="filter-pill" data-cat="oriental" onclick="setCatFilter(this)">Oriental</button>
-            <button class="filter-pill" data-cat="homme" onclick="setCatFilter(this)">Homme</button>
-            <button class="filter-pill" data-cat="femme" onclick="setCatFilter(this)">Femme</button>
-            <button class="filter-pill" data-cat="unisexe" onclick="setCatFilter(this)">Unisexe</button>
+            <button class="filter-pill" data-cat="homme" onclick="setCatFilter(this)">Men</button>
+            <button class="filter-pill" data-cat="femme" onclick="setCatFilter(this)">Women</button>
+            <button class="filter-pill" data-cat="unisexe" onclick="setCatFilter(this)">Unisex</button>
           </div>
           <div class="card-body" id="productsTableWrap"><div class="loading-wrap"><div class="spinner"></div></div></div>
         </div>
@@ -396,9 +396,9 @@ select.form-control option{background:#0d0d1a}
           <label>Category</label>
           <select class="form-control" id="fCategory">
             <option value="oriental">Oriental</option>
-            <option value="homme">Homme</option>
-            <option value="femme">Femme</option>
-            <option value="unisexe">Unisexe</option>
+            <option value="homme">Men</option>
+            <option value="femme">Women</option>
+            <option value="unisexe">Unisex</option>
           </select>
         </div>
         <div class="form-group">
@@ -412,8 +412,8 @@ select.form-control option{background:#0d0d1a}
           <input type="number" class="form-control" id="fPriceRetail" placeholder="0"/>
         </div>
         <div class="form-group">
-          <label>Gros Price</label>
-          <input type="number" class="form-control" id="fPriceGros" placeholder="0"/>
+          <label>Wholesale Price</label>
+          <input type="number" class="form-control" id="fPriceWholesale" placeholder="0"/>
         </div>
       </div>
       <div class="form-row">
@@ -598,7 +598,7 @@ function renderProductsTable() {
   const wrap = document.getElementById('productsTableWrap');
   if (!rows.length) { wrap.innerHTML = '<div class="loading-wrap">No products found.</div>'; return; }
   wrap.innerHTML = `<table><thead><tr>
-    <th>Img</th><th>Name</th><th>Brand</th><th>Category</th><th>Size</th><th>Price Gros</th><th>Stock</th><th>Badge</th><th>Active</th><th>Actions</th>
+    <th>Img</th><th>Name</th><th>Brand</th><th>Category</th><th>Size</th><th>Price Wholesale</th><th>Stock</th><th>Badge</th><th>Active</th><th>Actions</th>
   </tr></thead><tbody>
     ${rows.map(p => `<tr>
       <td>${p.img ? `<img src="${esc(p.img)}" class="product-thumb" onerror="this.style.display='none'"/>` : `<div class="product-thumb-placeholder">🧴</div>`}</td>
@@ -606,7 +606,7 @@ function renderProductsTable() {
       <td>${esc(p.brand||'')}</td>
       <td><span class="badge badge-purple">${esc(p.category_slug||'')}</span></td>
       <td>${esc(p.size||'')}</td>
-      <td style="color:#eab308;font-weight:600">$${(p.price_gros||0).toLocaleString()}</td>
+      <td style="color:#eab308;font-weight:600">$${(p.price_wholesale||0).toLocaleString()}</td>
       <td>${p.stock??'—'}</td>
       <td>${p.badge ? `<span class="badge badge-gold" style="background:rgba(234,179,8,0.12);color:#eab308">${esc(p.badge)}</span>` : '—'}</td>
       <td><label class="toggle"><input type="checkbox" ${p.active?'checked':''} onchange="toggleActive('${p.id}',this.checked)"/><span class="toggle-slider"></span></label></td>
@@ -635,7 +635,7 @@ function openProductModal(p) {
   document.getElementById('fCategory').value = p?.category_slug || 'oriental';
   document.getElementById('fSize').value = p?.size || '';
   document.getElementById('fPriceRetail').value = p?.price_retail || '';
-  document.getElementById('fPriceGros').value = p?.price_gros || '';
+  document.getElementById('fPriceWholesale').value = p?.price_wholesale || '';
   document.getElementById('fStock').value = p?.stock ?? '';
   document.getElementById('fBadge').value = p?.badge || '';
   document.getElementById('fImg').value = p?.img || '';
@@ -653,7 +653,7 @@ async function saveProduct() {
     category_slug: document.getElementById('fCategory').value,
     size: document.getElementById('fSize').value.trim(),
     price_retail: parseInt(document.getElementById('fPriceRetail').value) || 0,
-    price_gros: parseInt(document.getElementById('fPriceGros').value) || 0,
+    price_wholesale: parseInt(document.getElementById('fPriceWholesale').value) || 0,
     stock: parseInt(document.getElementById('fStock').value) || 0,
     badge: document.getElementById('fBadge').value.trim(),
     img: document.getElementById('fImg').value.trim(),

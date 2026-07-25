@@ -228,8 +228,8 @@ function applyFilters() {
         return matchQ && matchCat;
     });
 
-    if (sort === 'price-asc')  filtered.sort((a, b) => a.price_gros - b.price_gros);
-    if (sort === 'price-desc') filtered.sort((a, b) => b.price_gros - a.price_gros);
+    if (sort === 'price-asc')  filtered.sort((a, b) => a.price_wholesale - b.price_wholesale);
+    if (sort === 'price-desc') filtered.sort((a, b) => b.price_wholesale - a.price_wholesale);
     if (sort === 'name')       filtered.sort((a, b) => a.name.localeCompare(b.name));
 
     page = 0;
@@ -266,10 +266,10 @@ function productCard(p) {
 
     const badge = p.badge ? `<div class="absolute top-2 left-2 bg-gradient-to-r from-amber-500 to-yellow-500 text-black text-[9px] font-bold px-2 py-0.5 rounded-full">${p.badge}</div>` : '';
 
-    const price = p.price_gros
+    const price = p.price_wholesale
         ? `<div class="flex items-center gap-2 mt-1">
-               <span class="text-purple-300 text-xs font-semibold">AED ${p.price_gros.toFixed(0)}</span>
-               ${p.price_retail && p.price_retail !== p.price_gros ? `<span class="text-gray-600 text-[10px] line-through">AED ${p.price_retail.toFixed(0)}</span>` : ''}
+               <span class="text-purple-300 text-xs font-semibold">AED ${p.price_wholesale.toFixed(0)}</span>
+               ${p.price_retail && p.price_retail !== p.price_wholesale ? `<span class="text-gray-600 text-[10px] line-through">AED ${p.price_retail.toFixed(0)}</span>` : ''}
            </div>`
         : '';
 

@@ -221,15 +221,15 @@ function renderProduct(p, brandData) {
     // Price block
     const priceBlock = `
         <div class="flex items-baseline gap-3">
-            <span class="text-3xl font-bold text-purple-300">AED ${(p.price_gros||0).toFixed(0)}</span>
-            ${p.price_retail && p.price_retail !== p.price_gros
+            <span class="text-3xl font-bold text-purple-300">AED ${(p.price_wholesale||0).toFixed(0)}</span>
+            ${p.price_retail && p.price_retail !== p.price_wholesale
                 ? `<span class="text-gray-500 line-through text-lg">AED ${p.price_retail.toFixed(0)}</span>
-                   <span class="text-green-400 text-sm font-semibold">Save AED ${(p.price_retail - p.price_gros).toFixed(0)}</span>`
+                   <span class="text-green-400 text-sm font-semibold">Save AED ${(p.price_retail - p.price_wholesale).toFixed(0)}</span>`
                 : ''}
         </div>`;
 
     // WA order message
-    const waMsg = encodeURIComponent(`Hi BrotherScents,\n\nI'm interested in ordering:\n*${p.name}*\nBrand: ${p.brand}\nSize: ${p.size}\nPrice: AED ${(p.price_gros||0).toFixed(0)}\n\nPlease confirm availability and payment details.`);
+    const waMsg = encodeURIComponent(`Hi BrotherScents,\n\nI'm interested in ordering:\n*${p.name}*\nBrand: ${p.brand}\nSize: ${p.size}\nPrice: AED ${(p.price_wholesale||0).toFixed(0)}\n\nPlease confirm availability and payment details.`);
     let waNum = '';
     try { waNum = JSON.parse(localStorage.getItem('ls_settings')||'{}').whatsappNumber || ''; } catch(_){}
 
@@ -294,7 +294,7 @@ function renderProduct(p, brandData) {
                 </div>
                 <div class="p-2.5">
                     <p class="text-[11px] text-gray-300 leading-tight line-clamp-2">${r.name}</p>
-                    ${r.price_gros ? `<p class="text-purple-300 text-xs font-semibold mt-1">AED ${r.price_gros.toFixed(0)}</p>` : ''}
+                    ${r.price_wholesale ? `<p class="text-purple-300 text-xs font-semibold mt-1">AED ${r.price_wholesale.toFixed(0)}</p>` : ''}
                 </div>
             </a>`;
         }).join('');

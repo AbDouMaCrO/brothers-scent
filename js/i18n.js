@@ -229,7 +229,7 @@
     'footer.wholesale': { ar: 'Wholesale', en: 'Wholesale' },
     'footer.resources': { ar: 'Resources', en: 'Resources' },
     'footer.pages':     { ar: 'Pages', en: 'Pages' },
-    'footer.desc':      { ar: 'Wholesale fragrance distributor — GCC & Algeria', en: 'Wholesale fragrance distributor — GCC & Algeria' },
+    'footer.desc':      { ar: 'Wholesale fragrance distributor — GCC & Global', en: 'Wholesale fragrance distributor — GCC & Global' },
   };
 
   function t(key) { return T[key]?.[lang] ?? key; }
