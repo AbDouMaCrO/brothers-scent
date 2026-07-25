@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T10:15:40.580Z",
+  "generated_at": "2026-07-25T13:24:10.641Z",
   "total_brands": 886,
   "brands": [
     {
@@ -190,7 +190,7 @@
           "name": "Dolce And Gabbana The One Pour Femme Parfum Intense For Women Floral 75ml",
           "handle": "dolce-and-gabbana-the-one-pour-femme-parfum-intense-for-women-floral-75ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/the_on_gold-removebg-preview_c30fda79-0050-4329-b3b2-5d89439d3406.png?v=1782569825",
-          "price": 455,
+          "price": 446,
           "badge": ""
         },
         {
@@ -212,14 +212,14 @@
           "name": "Christian Dior Addict Rosy Glow Eau de Parfum For Women Floral 100ml",
           "handle": "christian-dior-addict-rosy-glow-eau-de-parfum-for-women-floral-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rose_glow-removebg.png?v=1784536564",
-          "price": 939,
+          "price": 903,
           "badge": ""
         },
         {
           "name": "Christian Dior Addict Purple Glow Eau de Parfum For Women Floral 50ml",
           "handle": "christian-dior-addict-purple-glow-eau-de-parfum-for-women-floral-50ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/purple-removebg_aae3b397-8439-470e-a52a-3b1ffd7a02c9.png?v=1784536008",
-          "price": 660,
+          "price": 613,
           "badge": ""
         },
         {
@@ -233,7 +233,7 @@
           "name": "Christian Dior Addict Peachy Glow Eau de Parfum For Women Floral 50ml",
           "handle": "christian-dior-addict-peachy-glow-eau-de-parfum-for-women-floral-50ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/50-removebg.png?v=1784489964",
-          "price": 660,
+          "price": 613,
           "badge": ""
         },
         {
@@ -340,7 +340,7 @@
           "name": "Giorgio Armani Si Parfum For Women - Chypre Floral Perfume 100ml",
           "handle": "giorgio-armani-si-parfum-for-women-chypre-floral-perfume-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/01.jpg?v=1781189670",
-          "price": 499,
+          "price": 497,
           "badge": ""
         },
         {
@@ -353,9 +353,59 @@
       ]
     },
     {
+      "name": "Paco Rabanne",
+      "slug": "paco-rabanne",
+      "count": 332,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/11-removebg-preview.png?v=1784898854",
+      "preview": [
+        {
+          "name": "Paco Rabanne 1 Million Black  Eau de Parfum For Men Amber 100ml",
+          "handle": "paco-rabanne-1-million-black-eau-de-parfum-for-men-amber-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/11-removebg-preview.png?v=1784898854",
+          "price": 515,
+          "badge": ""
+        },
+        {
+          "name": "Paco Rabanne Million Red Parfum For Her Amber 50ml",
+          "handle": "paco-rabanne-million-red-parfum-for-her-amber-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/0-removebg-preview_bacbbe41-6e52-4711-a9fd-14279e48c898.png?v=1784898456",
+          "price": 463,
+          "badge": ""
+        },
+        {
+          "name": "Rabanne Olympea Elixir Eau de Parfum Intense For Women Amber 80ml",
+          "handle": "rabanne-olympea-elixir-eau-de-parfum-intense-for-women-amber-80ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/pl.png?v=1783501300",
+          "price": 567,
+          "badge": ""
+        },
+        {
+          "name": "Rabanne Invictus Parfum Elixir For Men 100ml",
+          "handle": "rabanne-invictus-elixir-edp-for-men-amber-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/0000.png?v=1784355013",
+          "price": 567,
+          "badge": ""
+        },
+        {
+          "name": "Rabanne 1 Million Night Elixir  For Men 100ml",
+          "handle": "rabanne-1-million-night-elixir-edp-for-men-amber-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/1_32f47145-8765-433d-80ca-49a6f0e73845.png?v=1783500623",
+          "price": 582,
+          "badge": ""
+        },
+        {
+          "name": "Paco Rabanne Gift Set For Men Woody",
+          "handle": "paco-rabanne-gift-set-for-men-woody-2",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/p_425e584a-bd88-4866-a823-c5d5e61ba8d5.jpg?v=1782573607",
+          "price": 421,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Chanel",
       "slug": "chanel",
-      "count": 334,
+      "count": 332,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/n-5-eau-de-toilette-spray-5fl-oz--packshot-default-105680-9580787662878.png?v=1782639710",
       "preview": [
         {
@@ -403,56 +453,6 @@
       ]
     },
     {
-      "name": "Paco Rabanne",
-      "slug": "paco-rabanne",
-      "count": 332,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/11-removebg-preview.png?v=1784898854",
-      "preview": [
-        {
-          "name": "Paco Rabanne 1 Million Black  Eau de Parfum For Men Amber 100ml",
-          "handle": "paco-rabanne-1-million-black-eau-de-parfum-for-men-amber-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/11-removebg-preview.png?v=1784898854",
-          "price": 603,
-          "badge": ""
-        },
-        {
-          "name": "Paco Rabanne Million Red Parfum For Her Amber 50ml",
-          "handle": "paco-rabanne-million-red-parfum-for-her-amber-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/0-removebg-preview_bacbbe41-6e52-4711-a9fd-14279e48c898.png?v=1784898456",
-          "price": 463,
-          "badge": ""
-        },
-        {
-          "name": "Rabanne Olympea Elixir Eau de Parfum Intense For Women Amber 80ml",
-          "handle": "rabanne-olympea-elixir-eau-de-parfum-intense-for-women-amber-80ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/pl.png?v=1783501300",
-          "price": 567,
-          "badge": ""
-        },
-        {
-          "name": "Rabanne Invictus Parfum Elixir For Men 100ml",
-          "handle": "rabanne-invictus-elixir-edp-for-men-amber-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/0000.png?v=1784355013",
-          "price": 421,
-          "badge": ""
-        },
-        {
-          "name": "Rabanne 1 Million Night Elixir  For Men 100ml",
-          "handle": "rabanne-1-million-night-elixir-edp-for-men-amber-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/1_32f47145-8765-433d-80ca-49a6f0e73845.png?v=1783500623",
-          "price": 582,
-          "badge": ""
-        },
-        {
-          "name": "Paco Rabanne Gift Set For Men Woody",
-          "handle": "paco-rabanne-gift-set-for-men-woody-2",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/p_425e584a-bd88-4866-a823-c5d5e61ba8d5.jpg?v=1782573607",
-          "price": 421,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "samawa perfumes ",
       "slug": "samawa-perfumes",
       "count": 331,
@@ -462,7 +462,7 @@
           "name": "Christian Dior Addict Rosy Glow Eau de Parfum For Women Floral 50ml",
           "handle": "christian-dior-addict-rosy-glow-eau-de-parfum-for-women-floral-50ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rose_glow-removebg_8b43bf3e-64f7-4e29-b6af-d0d2b39ff0a4.png?v=1784536844",
-          "price": 660,
+          "price": 613,
           "badge": ""
         },
         {
@@ -526,21 +526,21 @@
           "name": "Carolina Herrera Good Girl Blush Gift Set For Women Floral",
           "handle": "carolina-herrera-good-girl-blush-gift-set-for-women-floral",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3_32990a01-5a0b-4c2c-858c-dbc817342e0d.webp?v=1777382547",
-          "price": 585,
+          "price": 549,
           "badge": ""
         },
         {
           "name": "Carolina Herrera Good Girl Gift Set For Women Amber",
           "handle": "carolina-herrera-gift-set-for-women-amber",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/blue_fb73f556-5d0c-4987-872b-21235286bc72.webp?v=1777383014",
-          "price": 504,
+          "price": 512,
           "badge": ""
         },
         {
           "name": "Carolina Herrera Very Good Girl Edp For Women Fruity 80ml",
           "handle": "carolina-herrera-very-good-girl-edp-for-women-fruity-80ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/redddd.webp?v=1777382821",
-          "price": 550,
+          "price": 480,
           "badge": ""
         },
         {
@@ -590,7 +590,7 @@
           "name": "Versace Atelier Tabac Imperial Eau De Parfum For Unisex - Aromatic Perfume 100ml",
           "handle": "versace-atelier-tabac-imperial-eau-de-parfum-for-unisex-aromatic-perfume-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/94104023_20250718124500.jpg?v=1774547728",
-          "price": 668,
+          "price": 590,
           "badge": ""
         },
         {
@@ -655,7 +655,7 @@
     {
       "name": "Guerlain",
       "slug": "guerlain",
-      "count": 258,
+      "count": 257,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bbaff643352c84f65c36edbdde41f5db.jpg?v=1781590252",
       "preview": [
         {
@@ -769,7 +769,7 @@
           "name": "Yves Saint Laurent Muse Inspiring Ink  Eau De Parfum For Unisex- Woody Floral Musk Perfume 75ml",
           "handle": "yves-saint-laurent-muse-inspiring-ink-eau-de-parfum-for-unisex-woody-floral-musk-perfume-75ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3614274184983_1.jpg?v=1781586935",
-          "price": 895,
+          "price": 859,
           "badge": ""
         },
         {
@@ -797,7 +797,7 @@
           "name": "Yves Saint Laurent Libre Berry Crush Eau De Parfum Fruitee For Women - Floral Fruity Perfume 90ml",
           "handle": "yves-saint-laurent-libre-berry-crush-eau-de-parfum-fruitee-for-women-floral-fruity-perfume-90ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/69617_NA_1__00185.1769615426.jpg?v=1777797230",
-          "price": 623,
+          "price": 599,
           "badge": ""
         }
       ]
@@ -1069,14 +1069,14 @@
           "name": "Armaf Let's Move Tango Eau De Parfum For Unisex- Floral Fruity Perfume 100ml",
           "handle": "armaf-lets-move-tango-eau-de-parfum-for-unisex-floral-fruity-perfume-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/fb401f99-0f03-4cb4-a13f-8a915716486b.jpg?v=1781693988",
-          "price": 106,
+          "price": 103,
           "badge": ""
         },
         {
           "name": "Armaf Let'S Move Salsa Eau De Parfum For Unisex-Floral Fruity Gourmand Perfume 100ml",
           "handle": "armaf-lets-move-salsa-eau-de-parfum-for-unisex-floral-fruity-gourmand-perfume-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3_18505ba7-9b74-49e3-a5cd-1ac3a2fd381d.png?v=1781692874",
-          "price": 106,
+          "price": 103,
           "badge": ""
         },
         {
@@ -1490,7 +1490,7 @@
           "name": "Gucci Flora Gorgeous Magnolia Eau De Parfum For Women - Floral fruity 150ml Refill",
           "handle": "gucci-flora-gorgeous-magnolia-eau-de-parfum-for-women-floral-fruity-150ml-refill",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616303470852_c.jpg?v=1775998094",
-          "price": 407,
+          "price": 343,
           "badge": ""
         },
         {
@@ -1640,7 +1640,7 @@
           "name": "Amouage Remain Edp For Men And Women Woody 100 ml",
           "handle": "amouage-remain-edp-for-men-and-women-woody-100-ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amouage_Remain_Bottle.webp?v=1772292436",
-          "price": 1763,
+          "price": 1586,
           "badge": ""
         },
         {
@@ -1762,7 +1762,7 @@
           "name": "Jean Paul Gaultier Gift Set For Men Amber",
           "handle": "jean-paul-gaultier-gift-set-for-men-amber-1",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/g-removebg-preview_1.png?v=1784798276",
-          "price": 370,
+          "price": 362,
           "badge": ""
         },
         {
@@ -1926,14 +1926,14 @@
           "name": "Narciso Rodriguez Gift Set For Women Floral",
           "handle": "narciso-rodriguez-gift-set-for-women-floral-1",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/hh.png?v=1783969965",
-          "price": 362,
+          "price": 343,
           "badge": ""
         },
         {
           "name": "Narciso Rodriguez Gift Set For Women Floral",
           "handle": "narciso-rodriguez-gift-set-for-women-floral",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/her.png?v=1783968972",
-          "price": 407,
+          "price": 352,
           "badge": ""
         },
         {
@@ -3753,6 +3753,56 @@
       ]
     },
     {
+      "name": "Atelier Cologne",
+      "slug": "atelier-cologne",
+      "count": 89,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cedreee-removebg-preview.png?v=1784978120",
+      "preview": [
+        {
+          "name": "Atelier Cologne Cèdre Atlas Cologne Absolue For Men And Women 100ml",
+          "handle": "atelier-cologne-cedre-atlas-cologne-absolue-for-men-and-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cedreee-removebg-preview.png?v=1784978120",
+          "price": 492,
+          "badge": ""
+        },
+        {
+          "name": "Atelier Cologne Cèdre Atlas Cologne Absolue For Men And Women Woody 30ml",
+          "handle": "atelier-cologne-cedre-atlas-cologne-absolue-for-men-and-women-woody-30ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cett-removebg-preview.png?v=1784457607",
+          "price": 296,
+          "badge": ""
+        },
+        {
+          "name": "Atelier Cologne Orange Sanguine Cologne Absolue EDP For Unisex - Citrus Perfume 30ml",
+          "handle": "atelier-cologne-orange-sanguine-cologne-absolue-edp-for-unisex-citrus-perfume-30ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/images_aebd8f35-c998-459c-97f5-7f35ee14dbaa.webp?v=1774156048",
+          "price": 232,
+          "badge": ""
+        },
+        {
+          "name": "Atelier Cologne Clementine California Cologne Absolue EDP For Unisex - Citrus Aromatic Perfume 30ml",
+          "handle": "atelier-cologne-clementine-california-cologne-absolue-edp-for-unisex-citrus-aromatic-perfume-30ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/images_7340458f-77ae-4259-96e7-a604d7f92eef.webp?v=1774155476",
+          "price": 325,
+          "badge": ""
+        },
+        {
+          "name": "Atelier Cologne Trefle Pur Cologne Absolue Eau De Parfum For Unisex - Citrus Aromatic Perfume 100ml",
+          "handle": "atelier-cologne-trefle-pur-cologne-absolue-eau-de-parfum-for-unisex-citrus-aromatic-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cologne-absolue-trefle-pur___240509.jpg?v=1769529905",
+          "price": 389,
+          "badge": ""
+        },
+        {
+          "name": "Atelier Cologne Rose Cuiree Eau De Parfum For Unisex - Oriental Floral Perfume 100ml",
+          "handle": "atelier-cologne-rose-cuiree-eau-de-parfum-for-unisex-oriental-floral-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cologne-rare-rose-cuiree___240509.jpg?v=1769529224",
+          "price": 407,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Elizabeth Arden",
       "slug": "elizabeth-arden",
       "count": 89,
@@ -3769,7 +3819,7 @@
           "name": "Elizabeth Arden 5Th Avenue NYC Eau De Parfum For Women - Floral Perfume 75ml",
           "handle": "elizabeth-arden-5th-avenue-nyc-eau-de-parfum-for-women-floral-perfume-75ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/085805156596.jpg?v=1771074710",
-          "price": 73,
+          "price": 69,
           "badge": ""
         },
         {
@@ -3798,56 +3848,6 @@
           "handle": "elizabeth-arden-always-red-perfume-for-women-edt-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/A0134774_ALWAYS-RED-100ML-0280_STACKED_300CMYK-2048x2048_1_1800x1800_d56a231b-a211-4b6b-a2c4-768cb82324de.jpg?v=1756816700",
           "price": 99,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Atelier Cologne",
-      "slug": "atelier-cologne",
-      "count": 88,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cett-removebg-preview.png?v=1784457607",
-      "preview": [
-        {
-          "name": "Atelier Cologne Cèdre Atlas Cologne Absolue For Men And Women Woody 30ml",
-          "handle": "atelier-cologne-cedre-atlas-cologne-absolue-for-men-and-women-woody-30ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cett-removebg-preview.png?v=1784457607",
-          "price": 296,
-          "badge": ""
-        },
-        {
-          "name": "Atelier Cologne Orange Sanguine Cologne Absolue EDP For Unisex - Citrus Perfume 30ml",
-          "handle": "atelier-cologne-orange-sanguine-cologne-absolue-edp-for-unisex-citrus-perfume-30ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/images_aebd8f35-c998-459c-97f5-7f35ee14dbaa.webp?v=1774156048",
-          "price": 232,
-          "badge": ""
-        },
-        {
-          "name": "Atelier Cologne Clementine California Cologne Absolue EDP For Unisex - Citrus Aromatic Perfume 30ml",
-          "handle": "atelier-cologne-clementine-california-cologne-absolue-edp-for-unisex-citrus-aromatic-perfume-30ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/images_7340458f-77ae-4259-96e7-a604d7f92eef.webp?v=1774155476",
-          "price": 296,
-          "badge": ""
-        },
-        {
-          "name": "Atelier Cologne Trefle Pur Cologne Absolue Eau De Parfum For Unisex - Citrus Aromatic Perfume 100ml",
-          "handle": "atelier-cologne-trefle-pur-cologne-absolue-eau-de-parfum-for-unisex-citrus-aromatic-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cologne-absolue-trefle-pur___240509.jpg?v=1769529905",
-          "price": 389,
-          "badge": ""
-        },
-        {
-          "name": "Atelier Cologne Rose Cuiree Eau De Parfum For Unisex - Oriental Floral Perfume 100ml",
-          "handle": "atelier-cologne-rose-cuiree-eau-de-parfum-for-unisex-oriental-floral-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cologne-rare-rose-cuiree___240509.jpg?v=1769529224",
-          "price": 407,
-          "badge": ""
-        },
-        {
-          "name": "Atelier Cologne Santal Carmin Miniature For Men And Women Woody 30ml",
-          "handle": "atelier-cologne-santal-carmin-miniature-for-men-and-women-woody-30ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/santal.webp?v=1764841432",
-          "price": 180,
           "badge": ""
         }
       ]
@@ -4253,56 +4253,6 @@
       ]
     },
     {
-      "name": "Davidoff",
-      "slug": "davidoff",
-      "count": 77,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cool-removebg.png?v=1784537222",
-      "preview": [
-        {
-          "name": "Davidoff Cool Elixir Parfum Intense For Women 50ml",
-          "handle": "davidoff-cool-elixir-parfum-intense-for-women-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cool-removebg.png?v=1784537222",
-          "price": 158,
-          "badge": ""
-        },
-        {
-          "name": "Davidoff Cool Water Intense Eau De Parfum For Men - Amber Perfume 40ml",
-          "handle": "davidoff-cool-water-intense-eau-de-parfum-for-men-amber-perfume-40ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/61l1JGb3wTL.jpg?v=1766827196",
-          "price": 84,
-          "badge": ""
-        },
-        {
-          "name": "Davidoff Cool Water Parfum For Men - Earthy & Woody Perfume 50ml",
-          "handle": "davidoff-cool-water-parfum-for-men-earthy-woody-perfume-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/davidoff_cool_water_for_men_parfum_50ml_2_jpg.webp?v=1766826297",
-          "price": 111,
-          "badge": ""
-        },
-        {
-          "name": "Davidoff Cool Water Oceanic Edition For Her Eau De Toilette For Women - Floral Aquatic Perfume 100ml",
-          "handle": "davidoff-cool-water-oceanic-edition-for-her-eau-de-toilette-for-women-floral-aquatic-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616305009005.jpg?v=1760522201",
-          "price": 140,
-          "badge": ""
-        },
-        {
-          "name": "Davidoff Cool Water Oceanic Edition Eau De Toilette For Men - Aromatic Aquatic Perfume 125ml",
-          "handle": "davidoff-cool-water-oceanic-edition-eau-de-toilette-for-men-aromatic-aquatic-perfume-125ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616305008879.jpg?v=1760519415",
-          "price": 135,
-          "badge": ""
-        },
-        {
-          "name": "Davidoff Cool Elixir Oud Aromatique Parfum Intense For Men - Oriental Fougere Perfume 50ml",
-          "handle": "davidoff-cool-elixir-oud-aromatique-parfum-intense-for-men-oriental-fougere-perfume-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/WLP6S_SQ1_0000000088_NO_COLOR_SLf.jpg?v=1760519027",
-          "price": 158,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Lalique",
       "slug": "lalique",
       "count": 77,
@@ -4398,6 +4348,56 @@
           "handle": "disney-mickey-mouse-red-edt-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/s-l500_9f870c4a-637e-4521-852f-130eaed167d3.jpg?v=1652158361",
           "price": 63,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Davidoff",
+      "slug": "davidoff",
+      "count": 76,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cool-removebg.png?v=1784537222",
+      "preview": [
+        {
+          "name": "Davidoff Cool Elixir Parfum Intense For Women 50ml",
+          "handle": "davidoff-cool-elixir-parfum-intense-for-women-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cool-removebg.png?v=1784537222",
+          "price": 158,
+          "badge": ""
+        },
+        {
+          "name": "Davidoff Cool Water Intense Eau De Parfum For Men - Amber Perfume 40ml",
+          "handle": "davidoff-cool-water-intense-eau-de-parfum-for-men-amber-perfume-40ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/61l1JGb3wTL.jpg?v=1766827196",
+          "price": 84,
+          "badge": ""
+        },
+        {
+          "name": "Davidoff Cool Water Parfum For Men - Earthy & Woody Perfume 50ml",
+          "handle": "davidoff-cool-water-parfum-for-men-earthy-woody-perfume-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/davidoff_cool_water_for_men_parfum_50ml_2_jpg.webp?v=1766826297",
+          "price": 111,
+          "badge": ""
+        },
+        {
+          "name": "Davidoff Cool Water Oceanic Edition For Her Eau De Toilette For Women - Floral Aquatic Perfume 100ml",
+          "handle": "davidoff-cool-water-oceanic-edition-for-her-eau-de-toilette-for-women-floral-aquatic-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616305009005.jpg?v=1760522201",
+          "price": 140,
+          "badge": ""
+        },
+        {
+          "name": "Davidoff Cool Water Oceanic Edition Eau De Toilette For Men - Aromatic Aquatic Perfume 125ml",
+          "handle": "davidoff-cool-water-oceanic-edition-eau-de-toilette-for-men-aromatic-aquatic-perfume-125ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616305008879.jpg?v=1760519415",
+          "price": 135,
+          "badge": ""
+        },
+        {
+          "name": "Davidoff Cool Elixir Oud Aromatique Parfum Intense For Men - Oriental Fougere Perfume 50ml",
+          "handle": "davidoff-cool-elixir-oud-aromatique-parfum-intense-for-men-oriental-fougere-perfume-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/WLP6S_SQ1_0000000088_NO_COLOR_SLf.jpg?v=1760519027",
+          "price": 158,
           "badge": ""
         }
       ]
@@ -4612,7 +4612,7 @@
           "name": "Frederic Malle Hope Eau de Parfum For Men And Women Woody 50ml",
           "handle": "frederic-malle-hope-eau-de-parfum-for-men-and-women-woody-50ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/hope-Photoroom.png?v=1779205104",
-          "price": 1631,
+          "price": 1498,
           "badge": ""
         },
         {
@@ -6212,7 +6212,7 @@
           "name": "Ormonde Jayne Sakura Eau De Parfum For Unisex - Floral Perfume 88ml",
           "handle": "ormonde-jayne-sakura-eau-de-parfum-for-unisex-floral-perfume-88ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/sakura-front-flat.jpg?v=1767075291",
-          "price": 678,
+          "price": 668,
           "badge": ""
         },
         {
@@ -7412,7 +7412,7 @@
           "name": "Van Cleef And Arpels Collection Extraordinaire Ambre Impérial Le Parfum For Men And Women Amber 75ml",
           "handle": "van-cleef-and-arpels-collection-extraordinaire-ambre-imperial-le-parfum-for-men-and-women-amber-75ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/van-removebg-preview.png?v=1784839572",
-          "price": 777,
+          "price": 741,
           "badge": ""
         },
         {
@@ -8012,7 +8012,7 @@
           "name": "BDK Parfums Vanille Caviar Edp For Men And Women Gourmand 100ml",
           "handle": "bdk-parfums-vanille-caviar-edp-for-men-and-women-gourmand-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/vanila.avif?v=1764946179",
-          "price": 813,
+          "price": 741,
           "badge": ""
         },
         {
@@ -8212,7 +8212,7 @@
           "name": "Moncler Le Cèdre Bleu Scented Candle Woody 200 g",
           "handle": "moncler-le-cedre-bleu-scented-candle-woody-200-g",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Moncler_Le_C_dre_Bleu_Scented_Candle_Woody_200_g.png?v=1784197248",
-          "price": 222,
+          "price": 214,
           "badge": ""
         },
         {
@@ -8419,7 +8419,7 @@
           "name": "John Varvatos XX Intense For Men EDP 125ml",
           "handle": "john-varvatos-xx-intense-for-men-edp-125ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/719346262200.jpg?v=1740164001",
-          "price": 195,
+          "price": 146,
           "badge": ""
         },
         {
@@ -9703,6 +9703,56 @@
       ]
     },
     {
+      "name": "Attar Collection",
+      "slug": "attar-collection",
+      "count": 24,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/kashmir-removebg-preview.png?v=1784978750",
+      "preview": [
+        {
+          "name": "Attar Collection Musk Kashmir Extrait de Parfum For Men And Women Musky 80ml",
+          "handle": "attar-collection-musk-kashmir-extrait-de-parfum-for-men-and-women-musky-80ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/kashmir-removebg-preview.png?v=1784978750",
+          "price": 704,
+          "badge": ""
+        },
+        {
+          "name": "Attar Collection Second Skin Extrait de Parfum For Men And Women Musky 80ml",
+          "handle": "attar-collection-second-skin-extrait-de-parfum-for-men-and-women-musky-80ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/second_skin-removebg.png?v=1784460984",
+          "price": 640,
+          "badge": ""
+        },
+        {
+          "name": "Attar Collection Idol Extrait de Parfum For Men And Women Floral 80ml",
+          "handle": "attar-collection-idol-extrait-de-parfum-for-men-and-women-floral-80ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/idol-removebg.png?v=1784460530",
+          "price": 640,
+          "badge": ""
+        },
+        {
+          "name": "Attar Collection Duna Secrets Extrait de Parfum For Men And Women Floral 80ml",
+          "handle": "attar-collection-duna-secrets-extrait-de-parfum-for-men-and-women-floral-80ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/dunesecrets-removebg.png?v=1784459577",
+          "price": 640,
+          "badge": ""
+        },
+        {
+          "name": "Attar Collection Oro Nero Limited Edition Eau de Parfum For Men And Women Amber 100ml",
+          "handle": "attar-collection-oro-nero-limited-edition-eau-de-parfum-for-men-and-women-amber-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/oroneroo.png?v=1783496175",
+          "price": 463,
+          "badge": ""
+        },
+        {
+          "name": "Attar Collection Monolith Eau de Parfum For Men And Women Woody 100ml",
+          "handle": "attar-collection-monolith-eau-de-parfum-for-men-and-women-woody-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/monolith.png?v=1783495690",
+          "price": 463,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Electimuss",
       "slug": "electimuss",
       "count": 24,
@@ -9783,7 +9833,7 @@
           "name": "Arabiyat Prestige Uhud Eau De Parfum For Unisex - Oriental Vanilla Perfume 100ml",
           "handle": "arabiyat-prestige-uhud-eau-de-parfum-for-unisex-oriental-vanilla-perfume-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Arabiyat_Prestige_Uhud_Eau_de_Parfum_100ml_Image_1_png.webp?v=1766249677",
-          "price": 158,
+          "price": 155,
           "badge": ""
         },
         {
@@ -10148,56 +10198,6 @@
           "handle": "orlov-paris-red-shield-perfume-for-unisex-edp-75ml-refillable",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/OrlovParisRedShield_U_Edp75MlRefillable.jpg?v=1656313811",
           "price": 278,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Attar Collection",
-      "slug": "attar-collection",
-      "count": 23,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/second_skin-removebg.png?v=1784460984",
-      "preview": [
-        {
-          "name": "Attar Collection Second Skin Extrait de Parfum For Men And Women Musky 80ml",
-          "handle": "attar-collection-second-skin-extrait-de-parfum-for-men-and-women-musky-80ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/second_skin-removebg.png?v=1784460984",
-          "price": 640,
-          "badge": ""
-        },
-        {
-          "name": "Attar Collection Idol Extrait de Parfum For Men And Women Floral 80ml",
-          "handle": "attar-collection-idol-extrait-de-parfum-for-men-and-women-floral-80ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/idol-removebg.png?v=1784460530",
-          "price": 640,
-          "badge": ""
-        },
-        {
-          "name": "Attar Collection Duna Secrets Extrait de Parfum For Men And Women Floral 80ml",
-          "handle": "attar-collection-duna-secrets-extrait-de-parfum-for-men-and-women-floral-80ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/dunesecrets-removebg.png?v=1784459577",
-          "price": 640,
-          "badge": ""
-        },
-        {
-          "name": "Attar Collection Oro Nero Limited Edition Eau de Parfum For Men And Women Amber 100ml",
-          "handle": "attar-collection-oro-nero-limited-edition-eau-de-parfum-for-men-and-women-amber-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/oroneroo.png?v=1783496175",
-          "price": 463,
-          "badge": ""
-        },
-        {
-          "name": "Attar Collection Monolith Eau de Parfum For Men And Women Woody 100ml",
-          "handle": "attar-collection-monolith-eau-de-parfum-for-men-and-women-woody-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/monolith.png?v=1783495690",
-          "price": 463,
-          "badge": ""
-        },
-        {
-          "name": "Attar Collection Sierra For Unisex EDP 100ml",
-          "handle": "attar-collection-sierra-for-unisex-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/6297001637104_1_9bf592f7-b9df-4fbe-8c20-78634f723a9d.jpg?v=1745411292",
-          "price": 426,
           "badge": ""
         }
       ]
@@ -11303,56 +11303,6 @@
       ]
     },
     {
-      "name": "Carrera",
-      "slug": "carrera",
-      "count": 21,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/image.jpg?v=1752695974",
-      "preview": [
-        {
-          "name": "Speed Extreme Sport By Carrera Deodorant For Men 200ml",
-          "handle": "speed-extreme-sport-by-carrera-deodorant-for-men-200ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/image.jpg?v=1752695974",
-          "price": 12,
-          "badge": ""
-        },
-        {
-          "name": "Carrera Pour Homme Perfume for Men Bundle Offer - 2 Pieces,100ml",
-          "handle": "carrera-pour-home-bundle-perfume-for-men-2-pieces-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/CarreraPourHomeBundleOffer.jpg?v=1726062024",
-          "price": 54,
-          "badge": "SALE"
-        },
-        {
-          "name": "Carrera Speed Extreme Oud  200ml Deo Spray For Unisex",
-          "handle": "carrera-speed-extreme-oud-200ml-deo-spray-for-unisex",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/6.jpg?v=1721646122",
-          "price": 12,
-          "badge": ""
-        },
-        {
-          "name": "Carrera Master Perfume For Men EDT 100ml",
-          "handle": "carrera-master-perfume-for-men-edt-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/CarreraMasterEDT100ml.jpg?v=1688281474",
-          "price": 52,
-          "badge": ""
-        },
-        {
-          "name": "Carrera Master Bath Collection Set Pour Homme, Eau de Toilette 100ml + After Shave Balm 100ml + Shower Gel 200 ml",
-          "handle": "carrera-master-bath-collection-set-pour-homme-eau-de-toilette-100ml-after-shave-balm-100ml-shower-gel-200-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/618131008651-500x500.jpg?v=1624538887",
-          "price": 53,
-          "badge": ""
-        },
-        {
-          "name": "CARRERA JEANS 770 ORIGINAL DONNA FOR WOMEN SET EDP 75 ml+PERFUMED BODY LOTION 50 ml + BATH & SHOWER CREAM 50 ml",
-          "handle": "carrera-jeans-770-original-donna-for-women-set-edp-75-ml-perfumed-body-lotion-50-ml-bath-shower-cream-50-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/a8zjwbawqoxru9dcn3exdasrxpf1dohxup96qo0m.jpg?v=1624534483",
-          "price": 64,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Reyane Tradition",
       "slug": "reyane-tradition",
       "count": 21,
@@ -11948,6 +11898,56 @@
           "handle": "zarkoperfume-quantum-molecule-perfume-for-unisex-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ZarkoperfumeQuantumMolecule_U_Edp100Ml.jpg?v=1704198565",
           "price": 364,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Carrera",
+      "slug": "carrera",
+      "count": 20,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/image.jpg?v=1752695974",
+      "preview": [
+        {
+          "name": "Speed Extreme Sport By Carrera Deodorant For Men 200ml",
+          "handle": "speed-extreme-sport-by-carrera-deodorant-for-men-200ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/image.jpg?v=1752695974",
+          "price": 12,
+          "badge": ""
+        },
+        {
+          "name": "Carrera Pour Homme Perfume for Men Bundle Offer - 2 Pieces,100ml",
+          "handle": "carrera-pour-home-bundle-perfume-for-men-2-pieces-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/CarreraPourHomeBundleOffer.jpg?v=1726062024",
+          "price": 54,
+          "badge": "SALE"
+        },
+        {
+          "name": "Carrera Speed Extreme Oud  200ml Deo Spray For Unisex",
+          "handle": "carrera-speed-extreme-oud-200ml-deo-spray-for-unisex",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/6.jpg?v=1721646122",
+          "price": 12,
+          "badge": ""
+        },
+        {
+          "name": "Carrera Master Perfume For Men EDT 100ml",
+          "handle": "carrera-master-perfume-for-men-edt-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/CarreraMasterEDT100ml.jpg?v=1688281474",
+          "price": 52,
+          "badge": ""
+        },
+        {
+          "name": "Carrera Master Bath Collection Set Pour Homme, Eau de Toilette 100ml + After Shave Balm 100ml + Shower Gel 200 ml",
+          "handle": "carrera-master-bath-collection-set-pour-homme-eau-de-toilette-100ml-after-shave-balm-100ml-shower-gel-200-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/618131008651-500x500.jpg?v=1624538887",
+          "price": 53,
+          "badge": ""
+        },
+        {
+          "name": "CARRERA JEANS 770 ORIGINAL DONNA FOR WOMEN SET EDP 75 ml+PERFUMED BODY LOTION 50 ml + BATH & SHOWER CREAM 50 ml",
+          "handle": "carrera-jeans-770-original-donna-for-women-set-edp-75-ml-perfumed-body-lotion-50-ml-bath-shower-cream-50-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/a8zjwbawqoxru9dcn3exdasrxpf1dohxup96qo0m.jpg?v=1624534483",
+          "price": 64,
           "badge": ""
         }
       ]
@@ -12903,56 +12903,6 @@
       ]
     },
     {
-      "name": "Misk Al Ghazaal",
-      "slug": "misk-al-ghazaal",
-      "count": 19,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/Dukhoonak-Shy_044c8b9c-4291-4951-9ca6-ebc8c85ff829.jpg?v=1632150538",
-      "preview": [
-        {
-          "name": "Misk Al Ghazaal Dukhoonak Shy Bakhoor 80gm",
-          "handle": "misk-al-ghazaal-dukhoonak-shy-bakhoor-80gm",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/Dukhoonak-Shy_044c8b9c-4291-4951-9ca6-ebc8c85ff829.jpg?v=1632150538",
-          "price": 143,
-          "badge": ""
-        },
-        {
-          "name": "Misk Al Ghazaal Dukhoonak Big Boss Bakhoor 80gm",
-          "handle": "misk-al-ghazaal-dukhoonak-big-boss-bakhoor-80gm",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/Dukhoonak-Big-Boss.jpg?v=1632148034",
-          "price": 135,
-          "badge": ""
-        },
-        {
-          "name": "Misk Al Ghazaal Anfasic Al Ward Dukhoon, Bakhoor Incense  Tablets, 100gms",
-          "handle": "misk-al-ghazaal-anfasic-al-ward-dukhoon-bakhoor-incense-tablets-100gms",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/anfasic-al-ward.jpg?v=1624927932",
-          "price": 160,
-          "badge": ""
-        },
-        {
-          "name": "Misk Al Barari Perfume for Men and Women EDP 50ml",
-          "handle": "misk-al-barari-perfume-for-men-and-women-edp-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/misk-al-barari.jpg?v=1624472459",
-          "price": 198,
-          "badge": ""
-        },
-        {
-          "name": "Misk Al Ghazaal Petales  for Unisex EDP 50ml",
-          "handle": "misk-al-ghazaal-petales-for-unisex-edp-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/71c0rh3bwkl._sl1300.jpg?v=1624448557",
-          "price": 207,
-          "badge": ""
-        },
-        {
-          "name": "Misk Al Ghazaal Dukhoon Misk Al Ghazaal, Bakhoor, Incense Tablets, 100gms",
-          "handle": "misk-al-ghazaal-dukhoon-misk-al-ghazaal-bakhoor-incense-tablets-100gms",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/misk-al-ghazaal-bottle.jpg?v=1624402037",
-          "price": 198,
-          "badge": "SALE"
-        }
-      ]
-    },
-    {
       "name": "Matiere Premiere",
       "slug": "matiere-premiere",
       "count": 18,
@@ -13353,6 +13303,56 @@
       ]
     },
     {
+      "name": "Misk Al Ghazaal",
+      "slug": "misk-al-ghazaal",
+      "count": 18,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/Dukhoonak-Shy_044c8b9c-4291-4951-9ca6-ebc8c85ff829.jpg?v=1632150538",
+      "preview": [
+        {
+          "name": "Misk Al Ghazaal Dukhoonak Shy Bakhoor 80gm",
+          "handle": "misk-al-ghazaal-dukhoonak-shy-bakhoor-80gm",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/Dukhoonak-Shy_044c8b9c-4291-4951-9ca6-ebc8c85ff829.jpg?v=1632150538",
+          "price": 143,
+          "badge": ""
+        },
+        {
+          "name": "Misk Al Ghazaal Dukhoonak Big Boss Bakhoor 80gm",
+          "handle": "misk-al-ghazaal-dukhoonak-big-boss-bakhoor-80gm",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/Dukhoonak-Big-Boss.jpg?v=1632148034",
+          "price": 135,
+          "badge": ""
+        },
+        {
+          "name": "Misk Al Ghazaal Anfasic Al Ward Dukhoon, Bakhoor Incense  Tablets, 100gms",
+          "handle": "misk-al-ghazaal-anfasic-al-ward-dukhoon-bakhoor-incense-tablets-100gms",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/anfasic-al-ward.jpg?v=1624927932",
+          "price": 160,
+          "badge": ""
+        },
+        {
+          "name": "Misk Al Barari Perfume for Men and Women EDP 50ml",
+          "handle": "misk-al-barari-perfume-for-men-and-women-edp-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/misk-al-barari.jpg?v=1624472459",
+          "price": 198,
+          "badge": ""
+        },
+        {
+          "name": "Misk Al Ghazaal Petales  for Unisex EDP 50ml",
+          "handle": "misk-al-ghazaal-petales-for-unisex-edp-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/71c0rh3bwkl._sl1300.jpg?v=1624448557",
+          "price": 207,
+          "badge": ""
+        },
+        {
+          "name": "Misk Al Ghazaal Dukhoon Misk Al Ghazaal, Bakhoor, Incense Tablets, 100gms",
+          "handle": "misk-al-ghazaal-dukhoon-misk-al-ghazaal-bakhoor-incense-tablets-100gms",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/misk-al-ghazaal-bottle.jpg?v=1624402037",
+          "price": 198,
+          "badge": "SALE"
+        }
+      ]
+    },
+    {
       "name": "Angel Schlesser",
       "slug": "angel-schlesser",
       "count": 18,
@@ -13498,6 +13498,56 @@
           "handle": "roberta-naughty-girl-200ml-fresh-water-scent",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/be9899456b86a1c69577be207ab4deaf.jpg?v=1624927313",
           "price": 30,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "BornToStandOut",
+      "slug": "borntostandout",
+      "count": 17,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/pure-removebg-preview.png?v=1784983768",
+      "preview": [
+        {
+          "name": "BornToStandOut Purple Stain Extrait Extrême For Men And Women 50ml",
+          "handle": "borntostandout-purple-stain-extrait-extreme-for-men-and-women-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/pure-removebg-preview.png?v=1784983768",
+          "price": 949,
+          "badge": ""
+        },
+        {
+          "name": "BornToStandOut Oud Candy Extrait Extrême For Men And Women 50ml",
+          "handle": "borntostandout-oud-candy-extrait-extreme-for-men-and-women-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/oud-removebg-preview_ed471827-342a-469a-87d9-4c26d3911899.png?v=1784983022",
+          "price": 949,
+          "badge": ""
+        },
+        {
+          "name": "BornToStandOut Fugazzi Eau de Parfum For Men And Women Woody 50ml",
+          "handle": "borntostandout-fugazzi-eau-de-parfum-for-men-and-women-woody-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/fug-removebg-preview.png?v=1784981427",
+          "price": 678,
+          "badge": ""
+        },
+        {
+          "name": "BornToStandOut Drunk Lovers Eau de Parfum For Men And Women Amber 50ml",
+          "handle": "borntostandout-drunk-lovers-eau-de-parfum-for-men-and-women-amber-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/drunk-removebg-preview_20fb69bb-8b9e-4d12-875f-37d2c5f63613.png?v=1784980922",
+          "price": 658,
+          "badge": ""
+        },
+        {
+          "name": "BornToStandOut Drunk Lovers Eau de Parfum For Men And Women Amber 100ml",
+          "handle": "borntostandout-drunk-lovers-eau-de-parfum-for-men-and-women-amber-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/drunk-removebg-preview.png?v=1784980589",
+          "price": 993,
+          "badge": ""
+        },
+        {
+          "name": "BornToStandOut Black Crème Extrait Extrême For Men And Women Gourmand 50ml",
+          "handle": "borntostandout-black-creme-extrait-extreme-for-men-and-women-gourmand-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/balck-removebg-preview.png?v=1784979979",
+          "price": 949,
           "badge": ""
         }
       ]
@@ -14053,56 +14103,6 @@
       ]
     },
     {
-      "name": "Jacques Bogart",
-      "slug": "jacques-bogart",
-      "count": 16,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/81RsFam2anL.jpg?v=1771858279",
-      "preview": [
-        {
-          "name": "Jacques Bogart One Man Show Eau De Toilette For Men - Chypre Perfume 100ml",
-          "handle": "jacques-bogart-one-man-show-eau-de-toilette-for-men-chypre-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/81RsFam2anL.jpg?v=1771858279",
-          "price": 59,
-          "badge": ""
-        },
-        {
-          "name": "Jacques Bogart Silver Scent Infinite Silver Eau De Toilette For Men - Oriental Fougere Perfume 100ml",
-          "handle": "jacques-bogart-silver-scent-infinite-silver-eau-de-toilette-for-men-oriental-fougere-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/50550d67f42e4df497bd823d3ee57fc3_001b5e9c-8fc2-42db-82c4-a1036e9f0476.jpg?v=1761386086",
-          "price": 89,
-          "badge": ""
-        },
-        {
-          "name": "Jacques Bogart Silver Scent Aqua Eau De Parfum For Men - Aromatic Aquatic Perfume 100ml",
-          "handle": "jacques-bogart-silver-scent-aqua-eau-de-parfum-for-men-aromatic-aquatic-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/e6e621265e178aff825794028c6c8aa314dee769_b1ae978c-0b34-4bd7-af63-front.jpg?v=1761367196",
-          "price": 86,
-          "badge": ""
-        },
-        {
-          "name": "Jacques Bogart Silver Scent Intense Body Spray For Men 200ml",
-          "handle": "jacques-bogart-silver-scent-intense-body-spray-for-men-200ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/JacquesBogartSilverScentIntense_M_BodySpray200Ml.jpg?v=1649495117",
-          "price": 22,
-          "badge": "SALE"
-        },
-        {
-          "name": "Jacques Bogart Silver Scent Body Spray For Men 200ml",
-          "handle": "jacques-bogart-silver-scent-body-spray-for-men-200ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/JacquesBogartSilverScent_M_BodySpray200Ml.jpg?v=1649494844",
-          "price": 20,
-          "badge": "SALE"
-        },
-        {
-          "name": "Jacques Bogart One Man Show Emerald Edition for Men EDT 100 ml",
-          "handle": "jacques-bogart-one-man-show-emerald-edition-for-men-edt-100-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/JacquesBogartOneManShowEmeraldEditionforMenEDT100ml.jpg?v=1630992313",
-          "price": 62,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "La Manufacture",
       "slug": "la-manufacture",
       "count": 16,
@@ -14648,6 +14648,56 @@
           "handle": "argos-triumph-of-bacchus-perfume-for-unisex-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ArgosTriumphOfBacchus_U_Edp100Ml.jpg?v=1701174257",
           "price": 1084,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Jacques Bogart",
+      "slug": "jacques-bogart",
+      "count": 15,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/81RsFam2anL.jpg?v=1771858279",
+      "preview": [
+        {
+          "name": "Jacques Bogart One Man Show Eau De Toilette For Men - Chypre Perfume 100ml",
+          "handle": "jacques-bogart-one-man-show-eau-de-toilette-for-men-chypre-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/81RsFam2anL.jpg?v=1771858279",
+          "price": 59,
+          "badge": ""
+        },
+        {
+          "name": "Jacques Bogart Silver Scent Infinite Silver Eau De Toilette For Men - Oriental Fougere Perfume 100ml",
+          "handle": "jacques-bogart-silver-scent-infinite-silver-eau-de-toilette-for-men-oriental-fougere-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/50550d67f42e4df497bd823d3ee57fc3_001b5e9c-8fc2-42db-82c4-a1036e9f0476.jpg?v=1761386086",
+          "price": 89,
+          "badge": ""
+        },
+        {
+          "name": "Jacques Bogart Silver Scent Aqua Eau De Parfum For Men - Aromatic Aquatic Perfume 100ml",
+          "handle": "jacques-bogart-silver-scent-aqua-eau-de-parfum-for-men-aromatic-aquatic-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/e6e621265e178aff825794028c6c8aa314dee769_b1ae978c-0b34-4bd7-af63-front.jpg?v=1761367196",
+          "price": 86,
+          "badge": ""
+        },
+        {
+          "name": "Jacques Bogart Silver Scent Intense Body Spray For Men 200ml",
+          "handle": "jacques-bogart-silver-scent-intense-body-spray-for-men-200ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/JacquesBogartSilverScentIntense_M_BodySpray200Ml.jpg?v=1649495117",
+          "price": 22,
+          "badge": "SALE"
+        },
+        {
+          "name": "Jacques Bogart Silver Scent Body Spray For Men 200ml",
+          "handle": "jacques-bogart-silver-scent-body-spray-for-men-200ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/JacquesBogartSilverScent_M_BodySpray200Ml.jpg?v=1649494844",
+          "price": 20,
+          "badge": "SALE"
+        },
+        {
+          "name": "Jacques Bogart One Man Show Emerald Edition for Men EDT 100 ml",
+          "handle": "jacques-bogart-one-man-show-emerald-edition-for-men-edt-100-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/JacquesBogartOneManShowEmeraldEditionforMenEDT100ml.jpg?v=1630992313",
+          "price": 62,
           "badge": ""
         }
       ]
@@ -15803,56 +15853,6 @@
       ]
     },
     {
-      "name": "Ulric De Varens",
-      "slug": "ulric-de-varens",
-      "count": 14,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/UDV_Varens_Homme_Paris_Silver_100ml.jpg?v=1661587951",
-      "preview": [
-        {
-          "name": "Ulric De Varens Homme Edition limitee Silver EDT For Men 100ml",
-          "handle": "ulric-de-varens-homme-edition-limitee-silver-edt-for-men-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/UDV_Varens_Homme_Paris_Silver_100ml.jpg?v=1661587951",
-          "price": 25,
-          "badge": ""
-        },
-        {
-          "name": "UDV Lovely W Edp 75ml",
-          "handle": "udv-lovely-w-edp-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/udv_lovely_w_edp_75ml_spy.jpg?v=1624498028",
-          "price": 42,
-          "badge": ""
-        },
-        {
-          "name": "UDV Miss Varens Fashion for Women Edp 75ml",
-          "handle": "udv-miss-varens-fashion-for-women-edp-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/61rwrokf-pl._sl1000.jpg?v=1624483234",
-          "price": 47,
-          "badge": ""
-        },
-        {
-          "name": "Ulric De Varens Pour Elle Edp 75 ml For Women",
-          "handle": "ulric-de-varens-pour-elle-edp-75-ml-for-women",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ulric_de_varens_pour_elle_edp_75_ml.jpg?v=1624453161",
-          "price": 39,
-          "badge": ""
-        },
-        {
-          "name": "Ulric De Varens I Love You Edp 75 ml For Women.",
-          "handle": "ulric-de-varens-i-love-you-edp-75-ml-for-women",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ulric_de_varens_i_love_you_edp_75_ml.jpg?v=1624453142",
-          "price": 28,
-          "badge": ""
-        },
-        {
-          "name": "UDV Miss Varens Women EDP 75ml Perfume",
-          "handle": "udv-miss-varens-women-edp-75ml-perfume",
-          "img": null,
-          "price": 41,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "SYLVAINE DELACOURTE",
       "slug": "sylvaine-delacourte",
       "count": 14,
@@ -16548,6 +16548,56 @@
           "handle": "orientica-luxury-collection-velvet-gold-gift-set-for-women",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/OrienticaLuxuryCollectionVelvetGold_W_SetEdp80Ml_Edp7.5Ml_AtomizerSpray_Bag.webp?v=1694011258",
           "price": 407,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Ulric De Varens",
+      "slug": "ulric-de-varens",
+      "count": 13,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/UDV_Varens_Homme_Paris_Silver_100ml.jpg?v=1661587951",
+      "preview": [
+        {
+          "name": "Ulric De Varens Homme Edition limitee Silver EDT For Men 100ml",
+          "handle": "ulric-de-varens-homme-edition-limitee-silver-edt-for-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/UDV_Varens_Homme_Paris_Silver_100ml.jpg?v=1661587951",
+          "price": 25,
+          "badge": ""
+        },
+        {
+          "name": "UDV Lovely W Edp 75ml",
+          "handle": "udv-lovely-w-edp-75ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/udv_lovely_w_edp_75ml_spy.jpg?v=1624498028",
+          "price": 42,
+          "badge": ""
+        },
+        {
+          "name": "UDV Miss Varens Fashion for Women Edp 75ml",
+          "handle": "udv-miss-varens-fashion-for-women-edp-75ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/61rwrokf-pl._sl1000.jpg?v=1624483234",
+          "price": 47,
+          "badge": ""
+        },
+        {
+          "name": "Ulric De Varens Pour Elle Edp 75 ml For Women",
+          "handle": "ulric-de-varens-pour-elle-edp-75-ml-for-women",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ulric_de_varens_pour_elle_edp_75_ml.jpg?v=1624453161",
+          "price": 39,
+          "badge": ""
+        },
+        {
+          "name": "Ulric De Varens I Love You Edp 75 ml For Women.",
+          "handle": "ulric-de-varens-i-love-you-edp-75-ml-for-women",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ulric_de_varens_i_love_you_edp_75_ml.jpg?v=1624453142",
+          "price": 28,
+          "badge": ""
+        },
+        {
+          "name": "UDV Miss Varens Women EDP 75ml Perfume",
+          "handle": "udv-miss-varens-women-edp-75ml-perfume",
+          "img": null,
+          "price": 41,
           "badge": ""
         }
       ]
@@ -17653,56 +17703,6 @@
       ]
     },
     {
-      "name": "BornToStandOut",
-      "slug": "borntostandout",
-      "count": 11,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/8809840212121_20250428131300.jpg?v=1772029427",
-      "preview": [
-        {
-          "name": "Borntostandout Black Mango Extrait Extreme For Unisex -  Oriental Woody Perfume 50ml",
-          "handle": "borntostandout-black-mango-extrait-extreme-for-unisex-oriental-woody-perfume-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/8809840212121_20250428131300.jpg?v=1772029427",
-          "price": 814,
-          "badge": ""
-        },
-        {
-          "name": "Borntostandout Black Karak Extrait Extreme For Unisex - Oriental Woody Perfume 50ml",
-          "handle": "borntostandout-black-karak-extrait-extreme-for-unisex-oriental-woody-perfume-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/8809840212893_1.jpg?v=1772028917",
-          "price": 759,
-          "badge": ""
-        },
-        {
-          "name": "Borntostandout Black Guava Extrait Extreme For Unisex - Oriental Floral Perfume 50ml",
-          "handle": "borntostandout-black-guava-extrait-extreme-for-unisex-oriental-floral-perfume-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/8809840212145_20250428131300.jpg?v=1772023052",
-          "price": 759,
-          "badge": ""
-        },
-        {
-          "name": "BornToStandOut Warm Air Eau Intimité Perfume For Men And Women Clean 100ml",
-          "handle": "borntostandout-musc-eau-intimite-perfume-for-men-and-women-clean-100ml-1",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/warm.avif?v=1771441598",
-          "price": 608,
-          "badge": ""
-        },
-        {
-          "name": "BornToStandOut Naked Laundry Edp For Men And Women Fresh 50ml",
-          "handle": "borntostandout-naked-laundry-edp-for-men-and-women-fresh-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/naked.webp?v=1771441058",
-          "price": 628,
-          "badge": ""
-        },
-        {
-          "name": "BornToStandOut Musc Eau Intimité Perfume For Men And Women Clean 100ml",
-          "handle": "borntostandout-musc-eau-intimite-perfume-for-men-and-women-clean-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/musc-removebg-preview.png?v=1771440806",
-          "price": 608,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "BRIONI",
       "slug": "brioni",
       "count": 11,
@@ -18219,7 +18219,7 @@
           "name": "Billie Eilish Gift Set For Men And Women Woody",
           "handle": "billie-eilish-gift-set-for-men-and-women-woody",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/yourr-removebg-preview.png?v=1784820914",
-          "price": 273,
+          "price": 259,
           "badge": ""
         },
         {
@@ -27721,14 +27721,14 @@
           "name": "Jovoy Psychedelique Edp For Men And Women Patchouli 75ml",
           "handle": "jovoy-psychedelique-edp-for-men-and-women-patchouli-75ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/jovoyyyy.avif?v=1776527561",
-          "price": 589,
+          "price": 540,
           "badge": ""
         },
         {
           "name": "Jovoy Private Label Edp For Men And Women Woody 100ml",
           "handle": "jovoy-private-label-edp-for-men-and-women-woody-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/jovoy.avif?v=1776527206",
-          "price": 589,
+          "price": 540,
           "badge": ""
         }
       ]
@@ -31491,7 +31491,7 @@
           "name": "Coty Aspen Perfume For Men EDC 118ml",
           "handle": "coty-aspen-edc-perfume-for-men-118ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/CotyAspenEDCM118ml.webp?v=1698157105",
-          "price": 52,
+          "price": 50,
           "badge": ""
         }
       ]
