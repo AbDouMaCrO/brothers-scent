@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T17:34:17.617Z",
+  "generated_at": "2026-07-25T18:37:07.850Z",
   "total_brands": 887,
   "brands": [
     {
@@ -1605,7 +1605,7 @@
     {
       "name": "Amouage",
       "slug": "amouage",
-      "count": 188,
+      "count": 181,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/OUTLANDS-removebg.png?v=1784453238",
       "preview": [
         {
@@ -13453,6 +13453,56 @@
       ]
     },
     {
+      "name": "jovoy",
+      "slug": "jovoy",
+      "count": 17,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/assian-removebg-preview.png?v=1785003428",
+      "preview": [
+        {
+          "name": "Jovoy Paris Rouge Assassin Eau de Parfum For Men And Women Powdery 75ml",
+          "handle": "jovoy-paris-rouge-assassin-eau-de-parfum-for-men-and-women-powdery-75ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/assian-removebg-preview.png?v=1785003428",
+          "price": 522,
+          "badge": ""
+        },
+        {
+          "name": "Jovoy Paris Remember Me Eau de Parfum For Men And Women Amber 75ml",
+          "handle": "jovoy-paris-remember-me-eau-de-parfum-for-men-and-women-amber-75ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/mee-removebg-preview.png?v=1785003175",
+          "price": 540,
+          "badge": ""
+        },
+        {
+          "name": "Jovoy Paris Private Label Eau de Parfum For Men And Women Woody 75ml",
+          "handle": "jovoy-paris-private-label-eau-de-parfum-for-men-and-women-woody-75ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/label-removebg-preview.png?v=1785002892",
+          "price": 522,
+          "badge": ""
+        },
+        {
+          "name": "Jovoy Paris Pavillon Rouge Edp For Men And Women Amber 75ml",
+          "handle": "jovoy-paris-pavillon-rouge-edp-for-men-and-women-amber-75ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rougeeeee-removebg-preview.png?v=1785002391",
+          "price": 522,
+          "badge": ""
+        },
+        {
+          "name": "Jovoy Paris L'Art de la Guerre Eau de Parfum For Men And Women Woody 75ml",
+          "handle": "jovoy-paris-lart-de-la-guerre-eau-de-parfum-for-men-and-women-woody-75ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/gu-removebg-preview.png?v=1785001964",
+          "price": 522,
+          "badge": ""
+        },
+        {
+          "name": "Jovoy Paris L'Arbre de la Connaissance Eau de Parfum For Men And Women Woody 75ml",
+          "handle": "jovoy-paris-larbre-de-la-connaissance-eau-de-parfum-for-men-and-women-woody-75ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/la-removebg-preview.png?v=1785001555",
+          "price": 522,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "BornToStandOut",
       "slug": "borntostandout",
       "count": 17,
@@ -18099,56 +18149,6 @@
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/orchid-brown-1.jpg?v=1624401090",
           "price": 10,
           "badge": "SALE"
-        }
-      ]
-    },
-    {
-      "name": "jovoy",
-      "slug": "jovoy",
-      "count": 10,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/in-removebg-preview.png?v=1784999778",
-      "preview": [
-        {
-          "name": "Jovoy Paris Incident Diplomatique Eau de Parfum For Men And Women Woody 75ml",
-          "handle": "jovoy-paris-incident-diplomatique-eau-de-parfum-for-men-and-women-woody-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/in-removebg-preview.png?v=1784999778",
-          "price": 522,
-          "badge": ""
-        },
-        {
-          "name": "Jovoy Paris Ha Long Bay Eau de Parfum For Men And Women Marine 75ml",
-          "handle": "jovoy-paris-ha-long-bay-eau-de-parfum-for-men-and-women-marine-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ha-removebg-preview.png?v=1784998920",
-          "price": 549,
-          "badge": ""
-        },
-        {
-          "name": "Jovoy Paris Gardez Moi Eau de Parfum For Men And Women Floral 75ml",
-          "handle": "jovoy-paris-gardez-moi-eau-de-parfum-for-men-and-women-floral-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/moi-removebg-preview.png?v=1784998554",
-          "price": 522,
-          "badge": ""
-        },
-        {
-          "name": "Jovoy Paris Fire At Will Eau de Parfum For Men And Women Gourmand 75ml",
-          "handle": "jovoy-paris-fire-at-will-eau-de-parfum-for-men-and-women-gourmand-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/fire_bottle-removebg-preview.png?v=1784998119",
-          "price": 567,
-          "badge": ""
-        },
-        {
-          "name": "Jovoy Paris Touche Finale Eau de Parfum For Men And Women Woody 75ml",
-          "handle": "jovoy-paris-touche-finale-eau-de-parfum-for-men-and-women-woody-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/FINALE-removebg-preview.png?v=1784991746",
-          "price": 522,
-          "badge": ""
-        },
-        {
-          "name": "Jovoy Paris Aqua Memorabilis Eau de Parfum For Men And Women Citrus 75ml",
-          "handle": "jovoy-paris-aqua-memorabilis-eau-de-parfum-for-men-and-women-citrus-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/aqua-removebg-preview.png?v=1784991311",
-          "price": 522,
-          "badge": ""
         }
       ]
     },
