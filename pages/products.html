@@ -660,8 +660,8 @@ function loadMore() {
     renderGrid();
 }
 
-function formatDZD(n) {
-    return n ? n.toLocaleString('fr-DZ') + ' DA' : null;
+function formatUSD(n) {
+    return n ? n.toLocaleString('en-US', { style: 'currency', currency: 'USD' }) : null;
 }
 
 function renderGrid() {
@@ -708,8 +708,8 @@ function renderGrid() {
                 <p class="text-[9px] text-gold-400 font-semibold uppercase tracking-wider mb-0.5 truncate">${p.brand || ''}</p>
                 <h3 class="text-xs font-medium leading-tight mb-2 line-clamp-2">${p.name}</h3>
                 ${currentUser && !oos
-                    ? `<div class="text-[10px] text-gray-600 line-through">${formatDZD(p.price_retail) || ''}</div>
-                       <div class="text-xs font-semibold gradient-text-gold">${formatDZD(p.price_gros)}<span class="text-[9px] text-gray-500 font-normal ml-1">/pc</span></div>`
+                    ? `<div class="text-[10px] text-gray-600 line-through">${formatUSD(p.price_retail) || ''}</div>
+                       <div class="text-xs font-semibold gradient-text-gold">${formatUSD(p.price_gros)}<span class="text-[9px] text-gray-500 font-normal ml-1">/pc</span></div>`
                     : oos
                         ? `<p class="text-[10px] text-gray-600">Contact us to order</p>`
                         : `<button onclick="openAuthModal()" class="text-[10px] text-gold-400 hover:text-purple-300 transition-colors">🔒 Sign in for price</button>`
