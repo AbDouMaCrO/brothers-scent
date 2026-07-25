@@ -618,9 +618,13 @@ function filtered() {
     const brand   = document.getElementById('brandFilter').value;
     const sort    = document.getElementById('sortSelect').value;
     const showOos = document.getElementById('oosToggle').checked;
+    const euBrandsFilter = ['dior', 'chanel', 'creed', 'tom ford', 'giorgio armani', 'ysl', 'yves saint laurent', 'versace', 'initio', 'xerjoff', 'maison margiela', 'gucci', 'prada', 'hermes'];
     const q       = searchQuery.toLowerCase();
 
     let list = allProducts.filter(p => {
+        const brandName = (p.brand || '').toLowerCase();
+        const prodName  = (p.name || '').toLowerCase();
+        if (euBrandsFilter.some(b => brandName.includes(b) || prodName.includes(b))) return false;
         if (activeCat !== 'all' && p.category_slug !== activeCat) return false;
         if (brand && p.brand !== brand) return false;
         if (!showOos && (!p.stock || p.stock === 0)) return false;

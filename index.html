@@ -1182,7 +1182,7 @@ async function init() {
 
 function updateWhatsAppLinks() {
     const wa = siteSettings.whatsapp_number || '213550000000';
-    const baseMsg = encodeURIComponent('Bonjour, je souhaite commander des parfums en gros');
+    const baseMsg = encodeURIComponent('Hello, I am interested in ordering wholesale perfumes');
     document.querySelectorAll('a[href*="wa.me"]').forEach(a => {
         a.href = `https://wa.me/${wa}?text=${baseMsg}`;
     });
@@ -1191,7 +1191,9 @@ function updateWhatsAppLinks() {
 // ==================== RENDER PRODUCTS ====================
 function renderProducts() {
     const grid = document.getElementById('productsGrid');
-    const filtered = currentCat === 'all' ? products : products.filter(p => p.category_slug === currentCat);
+    const euBrandsFilter = ['dior', 'chanel', 'creed', 'tom ford', 'giorgio armani', 'ysl', 'yves saint laurent', 'versace', 'initio', 'xerjoff', 'maison margiela', 'gucci', 'prada', 'hermes'];
+    let filtered = currentCat === 'all' ? products : products.filter(p => p.category_slug === currentCat);
+    filtered = filtered.filter(p => !euBrandsFilter.some(b => (p.brand_name || '').toLowerCase().includes(b) || (p.name || '').toLowerCase().includes(b)));
     const visible = filtered.slice(0, visibleCount);
 
     if (visible.length === 0) {
@@ -1206,7 +1208,7 @@ function renderProducts() {
                 <!-- uniform placeholder — shown when no image or image fails -->
                 <div class="product-placeholder absolute inset-0 flex flex-col items-center justify-center gap-2"
                      style="background:linear-gradient(145deg,#0d0d1a 0%,#0a0a12 100%)">
-                    <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="rgba(168,85,247,0.25)" stroke-width="1.2">
+                    <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="rgba(234,179,8,0.25)" stroke-width="1.2">
                         <path d="M12 2C6 2 4 7 4 12s2 10 8 10 8-5 8-10S18 2 12 2z"/>
                         <path d="M12 6v2M12 16v2M8 12H6M18 12h-2"/>
                     </svg>

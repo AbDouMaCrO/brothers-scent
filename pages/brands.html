@@ -179,8 +179,9 @@ let allBrands = [];
 fetch('/scraper/output/brand-index.json')
     .then(r => { if (!r.ok) throw new Error('brand-index not found'); return r.json(); })
     .then(data => {
-        allBrands = data.brands;
-        document.querySelector('h1').innerHTML = `<span class="gradient-text">${data.total_brands} Brands</span> in our catalogue`;
+        const euBrandsFilter = ['dior', 'chanel', 'creed', 'tom ford', 'giorgio armani', 'ysl', 'yves saint laurent', 'versace', 'initio', 'xerjoff', 'maison margiela', 'gucci', 'prada', 'hermes'];
+        allBrands = data.brands.filter(b => !euBrandsFilter.some(eu => (b.name || '').toLowerCase().includes(eu) || (b.slug || '').toLowerCase().includes(eu)));
+        document.querySelector('h1').innerHTML = `<span class="gradient-text">${allBrands.length} Brands</span> in our catalogue`;
         render(allBrands);
     })
     .catch(err => {
@@ -201,8 +202,8 @@ function render(brands) {
 
     grid.innerHTML = brands.map(b => {
         const img = b.img
-            ? `<img src="${b.img}" alt="${b.name}" class="brand-img w-full h-full object-cover" onerror="this.parentElement.innerHTML='<div class=\'w-full h-full flex items-center justify-center\'><iconify-icon icon=\'lucide:sparkles\' width=\'28\' class=\'text-purple-800\'></iconify-icon></div>'">`
-            : `<div class="w-full h-full flex items-center justify-center"><iconify-icon icon="lucide:sparkles" width="28" class="text-purple-800"></iconify-icon></div>`;
+            ? `<img src="${b.img}" alt="${b.name}" class="brand-img w-full h-full object-cover" onerror="this.parentElement.innerHTML='<div class=\'w-full h-full flex items-center justify-center\'><iconify-icon icon=\'lucide:sparkles\' width=\'28\' class=\'text-gold-500\'></iconify-icon></div>'">`
+            : `<div class="w-full h-full flex items-center justify-center"><iconify-icon icon="lucide:sparkles" width="28" class="text-gold-500"></iconify-icon></div>`;
 
         return `
         <a href="/pages/brand-samawa.html?slug=${encodeURIComponent(b.slug)}" class="brand-card card-bg rounded-2xl overflow-hidden block">
