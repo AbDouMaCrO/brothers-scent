@@ -92,11 +92,11 @@ function seedIfEmpty() {
     const wid = cats.find(c => c.slug === 'women')?.id || '';
     const mid = cats.find(c => c.slug === 'men')?.id || '';
     DB.set('ls_products', [
-      { id: uuid(), name: 'Coco Mademoiselle EDP', brand: 'Chanel', categoryId: wid, size: '100ml', price: 89, stock: 24, badge: 'NEW', active: true, createdAt: new Date().toISOString() },
-      { id: uuid(), name: 'Miss Dior Blooming Bouquet', brand: 'Dior', categoryId: wid, size: '75ml', price: 76, stock: 18, badge: '', active: true, createdAt: new Date().toISOString() },
-      { id: uuid(), name: 'Black Opium EDP', brand: 'YSL', categoryId: wid, size: '90ml', price: 95, stock: 30, badge: '', active: true, createdAt: new Date().toISOString() },
-      { id: uuid(), name: 'Sauvage EDP', brand: 'Dior', categoryId: mid, size: '100ml', price: 110, stock: 42, badge: 'HOT', active: true, createdAt: new Date().toISOString() },
-      { id: uuid(), name: 'Oud Wood EDP', brand: 'Tom Ford', categoryId: mid, size: '50ml', price: 185, stock: 10, badge: '', active: true, createdAt: new Date().toISOString() },
+      { id: uuid(), name: 'Armaf Club de Nuit Intense', brand: 'Armaf', categoryId: wid, size: '105ml', price: 25, stock: 120, badge: 'NEW', active: true, createdAt: new Date().toISOString() },
+      { id: uuid(), name: 'Lattafa Yara', brand: 'Lattafa', categoryId: wid, size: '100ml', price: 25, stock: 180, badge: 'TRENDING', active: true, createdAt: new Date().toISOString() },
+      { id: uuid(), name: 'Lattafa Asad', brand: 'Lattafa', categoryId: mid, size: '100ml', price: 28, stock: 420, badge: 'HOT', active: true, createdAt: new Date().toISOString() },
+      { id: uuid(), name: 'Rasasi Hawas', brand: 'Rasasi', categoryId: mid, size: '100ml', price: 35, stock: 95, badge: 'HOT', active: true, createdAt: new Date().toISOString() },
+      { id: uuid(), name: 'Afnan Supremacy', brand: 'Afnan', categoryId: mid, size: '100ml', price: 30, stock: 45, badge: '', active: true, createdAt: new Date().toISOString() },
     ]);
   }
 }

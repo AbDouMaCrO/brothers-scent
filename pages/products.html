@@ -102,18 +102,18 @@
 <nav id="navbar" class="fixed top-0 left-0 right-0 z-50 glass-panel transition-all duration-300">
     <div class="max-w-7xl mx-auto px-4 md:px-6 py-3 flex items-center justify-between">
         <a href="/index.html" class="flex items-center gap-2">
-            <div class="w-9 h-9 rounded-xl bg-gradient-to-br from-purple-500 to-indigo-500 flex items-center justify-center">
+            <div class="w-9 h-9 rounded-xl bg-gradient-to-br from-gold-500 to-indigo-500 flex items-center justify-center">
                 <iconify-icon icon="lucide:droplets" width="18" class="text-white"></iconify-icon>
             </div>
             <div><span class="font-semibold text-white text-sm">BrotherScents</span></div>
         </a>
         <div class="hidden lg:flex items-center gap-8">
-            <a href="/index.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Home</a>
-            <a href="#products" class="text-sm font-medium text-purple-400">Products</a>
-            <a href="#brands" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Brands</a>
-            <a href="#services" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Services</a>
-            <a href="#about" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">About</a>
-            <a href="#contact" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Contact</a>
+            <a href="/index.html" class="text-sm font-medium text-gray-400 hover:text-gold-400 transition-colors">Home</a>
+            <a href="#products" class="text-sm font-medium text-gold-400">Products</a>
+            <a href="#brands" class="text-sm font-medium text-gray-400 hover:text-gold-400 transition-colors">Brands</a>
+            <a href="#services" class="text-sm font-medium text-gray-400 hover:text-gold-400 transition-colors">Services</a>
+            <a href="#about" class="text-sm font-medium text-gray-400 hover:text-gold-400 transition-colors">About</a>
+            <a href="#contact" class="text-sm font-medium text-gray-400 hover:text-gold-400 transition-colors">Contact</a>
         </div>
         <div class="flex items-center gap-3">
             <button id="authBtn" title="Sign in" class="relative p-2 rounded-xl hover:bg-white/5 transition-colors">
@@ -140,7 +140,7 @@
     </div>
     <div class="flex flex-col gap-4">
         <a href="/index.html" class="text-gray-400 hover:text-white py-2 transition-colors">Home</a>
-        <a href="/pages/products.html" class="text-purple-400 py-2">Products</a>
+        <a href="/pages/products.html" class="text-gold-400 py-2">Products</a>
         <a href="/pages/brands.html" class="text-gray-400 hover:text-white py-2 transition-colors">Brands</a>
         <a href="/pages/services.html" class="text-gray-400 hover:text-white py-2 transition-colors">Services</a>
         <a href="/pages/about.html" class="text-gray-400 hover:text-white py-2 transition-colors">About</a>
@@ -158,7 +158,7 @@
 <header class="pt-28 pb-12 px-4 text-center relative overflow-hidden">
     <div class="absolute inset-0 pointer-events-none" style="background:radial-gradient(ellipse 50% 60% at 50% 0%,rgba(168,85,247,0.1) 0%,transparent 70%)"></div>
     <div class="relative z-10">
-        <p class="text-xs font-semibold uppercase tracking-widest text-purple-400 mb-3">Catalogue</p>
+        <p class="text-xs font-semibold uppercase tracking-widest text-gold-400 mb-3">Catalogue</p>
         <h1 class="text-3xl md:text-5xl font-semibold tracking-tight mb-2" data-i18n="products.title">
             All <span class="gradient-text">Products</span>
         </h1>
@@ -202,7 +202,7 @@
                 <div class="relative">
                     <input id="oosToggle" type="checkbox" class="sr-only" onchange="applyFilters()" checked>
                     <div class="toggle-track w-10 h-5 rounded-full transition-colors" style="background:rgba(168,85,247,0.3)"></div>
-                    <div class="toggle-thumb absolute top-0.5 left-0.5 w-4 h-4 rounded-full bg-purple-400 transition-transform"></div>
+                    <div class="toggle-thumb absolute top-0.5 left-0.5 w-4 h-4 rounded-full bg-gold-400 transition-transform"></div>
                 </div>
             </label>
 
@@ -236,7 +236,7 @@
 
     <!-- Load more -->
     <div class="text-center mt-10">
-        <button id="loadMoreBtn" onclick="loadMore()" class="hidden px-8 py-3 rounded-xl border border-purple-500/40 text-purple-400 hover:bg-purple-500/10 transition-colors text-sm font-medium">
+        <button id="loadMoreBtn" onclick="loadMore()" class="hidden px-8 py-3 rounded-xl border border-gold-500/40 text-gold-400 hover:bg-gold-500/10 transition-colors text-sm font-medium">
             Load more
         </button>
     </div>
@@ -249,7 +249,7 @@
     <div class="absolute inset-0 bg-gradient-to-b from-transparent via-indigo-950/10 to-transparent pointer-events-none"></div>
     <div class="max-w-7xl mx-auto relative z-10">
         <div class="text-center mb-12">
-            <span class="text-xs font-semibold uppercase tracking-widest text-purple-400 mb-4 block">Browse by Brand</span>
+            <span class="text-xs font-semibold uppercase tracking-widest text-gold-400 mb-4 block">Browse by Brand</span>
             <h2 class="text-3xl md:text-5xl font-semibold tracking-tight mb-4">Top <span class="gradient-text">Brands</span></h2>
             <p class="text-gray-400 max-w-xl mx-auto text-sm">893 brands in our catalogue — from Lattafa and Armaf to Dior and Chanel.</p>
         </div>
@@ -262,7 +262,7 @@
             <div class="skeleton rounded-2xl h-32"></div>
         </div>
         <div class="text-center">
-            <a href="/pages/brands.html" class="inline-flex items-center gap-2 glass-panel px-8 py-3 rounded-xl text-sm font-semibold hover:border-purple-500/40 transition-colors">
+            <a href="/pages/brands.html" class="inline-flex items-center gap-2 glass-panel px-8 py-3 rounded-xl text-sm font-semibold hover:border-gold-500/40 transition-colors">
                 View all 893 brands <iconify-icon icon="lucide:arrow-right" width="14"></iconify-icon>
             </a>
         </div>
@@ -277,73 +277,73 @@
 <section id="services" class="py-24 px-4 relative">
     <div class="max-w-7xl mx-auto">
         <div class="text-center mb-16">
-            <span class="text-xs font-semibold uppercase tracking-widest text-purple-400 mb-4 block">Wholesale Tiers</span>
+            <span class="text-xs font-semibold uppercase tracking-widest text-gold-400 mb-4 block">Wholesale Tiers</span>
             <h2 class="text-3xl md:text-5xl font-semibold tracking-tight mb-4">Our <span class="gradient-text">Services</span></h2>
             <p class="text-gray-400 max-w-xl mx-auto text-sm">Competitive wholesale pricing across GCC with fast dispatch and full authenticity guarantee.</p>
         </div>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-16">
             <!-- Starter -->
             <div class="card-bg rounded-2xl p-8">
-                <div class="w-12 h-12 rounded-xl bg-purple-500/10 flex items-center justify-center mb-5">
-                    <iconify-icon icon="lucide:package" width="22" class="text-purple-400"></iconify-icon>
+                <div class="w-12 h-12 rounded-xl bg-gold-500/10 flex items-center justify-center mb-5">
+                    <iconify-icon icon="lucide:package" width="22" class="text-gold-400"></iconify-icon>
                 </div>
-                <div class="text-xs font-semibold text-purple-400 uppercase tracking-wider mb-2">Starter</div>
+                <div class="text-xs font-semibold text-gold-400 uppercase tracking-wider mb-2">Starter</div>
                 <h3 class="text-xl font-semibold mb-2">10+ Units</h3>
                 <p class="text-gray-500 text-sm leading-relaxed mb-5">Entry-level wholesale. Mix and match from our full catalogue. Perfect for small retailers and new businesses.</p>
                 <ul class="space-y-2 text-sm text-gray-400">
-                    <li class="flex items-center gap-2"><iconify-icon icon="lucide:check" width="14" class="text-purple-400"></iconify-icon> Access to full catalogue</li>
-                    <li class="flex items-center gap-2"><iconify-icon icon="lucide:check" width="14" class="text-purple-400"></iconify-icon> Standard wholesale pricing</li>
-                    <li class="flex items-center gap-2"><iconify-icon icon="lucide:check" width="14" class="text-purple-400"></iconify-icon> WhatsApp support</li>
+                    <li class="flex items-center gap-2"><iconify-icon icon="lucide:check" width="14" class="text-gold-400"></iconify-icon> Access to full catalogue</li>
+                    <li class="flex items-center gap-2"><iconify-icon icon="lucide:check" width="14" class="text-gold-400"></iconify-icon> Standard wholesale pricing</li>
+                    <li class="flex items-center gap-2"><iconify-icon icon="lucide:check" width="14" class="text-gold-400"></iconify-icon> WhatsApp support</li>
                 </ul>
             </div>
             <!-- Pro -->
-            <div class="card-bg rounded-2xl p-8 border-purple-500/30" style="border-color:rgba(168,85,247,0.3)">
-                <div class="w-12 h-12 rounded-xl bg-purple-500/20 flex items-center justify-center mb-5">
-                    <iconify-icon icon="lucide:zap" width="22" class="text-purple-400"></iconify-icon>
+            <div class="card-bg rounded-2xl p-8 border-gold-500/30" style="border-color:rgba(168,85,247,0.3)">
+                <div class="w-12 h-12 rounded-xl bg-gold-500/20 flex items-center justify-center mb-5">
+                    <iconify-icon icon="lucide:zap" width="22" class="text-gold-400"></iconify-icon>
                 </div>
-                <div class="text-xs font-semibold text-purple-400 uppercase tracking-wider mb-2">Pro</div>
+                <div class="text-xs font-semibold text-gold-400 uppercase tracking-wider mb-2">Pro</div>
                 <h3 class="text-xl font-semibold mb-2">50+ Units</h3>
                 <p class="text-gray-500 text-sm leading-relaxed mb-5">Best value for established retailers. Priority dispatch, better margins, dedicated account support.</p>
                 <ul class="space-y-2 text-sm text-gray-400">
-                    <li class="flex items-center gap-2"><iconify-icon icon="lucide:check" width="14" class="text-purple-400"></iconify-icon> Deeper wholesale pricing</li>
-                    <li class="flex items-center gap-2"><iconify-icon icon="lucide:check" width="14" class="text-purple-400"></iconify-icon> Priority dispatch</li>
-                    <li class="flex items-center gap-2"><iconify-icon icon="lucide:check" width="14" class="text-purple-400"></iconify-icon> Dedicated account manager</li>
+                    <li class="flex items-center gap-2"><iconify-icon icon="lucide:check" width="14" class="text-gold-400"></iconify-icon> Deeper wholesale pricing</li>
+                    <li class="flex items-center gap-2"><iconify-icon icon="lucide:check" width="14" class="text-gold-400"></iconify-icon> Priority dispatch</li>
+                    <li class="flex items-center gap-2"><iconify-icon icon="lucide:check" width="14" class="text-gold-400"></iconify-icon> Dedicated account manager</li>
                 </ul>
             </div>
             <!-- Enterprise -->
             <div class="card-bg rounded-2xl p-8">
-                <div class="w-12 h-12 rounded-xl bg-purple-500/10 flex items-center justify-center mb-5">
-                    <iconify-icon icon="lucide:building-2" width="22" class="text-purple-400"></iconify-icon>
+                <div class="w-12 h-12 rounded-xl bg-gold-500/10 flex items-center justify-center mb-5">
+                    <iconify-icon icon="lucide:building-2" width="22" class="text-gold-400"></iconify-icon>
                 </div>
-                <div class="text-xs font-semibold text-purple-400 uppercase tracking-wider mb-2">Enterprise</div>
+                <div class="text-xs font-semibold text-gold-400 uppercase tracking-wider mb-2">Enterprise</div>
                 <h3 class="text-xl font-semibold mb-2">Custom Volume</h3>
                 <p class="text-gray-500 text-sm leading-relaxed mb-5">For chains, distributors, and large importers. Custom pricing, exclusive SKUs, and logistics support.</p>
                 <ul class="space-y-2 text-sm text-gray-400">
-                    <li class="flex items-center gap-2"><iconify-icon icon="lucide:check" width="14" class="text-purple-400"></iconify-icon> Custom pricing</li>
-                    <li class="flex items-center gap-2"><iconify-icon icon="lucide:check" width="14" class="text-purple-400"></iconify-icon> Exclusive SKUs</li>
-                    <li class="flex items-center gap-2"><iconify-icon icon="lucide:check" width="14" class="text-purple-400"></iconify-icon> Full logistics support</li>
+                    <li class="flex items-center gap-2"><iconify-icon icon="lucide:check" width="14" class="text-gold-400"></iconify-icon> Custom pricing</li>
+                    <li class="flex items-center gap-2"><iconify-icon icon="lucide:check" width="14" class="text-gold-400"></iconify-icon> Exclusive SKUs</li>
+                    <li class="flex items-center gap-2"><iconify-icon icon="lucide:check" width="14" class="text-gold-400"></iconify-icon> Full logistics support</li>
                 </ul>
             </div>
         </div>
         <!-- Why us -->
         <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
             <div class="card-bg rounded-2xl p-5 text-center">
-                <iconify-icon icon="lucide:truck" width="22" class="text-purple-400 mx-auto mb-3"></iconify-icon>
+                <iconify-icon icon="lucide:truck" width="22" class="text-gold-400 mx-auto mb-3"></iconify-icon>
                 <div class="text-sm font-medium mb-1">Fast Dispatch</div>
                 <div class="text-xs text-gray-500">GCC-wide delivery</div>
             </div>
             <div class="card-bg rounded-2xl p-5 text-center">
-                <iconify-icon icon="lucide:shield-check" width="22" class="text-purple-400 mx-auto mb-3"></iconify-icon>
+                <iconify-icon icon="lucide:shield-check" width="22" class="text-gold-400 mx-auto mb-3"></iconify-icon>
                 <div class="text-sm font-medium mb-1">100% Authentic</div>
                 <div class="text-xs text-gray-500">Verified sources only</div>
             </div>
             <div class="card-bg rounded-2xl p-5 text-center">
-                <iconify-icon icon="lucide:banknote" width="22" class="text-purple-400 mx-auto mb-3"></iconify-icon>
+                <iconify-icon icon="lucide:banknote" width="22" class="text-gold-400 mx-auto mb-3"></iconify-icon>
                 <div class="text-sm font-medium mb-1">Best Margins</div>
                 <div class="text-xs text-gray-500">Competitive wholesale</div>
             </div>
             <div class="card-bg rounded-2xl p-5 text-center">
-                <iconify-icon icon="lucide:headphones" width="22" class="text-purple-400 mx-auto mb-3"></iconify-icon>
+                <iconify-icon icon="lucide:headphones" width="22" class="text-gold-400 mx-auto mb-3"></iconify-icon>
                 <div class="text-sm font-medium mb-1">WA Support</div>
                 <div class="text-xs text-gray-500">Response within 1hr</div>
             </div>
@@ -360,7 +360,7 @@
     <div class="max-w-6xl mx-auto">
         <div class="grid lg:grid-cols-2 gap-16 items-center">
             <div>
-                <span class="text-xs font-semibold uppercase tracking-widest text-purple-400 mb-4 block">About BrotherScents</span>
+                <span class="text-xs font-semibold uppercase tracking-widest text-gold-400 mb-4 block">About BrotherScents</span>
                 <h2 class="text-3xl md:text-5xl font-semibold tracking-tight mb-6">
                     Your Trusted <span class="gradient-text">Wholesale Partner</span>
                 </h2>
@@ -383,22 +383,22 @@
             </div>
             <div class="grid grid-cols-2 gap-4">
                 <div class="card-bg rounded-2xl p-6">
-                    <iconify-icon icon="lucide:award" width="28" class="text-purple-400 mb-4"></iconify-icon>
+                    <iconify-icon icon="lucide:award" width="28" class="text-gold-400 mb-4"></iconify-icon>
                     <h4 class="font-medium mb-2">Quality First</h4>
                     <p class="text-sm text-gray-500">Every product verified authentic before dispatch.</p>
                 </div>
                 <div class="card-bg rounded-2xl p-6">
-                    <iconify-icon icon="lucide:users" width="28" class="text-purple-400 mb-4"></iconify-icon>
+                    <iconify-icon icon="lucide:users" width="28" class="text-gold-400 mb-4"></iconify-icon>
                     <h4 class="font-medium mb-2">Retailer Focus</h4>
                     <p class="text-sm text-gray-500">Built for shop owners, not end consumers.</p>
                 </div>
                 <div class="card-bg rounded-2xl p-6">
-                    <iconify-icon icon="lucide:refresh-cw" width="28" class="text-purple-400 mb-4"></iconify-icon>
+                    <iconify-icon icon="lucide:refresh-cw" width="28" class="text-gold-400 mb-4"></iconify-icon>
                     <h4 class="font-medium mb-2">Always Stocked</h4>
                     <p class="text-sm text-gray-500">Deep inventory on fast-moving lines.</p>
                 </div>
                 <div class="card-bg rounded-2xl p-6">
-                    <iconify-icon icon="lucide:globe" width="28" class="text-purple-400 mb-4"></iconify-icon>
+                    <iconify-icon icon="lucide:globe" width="28" class="text-gold-400 mb-4"></iconify-icon>
                     <h4 class="font-medium mb-2">GCC Delivery</h4>
                     <p class="text-sm text-gray-500">Fast, reliable shipping across the Gulf.</p>
                 </div>
@@ -416,7 +416,7 @@
     <div class="max-w-6xl mx-auto">
         <div class="grid lg:grid-cols-2 gap-12">
             <div>
-                <span class="text-xs font-semibold uppercase tracking-widest text-purple-400 mb-4 block">Get in Touch</span>
+                <span class="text-xs font-semibold uppercase tracking-widest text-gold-400 mb-4 block">Get in Touch</span>
                 <h2 class="text-3xl md:text-5xl font-semibold tracking-tight mb-6">
                     Place an <span class="gradient-text">Order</span>
                 </h2>
@@ -433,8 +433,8 @@
                         <iconify-icon icon="lucide:arrow-right" width="16" class="text-gray-600 group-hover:text-green-400 ml-auto transition-colors"></iconify-icon>
                     </a>
                     <div class="flex items-center gap-4 card-bg rounded-xl p-4">
-                        <div class="w-12 h-12 rounded-xl bg-purple-500/10 flex items-center justify-center">
-                            <iconify-icon icon="lucide:mail" width="22" class="text-purple-400"></iconify-icon>
+                        <div class="w-12 h-12 rounded-xl bg-gold-500/10 flex items-center justify-center">
+                            <iconify-icon icon="lucide:mail" width="22" class="text-gold-400"></iconify-icon>
                         </div>
                         <div>
                             <div class="text-sm font-medium">Email</div>
@@ -442,8 +442,8 @@
                         </div>
                     </div>
                     <div class="flex items-center gap-4 card-bg rounded-xl p-4">
-                        <div class="w-12 h-12 rounded-xl bg-purple-500/10 flex items-center justify-center">
-                            <iconify-icon icon="lucide:map-pin" width="22" class="text-purple-400"></iconify-icon>
+                        <div class="w-12 h-12 rounded-xl bg-gold-500/10 flex items-center justify-center">
+                            <iconify-icon icon="lucide:map-pin" width="22" class="text-gold-400"></iconify-icon>
                         </div>
                         <div>
                             <div class="text-sm font-medium">Location</div>
@@ -451,8 +451,8 @@
                         </div>
                     </div>
                     <div class="flex items-center gap-4 card-bg rounded-xl p-4">
-                        <div class="w-12 h-12 rounded-xl bg-purple-500/10 flex items-center justify-center">
-                            <iconify-icon icon="lucide:clock" width="22" class="text-purple-400"></iconify-icon>
+                        <div class="w-12 h-12 rounded-xl bg-gold-500/10 flex items-center justify-center">
+                            <iconify-icon icon="lucide:clock" width="22" class="text-gold-400"></iconify-icon>
                         </div>
                         <div>
                             <div class="text-sm font-medium">Hours</div>
@@ -468,16 +468,16 @@
                     <div class="grid grid-cols-2 gap-4">
                         <div>
                             <label class="text-xs font-medium text-gray-400 mb-1.5 block">Your Name</label>
-                            <input id="iqName" type="text" placeholder="Ahmed Al Rashid" class="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-white placeholder-gray-600 focus:outline-none focus:border-purple-500/50 transition-colors">
+                            <input id="iqName" type="text" placeholder="Ahmed Al Rashid" class="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-white placeholder-gray-600 focus:outline-none focus:border-gold-500/50 transition-colors">
                         </div>
                         <div>
                             <label class="text-xs font-medium text-gray-400 mb-1.5 block">Business Name</label>
-                            <input id="iqBusiness" type="text" placeholder="Al Noor Perfumes" class="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-white placeholder-gray-600 focus:outline-none focus:border-purple-500/50 transition-colors">
+                            <input id="iqBusiness" type="text" placeholder="Al Noor Perfumes" class="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-white placeholder-gray-600 focus:outline-none focus:border-gold-500/50 transition-colors">
                         </div>
                     </div>
                     <div>
                         <label class="text-xs font-medium text-gray-400 mb-1.5 block">What are you looking for?</label>
-                        <textarea id="iqMsg" rows="4" placeholder="e.g. 50 units Lattafa Khamrah 100ml, looking for best wholesale price..." class="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-white placeholder-gray-600 focus:outline-none focus:border-purple-500/50 transition-colors resize-none"></textarea>
+                        <textarea id="iqMsg" rows="4" placeholder="e.g. 50 units Lattafa Khamrah 100ml, looking for best wholesale price..." class="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-white placeholder-gray-600 focus:outline-none focus:border-gold-500/50 transition-colors resize-none"></textarea>
                     </div>
                     <button type="submit" class="w-full flex items-center justify-center gap-2 bg-[#25D366] text-black font-semibold py-3.5 rounded-xl hover:opacity-90 transition-opacity text-sm">
                         <iconify-icon icon="ic:baseline-whatsapp" width="18"></iconify-icon>
@@ -495,17 +495,17 @@
         <div class="grid grid-cols-1 md:grid-cols-4 gap-10 mb-10">
             <div class="md:col-span-2">
                 <div class="flex items-center gap-2 mb-4">
-                    <div class="w-9 h-9 rounded-xl bg-gradient-to-br from-purple-500 to-indigo-500 flex items-center justify-center">
+                    <div class="w-9 h-9 rounded-xl bg-gradient-to-br from-gold-500 to-indigo-500 flex items-center justify-center">
                         <iconify-icon icon="lucide:droplets" width="18" class="text-white"></iconify-icon>
                     </div>
                     <span class="font-semibold text-white text-sm">BrotherScents</span>
                 </div>
                 <p class="text-sm text-gray-500 leading-relaxed max-w-sm mb-4">Your trusted wholesale fragrance partner in the GCC. 893 brands, 25,000+ SKUs, authenticated stock.</p>
                 <div class="flex items-center gap-3">
-                    <a href="https://www.instagram.com/brotherscents/" target="_blank" class="w-9 h-9 rounded-xl bg-white/5 flex items-center justify-center hover:bg-purple-500/20 transition-colors">
+                    <a href="https://www.instagram.com/brotherscents/" target="_blank" class="w-9 h-9 rounded-xl bg-white/5 flex items-center justify-center hover:bg-gold-500/20 transition-colors">
                         <iconify-icon icon="lucide:instagram" width="16" class="text-gray-400"></iconify-icon>
                     </a>
-                    <a href="https://www.tiktok.com/@brotherscents" target="_blank" class="w-9 h-9 rounded-xl bg-white/5 flex items-center justify-center hover:bg-purple-500/20 transition-colors">
+                    <a href="https://www.tiktok.com/@brotherscents" target="_blank" class="w-9 h-9 rounded-xl bg-white/5 flex items-center justify-center hover:bg-gold-500/20 transition-colors">
                         <iconify-icon icon="ic:baseline-tiktok" width="16" class="text-gray-400"></iconify-icon>
                     </a>
                     <a href="#contact" class="w-9 h-9 rounded-xl bg-white/5 flex items-center justify-center hover:bg-green-500/20 transition-colors">
@@ -516,21 +516,21 @@
             <div>
                 <h4 class="text-sm font-medium mb-4">Navigation</h4>
                 <div class="space-y-2">
-                    <a href="/index.html" class="block text-sm text-gray-500 hover:text-purple-400 transition-colors">Home</a>
-                    <a href="#products" class="block text-sm text-gray-500 hover:text-purple-400 transition-colors">Products</a>
-                    <a href="#brands" class="block text-sm text-gray-500 hover:text-purple-400 transition-colors">Brands</a>
-                    <a href="#services" class="block text-sm text-gray-500 hover:text-purple-400 transition-colors">Services</a>
-                    <a href="#about" class="block text-sm text-gray-500 hover:text-purple-400 transition-colors">About</a>
-                    <a href="#contact" class="block text-sm text-gray-500 hover:text-purple-400 transition-colors">Contact</a>
+                    <a href="/index.html" class="block text-sm text-gray-500 hover:text-gold-400 transition-colors">Home</a>
+                    <a href="#products" class="block text-sm text-gray-500 hover:text-gold-400 transition-colors">Products</a>
+                    <a href="#brands" class="block text-sm text-gray-500 hover:text-gold-400 transition-colors">Brands</a>
+                    <a href="#services" class="block text-sm text-gray-500 hover:text-gold-400 transition-colors">Services</a>
+                    <a href="#about" class="block text-sm text-gray-500 hover:text-gold-400 transition-colors">About</a>
+                    <a href="#contact" class="block text-sm text-gray-500 hover:text-gold-400 transition-colors">Contact</a>
                 </div>
             </div>
             <div>
                 <h4 class="text-sm font-medium mb-4">Resources</h4>
                 <div class="space-y-2">
-                    <a href="/blog/index.html" class="block text-sm text-gray-500 hover:text-purple-400 transition-colors">Wholesale Blog</a>
-                    <a href="/pages/faq.html" class="block text-sm text-gray-500 hover:text-purple-400 transition-colors">FAQ</a>
-                    <a href="/pages/brands.html" class="block text-sm text-gray-500 hover:text-purple-400 transition-colors">All Brands</a>
-                    <a href="/dashboard.html" class="block text-sm text-gray-500 hover:text-purple-400 transition-colors">Admin</a>
+                    <a href="/blog/index.html" class="block text-sm text-gray-500 hover:text-gold-400 transition-colors">Wholesale Blog</a>
+                    <a href="/pages/faq.html" class="block text-sm text-gray-500 hover:text-gold-400 transition-colors">FAQ</a>
+                    <a href="/pages/brands.html" class="block text-sm text-gray-500 hover:text-gold-400 transition-colors">All Brands</a>
+                    <a href="/dashboard.html" class="block text-sm text-gray-500 hover:text-gold-400 transition-colors">Admin</a>
                 </div>
             </div>
         </div>
@@ -548,10 +548,10 @@
         </div>
         <form onsubmit="handleLogin(event)" class="space-y-4">
             <input id="loginEmail" type="email" placeholder="Email" required
-                class="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 text-sm placeholder-gray-600 focus:outline-none focus:border-purple-500/60">
+                class="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 text-sm placeholder-gray-600 focus:outline-none focus:border-gold-500/60">
             <input id="loginPassword" type="password" placeholder="Password" required
-                class="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 text-sm placeholder-gray-600 focus:outline-none focus:border-purple-500/60">
-            <button type="submit" class="w-full bg-purple-600 hover:bg-purple-500 rounded-xl py-3 text-sm font-medium transition-colors">Sign In</button>
+                class="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 text-sm placeholder-gray-600 focus:outline-none focus:border-gold-500/60">
+            <button type="submit" class="w-full bg-gold-500 hover:bg-gold-500 rounded-xl py-3 text-sm font-medium transition-colors">Sign In</button>
         </form>
     </div>
 </div>
@@ -701,14 +701,14 @@ function renderGrid() {
                 <span class="absolute top-2 right-2 text-[9px] font-medium glass-panel px-2 py-0.5 rounded-lg z-10">${p.size || '100ml'}</span>
             </div>
             <div class="p-3">
-                <p class="text-[9px] text-purple-400 font-semibold uppercase tracking-wider mb-0.5 truncate">${p.brand || ''}</p>
+                <p class="text-[9px] text-gold-400 font-semibold uppercase tracking-wider mb-0.5 truncate">${p.brand || ''}</p>
                 <h3 class="text-xs font-medium leading-tight mb-2 line-clamp-2">${p.name}</h3>
                 ${currentUser && !oos
                     ? `<div class="text-[10px] text-gray-600 line-through">${formatDZD(p.price_retail) || ''}</div>
                        <div class="text-xs font-semibold gradient-text-gold">${formatDZD(p.price_gros)}<span class="text-[9px] text-gray-500 font-normal ml-1">/pc</span></div>`
                     : oos
                         ? `<p class="text-[10px] text-gray-600">Contact us to order</p>`
-                        : `<button onclick="openAuthModal()" class="text-[10px] text-purple-400 hover:text-purple-300 transition-colors">🔒 Sign in for price</button>`
+                        : `<button onclick="openAuthModal()" class="text-[10px] text-gold-400 hover:text-purple-300 transition-colors">🔒 Sign in for price</button>`
                 }
             </div>
         </div>`;
@@ -736,10 +736,10 @@ fetch('/scraper/output/brand-index.json')
         const grid = document.getElementById('brandsGrid');
         grid.innerHTML = brands.slice(0, 12).map(b => `
             <a href="/pages/brand-samawa.html?slug=${encodeURIComponent(b.slug)}"
-               class="card-bg rounded-2xl p-4 text-center hover:border-purple-500/30 transition-all hover:-translate-y-1 block">
+               class="card-bg rounded-2xl p-4 text-center hover:border-gold-500/30 transition-all hover:-translate-y-1 block">
                 ${b.img ? `<img src="${b.img}" alt="${b.name}" class="w-16 h-16 rounded-xl object-cover mx-auto mb-3">` :
-                  `<div class="w-16 h-16 rounded-xl bg-purple-500/10 flex items-center justify-center mx-auto mb-3">
-                      <iconify-icon icon="lucide:droplets" width="24" class="text-purple-400"></iconify-icon>
+                  `<div class="w-16 h-16 rounded-xl bg-gold-500/10 flex items-center justify-center mx-auto mb-3">
+                      <iconify-icon icon="lucide:droplets" width="24" class="text-gold-400"></iconify-icon>
                    </div>`}
                 <div class="text-xs font-medium truncate">${b.name}</div>
                 <div class="text-[10px] text-gray-500 mt-0.5">${b.count} products</div>

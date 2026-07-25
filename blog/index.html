@@ -31,7 +31,7 @@
         ::-webkit-scrollbar-thumb { background:#3b0764; border-radius:3px; }
         .glass-panel { background:rgba(255,255,255,0.04); backdrop-filter:blur(12px); border:1px solid rgba(255,255,255,0.08); }
         .card-bg { background:linear-gradient(180deg,rgba(255,255,255,0.04) 0%,rgba(255,255,255,0.01) 100%); border:1px solid rgba(255,255,255,0.06); }
-        .gradient-text { background:linear-gradient(to right,#e9d5ff,#a855f7,#6366f1); -webkit-background-clip:text; -webkit-text-fill-color:transparent; background-clip:text; }
+        .gradient-text { background:linear-gradient(to right,#fef08a,#eab308,#a16207); -webkit-background-clip:text; -webkit-text-fill-color:transparent; background-clip:text; }
         .gradient-divider { height:1px; background:linear-gradient(to right,transparent,#3b0764,transparent); }
         .article-card { transition:all 0.25s ease; }
         .article-card:hover { transform:translateY(-4px); border-color:rgba(168,85,247,0.3); }
@@ -64,18 +64,18 @@
 <nav id="navbar" class="fixed top-0 left-0 right-0 z-50 glass-panel transition-all duration-300">
     <div class="max-w-7xl mx-auto px-4 md:px-6 py-3 flex items-center justify-between">
         <a href="/index.html" class="flex items-center gap-2">
-            <div class="w-9 h-9 rounded-xl bg-gradient-to-br from-purple-500 to-indigo-500 flex items-center justify-center">
+            <div class="w-9 h-9 rounded-xl bg-gradient-to-br from-gold-500 to-indigo-500 flex items-center justify-center">
                 <iconify-icon icon="lucide:droplets" width="18" class="text-white"></iconify-icon>
             </div>
             <div><span class="font-semibold text-white text-sm">BrotherScents</span></div>
         </a>
         <div class="hidden lg:flex items-center gap-8">
-            <a href="/index.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Home</a>
-            <a href="/pages/products.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Products</a>
-            <a href="/pages/brands.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Brands</a>
-            <a href="/pages/services.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Services</a>
-            <a href="/pages/about.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">About</a>
-            <a href="/pages/contact.html" class="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">Contact</a>
+            <a href="/index.html" class="text-sm font-medium text-gray-400 hover:text-gold-400 transition-colors">Home</a>
+            <a href="/pages/products.html" class="text-sm font-medium text-gray-400 hover:text-gold-400 transition-colors">Products</a>
+            <a href="/pages/brands.html" class="text-sm font-medium text-gray-400 hover:text-gold-400 transition-colors">Brands</a>
+            <a href="/pages/services.html" class="text-sm font-medium text-gray-400 hover:text-gold-400 transition-colors">Services</a>
+            <a href="/pages/about.html" class="text-sm font-medium text-gray-400 hover:text-gold-400 transition-colors">About</a>
+            <a href="/pages/contact.html" class="text-sm font-medium text-gray-400 hover:text-gold-400 transition-colors">Contact</a>
         </div>
         <div class="flex items-center gap-3">
             <button id="authBtn" title="Sign in" class="relative p-2 rounded-xl hover:bg-white/5 transition-colors">
@@ -118,7 +118,7 @@
 
 <!-- Hero -->
 <section class="relative pt-28 pb-14 px-4 text-center">
-    <div class="absolute inset-0 bg-gradient-to-b from-purple-900/15 to-transparent pointer-events-none"></div>
+    <div class="absolute inset-0 bg-gradient-to-b from-yellow-900/15 to-transparent pointer-events-none"></div>
     <div class="relative z-10 max-w-3xl mx-auto">
         <div class="inline-flex items-center gap-2 glass-panel px-4 py-2 rounded-full mb-5 text-purple-300 text-sm">
             <iconify-icon icon="lucide:book-open" width="14"></iconify-icon>
@@ -152,7 +152,7 @@
 <footer class="border-t border-white/5 py-8 px-4">
     <div class="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
         <div class="flex items-center gap-2">
-            <div class="w-7 h-7 rounded-lg bg-gradient-to-br from-purple-500 to-indigo-500 flex items-center justify-center">
+            <div class="w-7 h-7 rounded-lg bg-gradient-to-br from-gold-500 to-indigo-500 flex items-center justify-center">
                 <iconify-icon icon="lucide:droplets" width="14" class="text-white"></iconify-icon>
             </div>
             <span class="font-semibold text-sm">BrotherScents</span>
@@ -163,7 +163,7 @@
 
 <script>
 const CATEGORY_COLORS = {
-    'Wholesale Guide':     'text-purple-400 bg-purple-900/30',
+    'Wholesale Guide':     'text-gold-400 bg-yellow-900/30',
     'Market Intelligence': 'text-blue-400 bg-blue-900/30',
     'Brand Spotlight':     'text-yellow-400 bg-yellow-900/30',
     'Business Guide':      'text-green-400 bg-green-900/30',
@@ -202,7 +202,7 @@ function render(articles) {
                 <p class="text-gray-400 text-xs leading-relaxed line-clamp-3 mb-4">${a.description}</p>
                 <div class="flex items-center justify-between">
                     <span class="text-[10px] text-gray-600">${new Date(a.published).toLocaleDateString('en-GB',{day:'numeric',month:'short',year:'numeric'})}</span>
-                    <span class="text-xs text-purple-400 flex items-center gap-1">Read <iconify-icon icon="lucide:arrow-right" width="11"></iconify-icon></span>
+                    <span class="text-xs text-gold-400 flex items-center gap-1">Read <iconify-icon icon="lucide:arrow-right" width="11"></iconify-icon></span>
                 </div>
             </div>
         </a>`;
