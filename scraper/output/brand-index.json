@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T15:44:42.124Z",
-  "total_brands": 887,
+  "generated_at": "2026-07-26T17:02:25.951Z",
+  "total_brands": 888,
   "brands": [
     {
       "name": "Amazing Creation",
@@ -505,7 +505,7 @@
     {
       "name": "Carolina Herrera",
       "slug": "carolina-herrera",
-      "count": 316,
+      "count": 315,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rosee-removebg-preview.png?v=1785048190",
       "preview": [
         {
@@ -31069,6 +31069,21 @@
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/arqus_roulette_uomo.jpg?v=1624397277",
           "price": 10,
           "badge": "SALE"
+        }
+      ]
+    },
+    {
+      "name": "Azha Perfumes",
+      "slug": "azha-perfumes",
+      "count": 1,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ArabianLady_1-Photoroom.png?v=1785083583",
+      "preview": [
+        {
+          "name": "Azha Arabian Lady Eau De Parfum For Women-Floral Fruity Perfume 100ml",
+          "handle": "azha-arabian-lady-eau-de-parfum-for-women-floral-fruity-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ArabianLady_1-Photoroom.png?v=1785083583",
+          "price": 54,
+          "badge": ""
         }
       ]
     },
