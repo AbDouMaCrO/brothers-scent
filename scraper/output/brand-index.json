@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T18:07:27.701Z",
+  "generated_at": "2026-07-26T19:48:34.744Z",
   "total_brands": 888,
   "brands": [
     {
@@ -505,7 +505,7 @@
     {
       "name": "Carolina Herrera",
       "slug": "carolina-herrera",
-      "count": 313,
+      "count": 311,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rosee-removebg-preview.png?v=1785048190",
       "preview": [
         {
@@ -23953,6 +23953,49 @@
       ]
     },
     {
+      "name": "Azha Perfumes",
+      "slug": "azha-perfumes",
+      "count": 5,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/61u3C4rzzIL-Photoroom.png?v=1785093068",
+      "preview": [
+        {
+          "name": "Azha Ocean Breeze for Him Eau De Parfum For Men-Citrus Aromatic Perfume 100ml",
+          "handle": "azha-ocean-breeze-for-him-eau-de-parfum-for-men-citrus-aromatic-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/61u3C4rzzIL-Photoroom.png?v=1785093068",
+          "price": 54,
+          "badge": ""
+        },
+        {
+          "name": "Azha Mountaineer for Him Eau De Parfum For Men-Woody Aromatic Perfume 100ml",
+          "handle": "azha-mountaineer-for-him-eau-de-parfum-for-men-woody-aromatic-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/1_a3a8f17d-f9f7-4fd3-8f95-97d29937acee-Photoroom.png?v=1785090583",
+          "price": 54,
+          "badge": ""
+        },
+        {
+          "name": "Azha Iceberg for Him Eau De Parfum For Men- Woody Aromatic Perfume 100ml",
+          "handle": "azha-iceberg-for-him-eau-de-parfum-for-men-woody-aromatic-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Iceberg1-Photoroom.png?v=1785086002",
+          "price": 50,
+          "badge": ""
+        },
+        {
+          "name": "Azha Island for Him Eau De Parfum For Men- Woody Amber Perfume 100ml",
+          "handle": "azha-island-for-him-eau-de-parfum-for-men-woody-amber-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Island1_1682032c-e957-421b-8d2a-64890a76ab2e-Photoroom.png?v=1785087348",
+          "price": 50,
+          "badge": ""
+        },
+        {
+          "name": "Azha Arabian Lady Eau De Parfum For Women-Floral Fruity Perfume 100ml",
+          "handle": "azha-arabian-lady-eau-de-parfum-for-women-floral-fruity-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ArabianLady_1-Photoroom.png?v=1785083583",
+          "price": 54,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "OMANLUXURY",
       "slug": "omanluxury",
       "count": 5,
@@ -27713,35 +27756,6 @@
           "handle": "georges-rech-french-story-perfume-for-women-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/069.jpg?v=1624431408",
           "price": 84,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Azha Perfumes",
-      "slug": "azha-perfumes",
-      "count": 3,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Iceberg1-Photoroom.png?v=1785086002",
-      "preview": [
-        {
-          "name": "Azha Iceberg for Him Eau De Parfum For Men- Woody Aromatic Perfume 100ml",
-          "handle": "azha-iceberg-for-him-eau-de-parfum-for-men-woody-aromatic-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Iceberg1-Photoroom.png?v=1785086002",
-          "price": 50,
-          "badge": ""
-        },
-        {
-          "name": "Azha Island for Him Eau De Parfum For Men- Woody Amber Perfume 100ml",
-          "handle": "azha-island-for-him-eau-de-parfum-for-men-woody-amber-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Island1_1682032c-e957-421b-8d2a-64890a76ab2e-Photoroom.png?v=1785087348",
-          "price": 50,
-          "badge": ""
-        },
-        {
-          "name": "Azha Arabian Lady Eau De Parfum For Women-Floral Fruity Perfume 100ml",
-          "handle": "azha-arabian-lady-eau-de-parfum-for-women-floral-fruity-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ArabianLady_1-Photoroom.png?v=1785083583",
-          "price": 54,
           "badge": ""
         }
       ]
