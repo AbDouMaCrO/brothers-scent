@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T14:32:27.383Z",
+  "generated_at": "2026-07-26T15:44:42.124Z",
   "total_brands": 887,
   "brands": [
     {
@@ -505,7 +505,7 @@
     {
       "name": "Carolina Herrera",
       "slug": "carolina-herrera",
-      "count": 317,
+      "count": 316,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rosee-removebg-preview.png?v=1785048190",
       "preview": [
         {
@@ -6353,6 +6353,56 @@
       ]
     },
     {
+      "name": "Alexandre J",
+      "slug": "alexandre-j",
+      "count": 42,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/MajesticNard1-Photoroom.png?v=1785078903",
+      "preview": [
+        {
+          "name": "Alexandre J ANC Majestic Nard Eau De Parfum For Unisex- Woody Spicy Perfume 100ml",
+          "handle": "alexandre-j-anc-majestic-nard-eau-de-parfum-for-unisex-woody-spicy-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/MajesticNard1-Photoroom.png?v=1785078903",
+          "price": 739,
+          "badge": ""
+        },
+        {
+          "name": "Alexandre J ANC Oriental Enigma Eau De Parfum For Unisex-Oriental Spicy Perfume  100ml",
+          "handle": "alexandre-j-anc-oriental-enigma-eau-de-parfum-for-unisex-oriental-spicy-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/1722244014_aj-oriental-enigma-Photoroom.png?v=1783667415",
+          "price": 739,
+          "badge": ""
+        },
+        {
+          "name": "Alexandre J Anc Ode To Rose EDP 100ml Spray For Unisex",
+          "handle": "alexandre-j-anc-ode-to-rose-edp-100ml-spy-for-unisex",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/5alexandre-j-unisex-ode-to-rose-edp-spray-338-oz-fragrances-3701278602190.jpg?v=1711590628",
+          "price": 739,
+          "badge": ""
+        },
+        {
+          "name": "Alexandre J Anc Black Beetle EDP 100ml Spray For Unisex",
+          "handle": "alexandre-j-anc-black-beetle-edp-100ml-spy-for-unisex",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3s-l1600.jpg?v=1711575557",
+          "price": 739,
+          "badge": ""
+        },
+        {
+          "name": "Alexandre J Art Nouveau Collection Imperial Peacock Perfume For Unisex EDP 100ml",
+          "handle": "alexandre-j-anc-imperial-peacock-perfume-for-unisex-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/AlexandreJANCImperialPeacockEdp100ml.jpg?v=1703868180",
+          "price": 739,
+          "badge": ""
+        },
+        {
+          "name": "Alexandre J Art Nouveau Collection Oriental Enigma Perfume For Unisex EDP 100ml",
+          "handle": "alexandre-j-art-nouveau-collection-oriental-enigma-perfume-for-unisex-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/AlexandreJArtNouveauCollectionOrientalEnigma_U_Edp100Ml.webp?v=1703562478",
+          "price": 737,
+          "badge": "SALE"
+        }
+      ]
+    },
+    {
       "name": "Fragrance World",
       "slug": "fragrance-world",
       "count": 42,
@@ -6648,56 +6698,6 @@
           "handle": "la-prairie-pure-gold-radiance-concentrate-for-women-30ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/LaPrairiePureGold_W_RadianceConcentrate30Ml.jpg?v=1649753470",
           "price": 2001,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Alexandre J",
-      "slug": "alexandre-j",
-      "count": 41,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/1722244014_aj-oriental-enigma-Photoroom.png?v=1783667415",
-      "preview": [
-        {
-          "name": "Alexandre J ANC Oriental Enigma Eau De Parfum For Unisex-Oriental Spicy Perfume  100ml",
-          "handle": "alexandre-j-anc-oriental-enigma-eau-de-parfum-for-unisex-oriental-spicy-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/1722244014_aj-oriental-enigma-Photoroom.png?v=1783667415",
-          "price": 739,
-          "badge": ""
-        },
-        {
-          "name": "Alexandre J Anc Ode To Rose EDP 100ml Spray For Unisex",
-          "handle": "alexandre-j-anc-ode-to-rose-edp-100ml-spy-for-unisex",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/5alexandre-j-unisex-ode-to-rose-edp-spray-338-oz-fragrances-3701278602190.jpg?v=1711590628",
-          "price": 739,
-          "badge": ""
-        },
-        {
-          "name": "Alexandre J Anc Black Beetle EDP 100ml Spray For Unisex",
-          "handle": "alexandre-j-anc-black-beetle-edp-100ml-spy-for-unisex",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3s-l1600.jpg?v=1711575557",
-          "price": 739,
-          "badge": ""
-        },
-        {
-          "name": "Alexandre J Art Nouveau Collection Imperial Peacock Perfume For Unisex EDP 100ml",
-          "handle": "alexandre-j-anc-imperial-peacock-perfume-for-unisex-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/AlexandreJANCImperialPeacockEdp100ml.jpg?v=1703868180",
-          "price": 739,
-          "badge": ""
-        },
-        {
-          "name": "Alexandre J Art Nouveau Collection Oriental Enigma Perfume For Unisex EDP 100ml",
-          "handle": "alexandre-j-art-nouveau-collection-oriental-enigma-perfume-for-unisex-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/AlexandreJArtNouveauCollectionOrientalEnigma_U_Edp100Ml.webp?v=1703562478",
-          "price": 737,
-          "badge": "SALE"
-        },
-        {
-          "name": "Alexandre J Art Nouveau Collection Ode To Rose Perfume For Unisex EDP 100ml",
-          "handle": "alexandre-j-art-nouveau-collection-ode-to-rose-perfume-for-unisex-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/AlexandreJArtNouveauCollectionOdeToRose_U_Edp100Ml.jpg?v=1703561952",
-          "price": 737,
           "badge": ""
         }
       ]
@@ -7503,56 +7503,6 @@
       ]
     },
     {
-      "name": "Britney Spears",
-      "slug": "britney-spears",
-      "count": 36,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/719346256346_1-1711525046.jpg?v=1751528259",
-      "preview": [
-        {
-          "name": "Britney Spears Fantasy Sheer Perfume For Women EDT 100ml",
-          "handle": "britney-spears-fantasy-sheer-perfume-for-women-edt-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/719346256346_1-1711525046.jpg?v=1751528259",
-          "price": 89,
-          "badge": ""
-        },
-        {
-          "name": "Britney Spears Fantasy Intimate Edition For Women EDP 100ml",
-          "handle": "britney-spears-fantasy-intimate-edition-for-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/719346191814.jpg?v=1740078106",
-          "price": 85,
-          "badge": ""
-        },
-        {
-          "name": "Britney Spears Fantasy For Women Set EDP 100ml + Body Souffle 100ml + Shower Gel 100ml",
-          "handle": "britney-spears-fantasy-for-women-set-edp-100ml-body-souffle-100ml-shower-gel-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/719346264501.jpg?v=1736330614",
-          "price": 140,
-          "badge": ""
-        },
-        {
-          "name": "Britney Spears Midnight Fantasy For Women Fine Fragrance Mist 236ml",
-          "handle": "britney-spears-midnight-fantasy-for-women-fine-fragrance-mist-236ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/719346635035.jpg?v=1734639831",
-          "price": 44,
-          "badge": ""
-        },
-        {
-          "name": "Britney Spears Curious For Women Fine Fragrance Mist 236ml",
-          "handle": "britney-spears-curious-for-women-fine-fragrance-mist-236ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/719346621236.jpg?v=1734639219",
-          "price": 44,
-          "badge": ""
-        },
-        {
-          "name": "Britney Spears Fantasy For Women Body Mist 236ml",
-          "handle": "britney-spears-fantasy-for-women-body-mist-236ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/719346636933.jpg?v=1728150522",
-          "price": 44,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "The Woods Collection",
       "slug": "the-woods-collection",
       "count": 35,
@@ -7748,6 +7698,56 @@
           "handle": "adidas-skin-detox-shower-gel-250ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/AdidasSkinDetoxShowerGel250ml.jpg?v=1652167050",
           "price": 14,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Britney Spears",
+      "slug": "britney-spears",
+      "count": 35,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/719346256346_1-1711525046.jpg?v=1751528259",
+      "preview": [
+        {
+          "name": "Britney Spears Fantasy Sheer Perfume For Women EDT 100ml",
+          "handle": "britney-spears-fantasy-sheer-perfume-for-women-edt-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/719346256346_1-1711525046.jpg?v=1751528259",
+          "price": 89,
+          "badge": ""
+        },
+        {
+          "name": "Britney Spears Fantasy Intimate Edition For Women EDP 100ml",
+          "handle": "britney-spears-fantasy-intimate-edition-for-women-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/719346191814.jpg?v=1740078106",
+          "price": 85,
+          "badge": ""
+        },
+        {
+          "name": "Britney Spears Fantasy For Women Set EDP 100ml + Body Souffle 100ml + Shower Gel 100ml",
+          "handle": "britney-spears-fantasy-for-women-set-edp-100ml-body-souffle-100ml-shower-gel-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/719346264501.jpg?v=1736330614",
+          "price": 140,
+          "badge": ""
+        },
+        {
+          "name": "Britney Spears Midnight Fantasy For Women Fine Fragrance Mist 236ml",
+          "handle": "britney-spears-midnight-fantasy-for-women-fine-fragrance-mist-236ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/719346635035.jpg?v=1734639831",
+          "price": 44,
+          "badge": ""
+        },
+        {
+          "name": "Britney Spears Curious For Women Fine Fragrance Mist 236ml",
+          "handle": "britney-spears-curious-for-women-fine-fragrance-mist-236ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/719346621236.jpg?v=1734639219",
+          "price": 44,
+          "badge": ""
+        },
+        {
+          "name": "Britney Spears Fantasy For Women Body Mist 236ml",
+          "handle": "britney-spears-fantasy-for-women-body-mist-236ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/719346636933.jpg?v=1728150522",
+          "price": 44,
           "badge": ""
         }
       ]
@@ -16803,6 +16803,56 @@
       ]
     },
     {
+      "name": "Ahmed Al Maghribi",
+      "slug": "ahmed-al-maghribi",
+      "count": 12,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/IMG-1796-Photoroom.png?v=1785077698",
+      "preview": [
+        {
+          "name": "Ahmed Al Maghribi Kaaf Pink Extrait De Parfum For Unisex-Floral Fruity Perfume 100ml",
+          "handle": "ahmed-al-maghribi-kaaf-pink-extrait-de-parfum-for-unisex-floral-fruity-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/IMG-1796-Photoroom.png?v=1785077698",
+          "price": 135,
+          "badge": ""
+        },
+        {
+          "name": "Ahmed Al Maghribi Ghaf Eau De Parfum For Unisex-Oriental Woody Perfume 100ml",
+          "handle": "ahmed-al-maghribi-ghaf-eau-de-parfum-for-unisex-oriental-woody-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/gaaaf-botlejpg-Photoroom.png?v=1785074903",
+          "price": 126,
+          "badge": ""
+        },
+        {
+          "name": "Ahmed Al Maghribi Rawdha Eau De Parfum For Unisex- Oriental Woody Perfume 50ml",
+          "handle": "ahmed-al-maghribi-rawdha-eau-de-parfum-for-unisex-oriental-woody-perfume-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rawdha-by-ahmed-Photoroom.png?v=1784964678",
+          "price": 222,
+          "badge": ""
+        },
+        {
+          "name": "Ahmed Al Maghribi Summer Oud Eau De Parfum For Unisex -Oriental Woody Perfume 60ml",
+          "handle": "ahmed-al-maghribi-summer-oud-eau-de-parfum-for-unisex-oriental-woody-perfume-60ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/6290360614731.jpg?v=1779870061",
+          "price": 185,
+          "badge": ""
+        },
+        {
+          "name": "Ahmed Al Maghribi Ignite Rose Eau De Parfum For Unisex - Aromatic Fougere Perfume 60ml",
+          "handle": "ahmed-al-maghribi-ignite-rose-eau-de-parfum-for-unisex-aromatic-fougere-perfume-60ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ignite-rose_e8b39cf2-e222-4d90-83eb-594c03bf1cf7.jpg?v=1777725053",
+          "price": 185,
+          "badge": ""
+        },
+        {
+          "name": "Ahmed Al Maghribi Matcha Edp For Men And Women Fresh 100ml",
+          "handle": "ahmed-al-maghribi-matcha-edp-for-men-and-women-fresh-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/AMG-MATCHA-100-ml.jpg?v=1771767833",
+          "price": 85,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "KAYALI",
       "slug": "kayali",
       "count": 12,
@@ -17698,56 +17748,6 @@
           "handle": "gianfranco-ferre-gieffeffe-edt-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/8011530041304_6ef65f57eb80ffac8707c16af362b525.jpg?v=1624457439",
           "price": 86,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Ahmed Al Maghribi",
-      "slug": "ahmed-al-maghribi",
-      "count": 11,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/gaaaf-botlejpg-Photoroom.png?v=1785074903",
-      "preview": [
-        {
-          "name": "Ahmed Al Maghribi Ghaf Eau De Parfum For Unisex-Oriental Woody Perfume 100ml",
-          "handle": "ahmed-al-maghribi-ghaf-eau-de-parfum-for-unisex-oriental-woody-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/gaaaf-botlejpg-Photoroom.png?v=1785074903",
-          "price": 126,
-          "badge": ""
-        },
-        {
-          "name": "Ahmed Al Maghribi Rawdha Eau De Parfum For Unisex- Oriental Woody Perfume 50ml",
-          "handle": "ahmed-al-maghribi-rawdha-eau-de-parfum-for-unisex-oriental-woody-perfume-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rawdha-by-ahmed-Photoroom.png?v=1784964678",
-          "price": 222,
-          "badge": ""
-        },
-        {
-          "name": "Ahmed Al Maghribi Summer Oud Eau De Parfum For Unisex -Oriental Woody Perfume 60ml",
-          "handle": "ahmed-al-maghribi-summer-oud-eau-de-parfum-for-unisex-oriental-woody-perfume-60ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/6290360614731.jpg?v=1779870061",
-          "price": 185,
-          "badge": ""
-        },
-        {
-          "name": "Ahmed Al Maghribi Ignite Rose Eau De Parfum For Unisex - Aromatic Fougere Perfume 60ml",
-          "handle": "ahmed-al-maghribi-ignite-rose-eau-de-parfum-for-unisex-aromatic-fougere-perfume-60ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ignite-rose_e8b39cf2-e222-4d90-83eb-594c03bf1cf7.jpg?v=1777725053",
-          "price": 185,
-          "badge": ""
-        },
-        {
-          "name": "Ahmed Al Maghribi Matcha Edp For Men And Women Fresh 100ml",
-          "handle": "ahmed-al-maghribi-matcha-edp-for-men-and-women-fresh-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/AMG-MATCHA-100-ml.jpg?v=1771767833",
-          "price": 85,
-          "badge": ""
-        },
-        {
-          "name": "Ahmed Al Maghribi Sapphire Eau De Parfum For Unisex - Fruity floral Perfume 100ml",
-          "handle": "ahmed-al-maghribi-sapphire-eau-de-parfum-for-unisex-fruity-floral-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rn-image_picker_lib_temp_028e80ed-e7ce-42c6-9e0e-fdbe6ef6de5b.png?v=1771518470",
-          "price": 47,
           "badge": ""
         }
       ]
