@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T07:39:49.228Z",
+  "generated_at": "2026-07-26T10:01:28.819Z",
   "total_brands": 887,
   "brands": [
     {
@@ -253,56 +253,6 @@
       ]
     },
     {
-      "name": "Bvlgari",
-      "slug": "bvlgari",
-      "count": 349,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/o-removebg-preview.png?v=1784470457",
-      "preview": [
-        {
-          "name": "Bvlgari Omnia Crystalline Eau de Toilette For Women Floral 30ml",
-          "handle": "bvlgari-omnia-crystalline-eau-de-toilette-for-women-floral-30ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/o-removebg-preview.png?v=1784470457",
-          "price": 259,
-          "badge": ""
-        },
-        {
-          "name": "Bvlgari Omnia Amethyste  Eau de Toilette For Women Floral 30ml",
-          "handle": "bvlgari-omnia-amethyste-eau-de-toilette-for-women-floral-30ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/omina-removebg_9a2423bb-0f0d-4aa9-8aa1-b8ce71257422.png?v=1784469247",
-          "price": 259,
-          "badge": ""
-        },
-        {
-          "name": "Bvlgari Le Gemme Tygar Extrait Parfum  For Unisex-Oriental Perfume 125ml",
-          "handle": "bvlgari-le-gemme-tygar-extrait-parfum-for-unisex-oriental-perfume-125ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/783320427282_1.jpg?v=1782633324",
-          "price": 2777,
-          "badge": ""
-        },
-        {
-          "name": "Bvlgari Le Gemme Tygar Extrait Parfum For Unisex-Oriental Perfume 60ml",
-          "handle": "bvlgari-le-gemme-tygar-extrait-parfum-for-unisex-oriental-perfume-60ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/783320427985_1_7ebb50f5-c133-49fb-a2c6-85cc88fdfc02.jpg?v=1782228813",
-          "price": 1798,
-          "badge": ""
-        },
-        {
-          "name": "Bvlgari Le Gemme Onekh Eau De Parfume For Men- Leather Perfume 60ml",
-          "handle": "bvlgari-le-gemme-onekh-eau-de-parfume-for-men-leather-perfume-60ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/BVL-42184_1_1800x1800_7e5ba50e-b404-4510-82ce-6457a1b41333.webp?v=1781069033",
-          "price": 1030,
-          "badge": ""
-        },
-        {
-          "name": "Bvlgari Le Gemme Gyan Eau De Parfum For Men-Oriental Woody Perfume 60ml",
-          "handle": "bvlgari-le-gemme-gyan-eau-de-parfum-for-men-oriental-woody-perfume-60ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/BVL-42324_1_1800x1800_452ced98-6835-42d3-bb08-cc073061e2a0.jpg?v=1781022595",
-          "price": 1138,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Giorgio Armani",
       "slug": "giorgio-armani",
       "count": 348,
@@ -348,6 +298,56 @@
           "handle": "giorgio-armani-si-parfum-for-women-chypre-floral-perfume-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/01.jpg?v=1781189670",
           "price": 497,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Bvlgari",
+      "slug": "bvlgari",
+      "count": 344,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/o-removebg-preview.png?v=1784470457",
+      "preview": [
+        {
+          "name": "Bvlgari Omnia Crystalline Eau de Toilette For Women Floral 30ml",
+          "handle": "bvlgari-omnia-crystalline-eau-de-toilette-for-women-floral-30ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/o-removebg-preview.png?v=1784470457",
+          "price": 259,
+          "badge": ""
+        },
+        {
+          "name": "Bvlgari Omnia Amethyste  Eau de Toilette For Women Floral 30ml",
+          "handle": "bvlgari-omnia-amethyste-eau-de-toilette-for-women-floral-30ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/omina-removebg_9a2423bb-0f0d-4aa9-8aa1-b8ce71257422.png?v=1784469247",
+          "price": 259,
+          "badge": ""
+        },
+        {
+          "name": "Bvlgari Le Gemme Tygar Extrait Parfum  For Unisex-Oriental Perfume 125ml",
+          "handle": "bvlgari-le-gemme-tygar-extrait-parfum-for-unisex-oriental-perfume-125ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/783320427282_1.jpg?v=1782633324",
+          "price": 2777,
+          "badge": ""
+        },
+        {
+          "name": "Bvlgari Le Gemme Tygar Extrait Parfum For Unisex-Oriental Perfume 60ml",
+          "handle": "bvlgari-le-gemme-tygar-extrait-parfum-for-unisex-oriental-perfume-60ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/783320427985_1_7ebb50f5-c133-49fb-a2c6-85cc88fdfc02.jpg?v=1782228813",
+          "price": 1798,
+          "badge": ""
+        },
+        {
+          "name": "Bvlgari Le Gemme Onekh Eau De Parfume For Men- Leather Perfume 60ml",
+          "handle": "bvlgari-le-gemme-onekh-eau-de-parfume-for-men-leather-perfume-60ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/BVL-42184_1_1800x1800_7e5ba50e-b404-4510-82ce-6457a1b41333.webp?v=1781069033",
+          "price": 1030,
+          "badge": ""
+        },
+        {
+          "name": "Bvlgari Le Gemme Gyan Eau De Parfum For Men-Oriental Woody Perfume 60ml",
+          "handle": "bvlgari-le-gemme-gyan-eau-de-parfum-for-men-oriental-woody-perfume-60ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/BVL-42324_1_1800x1800_452ced98-6835-42d3-bb08-cc073061e2a0.jpg?v=1781022595",
+          "price": 1138,
           "badge": ""
         }
       ]
@@ -905,7 +905,7 @@
     {
       "name": "Burberry",
       "slug": "burberry",
-      "count": 233,
+      "count": 231,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/heroo-removebg-preview.png?v=1784820127",
       "preview": [
         {
@@ -948,56 +948,6 @@
           "handle": "burberry-hero-eau-de-parfum-for-men-woody-spicy-perfume-200ml-refill",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616304679476_20251106124700.jpg?v=1781938570",
           "price": 421,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Calvin Klein",
-      "slug": "calvin-klein",
-      "count": 232,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616304175978_20251203143200.jpg?v=1775992109",
-      "preview": [
-        {
-          "name": "Calvin Klein Defy Parfum For Men - Woody Aromatic Perfume 50ml",
-          "handle": "calvin-klein-defy-parfum-for-men-woody-aromatic-perfume-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616304175978_20251203143200.jpg?v=1775992109",
-          "price": 138,
-          "badge": ""
-        },
-        {
-          "name": "Calvin Klein Euphoria Body Lotion For Women 200 ml",
-          "handle": "calvin-klein-euphoria-body-lotion-for-women-200-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/euphora.jpg?v=1772302575",
-          "price": 57,
-          "badge": ""
-        },
-        {
-          "name": "Calvin Klein Eternity Aromatic Essence For Men Parfum Intense -  Aromatic Fruity Perfume 200ml",
-          "handle": "calvin-klein-eternity-aromatic-essence-for-men-parfum-intense-aromatic-fruity-perfume-200ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/shop-pf-03772-03-eternity-for-men-aromatic-essence-edp---200ml--1.jpg?v=1767545681",
-          "price": 232,
-          "badge": ""
-        },
-        {
-          "name": "Calvin Klein Defy Parfum For Men - Woody Aromatic Perfume 100ml",
-          "handle": "calvin-klein-defy-parfum-for-men-woody-aromatic-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616304183621_enfr_01_1200.jpg?v=1767545029",
-          "price": 167,
-          "badge": ""
-        },
-        {
-          "name": "Calvin Klein Beauty Eau De Parfum For Women - Floral Perfume 30ml",
-          "handle": "calvin-klein-beauty-eau-de-parfum-for-women-floral-perfume-30ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/CALVN_1.webp?v=1767544512",
-          "price": 67,
-          "badge": ""
-        },
-        {
-          "name": "Calvin Klein Obsession For Men Eau De Toilette For Men - Oriental Woody Perfume 75ml",
-          "handle": "calvin-klein-obsession-for-men-eau-de-toilette-for-men-oriental-woody-perfume-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/88300606504.jpg?v=1766768610",
-          "price": 73,
           "badge": ""
         }
       ]
@@ -1098,6 +1048,56 @@
           "handle": "armaf-club-de-nuit-iconic-deo-stick-for-men-75-gm",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/armaf-club-de-nuit-blue-iconic-deodorant-pro-muze-75-g-550936.jpg?v=1775406294",
           "price": 55,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Calvin Klein",
+      "slug": "calvin-klein",
+      "count": 226,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616304175978_20251203143200.jpg?v=1775992109",
+      "preview": [
+        {
+          "name": "Calvin Klein Defy Parfum For Men - Woody Aromatic Perfume 50ml",
+          "handle": "calvin-klein-defy-parfum-for-men-woody-aromatic-perfume-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616304175978_20251203143200.jpg?v=1775992109",
+          "price": 138,
+          "badge": ""
+        },
+        {
+          "name": "Calvin Klein Euphoria Body Lotion For Women 200 ml",
+          "handle": "calvin-klein-euphoria-body-lotion-for-women-200-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/euphora.jpg?v=1772302575",
+          "price": 57,
+          "badge": ""
+        },
+        {
+          "name": "Calvin Klein Eternity Aromatic Essence For Men Parfum Intense -  Aromatic Fruity Perfume 200ml",
+          "handle": "calvin-klein-eternity-aromatic-essence-for-men-parfum-intense-aromatic-fruity-perfume-200ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/shop-pf-03772-03-eternity-for-men-aromatic-essence-edp---200ml--1.jpg?v=1767545681",
+          "price": 232,
+          "badge": ""
+        },
+        {
+          "name": "Calvin Klein Defy Parfum For Men - Woody Aromatic Perfume 100ml",
+          "handle": "calvin-klein-defy-parfum-for-men-woody-aromatic-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616304183621_enfr_01_1200.jpg?v=1767545029",
+          "price": 167,
+          "badge": ""
+        },
+        {
+          "name": "Calvin Klein Beauty Eau De Parfum For Women - Floral Perfume 30ml",
+          "handle": "calvin-klein-beauty-eau-de-parfum-for-women-floral-perfume-30ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/CALVN_1.webp?v=1767544512",
+          "price": 67,
+          "badge": ""
+        },
+        {
+          "name": "Calvin Klein Obsession For Men Eau De Toilette For Men - Oriental Woody Perfume 75ml",
+          "handle": "calvin-klein-obsession-for-men-eau-de-toilette-for-men-oriental-woody-perfume-75ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/88300606504.jpg?v=1766768610",
+          "price": 73,
           "badge": ""
         }
       ]
@@ -2153,56 +2153,6 @@
       ]
     },
     {
-      "name": "Byredo Perfume",
-      "slug": "byredo-perfume",
-      "count": 140,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ghost.webp?v=1772293303",
-      "preview": [
-        {
-          "name": "Byredo Mojave Ghost Eau de Parfum For Men And Women Woody 50 ml",
-          "handle": "byredo-mojave-ghost-eau-de-parfum-for-men-and-women-woody-50-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ghost.webp?v=1772293303",
-          "price": 767,
-          "badge": ""
-        },
-        {
-          "name": "Byredo Bibliothèque Edp For Men And Women Woody 100ml",
-          "handle": "byredo-bibliotheque-edp-for-men-and-women-woody-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bydro.webp?v=1772293121",
-          "price": 957,
-          "badge": ""
-        },
-        {
-          "name": "Byredo Blanche Body Lotion For Women Clean 50ml",
-          "handle": "byredo-blanche-body-lotion-for-women-clean-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/byredo_blanche_body_lotion_1.webp?v=1771264181",
-          "price": 73,
-          "badge": ""
-        },
-        {
-          "name": "Byredo Blanche Eau De Parfum For Women - Floral Aldehyde Perfume 50ml",
-          "handle": "byredo-blanche-eau-de-parfum-for-women-floral-aldehyde-perfume-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cd316f91-30c5-48fd-9bf5-6a996de65411.png?v=1759668556",
-          "price": 767,
-          "badge": ""
-        },
-        {
-          "name": "Byredo Desert Dawn Perfume For Unisex EDP 100ml",
-          "handle": "byredo-desert-dawn-perfume-for-unisex-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/94103325_20250718124500.jpg?v=1756565627",
-          "price": 1048,
-          "badge": ""
-        },
-        {
-          "name": "Byredo Gypsy Water Perfume For Unisex EDP 100ml",
-          "handle": "byredo-gypsy-water-perfume-for-unisex-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/UK300026787_BYREDO.jpg?v=1746629086",
-          "price": 941,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Azzaro",
       "slug": "azzaro",
       "count": 139,
@@ -2248,6 +2198,56 @@
           "handle": "azzaro-wanted-for-men-set-edp-100ml-edp-10ml-hair-body-shampoo-75ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3614274306446_1.jpg?v=1736322083",
           "price": 334,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Byredo Perfume",
+      "slug": "byredo-perfume",
+      "count": 138,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ghost.webp?v=1772293303",
+      "preview": [
+        {
+          "name": "Byredo Mojave Ghost Eau de Parfum For Men And Women Woody 50 ml",
+          "handle": "byredo-mojave-ghost-eau-de-parfum-for-men-and-women-woody-50-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ghost.webp?v=1772293303",
+          "price": 767,
+          "badge": ""
+        },
+        {
+          "name": "Byredo Bibliothèque Edp For Men And Women Woody 100ml",
+          "handle": "byredo-bibliotheque-edp-for-men-and-women-woody-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bydro.webp?v=1772293121",
+          "price": 957,
+          "badge": ""
+        },
+        {
+          "name": "Byredo Blanche Body Lotion For Women Clean 50ml",
+          "handle": "byredo-blanche-body-lotion-for-women-clean-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/byredo_blanche_body_lotion_1.webp?v=1771264181",
+          "price": 73,
+          "badge": ""
+        },
+        {
+          "name": "Byredo Blanche Eau De Parfum For Women - Floral Aldehyde Perfume 50ml",
+          "handle": "byredo-blanche-eau-de-parfum-for-women-floral-aldehyde-perfume-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cd316f91-30c5-48fd-9bf5-6a996de65411.png?v=1759668556",
+          "price": 767,
+          "badge": ""
+        },
+        {
+          "name": "Byredo Desert Dawn Perfume For Unisex EDP 100ml",
+          "handle": "byredo-desert-dawn-perfume-for-unisex-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/94103325_20250718124500.jpg?v=1756565627",
+          "price": 1048,
+          "badge": ""
+        },
+        {
+          "name": "Byredo Gypsy Water Perfume For Unisex EDP 100ml",
+          "handle": "byredo-gypsy-water-perfume-for-unisex-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/UK300026787_BYREDO.jpg?v=1746629086",
+          "price": 941,
           "badge": ""
         }
       ]
@@ -3153,6 +3153,56 @@
       ]
     },
     {
+      "name": "Tiziana Terenzi",
+      "slug": "tiziana-terenzi",
+      "count": 106,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/andromeda-removebg-preview.png?v=1785058901",
+      "preview": [
+        {
+          "name": "Tiziana Terenzi  Andromeda Luna Collection Scented Candle 170g",
+          "handle": "tiziana-terenzi-andromeda-luna-collection-scented-candle-170g",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/andromeda-removebg-preview.png?v=1785058901",
+          "price": 167,
+          "badge": ""
+        },
+        {
+          "name": "Tiziana Terenzi Cassiopea Luna Collection Scented Candle 35g",
+          "handle": "tiziana-terenzi-cassiopea-luna-collection-scented-candle-35g",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cass-removebg-preview.png?v=1785058288",
+          "price": 57,
+          "badge": ""
+        },
+        {
+          "name": "Tiziana Terenzi Foconero Scented Candle 170g",
+          "handle": "tiziana-terenzi-foconero-scented-candle-170g",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/f-removebg-preview_1eeb891c-437d-42a9-9ea8-e3f1d80a12d2.png?v=1785057870",
+          "price": 167,
+          "badge": ""
+        },
+        {
+          "name": "Tiziana Terenzi Foconero Scented Candle 35g",
+          "handle": "tiziana-terenzi-foconero-scented-candle-35g",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/f-removebg-preview.png?v=1785057679",
+          "price": 57,
+          "badge": ""
+        },
+        {
+          "name": "Tiziana Terenzi Gold Rose Oudh Scented Candle 170g",
+          "handle": "tiziana-terenzi-gold-rose-oudh-scented-candle-170g",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/gold_rose-removebg-preview_fa39aa3f-bde0-4b1f-a2e0-b4eff3985c8c.png?v=1785057410",
+          "price": 167,
+          "badge": ""
+        },
+        {
+          "name": "Tiziana Terenzi Gold Rose Oudh Scented Candle 35g",
+          "handle": "tiziana-terenzi-gold-rose-oudh-scented-candle-35g",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/gold_rose-removebg-preview.png?v=1785057234",
+          "price": 57,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Kilian",
       "slug": "kilian",
       "count": 101,
@@ -3398,56 +3448,6 @@
           "handle": "clive-christian-original-collection-x-feminine-perfume-spray-for-women-floral-50ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/x_dc083f8b-fdf4-475e-b02e-6b6e6411e556.webp?v=1764960274",
           "price": 876,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Tiziana Terenzi",
-      "slug": "tiziana-terenzi",
-      "count": 95,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/474857.jpg?v=1772096467",
-      "preview": [
-        {
-          "name": "Tiziana Terenzi White Fire Classic Collection Hair Therapy Perfume Mist For Unisex 50ml",
-          "handle": "tiziana-terenzi-white-fire-classic-collection-hair-therapy-perfume-mist-for-unisex-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/474857.jpg?v=1772096467",
-          "price": 189,
-          "badge": ""
-        },
-        {
-          "name": "Tiziana Terenzi Orion Luna Collection Hair Therapy Perfume Mist For Unisex 50ml",
-          "handle": "tiziana-terenzi-orion-luna-collection-hair-therapy-perfume-mist-for-unisex-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/tiziana-terenzi-luna-collection-orion-parfem-za-kosu-50-ml-633565.jpg?v=1772095783",
-          "price": 189,
-          "badge": ""
-        },
-        {
-          "name": "Tiziana Terenzi Kirke Overdose Extrait De Parfum For Unisex - Fruity Floral Amber Perfume 100ml",
-          "handle": "tiziana-terenzi-kirke-overdose-extrait-de-parfum-for-unisex-fruity-floral-amber-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/KirkeOverdose_1800x1800_26a8a5b4-dcb2-4d63-9de8-04be7c720530.jpg?v=1767870503",
-          "price": 993,
-          "badge": ""
-        },
-        {
-          "name": "Tiziana Terenzi Gold Rose Oudh Classic Collection Hair Therapy Perfume Mist For Unisex 50ml",
-          "handle": "tiziana-terenzi-gold-rose-oudh-classic-collection-hair-therapy-perfume-mist-for-unisex-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/GoldRoseOudhHairMist50ml_1800x1800_c997d4eb-fd40-49b5-b264-c40566ef63cf.jpg?v=1767865055",
-          "price": 214,
-          "badge": ""
-        },
-        {
-          "name": "Tiziana Terenzi Kristina Anniversary Collection  Extrait De Parfum For Unisex - Floral Aquatic Perfume 100ml",
-          "handle": "tiziana-terenzi-kristina-anniversary-collection-extrait-de-parfum-for-unisex-floral-aquatic-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/4aKIOz1179729-0-global.jpg?v=1761763762",
-          "price": 1047,
-          "badge": ""
-        },
-        {
-          "name": "Tiziana Terenzi Pisces Extrait De Parfum For Unisex - Spicy Leather Perfume 100ml",
-          "handle": "tiziana-terenzi-pisces-extrait-de-parfum-for-unisex-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/o.94059.jpg?v=1758639288",
-          "price": 585,
           "badge": ""
         }
       ]
@@ -5753,56 +5753,6 @@
       ]
     },
     {
-      "name": "CACHAREL",
-      "slug": "cacharel",
-      "count": 48,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cacharel-ella-ella-50ml-edp-spray-p51827-89646_image.jpg?v=1772963385",
-      "preview": [
-        {
-          "name": "Cacharel Ella Ella Eau  De Parfum For Women - Floral Fruity Gourmand Perfume 50ml Refillable",
-          "handle": "cacharel-ella-ella-eau-de-parfum-for-women-floral-fruity-gourmand-perfume-50ml-refillable",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cacharel-ella-ella-50ml-edp-spray-p51827-89646_image.jpg?v=1772963385",
-          "price": 219,
-          "badge": ""
-        },
-        {
-          "name": "Cacharel Amor Amor Eau De Parfum For Women - Floral Fruity Perfume 50ml",
-          "handle": "cacharel-amor-amor-eau-de-parfum-for-women-floral-fruity-perfume-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/s-l1600_a30f2140-45a8-4e74-877d-306b765a7796.webp?v=1772962385",
-          "price": 140,
-          "badge": ""
-        },
-        {
-          "name": "Cacharel Noa Gift Set For Women",
-          "handle": "cacharel-noa-gift-set-for-women-1",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/51QLmmMSvOL.jpg?v=1761489252",
-          "price": 200,
-          "badge": "SALE"
-        },
-        {
-          "name": "Cacharel Yes I Am Bloom Up! Eau De Parfum For Women - Floral Fruity Perfume 50ml",
-          "handle": "cacharel-yes-i-am-bloom-up-eau-de-parfum-for-women-floral-fruity-perfume-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/yes-i-am-bloom-up-eau-de-parfum.jpg?v=1759672172",
-          "price": 128,
-          "badge": ""
-        },
-        {
-          "name": "Cacharel Ella Ella Perfume For Women EDP 100ml Refillable",
-          "handle": "cacharel-ella-ella-perfume-for-women-edp-100ml-refillable",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Cacharel_Ella_Ella_W_Edp_100_Ml_Refillable.webp?v=1751536908",
-          "price": 251,
-          "badge": ""
-        },
-        {
-          "name": "Cacharel Anais Anais For Women EDT 20ml",
-          "handle": "cacharel-anais-anais-for-women-edt-20ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3605521160478_1.jpg?v=1741810412",
-          "price": 56,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "CARON",
       "slug": "caron",
       "count": 48,
@@ -5848,6 +5798,56 @@
           "handle": "caron-belle-de-niassa-perfume-for-women-edp-50ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/CaronCaronBelleDeNiassa50MlEdp_a6af7db4-7283-4d67-a61e-72f4035d7988.webp?v=1729062693",
           "price": 607,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "CACHAREL",
+      "slug": "cacharel",
+      "count": 47,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cacharel-ella-ella-50ml-edp-spray-p51827-89646_image.jpg?v=1772963385",
+      "preview": [
+        {
+          "name": "Cacharel Ella Ella Eau  De Parfum For Women - Floral Fruity Gourmand Perfume 50ml Refillable",
+          "handle": "cacharel-ella-ella-eau-de-parfum-for-women-floral-fruity-gourmand-perfume-50ml-refillable",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cacharel-ella-ella-50ml-edp-spray-p51827-89646_image.jpg?v=1772963385",
+          "price": 219,
+          "badge": ""
+        },
+        {
+          "name": "Cacharel Amor Amor Eau De Parfum For Women - Floral Fruity Perfume 50ml",
+          "handle": "cacharel-amor-amor-eau-de-parfum-for-women-floral-fruity-perfume-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/s-l1600_a30f2140-45a8-4e74-877d-306b765a7796.webp?v=1772962385",
+          "price": 140,
+          "badge": ""
+        },
+        {
+          "name": "Cacharel Noa Gift Set For Women",
+          "handle": "cacharel-noa-gift-set-for-women-1",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/51QLmmMSvOL.jpg?v=1761489252",
+          "price": 200,
+          "badge": "SALE"
+        },
+        {
+          "name": "Cacharel Yes I Am Bloom Up! Eau De Parfum For Women - Floral Fruity Perfume 50ml",
+          "handle": "cacharel-yes-i-am-bloom-up-eau-de-parfum-for-women-floral-fruity-perfume-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/yes-i-am-bloom-up-eau-de-parfum.jpg?v=1759672172",
+          "price": 128,
+          "badge": ""
+        },
+        {
+          "name": "Cacharel Ella Ella Perfume For Women EDP 100ml Refillable",
+          "handle": "cacharel-ella-ella-perfume-for-women-edp-100ml-refillable",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Cacharel_Ella_Ella_W_Edp_100_Ml_Refillable.webp?v=1751536908",
+          "price": 251,
+          "badge": ""
+        },
+        {
+          "name": "Cacharel Anais Anais For Women EDT 20ml",
+          "handle": "cacharel-anais-anais-for-women-edt-20ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3605521160478_1.jpg?v=1741810412",
+          "price": 56,
           "badge": ""
         }
       ]
@@ -12603,56 +12603,6 @@
       ]
     },
     {
-      "name": "Amouroud",
-      "slug": "amouroud",
-      "count": 19,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/AmouroudSmokyCitrus_U_Edp100Ml_02d706df-c38a-4a5c-aa2f-6552d4f9e565.jpg?v=1721203090",
-      "preview": [
-        {
-          "name": "Amouroud Smoky Citrus Perfume For Unisex EDP 100ml",
-          "handle": "amouroud-smoky-citrus-perfume-for-unisex-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/AmouroudSmokyCitrus_U_Edp100Ml_02d706df-c38a-4a5c-aa2f-6552d4f9e565.jpg?v=1721203090",
-          "price": 310,
-          "badge": ""
-        },
-        {
-          "name": "Amouroud White Sands  Parfum 100ml For Unisex",
-          "handle": "amouroud-white-sands-parfum-100ml-for-unisex",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/4350x350_1_3.jpg?v=1712372878",
-          "price": 342,
-          "badge": ""
-        },
-        {
-          "name": "Amouroud Sumptuous Flower  EDP 100ml For Unisex",
-          "handle": "amouroud-sumptuous-flower-edp-100ml-for-unisex",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3amouroud_sumptuous_flower_unisex_eau_de_parfum_100ml.jpg?v=1712371897",
-          "price": 311,
-          "badge": ""
-        },
-        {
-          "name": "Amouroud Licorice Woods  EDP 100ml For Unisex",
-          "handle": "amouroud-licorice-woods-edp-100ml-for-unisex",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/2amouroud_licorice_woods_unisex_eau_de_parfum_100ml.jpg?v=1712371318",
-          "price": 311,
-          "badge": ""
-        },
-        {
-          "name": "Amouroud Elixir La Rose Noire  Extrait De Parfum 75ml For Unisex",
-          "handle": "amouroud-elixir-la-rose-noire-extrait-de-parfum-75ml-for-unisex",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/1008952183109-1-600x400.jpg?v=1712370737",
-          "price": 342,
-          "badge": ""
-        },
-        {
-          "name": "Amouroud Sunset Oud Perfume For Unisex EDP 100ml",
-          "handle": "amouroud-sunset-oud-perfume-for-unisex-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/AmouroudSunsetOudEDP100ml.jpg?v=1649063165",
-          "price": 387,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Albane Noble",
       "slug": "albane-noble",
       "count": 19,
@@ -13198,6 +13148,56 @@
           "handle": "zara-tob-02-tobacco-tango-perfume-for-men-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ZaraTOB02TobaccoTangoEDPM100ml.jpg?v=1707812687",
           "price": 118,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Amouroud",
+      "slug": "amouroud",
+      "count": 18,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/AmouroudSmokyCitrus_U_Edp100Ml_02d706df-c38a-4a5c-aa2f-6552d4f9e565.jpg?v=1721203090",
+      "preview": [
+        {
+          "name": "Amouroud Smoky Citrus Perfume For Unisex EDP 100ml",
+          "handle": "amouroud-smoky-citrus-perfume-for-unisex-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/AmouroudSmokyCitrus_U_Edp100Ml_02d706df-c38a-4a5c-aa2f-6552d4f9e565.jpg?v=1721203090",
+          "price": 310,
+          "badge": ""
+        },
+        {
+          "name": "Amouroud White Sands  Parfum 100ml For Unisex",
+          "handle": "amouroud-white-sands-parfum-100ml-for-unisex",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/4350x350_1_3.jpg?v=1712372878",
+          "price": 342,
+          "badge": ""
+        },
+        {
+          "name": "Amouroud Sumptuous Flower  EDP 100ml For Unisex",
+          "handle": "amouroud-sumptuous-flower-edp-100ml-for-unisex",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3amouroud_sumptuous_flower_unisex_eau_de_parfum_100ml.jpg?v=1712371897",
+          "price": 311,
+          "badge": ""
+        },
+        {
+          "name": "Amouroud Licorice Woods  EDP 100ml For Unisex",
+          "handle": "amouroud-licorice-woods-edp-100ml-for-unisex",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/2amouroud_licorice_woods_unisex_eau_de_parfum_100ml.jpg?v=1712371318",
+          "price": 311,
+          "badge": ""
+        },
+        {
+          "name": "Amouroud Elixir La Rose Noire  Extrait De Parfum 75ml For Unisex",
+          "handle": "amouroud-elixir-la-rose-noire-extrait-de-parfum-75ml-for-unisex",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/1008952183109-1-600x400.jpg?v=1712370737",
+          "price": 342,
+          "badge": ""
+        },
+        {
+          "name": "Amouroud Sunset Oud Perfume For Unisex EDP 100ml",
+          "handle": "amouroud-sunset-oud-perfume-for-unisex-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/AmouroudSunsetOudEDP100ml.jpg?v=1649063165",
+          "price": 387,
           "badge": ""
         }
       ]
@@ -18149,6 +18149,56 @@
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/orchid-brown-1.jpg?v=1624401090",
           "price": 10,
           "badge": "SALE"
+        }
+      ]
+    },
+    {
+      "name": "Essenzia",
+      "slug": "essenzia",
+      "count": 10,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/the_lady-removebg.png?v=1785053510",
+      "preview": [
+        {
+          "name": "Essenzia The Lady Pour Femme Eau de Parfum For Women Floral 100ml",
+          "handle": "essenzia-the-lady-pour-femme-eau-de-parfum-for-women-floral-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/the_lady-removebg.png?v=1785053510",
+          "price": 185,
+          "badge": ""
+        },
+        {
+          "name": "Essenzia Smell of Capri Eau de Parfum For Men And Women Citrus 100ml",
+          "handle": "essenzia-smell-of-capri-eau-de-parfum-for-men-and-women-citrus-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/smell-removebg-preview.png?v=1785053258",
+          "price": 185,
+          "badge": ""
+        },
+        {
+          "name": "Essenzia Shimmer Pour Homme Eau de Parfum For Men Woody 100ml",
+          "handle": "essenzia-shimmer-pour-homme-eau-de-parfum-for-men-woody-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/shimmer-removebg-preview.png?v=1785053005",
+          "price": 185,
+          "badge": ""
+        },
+        {
+          "name": "Essenzia Oud Hide Pour Homme Eau de Parfum For Men Oud 100ml",
+          "handle": "essenzia-oud-hide-pour-homme-eau-de-parfum-for-men-oud-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/oud-removebg-preview_c7c54127-4cb5-445d-92cd-ff40a020a163.png?v=1785052861",
+          "price": 185,
+          "badge": ""
+        },
+        {
+          "name": "Essenzia Love of Monaco Eau de Parfum For Men And Women Amber 100ml",
+          "handle": "essenzia-love-of-monaco-eau-de-parfum-for-men-and-women-amber-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/lovee-removebg-preview.png?v=1785052181",
+          "price": 185,
+          "badge": ""
+        },
+        {
+          "name": "Essenzia Forever Love Pour Femme Eau de Parfum For Women Floral 100ml",
+          "handle": "essenzia-forever-love-pour-femme-eau-de-parfum-for-women-floral-100ml-1",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ibiza-removebg-preview.png?v=1785051739",
+          "price": 185,
+          "badge": ""
         }
       ]
     },
@@ -25575,42 +25625,6 @@
           "handle": "sniff-brown-code-pour-homme-perfume-for-men-edt-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/brown-code.jpg?v=1624400998",
           "price": 13,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Essenzia",
-      "slug": "essenzia",
-      "count": 4,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/love-removebg-preview.png?v=1785050735",
-      "preview": [
-        {
-          "name": "Essenzia Forever Love Pour Femme Eau de Parfum For Women Floral 100ml",
-          "handle": "essenzia-forever-love-pour-femme-eau-de-parfum-for-women-floral-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/love-removebg-preview.png?v=1785050735",
-          "price": 185,
-          "badge": ""
-        },
-        {
-          "name": "Essenzia Beirut Eau de Parfum For Men And Women Amber 100ml",
-          "handle": "essenzia-beirut-eau-de-parfum-for-men-and-women-amber-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/beirut-removebg-preview.png?v=1785050471",
-          "price": 185,
-          "badge": ""
-        },
-        {
-          "name": "Essenzia Al Ula Eau de Parfum For Men And Women Amber 100ml",
-          "handle": "essenzia-al-ula-eau-de-parfum-for-men-and-women-amber-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ula-removebg-preview.png?v=1784987547",
-          "price": 185,
-          "badge": ""
-        },
-        {
-          "name": "Essenzia Al Maha Eau de Parfum For Men And Women Amber 100ml",
-          "handle": "essenzia-al-maha-eau-de-parfum-for-men-and-women-amber-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/azhaa-removebg-preview_e73dfa5a-1d4b-4c45-b2e9-86fcc9b6f793.png?v=1784987069",
-          "price": 185,
           "badge": ""
         }
       ]
