@@ -1,8 +1,54 @@
 {
-  "scraped_at": "2026-07-26T17:00:43.596Z",
+  "scraped_at": "2026-07-26T18:06:20.387Z",
   "source": "https://samawa.ae",
   "count": 25016,
   "products": [
+    {
+      "name": "Azha Iceberg for Him Eau De Parfum For Men- Woody Aromatic Perfume 100ml",
+      "brand": "Azha Perfumes",
+      "category_slug": "homme",
+      "size": "100ml",
+      "price_retail": 50,
+      "price_gros": 50,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Iceberg1-Photoroom.png?v=1785086002",
+      "active": true,
+      "_handle": "azha-iceberg-for-him-eau-de-parfum-for-men-woody-aromatic-perfume-100ml",
+      "_sku": "6295151090008",
+      "_tags": [
+        "100ml",
+        "Branded Perfumes",
+        "EDP",
+        "Fragrance",
+        "Men"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/azha-iceberg-for-him-eau-de-parfum-for-men-woody-aromatic-perfume-100ml"
+    },
+    {
+      "name": "Azha Island for Him Eau De Parfum For Men- Woody Amber Perfume 100ml",
+      "brand": "Azha Perfumes",
+      "category_slug": "homme",
+      "size": "100ml",
+      "price_retail": 50,
+      "price_gros": 50,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Island1_1682032c-e957-421b-8d2a-64890a76ab2e-Photoroom.png?v=1785087348",
+      "active": true,
+      "_handle": "azha-island-for-him-eau-de-parfum-for-men-woody-amber-perfume-100ml",
+      "_sku": "6295151090015",
+      "_tags": [
+        "100ml",
+        "Branded Perfumes",
+        "EDP",
+        "Fragrance",
+        "Men"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/azha-island-for-him-eau-de-parfum-for-men-woody-amber-perfume-100ml"
+    },
     {
       "name": "Azha Arabian Lady Eau De Parfum For Women-Floral Fruity Perfume 100ml",
       "brand": "Azha Perfumes",
@@ -581520,48 +581566,6 @@
       ],
       "_product_type": "Fragrance",
       "_url": "https://samawa.ae/products/carolina-herrera-good-girl-legere-for-women-eau-de-parfum-50ml"
-    },
-    {
-      "name": "Carolina Herrera Good Girl for Women - Eau de Parfum, 50ml",
-      "brand": "Carolina Herrera",
-      "category_slug": "homme",
-      "size": "50ml",
-      "price_retail": 380,
-      "price_gros": 380,
-      "stock": 999,
-      "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/good_girl_by_carolina_herrera_for_women_-_eau_de_parfum_50ml.jpg?v=1624395201",
-      "active": true,
-      "_handle": "carolina-herrera-good-girl-for-women-eau-de-parfum-50ml",
-      "_sku": "8411061819838",
-      "_tags": [
-        "50ml",
-        "Branded Perfumes",
-        "Fragrance"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/carolina-herrera-good-girl-for-women-eau-de-parfum-50ml"
-    },
-    {
-      "name": "Carolina Herrera CH Men Sport for Men - Eau de Toilette, 50ml",
-      "brand": "Carolina Herrera",
-      "category_slug": "homme",
-      "size": "50ml",
-      "price_retail": 114,
-      "price_gros": 114,
-      "stock": 999,
-      "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/8411061746219.jpg?v=1624395165",
-      "active": true,
-      "_handle": "carolina-herrera-ch-men-sport-for-men-eau-de-toilette-50ml",
-      "_sku": "8411061746219",
-      "_tags": [
-        "50ml",
-        "Branded Perfumes",
-        "Fragrance"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/carolina-herrera-ch-men-sport-for-men-eau-de-toilette-50ml"
     }
   ]
 }
