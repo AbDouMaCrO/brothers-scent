@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T12:42:20.938Z",
+  "generated_at": "2026-07-26T14:32:27.383Z",
   "total_brands": 887,
   "brands": [
     {
@@ -1055,7 +1055,7 @@
     {
       "name": "Calvin Klein",
       "slug": "calvin-klein",
-      "count": 226,
+      "count": 225,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616304175978_20251203143200.jpg?v=1775992109",
       "preview": [
         {
@@ -17703,6 +17703,56 @@
       ]
     },
     {
+      "name": "Ahmed Al Maghribi",
+      "slug": "ahmed-al-maghribi",
+      "count": 11,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/gaaaf-botlejpg-Photoroom.png?v=1785074903",
+      "preview": [
+        {
+          "name": "Ahmed Al Maghribi Ghaf Eau De Parfum For Unisex-Oriental Woody Perfume 100ml",
+          "handle": "ahmed-al-maghribi-ghaf-eau-de-parfum-for-unisex-oriental-woody-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/gaaaf-botlejpg-Photoroom.png?v=1785074903",
+          "price": 126,
+          "badge": ""
+        },
+        {
+          "name": "Ahmed Al Maghribi Rawdha Eau De Parfum For Unisex- Oriental Woody Perfume 50ml",
+          "handle": "ahmed-al-maghribi-rawdha-eau-de-parfum-for-unisex-oriental-woody-perfume-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rawdha-by-ahmed-Photoroom.png?v=1784964678",
+          "price": 222,
+          "badge": ""
+        },
+        {
+          "name": "Ahmed Al Maghribi Summer Oud Eau De Parfum For Unisex -Oriental Woody Perfume 60ml",
+          "handle": "ahmed-al-maghribi-summer-oud-eau-de-parfum-for-unisex-oriental-woody-perfume-60ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/6290360614731.jpg?v=1779870061",
+          "price": 185,
+          "badge": ""
+        },
+        {
+          "name": "Ahmed Al Maghribi Ignite Rose Eau De Parfum For Unisex - Aromatic Fougere Perfume 60ml",
+          "handle": "ahmed-al-maghribi-ignite-rose-eau-de-parfum-for-unisex-aromatic-fougere-perfume-60ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ignite-rose_e8b39cf2-e222-4d90-83eb-594c03bf1cf7.jpg?v=1777725053",
+          "price": 185,
+          "badge": ""
+        },
+        {
+          "name": "Ahmed Al Maghribi Matcha Edp For Men And Women Fresh 100ml",
+          "handle": "ahmed-al-maghribi-matcha-edp-for-men-and-women-fresh-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/AMG-MATCHA-100-ml.jpg?v=1771767833",
+          "price": 85,
+          "badge": ""
+        },
+        {
+          "name": "Ahmed Al Maghribi Sapphire Eau De Parfum For Unisex - Fruity floral Perfume 100ml",
+          "handle": "ahmed-al-maghribi-sapphire-eau-de-parfum-for-unisex-fruity-floral-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rn-image_picker_lib_temp_028e80ed-e7ce-42c6-9e0e-fdbe6ef6de5b.png?v=1771518470",
+          "price": 47,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "BRIONI",
       "slug": "brioni",
       "count": 11,
@@ -18198,56 +18248,6 @@
           "handle": "essenzia-forever-love-pour-femme-eau-de-parfum-for-women-floral-100ml-1",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ibiza-removebg-preview.png?v=1785051739",
           "price": 185,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Ahmed Al Maghribi",
-      "slug": "ahmed-al-maghribi",
-      "count": 10,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rawdha-by-ahmed-Photoroom.png?v=1784964678",
-      "preview": [
-        {
-          "name": "Ahmed Al Maghribi Rawdha Eau De Parfum For Unisex- Oriental Woody Perfume 50ml",
-          "handle": "ahmed-al-maghribi-rawdha-eau-de-parfum-for-unisex-oriental-woody-perfume-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rawdha-by-ahmed-Photoroom.png?v=1784964678",
-          "price": 222,
-          "badge": ""
-        },
-        {
-          "name": "Ahmed Al Maghribi Summer Oud Eau De Parfum For Unisex -Oriental Woody Perfume 60ml",
-          "handle": "ahmed-al-maghribi-summer-oud-eau-de-parfum-for-unisex-oriental-woody-perfume-60ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/6290360614731.jpg?v=1779870061",
-          "price": 185,
-          "badge": ""
-        },
-        {
-          "name": "Ahmed Al Maghribi Ignite Rose Eau De Parfum For Unisex - Aromatic Fougere Perfume 60ml",
-          "handle": "ahmed-al-maghribi-ignite-rose-eau-de-parfum-for-unisex-aromatic-fougere-perfume-60ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ignite-rose_e8b39cf2-e222-4d90-83eb-594c03bf1cf7.jpg?v=1777725053",
-          "price": 185,
-          "badge": ""
-        },
-        {
-          "name": "Ahmed Al Maghribi Matcha Edp For Men And Women Fresh 100ml",
-          "handle": "ahmed-al-maghribi-matcha-edp-for-men-and-women-fresh-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/AMG-MATCHA-100-ml.jpg?v=1771767833",
-          "price": 85,
-          "badge": ""
-        },
-        {
-          "name": "Ahmed Al Maghribi Sapphire Eau De Parfum For Unisex - Fruity floral Perfume 100ml",
-          "handle": "ahmed-al-maghribi-sapphire-eau-de-parfum-for-unisex-fruity-floral-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rn-image_picker_lib_temp_028e80ed-e7ce-42c6-9e0e-fdbe6ef6de5b.png?v=1771518470",
-          "price": 47,
-          "badge": ""
-        },
-        {
-          "name": "Ahmed Al Maghribi Bloom Spectrum Pink Eau De Parfum For Unisex - Floral-Woody Perfume 100ml",
-          "handle": "ahmed-al-maghribi-bloom-spectrum-pink-eau-de-parfum-for-unisex-floral-woody-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/AhmedMaghribi7-01.png?v=1771437197",
-          "price": 85,
           "badge": ""
         }
       ]

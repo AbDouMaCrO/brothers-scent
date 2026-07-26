@@ -1,8 +1,33 @@
 {
-  "scraped_at": "2026-07-26T12:40:38.049Z",
+  "scraped_at": "2026-07-26T14:31:04.707Z",
   "source": "https://samawa.ae",
   "count": 25016,
   "products": [
+    {
+      "name": "Ahmed Al Maghribi Ghaf Eau De Parfum For Unisex-Oriental Woody Perfume 100ml",
+      "brand": "Ahmed Al Maghribi",
+      "category_slug": "homme",
+      "size": "100ml",
+      "price_retail": 126,
+      "price_gros": 126,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/gaaaf-botlejpg-Photoroom.png?v=1785074903",
+      "active": true,
+      "_handle": "ahmed-al-maghribi-ghaf-eau-de-parfum-for-unisex-oriental-woody-perfume-100ml",
+      "_sku": "6290360618647",
+      "_tags": [
+        "100ml",
+        "Arabic Perfume",
+        "EDP",
+        "Fragrance",
+        "Men",
+        "unisex",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/ahmed-al-maghribi-ghaf-eau-de-parfum-for-unisex-oriental-woody-perfume-100ml"
+    },
     {
       "name": "Tiziana Terenzi  Andromeda Luna Collection Scented Candle 170g",
       "brand": "Tiziana Terenzi",
@@ -567537,7 +567562,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 83,
-      "price_gros": 34,
+      "price_gros": 43,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/s-l1600_2d7fe63a-31af-4952-9786-ec239bf38d01.jpg?v=1664773874",
@@ -581529,27 +581554,6 @@
       ],
       "_product_type": "Fragrance",
       "_url": "https://samawa.ae/products/britney-spears-hidden-fantasy-for-women-edp-100ml"
-    },
-    {
-      "name": "Calvin  Klein Truth for Women - Eau De Parfum, 100ml",
-      "brand": "Calvin Klein",
-      "category_slug": "homme",
-      "size": "100ml",
-      "price_retail": 126,
-      "price_gros": 126,
-      "stock": 999,
-      "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/truth_by_calvin_klein_for_women_-_eau_de_parfum_100mlq.jpg?v=1624395097",
-      "active": true,
-      "_handle": "calvin-klein-truth-for-women-eau-de-parfum-100ml",
-      "_sku": "88300049493",
-      "_tags": [
-        "100ml",
-        "Branded Perfumes",
-        "Fragrance"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/calvin-klein-truth-for-women-eau-de-parfum-100ml"
     }
   ]
 }
