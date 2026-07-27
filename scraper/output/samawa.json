@@ -1,8 +1,33 @@
 {
-  "scraped_at": "2026-07-27T08:57:34.283Z",
+  "scraped_at": "2026-07-27T12:24:00.570Z",
   "source": "https://samawa.ae",
   "count": 25016,
   "products": [
+    {
+      "name": "Creed Wild Vetiver Eau De Parfum For Unisex-Citrus Aromatic Perfume 100ml",
+      "brand": "Creed",
+      "category_slug": "homme",
+      "size": "100ml",
+      "price_retail": 1859,
+      "price_gros": 1859,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/114793528-Photoroom.png?v=1785147184",
+      "active": true,
+      "_handle": "creed-wild-vetiver-eau-de-parfum-for-unisex-citrus-aromatic-perfume-100ml",
+      "_sku": "3508440005366",
+      "_tags": [
+        "100ml",
+        "Branded Perfumes",
+        "EDP",
+        "Fragrance",
+        "Men",
+        "unisex",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/creed-wild-vetiver-eau-de-parfum-for-unisex-citrus-aromatic-perfume-100ml"
+    },
     {
       "name": "Azha Ocean Breeze for Him Eau De Parfum For Men-Citrus Aromatic Perfume 100ml",
       "brand": "Azha Perfumes",
@@ -19116,8 +19141,8 @@
       "brand": "Lattafa",
       "category_slug": "homme",
       "size": "100ml",
-      "price_retail": 111,
-      "price_gros": 111,
+      "price_retail": 106,
+      "price_gros": 106,
       "stock": 999,
       "badge": "",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Pride_Vintage_Radio.jpg?v=1775541558",
@@ -68502,8 +68527,8 @@
       "brand": "Lattafa",
       "category_slug": "homme",
       "size": "100ml",
-      "price_retail": 111,
-      "price_gros": 111,
+      "price_retail": 114,
+      "price_gros": 114,
       "stock": 999,
       "badge": "",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Pride_Artisan_Ethnique_For_Unisex_EDP_100ml.jpg?v=1752907542",
@@ -581545,31 +581570,6 @@
       ],
       "_product_type": "Fragrance",
       "_url": "https://samawa.ae/products/carolina-herrera-declaration-for-men-eau-de-toilette-100ml"
-    },
-    {
-      "name": "Carolina Herrera Herrera for Men - Eau de Toilette, 100ml",
-      "brand": "Carolina Herrera",
-      "category_slug": "homme",
-      "size": "100ml",
-      "price_retail": 229,
-      "price_gros": 170,
-      "stock": 999,
-      "badge": "SALE",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/carolina-herrera-for-men-tualetnaya-voda-100-ml-8411061081600-1-3892x2595.jpg?v=1657948127",
-      "active": true,
-      "_handle": "carolina-herrera-herrera-for-men-eau-de-toilette-100ml",
-      "_sku": "8411061081600",
-      "_tags": [
-        "100ml",
-        "autopostr_facebook_54732",
-        "badge_Best Seller",
-        "Best Seller",
-        "Branded Perfumes",
-        "Fragrance",
-        "Men"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/carolina-herrera-herrera-for-men-eau-de-toilette-100ml"
     }
   ]
 }

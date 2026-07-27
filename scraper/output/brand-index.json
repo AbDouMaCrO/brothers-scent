@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T08:58:41.634Z",
+  "generated_at": "2026-07-27T12:25:42.954Z",
   "total_brands": 888,
   "brands": [
     {
@@ -505,7 +505,7 @@
     {
       "name": "Carolina Herrera",
       "slug": "carolina-herrera",
-      "count": 311,
+      "count": 310,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rosee-removebg-preview.png?v=1785048190",
       "preview": [
         {
@@ -2303,6 +2303,56 @@
       ]
     },
     {
+      "name": "Creed",
+      "slug": "creed",
+      "count": 129,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/114793528-Photoroom.png?v=1785147184",
+      "preview": [
+        {
+          "name": "Creed Wild Vetiver Eau De Parfum For Unisex-Citrus Aromatic Perfume 100ml",
+          "handle": "creed-wild-vetiver-eau-de-parfum-for-unisex-citrus-aromatic-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/114793528-Photoroom.png?v=1785147184",
+          "price": 1859,
+          "badge": ""
+        },
+        {
+          "name": "Creed Vanisia Scented Candle Amber 220 g",
+          "handle": "creed-vanisia-scented-candle-amber-220g",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/toscana_box_fe7db876-603a-4419-ad92-6bbde0343df6.png?v=1783981527",
+          "price": 296,
+          "badge": ""
+        },
+        {
+          "name": "Creed Toscana Scented Candle Aromatic 220g",
+          "handle": "creed-toscana-scented-candle-aromatic-220g",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/toscana_box.png?v=1783981173",
+          "price": 296,
+          "badge": ""
+        },
+        {
+          "name": "Creed Sea Island Scented Candle Fresh 220g",
+          "handle": "creed-sea-island-scented-candle-fresh-220g",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/island-remove.png?v=1783980558",
+          "price": 296,
+          "badge": ""
+        },
+        {
+          "name": "Creed Cananga Scented Candle Floral 220g",
+          "handle": "creed-cananga-scented-candle-floral-220g",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/changa.png?v=1783980020",
+          "price": 296,
+          "badge": ""
+        },
+        {
+          "name": "Creed Birmanie Oud Scented Candle Woody 220g",
+          "handle": "creed-birmanie-oud-scented-candle-woody-220-g",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bbbbbbb.png?v=1783977749",
+          "price": 296,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Mercedes- Benz",
       "slug": "mercedes-benz",
       "count": 129,
@@ -2348,56 +2398,6 @@
           "handle": "mercedes-benz-club-black-for-men-gift-set-for-men",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/MERCEDESBENZBLACKSET.webp?v=1766316165",
           "price": 200,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Creed",
-      "slug": "creed",
-      "count": 128,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/toscana_box_fe7db876-603a-4419-ad92-6bbde0343df6.png?v=1783981527",
-      "preview": [
-        {
-          "name": "Creed Vanisia Scented Candle Amber 220 g",
-          "handle": "creed-vanisia-scented-candle-amber-220g",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/toscana_box_fe7db876-603a-4419-ad92-6bbde0343df6.png?v=1783981527",
-          "price": 296,
-          "badge": ""
-        },
-        {
-          "name": "Creed Toscana Scented Candle Aromatic 220g",
-          "handle": "creed-toscana-scented-candle-aromatic-220g",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/toscana_box.png?v=1783981173",
-          "price": 296,
-          "badge": ""
-        },
-        {
-          "name": "Creed Sea Island Scented Candle Fresh 220g",
-          "handle": "creed-sea-island-scented-candle-fresh-220g",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/island-remove.png?v=1783980558",
-          "price": 296,
-          "badge": ""
-        },
-        {
-          "name": "Creed Cananga Scented Candle Floral 220g",
-          "handle": "creed-cananga-scented-candle-floral-220g",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/changa.png?v=1783980020",
-          "price": 296,
-          "badge": ""
-        },
-        {
-          "name": "Creed Birmanie Oud Scented Candle Woody 220g",
-          "handle": "creed-birmanie-oud-scented-candle-woody-220-g",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bbbbbbb.png?v=1783977749",
-          "price": 296,
-          "badge": ""
-        },
-        {
-          "name": "Creed Oud Zarian Edp For Men And Women Oriental Woody 100ml",
-          "handle": "creed-oud-zarian-edp-for-men-and-women-oriental-woody-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/oud.avif?v=1758353525",
-          "price": 2045,
           "badge": ""
         }
       ]
