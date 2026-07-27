@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T12:25:42.954Z",
+  "generated_at": "2026-07-27T15:28:05.229Z",
   "total_brands": 888,
   "brands": [
     {
@@ -12,42 +12,42 @@
           "name": "Amazing Creation Oud Saffron Roll On Perfume Oil For Unisex 10ml",
           "handle": "amazing-creation-oud-saffron-roll-on-perfume-oil-for-unisex-10ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Oud_Saffron_Perfume_Oil_For_Unisex_10ml_1.jpg?v=1784876173",
-          "price": 10,
+          "price": 15,
           "badge": "SALE"
         },
         {
           "name": "Amazing Creation Annone Roll On Perfume Oil For Unisex 10ml",
           "handle": "amazing-creation-annone-roll-on-perfume-oil-for-unisex-10ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Annone_Perfume_Oil_For_Unisex_10ml_1.jpg?v=1784875579",
-          "price": 10,
+          "price": 15,
           "badge": "SALE"
         },
         {
           "name": "Amazing Creation Oud Bouquet Roll On Perfume Oil For Unisex 10ml",
           "handle": "amazing-creation-oud-bouquet-roll-on-perfume-oil-for-unisex-10ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Oud_Bouquet_Perfume_Oil_For_Unisex_10ml_1.jpg?v=1784875289",
-          "price": 10,
+          "price": 15,
           "badge": "SALE"
         },
         {
           "name": "Amazing Creation Tobacco Oud Roll On Perfume Oil For Unisex 10ml",
           "handle": "amazing-creation-tobacco-oud-roll-on-perfume-oil-for-unisex-10ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Tobacco_Oud_Perfume_Oil_For_Unisex_10ml_1.jpg?v=1784874501",
-          "price": 10,
+          "price": 15,
           "badge": "SALE"
         },
         {
           "name": "Amazing Creation Oud For Greatness Roll On Perfume Oil For Unisex 10ml",
           "handle": "amazing-creation-oud-for-greatness-roll-on-perfume-oil-for-unisex-10ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Oud_For_Greatness_Perfume_Oil_For_Unisex_10ml.jpg?v=1784874093",
-          "price": 10,
+          "price": 15,
           "badge": "SALE"
         },
         {
           "name": "Amazing Creation Musc Shamal Roll On Perfume Oil For Unisex 10ml",
           "handle": "amazing-creation-musc-shamal-roll-on-perfume-oil-for-unisex-10ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Desert_Musc_Shamal_Roll-on_Perfume_Oil_For_Unisex_EDP_10ml_1.jpg?v=1784871899",
-          "price": 10,
+          "price": 15,
           "badge": "SALE"
         }
       ]
@@ -1755,9 +1755,23 @@
     {
       "name": "Jean Paul Gaultier",
       "slug": "jean-paul-gaultier",
-      "count": 168,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/scandal-removebg-preview.png?v=1785049000",
+      "count": 170,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/10739860439070-Photoroom.png?v=1785165089",
       "preview": [
+        {
+          "name": "Jean Paul Gaultier Le Beau Narcisse Eau De Parfum For Men-Floral Woody Musk Perfume 125ml",
+          "handle": "jean-paul-gaultier-le-beau-narcisse-eau-de-parfum-for-men-floral-woody-musk-perfume-125ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/10739860439070-Photoroom.png?v=1785165089",
+          "price": 549,
+          "badge": ""
+        },
+        {
+          "name": "Jean Paul Gaultier Divine Femme Couture Eau De Parfum For Women-Floral Fruity Gourmand Perfume 100ml",
+          "handle": "jpg-divine-femme-couture-eau-de-parfum-for-women-floral-fruity-gourmand-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/10628882071582-Photoroom.png?v=1785163541",
+          "price": 599,
+          "badge": ""
+        },
         {
           "name": "Jean Paul Gaultier Gift Set For Women Chypre",
           "handle": "jean-paul-gaultier-gift-set-for-women-chypre",
@@ -1784,20 +1798,6 @@
           "handle": "jean-paul-gaultier-scandal-intense-pour-homme-edp-for-men-amber-150ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/sacandal-removebg_21b71835-d7fb-4442-aa1f-ad50293fe91b.png?v=1784578186",
           "price": 549,
-          "badge": ""
-        },
-        {
-          "name": "Jean Paul Gaultier Gift Set For Men Amber",
-          "handle": "jean-paul-gaultier-gift-set-for-men-amber",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/je-removebg-preview.png?v=1783956500",
-          "price": 540,
-          "badge": ""
-        },
-        {
-          "name": "Jean Paul Gaultier La Belle Rosea Eau De Parfum For Women - Floral Aquatic Perfume 100ml",
-          "handle": "jean-paul-gaultier-la-belle-rosea-eau-de-parfum-for-women-floral-aquatic-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/8435415115025_enfr_01_1200.jpg?v=1782024971",
-          "price": 599,
           "badge": ""
         }
       ]
@@ -2753,56 +2753,6 @@
       ]
     },
     {
-      "name": "Cartier",
-      "slug": "cartier",
-      "count": 121,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/aJtzBrCJGuJ9Xky2KcOW3VMlFkqAvk7mW2is14HY.jpg?v=1769582349",
-      "preview": [
-        {
-          "name": "Cartier Oud & Rose Parfum For Unisex - Amber Floral Perfume 45ml",
-          "handle": "cartier-oud-rose-parfum-for-unisex-amber-floral-perfume-45ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/aJtzBrCJGuJ9Xky2KcOW3VMlFkqAvk7mW2is14HY.jpg?v=1769582349",
-          "price": 802,
-          "badge": ""
-        },
-        {
-          "name": "Cartier Pasha De Cartier Edition Noire Eau De Toilette For Men - Woody Aromatic Perfume 50ml",
-          "handle": "cartier-pasha-de-cartier-edition-noire-eau-de-toilette-for-men-woody-aromatic-perfume-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3432240506245_641ce5bf-8d50-43b4-ba62-fb92393bd11d.jpg?v=1769580845",
-          "price": 243,
-          "badge": ""
-        },
-        {
-          "name": "Cartier Pasha de Cartier Edition Noire Eau De Toilette For Men - Woody Aromatic Perfume 100ml Refillable",
-          "handle": "cartier-pasha-de-cartier-edition-noire-eau-de-toilette-for-men-woody-aromatic-perfume-100ml-refillable",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/u_3432240516626_01.jpg?v=1766421545",
-          "price": 337,
-          "badge": ""
-        },
-        {
-          "name": "Cartier L'Heure Osee V Eau De Parfum For Unisex - Floral Perfume  75ml",
-          "handle": "cartier-lheure-osee-v-eau-de-parfum-for-unisex-floral-perfume-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/375x500.65702.2x.avif?v=1763361516",
-          "price": 904,
-          "badge": ""
-        },
-        {
-          "name": "Cartier Declaration Parfum For Men - Woody Floral Musk Perfume 50ml Refillable",
-          "handle": "cartier-declaration-parfum-for-men-woody-floral-musk-perfume-50ml-refillable",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cartier-mens-declaration-parfum-17-oz-fragrances-3432240506733.jpg?v=1763306661",
-          "price": 306,
-          "badge": ""
-        },
-        {
-          "name": "Cartier Declaration Eau De Parfum For Men - Woody Floral Musk Perfume 50ml Refillable",
-          "handle": "cartier-declaration-eau-de-parfum-for-men-woody-floral-musk-perfume-50ml-refillable",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/u_3432240515438_01.jpg?v=1763295967",
-          "price": 332,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "ROJA PARFUMS",
       "slug": "roja-parfums",
       "count": 119,
@@ -2848,6 +2798,56 @@
           "handle": "roja-parfums-isola-verde-parfum-for-unisex-aromatic-fruity-perfume-50ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/5056663804146-0.png?v=1768391750",
           "price": 1120,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Cartier",
+      "slug": "cartier",
+      "count": 119,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/aJtzBrCJGuJ9Xky2KcOW3VMlFkqAvk7mW2is14HY.jpg?v=1769582349",
+      "preview": [
+        {
+          "name": "Cartier Oud & Rose Parfum For Unisex - Amber Floral Perfume 45ml",
+          "handle": "cartier-oud-rose-parfum-for-unisex-amber-floral-perfume-45ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/aJtzBrCJGuJ9Xky2KcOW3VMlFkqAvk7mW2is14HY.jpg?v=1769582349",
+          "price": 802,
+          "badge": ""
+        },
+        {
+          "name": "Cartier Pasha De Cartier Edition Noire Eau De Toilette For Men - Woody Aromatic Perfume 50ml",
+          "handle": "cartier-pasha-de-cartier-edition-noire-eau-de-toilette-for-men-woody-aromatic-perfume-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3432240506245_641ce5bf-8d50-43b4-ba62-fb92393bd11d.jpg?v=1769580845",
+          "price": 243,
+          "badge": ""
+        },
+        {
+          "name": "Cartier Pasha de Cartier Edition Noire Eau De Toilette For Men - Woody Aromatic Perfume 100ml Refillable",
+          "handle": "cartier-pasha-de-cartier-edition-noire-eau-de-toilette-for-men-woody-aromatic-perfume-100ml-refillable",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/u_3432240516626_01.jpg?v=1766421545",
+          "price": 337,
+          "badge": ""
+        },
+        {
+          "name": "Cartier L'Heure Osee V Eau De Parfum For Unisex - Floral Perfume  75ml",
+          "handle": "cartier-lheure-osee-v-eau-de-parfum-for-unisex-floral-perfume-75ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/375x500.65702.2x.avif?v=1763361516",
+          "price": 904,
+          "badge": ""
+        },
+        {
+          "name": "Cartier Declaration Parfum For Men - Woody Floral Musk Perfume 50ml Refillable",
+          "handle": "cartier-declaration-parfum-for-men-woody-floral-musk-perfume-50ml-refillable",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cartier-mens-declaration-parfum-17-oz-fragrances-3432240506733.jpg?v=1763306661",
+          "price": 306,
+          "badge": ""
+        },
+        {
+          "name": "Cartier Declaration Eau De Parfum For Men - Woody Floral Musk Perfume 50ml Refillable",
+          "handle": "cartier-declaration-eau-de-parfum-for-men-woody-floral-musk-perfume-50ml-refillable",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/u_3432240515438_01.jpg?v=1763295967",
+          "price": 332,
           "badge": ""
         }
       ]
