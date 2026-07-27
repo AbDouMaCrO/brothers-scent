@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T15:28:05.229Z",
+  "generated_at": "2026-07-27T17:22:15.152Z",
   "total_brands": 888,
   "brands": [
     {
@@ -403,56 +403,6 @@
       ]
     },
     {
-      "name": "Chanel",
-      "slug": "chanel",
-      "count": 332,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/n-5-eau-de-toilette-spray-5fl-oz--packshot-default-105680-9580787662878.png?v=1782639710",
-      "preview": [
-        {
-          "name": "Chanel No.5 Eau De Toilette For Women-Floral Aldehyde Perfume 150ml",
-          "handle": "chanel-no-5-eau-de-toilette-for-women-floral-aldehyde-perfume-150ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/n-5-eau-de-toilette-spray-5fl-oz--packshot-default-105680-9580787662878.png?v=1782639710",
-          "price": 1084,
-          "badge": ""
-        },
-        {
-          "name": "Chanel No.5 Eau De Toilette For Women-Floral Aldehyde Perfume 75ml",
-          "handle": "chanel-no-5-eau-de-toilette-for-women-floral-aldehyde-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3145891056709-1_1944x_dd14d3bc-189a-44cf-8d25-d5d6fc369787.jpg?v=1781074654",
-          "price": 658,
-          "badge": ""
-        },
-        {
-          "name": "Chanel Gabrielle L'Eau Eau De Toilette For Women-Floral Fruity Perfume 100ml",
-          "handle": "chanel-gabrielle-leau-eau-de-toilette-for-women-floral-fruity-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/s2791382-main-zoom.webp?v=1781072662",
-          "price": 877,
-          "badge": ""
-        },
-        {
-          "name": "Chanel No.5 The Shower Gel For Women 200ml",
-          "handle": "chanel-no-5-the-shower-gel-for-women-200ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/chanel.jpg?v=1776228556",
-          "price": 397,
-          "badge": ""
-        },
-        {
-          "name": "Chanel Cristalle Edp For Women Floral 100ml",
-          "handle": "chanel-cristalle-edp-for-women-floral-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/channel.avif?v=1770818442",
-          "price": 993,
-          "badge": ""
-        },
-        {
-          "name": "Chanel Bleu De Chanel L'Exclusif Parfum For Men - Woody Aromatic Perfume 100ml",
-          "handle": "chanel-bleu-de-chanel-lexclusif-parfum-for-men-woody-aromatic-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3145891072204_enfr_01_1200.jpg?v=1767594349",
-          "price": 1496,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "samawa perfumes ",
       "slug": "samawa-perfumes",
       "count": 331,
@@ -498,6 +448,56 @@
           "handle": "samawa-fragrance-oil-inspired-by-creed-aventus-pfb-64-1kg",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/FragranceOil1kg_ab257b70-9fbe-4344-ad4a-7722eee54c2d.jpg?v=1748601091",
           "price": 525,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Chanel",
+      "slug": "chanel",
+      "count": 331,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/n-5-eau-de-toilette-spray-5fl-oz--packshot-default-105680-9580787662878.png?v=1782639710",
+      "preview": [
+        {
+          "name": "Chanel No.5 Eau De Toilette For Women-Floral Aldehyde Perfume 150ml",
+          "handle": "chanel-no-5-eau-de-toilette-for-women-floral-aldehyde-perfume-150ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/n-5-eau-de-toilette-spray-5fl-oz--packshot-default-105680-9580787662878.png?v=1782639710",
+          "price": 1084,
+          "badge": ""
+        },
+        {
+          "name": "Chanel No.5 Eau De Toilette For Women-Floral Aldehyde Perfume 75ml",
+          "handle": "chanel-no-5-eau-de-toilette-for-women-floral-aldehyde-75ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3145891056709-1_1944x_dd14d3bc-189a-44cf-8d25-d5d6fc369787.jpg?v=1781074654",
+          "price": 658,
+          "badge": ""
+        },
+        {
+          "name": "Chanel Gabrielle L'Eau Eau De Toilette For Women-Floral Fruity Perfume 100ml",
+          "handle": "chanel-gabrielle-leau-eau-de-toilette-for-women-floral-fruity-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/s2791382-main-zoom.webp?v=1781072662",
+          "price": 877,
+          "badge": ""
+        },
+        {
+          "name": "Chanel No.5 The Shower Gel For Women 200ml",
+          "handle": "chanel-no-5-the-shower-gel-for-women-200ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/chanel.jpg?v=1776228556",
+          "price": 397,
+          "badge": ""
+        },
+        {
+          "name": "Chanel Cristalle Edp For Women Floral 100ml",
+          "handle": "chanel-cristalle-edp-for-women-floral-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/channel.avif?v=1770818442",
+          "price": 993,
+          "badge": ""
+        },
+        {
+          "name": "Chanel Bleu De Chanel L'Exclusif Parfum For Men - Woody Aromatic Perfume 100ml",
+          "handle": "chanel-bleu-de-chanel-lexclusif-parfum-for-men-woody-aromatic-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3145891072204_enfr_01_1200.jpg?v=1767594349",
+          "price": 1496,
           "badge": ""
         }
       ]
@@ -555,7 +555,7 @@
     {
       "name": "Versace",
       "slug": "versace",
-      "count": 286,
+      "count": 285,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/versace.avif?v=1756480758",
       "preview": [
         {
@@ -1303,6 +1303,56 @@
       ]
     },
     {
+      "name": "Rasasi",
+      "slug": "rasasi",
+      "count": 197,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/NafaeisAlShaghaf_PourHomme_1-Photoroom.png?v=1785171853",
+      "preview": [
+        {
+          "name": "Rasasi Nafaeis Al Shaghaf Maraya Pour Homme Eau De Parfum-Woody Aromatic Perfume 100ml",
+          "handle": "rasasi-nafaeis-al-shaghaf-maraya-pour-homme-eau-de-parfum-woody-aromatic-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/NafaeisAlShaghaf_PourHomme_1-Photoroom.png?v=1785171853",
+          "price": 118,
+          "badge": ""
+        },
+        {
+          "name": "Rasasi Nafaeis Al Shaghaf Maraya Pour Femme Eau De Parfum For Women-Oriental Floral Perfume 100ml",
+          "handle": "rasasi-nafaeis-al-shaghaf-maraya-pour-femme-eau-de-parfum-for-women-oriental-floral-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/2_4b095379-889e-4eb7-ba50-a838ecc043eb-Photoroom.png?v=1785170362",
+          "price": 118,
+          "badge": ""
+        },
+        {
+          "name": "Rasasi Hawas Chrome For Him EDP 100ml",
+          "handle": "rasasi-hawas-chrome-for-him-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Hawas_Chrome.png?v=1784619105",
+          "price": 143,
+          "badge": "SALE"
+        },
+        {
+          "name": "Rasasi Hawas Majestic For Unisex EDP 100ml",
+          "handle": "rasasi-hawas-majestic-for-unisex-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rasasi_Hawas_Majestic_For_Unisex_EDP_100ml.jpg?v=1784178518",
+          "price": 177,
+          "badge": "SALE"
+        },
+        {
+          "name": "Rasasi Hawas Rouge For Her EDP 100ml",
+          "handle": "rasasi-hawas-rouge-for-her-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rasasi_Hawas_Rouge_For_Her_EDP_100ml.png?v=1783409983",
+          "price": 121,
+          "badge": "SALE"
+        },
+        {
+          "name": "Rasasi Al Wisam Hasaas Eau de Parfum For Men Woody 100ml",
+          "handle": "rasasi-al-wisam-hasaas-eau-de-parfum-for-men-woody-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rasasi_Al_Wisam_Hasaas_Eau_de_Parfum_For_Men_Woody_100ml-removebg-preview.png?v=1783322395",
+          "price": 109,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Guess",
       "slug": "guess",
       "count": 197,
@@ -1399,56 +1449,6 @@
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460155687-1_1024x_32ab555c-b6a2-43c2-832d-eb4629d40e52.jpg?v=1773107638",
           "price": 309,
           "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Rasasi",
-      "slug": "rasasi",
-      "count": 195,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Hawas_Chrome.png?v=1784619105",
-      "preview": [
-        {
-          "name": "Rasasi Hawas Chrome For Him EDP 100ml",
-          "handle": "rasasi-hawas-chrome-for-him-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Hawas_Chrome.png?v=1784619105",
-          "price": 143,
-          "badge": "SALE"
-        },
-        {
-          "name": "Rasasi Hawas Majestic For Unisex EDP 100ml",
-          "handle": "rasasi-hawas-majestic-for-unisex-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rasasi_Hawas_Majestic_For_Unisex_EDP_100ml.jpg?v=1784178518",
-          "price": 177,
-          "badge": "SALE"
-        },
-        {
-          "name": "Rasasi Hawas Rouge For Her EDP 100ml",
-          "handle": "rasasi-hawas-rouge-for-her-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rasasi_Hawas_Rouge_For_Her_EDP_100ml.png?v=1783409983",
-          "price": 121,
-          "badge": "SALE"
-        },
-        {
-          "name": "Rasasi Al Wisam Hasaas Eau de Parfum For Men Woody 100ml",
-          "handle": "rasasi-al-wisam-hasaas-eau-de-parfum-for-men-woody-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rasasi_Al_Wisam_Hasaas_Eau_de_Parfum_For_Men_Woody_100ml-removebg-preview.png?v=1783322395",
-          "price": 109,
-          "badge": ""
-        },
-        {
-          "name": "Rasasi Hawas Reina For Unisex EDP 100ml",
-          "handle": "rasasi-hawas-reina-for-unisex-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rasasi_Hawas_Reina_For_Unisex_EDP_100ml.jpg?v=1782461942",
-          "price": 145,
-          "badge": "SALE"
-        },
-        {
-          "name": "Rasasi Daarej Sport EDP For Men 100ml",
-          "handle": "rasasi-daarej-sport-edp-for-men-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Daarej-Sport-Rasasi.webp?v=1782125754",
-          "price": 67,
-          "badge": "SALE"
         }
       ]
     },
@@ -1755,9 +1755,16 @@
     {
       "name": "Jean Paul Gaultier",
       "slug": "jean-paul-gaultier",
-      "count": 170,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/10739860439070-Photoroom.png?v=1785165089",
+      "count": 171,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/8435415115209_1-Photoroom.png?v=1785166073",
       "preview": [
+        {
+          "name": "Jean Paul Gaultier Le Beau Narcisse Eau De Parfum For Men-Floral Woody Musk Perfume 75ml",
+          "handle": "jean-paul-gaultier-le-beau-narcisse-eau-de-parfum-for-men-floral-woody-musk-perfume-75ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/8435415115209_1-Photoroom.png?v=1785166073",
+          "price": 404,
+          "badge": ""
+        },
         {
           "name": "Jean Paul Gaultier Le Beau Narcisse Eau De Parfum For Men-Floral Woody Musk Perfume 125ml",
           "handle": "jean-paul-gaultier-le-beau-narcisse-eau-de-parfum-for-men-floral-woody-musk-perfume-125ml",
@@ -1791,13 +1798,6 @@
           "handle": "jean-paul-gaultier-gift-set-for-men-amber-1",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/g-removebg-preview_1.png?v=1784798276",
           "price": 362,
-          "badge": ""
-        },
-        {
-          "name": "Jean Paul Gaultier Scandal Intense Pour Homme Edp For Men Amber 150ml",
-          "handle": "jean-paul-gaultier-scandal-intense-pour-homme-edp-for-men-amber-150ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/sacandal-removebg_21b71835-d7fb-4442-aa1f-ad50293fe91b.png?v=1784578186",
-          "price": 549,
           "badge": ""
         }
       ]
@@ -2803,56 +2803,6 @@
       ]
     },
     {
-      "name": "Cartier",
-      "slug": "cartier",
-      "count": 119,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/aJtzBrCJGuJ9Xky2KcOW3VMlFkqAvk7mW2is14HY.jpg?v=1769582349",
-      "preview": [
-        {
-          "name": "Cartier Oud & Rose Parfum For Unisex - Amber Floral Perfume 45ml",
-          "handle": "cartier-oud-rose-parfum-for-unisex-amber-floral-perfume-45ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/aJtzBrCJGuJ9Xky2KcOW3VMlFkqAvk7mW2is14HY.jpg?v=1769582349",
-          "price": 802,
-          "badge": ""
-        },
-        {
-          "name": "Cartier Pasha De Cartier Edition Noire Eau De Toilette For Men - Woody Aromatic Perfume 50ml",
-          "handle": "cartier-pasha-de-cartier-edition-noire-eau-de-toilette-for-men-woody-aromatic-perfume-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3432240506245_641ce5bf-8d50-43b4-ba62-fb92393bd11d.jpg?v=1769580845",
-          "price": 243,
-          "badge": ""
-        },
-        {
-          "name": "Cartier Pasha de Cartier Edition Noire Eau De Toilette For Men - Woody Aromatic Perfume 100ml Refillable",
-          "handle": "cartier-pasha-de-cartier-edition-noire-eau-de-toilette-for-men-woody-aromatic-perfume-100ml-refillable",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/u_3432240516626_01.jpg?v=1766421545",
-          "price": 337,
-          "badge": ""
-        },
-        {
-          "name": "Cartier L'Heure Osee V Eau De Parfum For Unisex - Floral Perfume  75ml",
-          "handle": "cartier-lheure-osee-v-eau-de-parfum-for-unisex-floral-perfume-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/375x500.65702.2x.avif?v=1763361516",
-          "price": 904,
-          "badge": ""
-        },
-        {
-          "name": "Cartier Declaration Parfum For Men - Woody Floral Musk Perfume 50ml Refillable",
-          "handle": "cartier-declaration-parfum-for-men-woody-floral-musk-perfume-50ml-refillable",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cartier-mens-declaration-parfum-17-oz-fragrances-3432240506733.jpg?v=1763306661",
-          "price": 306,
-          "badge": ""
-        },
-        {
-          "name": "Cartier Declaration Eau De Parfum For Men - Woody Floral Musk Perfume 50ml Refillable",
-          "handle": "cartier-declaration-eau-de-parfum-for-men-woody-floral-musk-perfume-50ml-refillable",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/u_3432240515438_01.jpg?v=1763295967",
-          "price": 332,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Jimmy Choo",
       "slug": "jimmy-choo",
       "count": 118,
@@ -2998,6 +2948,56 @@
           "handle": "goutal-paris-gift-set-for-women",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/goutal.webp?v=1769359083",
           "price": 537,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Cartier",
+      "slug": "cartier",
+      "count": 118,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/aJtzBrCJGuJ9Xky2KcOW3VMlFkqAvk7mW2is14HY.jpg?v=1769582349",
+      "preview": [
+        {
+          "name": "Cartier Oud & Rose Parfum For Unisex - Amber Floral Perfume 45ml",
+          "handle": "cartier-oud-rose-parfum-for-unisex-amber-floral-perfume-45ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/aJtzBrCJGuJ9Xky2KcOW3VMlFkqAvk7mW2is14HY.jpg?v=1769582349",
+          "price": 802,
+          "badge": ""
+        },
+        {
+          "name": "Cartier Pasha De Cartier Edition Noire Eau De Toilette For Men - Woody Aromatic Perfume 50ml",
+          "handle": "cartier-pasha-de-cartier-edition-noire-eau-de-toilette-for-men-woody-aromatic-perfume-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3432240506245_641ce5bf-8d50-43b4-ba62-fb92393bd11d.jpg?v=1769580845",
+          "price": 243,
+          "badge": ""
+        },
+        {
+          "name": "Cartier Pasha de Cartier Edition Noire Eau De Toilette For Men - Woody Aromatic Perfume 100ml Refillable",
+          "handle": "cartier-pasha-de-cartier-edition-noire-eau-de-toilette-for-men-woody-aromatic-perfume-100ml-refillable",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/u_3432240516626_01.jpg?v=1766421545",
+          "price": 337,
+          "badge": ""
+        },
+        {
+          "name": "Cartier L'Heure Osee V Eau De Parfum For Unisex - Floral Perfume  75ml",
+          "handle": "cartier-lheure-osee-v-eau-de-parfum-for-unisex-floral-perfume-75ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/375x500.65702.2x.avif?v=1763361516",
+          "price": 904,
+          "badge": ""
+        },
+        {
+          "name": "Cartier Declaration Parfum For Men - Woody Floral Musk Perfume 50ml Refillable",
+          "handle": "cartier-declaration-parfum-for-men-woody-floral-musk-perfume-50ml-refillable",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cartier-mens-declaration-parfum-17-oz-fragrances-3432240506733.jpg?v=1763306661",
+          "price": 306,
+          "badge": ""
+        },
+        {
+          "name": "Cartier Declaration Eau De Parfum For Men - Woody Floral Musk Perfume 50ml Refillable",
+          "handle": "cartier-declaration-eau-de-parfum-for-men-woody-floral-musk-perfume-50ml-refillable",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/u_3432240515438_01.jpg?v=1763295967",
+          "price": 332,
           "badge": ""
         }
       ]
