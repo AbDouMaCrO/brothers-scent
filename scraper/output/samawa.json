@@ -1,8 +1,77 @@
 {
-  "scraped_at": "2026-07-28T03:49:18.006Z",
+  "scraped_at": "2026-07-28T06:28:09.810Z",
   "source": "https://samawa.ae",
   "count": 25016,
   "products": [
+    {
+      "name": "Valentino Uomo Born in Roma Intense Eau De Parfum For Men-Oriental Vanilla Perfume 50ml",
+      "brand": "Valentino",
+      "category_slug": "homme",
+      "size": "50ml",
+      "price_retail": 379,
+      "price_gros": 379,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/R5kNXzS_ZR-1-Photoroom.png?v=1785215673",
+      "active": true,
+      "_handle": "valentino-uomo-born-in-roma-intense-eau-de-parfum-for-men-oriental-vanilla-perfume-50ml",
+      "_sku": "3614273790833",
+      "_tags": [
+        "50ml",
+        "Branded Perfumes",
+        "EDP",
+        "Fragrance",
+        "Men"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/valentino-uomo-born-in-roma-intense-eau-de-parfum-for-men-oriental-vanilla-perfume-50ml"
+    },
+    {
+      "name": "Rasasi Rafan Pour Homme Eau De Parfum For Men-Woody Aromatic Perfume 100ml",
+      "brand": "Rasasi",
+      "category_slug": "homme",
+      "size": "100ml",
+      "price_retail": 98,
+      "price_gros": 98,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/NewProject_12-Photoroom.png?v=1785212184",
+      "active": true,
+      "_handle": "rasasi-rafan-pour-homme-eau-de-parfum-for-men-woody-aromatic-perfume-100ml",
+      "_sku": "614514555187",
+      "_tags": [
+        "100ml",
+        "Arabic Perfume",
+        "EDP",
+        "Fragrance",
+        "Men"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/rasasi-rafan-pour-homme-eau-de-parfum-for-men-woody-aromatic-perfume-100ml"
+    },
+    {
+      "name": "Rasasi Rafan Pour Femme Eau De Parfum For Women-Floral Fruity Perfume 100ml",
+      "brand": "Rasasi",
+      "category_slug": "homme",
+      "size": "100ml",
+      "price_retail": 98,
+      "price_gros": 98,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/XEdxLdINl3O3aZNIKaJ60azQlbsjMN7H6B77h_1CVRocEqfeTFVQnF-dA6-dWfuUyQKPkr_KTcIR-kkl6WAR9LoIt-tHcp9jrENg20fo3wdyvy_og-4xzctvkUhM-Ga7kjxQK2zLHP0hlZuZo7LH6FCVuCgPLsxWVujtR1nxr1G5yh7K2A_c8GS.png?v=1785210601",
+      "active": true,
+      "_handle": "rasasi-rafan-pour-femme-eau-de-parfum-for-women-floral-fruity-perfume-100ml",
+      "_sku": "614514555170",
+      "_tags": [
+        "100ml",
+        "Arabic Perfume",
+        "EDP",
+        "Fragrance",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/rasasi-rafan-pour-femme-eau-de-parfum-for-women-floral-fruity-perfume-100ml"
+    },
     {
       "name": "Rasasi Nafaeis Al Shaghaf Maraya Pour Homme Eau De Parfum-Woody Aromatic Perfume 100ml",
       "brand": "Rasasi",
@@ -16388,8 +16457,8 @@
       "brand": "Lattafa",
       "category_slug": "homme",
       "size": "100ml",
-      "price_retail": 130,
-      "price_gros": 130,
+      "price_retail": 128,
+      "price_gros": 128,
       "stock": 999,
       "badge": "",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Pride_Eternal_Vanille_EDP_For_Unisex_100ml.webp?v=1775632184",
@@ -581510,75 +581579,6 @@
       ],
       "_product_type": "Fragrance",
       "_url": "https://samawa.ae/products/paris-hilton-limited-edition-anniversary-for-women-eau-de-parfum-100ml"
-    },
-    {
-      "name": "RIHANNA RIRI  for Women EDP, 100 ml",
-      "brand": "Rihanna",
-      "category_slug": "homme",
-      "size": "100ml",
-      "price_retail": 119,
-      "price_gros": 119,
-      "stock": 999,
-      "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/riri_by_rihanna.jpg?v=1624395401",
-      "active": true,
-      "_handle": "rihanna-riri-for-women-edp-100-ml",
-      "_sku": "608940560358",
-      "_tags": [
-        "100ml",
-        "Branded Perfumes",
-        "EDP",
-        "Fragrance",
-        "Women"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/rihanna-riri-for-women-edp-100-ml"
-    },
-    {
-      "name": "Chanel Bleu De Chanel by for Men - Eau de Parfum, 50ml",
-      "brand": "Chanel",
-      "category_slug": "homme",
-      "size": "50ml",
-      "price_retail": 566,
-      "price_gros": 722,
-      "stock": 999,
-      "badge": "SALE",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Chanel_Bleu_De_Chanel_by_for_Men_-_Eau_de_Parfum_50ml.jpg?v=1739598404",
-      "active": true,
-      "_handle": "chanel-bleu-de-chanel-by-for-men-eau-de-parfum-50ml",
-      "_sku": "3145891071702",
-      "_tags": [
-        "50ml",
-        "Branded Perfumes",
-        "Fragrance",
-        "Men"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/chanel-bleu-de-chanel-by-for-men-eau-de-parfum-50ml"
-    },
-    {
-      "name": "Versace Eros Pour Femme Eau de Parfum 50 ml",
-      "brand": "versace",
-      "category_slug": "homme",
-      "size": "50ml",
-      "price_retail": 0,
-      "price_gros": 259,
-      "stock": 999,
-      "badge": "SALE",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/versace_eros_pour_femme_1.jpg?v=1624395367",
-      "active": true,
-      "_handle": "versace-eros-pour-femme-eau-de-parfum-50-ml",
-      "_sku": "8011003823529",
-      "_tags": [
-        "50ml",
-        "Branded Perfumes",
-        "EDP",
-        "Fragrance",
-        "Men",
-        "Women"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/versace-eros-pour-femme-eau-de-parfum-50-ml"
     }
   ]
 }

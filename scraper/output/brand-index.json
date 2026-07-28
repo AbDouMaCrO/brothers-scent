@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T03:50:58.144Z",
+  "generated_at": "2026-07-28T06:29:18.444Z",
   "total_brands": 888,
   "brands": [
     {
@@ -455,7 +455,7 @@
     {
       "name": "Chanel",
       "slug": "chanel",
-      "count": 331,
+      "count": 330,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/n-5-eau-de-toilette-spray-5fl-oz--packshot-default-105680-9580787662878.png?v=1782639710",
       "preview": [
         {
@@ -555,7 +555,7 @@
     {
       "name": "Versace",
       "slug": "versace",
-      "count": 285,
+      "count": 284,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/versace.avif?v=1756480758",
       "preview": [
         {
@@ -1253,6 +1253,56 @@
       ]
     },
     {
+      "name": "Rasasi",
+      "slug": "rasasi",
+      "count": 199,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/NewProject_12-Photoroom.png?v=1785212184",
+      "preview": [
+        {
+          "name": "Rasasi Rafan Pour Homme Eau De Parfum For Men-Woody Aromatic Perfume 100ml",
+          "handle": "rasasi-rafan-pour-homme-eau-de-parfum-for-men-woody-aromatic-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/NewProject_12-Photoroom.png?v=1785212184",
+          "price": 98,
+          "badge": ""
+        },
+        {
+          "name": "Rasasi Rafan Pour Femme Eau De Parfum For Women-Floral Fruity Perfume 100ml",
+          "handle": "rasasi-rafan-pour-femme-eau-de-parfum-for-women-floral-fruity-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/XEdxLdINl3O3aZNIKaJ60azQlbsjMN7H6B77h_1CVRocEqfeTFVQnF-dA6-dWfuUyQKPkr_KTcIR-kkl6WAR9LoIt-tHcp9jrENg20fo3wdyvy_og-4xzctvkUhM-Ga7kjxQK2zLHP0hlZuZo7LH6FCVuCgPLsxWVujtR1nxr1G5yh7K2A_c8GS.png?v=1785210601",
+          "price": 98,
+          "badge": ""
+        },
+        {
+          "name": "Rasasi Nafaeis Al Shaghaf Maraya Pour Homme Eau De Parfum-Woody Aromatic Perfume 100ml",
+          "handle": "rasasi-nafaeis-al-shaghaf-maraya-pour-homme-eau-de-parfum-woody-aromatic-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/NafaeisAlShaghaf_PourHomme_1-Photoroom.png?v=1785171853",
+          "price": 118,
+          "badge": ""
+        },
+        {
+          "name": "Rasasi Nafaeis Al Shaghaf Maraya Pour Femme Eau De Parfum For Women-Oriental Floral Perfume 100ml",
+          "handle": "rasasi-nafaeis-al-shaghaf-maraya-pour-femme-eau-de-parfum-for-women-oriental-floral-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/2_4b095379-889e-4eb7-ba50-a838ecc043eb-Photoroom.png?v=1785170362",
+          "price": 118,
+          "badge": ""
+        },
+        {
+          "name": "Rasasi Hawas Chrome For Him EDP 100ml",
+          "handle": "rasasi-hawas-chrome-for-him-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Hawas_Chrome.png?v=1784619105",
+          "price": 143,
+          "badge": "SALE"
+        },
+        {
+          "name": "Rasasi Hawas Majestic For Unisex EDP 100ml",
+          "handle": "rasasi-hawas-majestic-for-unisex-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rasasi_Hawas_Majestic_For_Unisex_EDP_100ml.jpg?v=1784178518",
+          "price": 177,
+          "badge": "SALE"
+        }
+      ]
+    },
+    {
       "name": "MUGLER",
       "slug": "mugler",
       "count": 199,
@@ -1298,56 +1348,6 @@
           "handle": "mugler-angel-stellar-eau-de-parfum-for-women-lumineuse-amber-vanilla-perfume-100ml-refillable",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3614274292237_Front.png?v=1758034372",
           "price": 399,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Rasasi",
-      "slug": "rasasi",
-      "count": 197,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/NafaeisAlShaghaf_PourHomme_1-Photoroom.png?v=1785171853",
-      "preview": [
-        {
-          "name": "Rasasi Nafaeis Al Shaghaf Maraya Pour Homme Eau De Parfum-Woody Aromatic Perfume 100ml",
-          "handle": "rasasi-nafaeis-al-shaghaf-maraya-pour-homme-eau-de-parfum-woody-aromatic-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/NafaeisAlShaghaf_PourHomme_1-Photoroom.png?v=1785171853",
-          "price": 118,
-          "badge": ""
-        },
-        {
-          "name": "Rasasi Nafaeis Al Shaghaf Maraya Pour Femme Eau De Parfum For Women-Oriental Floral Perfume 100ml",
-          "handle": "rasasi-nafaeis-al-shaghaf-maraya-pour-femme-eau-de-parfum-for-women-oriental-floral-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/2_4b095379-889e-4eb7-ba50-a838ecc043eb-Photoroom.png?v=1785170362",
-          "price": 118,
-          "badge": ""
-        },
-        {
-          "name": "Rasasi Hawas Chrome For Him EDP 100ml",
-          "handle": "rasasi-hawas-chrome-for-him-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Hawas_Chrome.png?v=1784619105",
-          "price": 143,
-          "badge": "SALE"
-        },
-        {
-          "name": "Rasasi Hawas Majestic For Unisex EDP 100ml",
-          "handle": "rasasi-hawas-majestic-for-unisex-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rasasi_Hawas_Majestic_For_Unisex_EDP_100ml.jpg?v=1784178518",
-          "price": 177,
-          "badge": "SALE"
-        },
-        {
-          "name": "Rasasi Hawas Rouge For Her EDP 100ml",
-          "handle": "rasasi-hawas-rouge-for-her-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rasasi_Hawas_Rouge_For_Her_EDP_100ml.png?v=1783409983",
-          "price": 121,
-          "badge": "SALE"
-        },
-        {
-          "name": "Rasasi Al Wisam Hasaas Eau de Parfum For Men Woody 100ml",
-          "handle": "rasasi-al-wisam-hasaas-eau-de-parfum-for-men-woody-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rasasi_Al_Wisam_Hasaas_Eau_de_Parfum_For_Men_Woody_100ml-removebg-preview.png?v=1783322395",
-          "price": 109,
           "badge": ""
         }
       ]
@@ -3005,9 +3005,16 @@
     {
       "name": "Valentino",
       "slug": "valentino",
-      "count": 115,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/v_7d0619ef-873a-46db-b145-235567295e9a.png?v=1783505155",
+      "count": 116,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/R5kNXzS_ZR-1-Photoroom.png?v=1785215673",
       "preview": [
+        {
+          "name": "Valentino Uomo Born in Roma Intense Eau De Parfum For Men-Oriental Vanilla Perfume 50ml",
+          "handle": "valentino-uomo-born-in-roma-intense-eau-de-parfum-for-men-oriental-vanilla-perfume-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/R5kNXzS_ZR-1-Photoroom.png?v=1785215673",
+          "price": 379,
+          "badge": ""
+        },
         {
           "name": "Valentino Donna Born in Roma Green Stravaganza Edp For Women Floral 30ml",
           "handle": "valentino-donna-born-in-roma-green-stravaganza-edp-for-women-floral-30ml",
@@ -3041,13 +3048,6 @@
           "handle": "valentino-anatomy-of-dreams-sogno-in-rosso-parfum-for-unisex-oriental-spicy-perfume-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Anatomy-Of-Dreams---Sogno-In-Rosso-Parfum-100Ml.jpg?v=1772098428",
           "price": 949,
-          "badge": ""
-        },
-        {
-          "name": "Valentino Anatomy Of Dreams Private Talk Parfum For Unisex - Oriental Floral  Perfume 100ml",
-          "handle": "valentino-anatomy-of-dreams-private-talk-parfum-for-unisex-oriental-floral-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Anatomy-Of-Dreams---Private-Talk-Parfum-100Ml.jpg?v=1772098094",
-          "price": 831,
           "badge": ""
         }
       ]
@@ -15253,56 +15253,6 @@
       ]
     },
     {
-      "name": "Rihanna",
-      "slug": "rihanna",
-      "count": 15,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/RihannaReb_LFleurLoveAlways_W_Edp100Ml.jpg?v=1655279936",
-      "preview": [
-        {
-          "name": "Rihanna Reb'L Fleur Love Always Perfume For Women EDP 100ml",
-          "handle": "rihanna-rebl-fleur-love-always-perfume-for-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/RihannaReb_LFleurLoveAlways_W_Edp100Ml.jpg?v=1655279936",
-          "price": 116,
-          "badge": ""
-        },
-        {
-          "name": "RIHANNA ROUGE LOVE FOR WOMEN EDP 125 ml",
-          "handle": "rihanna-rouge-love-for-women-edp-125-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/parlux194.6586.76.jpg?v=1624550507",
-          "price": 131,
-          "badge": ""
-        },
-        {
-          "name": "RIHANNA ROUGE FOR WOMEN EDP 125 ml",
-          "handle": "rihanna-rouge-for-women-edp-125-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/parlux194.6321.76.jpg?v=1624550499",
-          "price": 103,
-          "badge": ""
-        },
-        {
-          "name": "Rihanna Rogue - Perfume For Women - EDP 7.5 ml  (Mini)",
-          "handle": "rihanna-rogue-perfume-for-women-edp-7-5-ml-mini",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/rihanna_rogue_for_women_7.5_ml_edp_spray_mini.jpg?v=1624521528",
-          "price": 13,
-          "badge": ""
-        },
-        {
-          "name": "Rihanna Nude - perfumes for women, 100 ml - EDP Spray",
-          "handle": "rihanna-nude-perfumes-for-women-100-ml-edp-spray",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/rihanna_nude_-_perfumes_for_women_100_ml_-_edp_spray.jpg?v=1624476843",
-          "price": 138,
-          "badge": ""
-        },
-        {
-          "name": "RIHANNA RIRI KISS WOMEN EDP 100 ml",
-          "handle": "rihanna-riri-kiss-women-edp-100-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/rihanna-kiss-eau-de-parfum-100ml-608940567975-33.jpg?v=1633537937",
-          "price": 92,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "100 Bon",
       "slug": "100-bon",
       "count": 15,
@@ -15898,6 +15848,56 @@
           "handle": "sylvaine-delacourte-collection-vanille-valkyrie-unisex-edp-100-ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/sylvaine_delacourte_collection_vanille_valkyrie_u_edp_100_ml.jpg?v=1624503314",
           "price": 370,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Rihanna",
+      "slug": "rihanna",
+      "count": 14,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/RihannaReb_LFleurLoveAlways_W_Edp100Ml.jpg?v=1655279936",
+      "preview": [
+        {
+          "name": "Rihanna Reb'L Fleur Love Always Perfume For Women EDP 100ml",
+          "handle": "rihanna-rebl-fleur-love-always-perfume-for-women-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/RihannaReb_LFleurLoveAlways_W_Edp100Ml.jpg?v=1655279936",
+          "price": 116,
+          "badge": ""
+        },
+        {
+          "name": "RIHANNA ROUGE LOVE FOR WOMEN EDP 125 ml",
+          "handle": "rihanna-rouge-love-for-women-edp-125-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/parlux194.6586.76.jpg?v=1624550507",
+          "price": 131,
+          "badge": ""
+        },
+        {
+          "name": "RIHANNA ROUGE FOR WOMEN EDP 125 ml",
+          "handle": "rihanna-rouge-for-women-edp-125-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/parlux194.6321.76.jpg?v=1624550499",
+          "price": 103,
+          "badge": ""
+        },
+        {
+          "name": "Rihanna Rogue - Perfume For Women - EDP 7.5 ml  (Mini)",
+          "handle": "rihanna-rogue-perfume-for-women-edp-7-5-ml-mini",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/rihanna_rogue_for_women_7.5_ml_edp_spray_mini.jpg?v=1624521528",
+          "price": 13,
+          "badge": ""
+        },
+        {
+          "name": "Rihanna Nude - perfumes for women, 100 ml - EDP Spray",
+          "handle": "rihanna-nude-perfumes-for-women-100-ml-edp-spray",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/rihanna_nude_-_perfumes_for_women_100_ml_-_edp_spray.jpg?v=1624476843",
+          "price": 138,
+          "badge": ""
+        },
+        {
+          "name": "RIHANNA RIRI KISS WOMEN EDP 100 ml",
+          "handle": "rihanna-riri-kiss-women-edp-100-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/rihanna-kiss-eau-de-parfum-100ml-608940567975-33.jpg?v=1633537937",
+          "price": 92,
           "badge": ""
         }
       ]
