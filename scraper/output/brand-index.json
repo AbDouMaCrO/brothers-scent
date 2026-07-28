@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T17:57:21.100Z",
+  "generated_at": "2026-07-28T19:24:01.056Z",
   "total_brands": 888,
   "brands": [
     {
@@ -2103,6 +2103,56 @@
       ]
     },
     {
+      "name": "Azzaro",
+      "slug": "azzaro",
+      "count": 140,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/azzaro-removebg-preview.png?v=1785261828",
+      "preview": [
+        {
+          "name": "Azzaro Gift Set For Men Amber",
+          "handle": "azzaro-gift-set-for-men-amber-1",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/azzaro-removebg-preview.png?v=1785261828",
+          "price": 399,
+          "badge": ""
+        },
+        {
+          "name": "Azzaro Gift Set For Men Amber",
+          "handle": "azzaro-gift-set-for-men-amber",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/azzaro-removebg.png?v=1784822151",
+          "price": 269,
+          "badge": ""
+        },
+        {
+          "name": "Azzaro The Most Wanted Deodorant Stick For Men Amber 77g",
+          "handle": "azzaro-the-most-wanted-deodorant-stick-for-men-amber-77g",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/the_most-removebg.png?v=1784582273",
+          "price": 67,
+          "badge": ""
+        },
+        {
+          "name": "Azzaro Chrome Gift Set For Men",
+          "handle": "azzaro-chrome-gift-set-for-men-2",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Azzaro-Chrome-Gift-Set-Mens-3614274411133_57993__70331.1752248323.jpg?v=1767275706",
+          "price": 293,
+          "badge": ""
+        },
+        {
+          "name": "Azzaro Forever Wanted Elixir Perfume For Men Parfum 50ml",
+          "handle": "azzaro-forever-wanted-elixir-perfume-for-men-parfum-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3614274258080.jpg?v=1751458009",
+          "price": 273,
+          "badge": "SALE"
+        },
+        {
+          "name": "Azzaro Forever Wanted Elixir Perfume For Men Parfum 100ml",
+          "handle": "azzaro-forever-wanted-elixir-perfume-for-men-parfum-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/azzaro-forever-wanted-elixir.jpg?v=1751457233",
+          "price": 335,
+          "badge": "SALE"
+        }
+      ]
+    },
+    {
       "name": "Antonio Banderas",
       "slug": "antonio-banderas",
       "count": 140,
@@ -2148,56 +2198,6 @@
           "handle": "antonio-banderas-the-secret-absolu-edp-perfume-for-men-warm-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/the-secret-absolu___240415.webp?v=1769175125",
           "price": 83,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Azzaro",
-      "slug": "azzaro",
-      "count": 139,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/azzaro-removebg.png?v=1784822151",
-      "preview": [
-        {
-          "name": "Azzaro Gift Set For Men Amber",
-          "handle": "azzaro-gift-set-for-men-amber",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/azzaro-removebg.png?v=1784822151",
-          "price": 269,
-          "badge": ""
-        },
-        {
-          "name": "Azzaro The Most Wanted Deodorant Stick For Men Amber 77g",
-          "handle": "azzaro-the-most-wanted-deodorant-stick-for-men-amber-77g",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/the_most-removebg.png?v=1784582273",
-          "price": 67,
-          "badge": ""
-        },
-        {
-          "name": "Azzaro Chrome Gift Set For Men",
-          "handle": "azzaro-chrome-gift-set-for-men-2",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Azzaro-Chrome-Gift-Set-Mens-3614274411133_57993__70331.1752248323.jpg?v=1767275706",
-          "price": 293,
-          "badge": ""
-        },
-        {
-          "name": "Azzaro Forever Wanted Elixir Perfume For Men Parfum 50ml",
-          "handle": "azzaro-forever-wanted-elixir-perfume-for-men-parfum-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3614274258080.jpg?v=1751458009",
-          "price": 273,
-          "badge": "SALE"
-        },
-        {
-          "name": "Azzaro Forever Wanted Elixir Perfume For Men Parfum 100ml",
-          "handle": "azzaro-forever-wanted-elixir-perfume-for-men-parfum-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/azzaro-forever-wanted-elixir.jpg?v=1751457233",
-          "price": 335,
-          "badge": "SALE"
-        },
-        {
-          "name": "Azzaro Wanted For Men Set EDP 100ml + EDP 10ml + Hair & Body Shampoo 75ml",
-          "handle": "azzaro-wanted-for-men-set-edp-100ml-edp-10ml-hair-body-shampoo-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3614274306446_1.jpg?v=1736322083",
-          "price": 334,
           "badge": ""
         }
       ]
@@ -6853,56 +6853,6 @@
       ]
     },
     {
-      "name": "Paris Hilton",
-      "slug": "paris-hilton",
-      "count": 41,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Paris_Hilton_Iconic_EDP_For_Women_100ml.jpg?v=1763033796",
-      "preview": [
-        {
-          "name": "Paris Hilton Iconic EDP For Women 100ml",
-          "handle": "paris-hilton-iconic-edp-for-women-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Paris_Hilton_Iconic_EDP_For_Women_100ml.jpg?v=1763033796",
-          "price": 107,
-          "badge": ""
-        },
-        {
-          "name": "Paris Hilton Love Rush For Women Set EDP 100ml + EDP 10ml + Pouch",
-          "handle": "paris-hilton-love-rush-for-women-set-edp-100ml-edp-10ml-pouch",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/608940584163_1.jpg?v=1738031639",
-          "price": 129,
-          "badge": ""
-        },
-        {
-          "name": "Paris Hilton Siren Lady Perfume For Women EDP 50ml",
-          "handle": "paris-hilton-siren-lady-perfume-for-women-edp-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ParisHiltonSirenLadyEdp50Ml.jpg?v=1734155858",
-          "price": 78,
-          "badge": ""
-        },
-        {
-          "name": "Paris Hilton Siren Perfume For Women EDP 100ml",
-          "handle": "paris-hilton-siren-perfume-for-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ParisHiltonSirenEdp100Ml_ceada8da-a320-46e4-aa8f-50b7be098913.jpg?v=1732720140",
-          "price": 126,
-          "badge": ""
-        },
-        {
-          "name": "Paris Hilton Heiress Gift Set For Women",
-          "handle": "paris-hilton-heiress-gift-set-for-women-1",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ParisHiltonHeiress_W_SetEdp100Ml_EdpRollOn10Ml_BodyLotion90Ml_ShowerGel90Ml.jpg?v=1646291027",
-          "price": 125,
-          "badge": ""
-        },
-        {
-          "name": "Paris Hilton Heiress Gift Set For Women",
-          "handle": "paris-hilton-heiress-gift-set-for-women",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ParisHiltonHeiress_W_SetEdp100Ml_Edp10Ml_BodyLotion90Ml_ShowerGel90Ml.jpg?v=1646290265",
-          "price": 125,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Ferrari",
       "slug": "ferrari",
       "count": 41,
@@ -6948,6 +6898,56 @@
           "handle": "ferrari-red-power-ice-3-perfume-for-men-edt-75ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/FerrariRedPowerIce3_M_Edt75Ml.jpg?v=1659081522",
           "price": 56,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Paris Hilton",
+      "slug": "paris-hilton",
+      "count": 40,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Paris_Hilton_Iconic_EDP_For_Women_100ml.jpg?v=1763033796",
+      "preview": [
+        {
+          "name": "Paris Hilton Iconic EDP For Women 100ml",
+          "handle": "paris-hilton-iconic-edp-for-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Paris_Hilton_Iconic_EDP_For_Women_100ml.jpg?v=1763033796",
+          "price": 107,
+          "badge": ""
+        },
+        {
+          "name": "Paris Hilton Love Rush For Women Set EDP 100ml + EDP 10ml + Pouch",
+          "handle": "paris-hilton-love-rush-for-women-set-edp-100ml-edp-10ml-pouch",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/608940584163_1.jpg?v=1738031639",
+          "price": 129,
+          "badge": ""
+        },
+        {
+          "name": "Paris Hilton Siren Lady Perfume For Women EDP 50ml",
+          "handle": "paris-hilton-siren-lady-perfume-for-women-edp-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ParisHiltonSirenLadyEdp50Ml.jpg?v=1734155858",
+          "price": 78,
+          "badge": ""
+        },
+        {
+          "name": "Paris Hilton Siren Perfume For Women EDP 100ml",
+          "handle": "paris-hilton-siren-perfume-for-women-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ParisHiltonSirenEdp100Ml_ceada8da-a320-46e4-aa8f-50b7be098913.jpg?v=1732720140",
+          "price": 126,
+          "badge": ""
+        },
+        {
+          "name": "Paris Hilton Heiress Gift Set For Women",
+          "handle": "paris-hilton-heiress-gift-set-for-women-1",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ParisHiltonHeiress_W_SetEdp100Ml_EdpRollOn10Ml_BodyLotion90Ml_ShowerGel90Ml.jpg?v=1646291027",
+          "price": 125,
+          "badge": ""
+        },
+        {
+          "name": "Paris Hilton Heiress Gift Set For Women",
+          "handle": "paris-hilton-heiress-gift-set-for-women",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ParisHiltonHeiress_W_SetEdp100Ml_Edp10Ml_BodyLotion90Ml_ShowerGel90Ml.jpg?v=1646290265",
+          "price": 125,
           "badge": ""
         }
       ]

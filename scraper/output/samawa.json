@@ -1,8 +1,32 @@
 {
-  "scraped_at": "2026-07-28T17:56:10.763Z",
+  "scraped_at": "2026-07-28T19:22:50.987Z",
   "source": "https://samawa.ae",
   "count": 25016,
   "products": [
+    {
+      "name": "Azzaro Gift Set For Men Amber",
+      "brand": "Azzaro",
+      "category_slug": "homme",
+      "size": "100ml",
+      "price_retail": 399,
+      "price_gros": 399,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/azzaro-removebg-preview.png?v=1785261828",
+      "active": true,
+      "_handle": "azzaro-gift-set-for-men-amber-1",
+      "_sku": "3614274769890",
+      "_tags": [
+        "Branded Perfumes",
+        "EDP",
+        "Fragrance",
+        "Gift set",
+        "hairand body shampoo",
+        "Men"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/azzaro-gift-set-for-men-amber-1"
+    },
     {
       "name": "Valentino Uomo Born in Roma Intense Eau De Parfum For Men-Oriental Vanilla Perfume 50ml",
       "brand": "Valentino",
@@ -581557,28 +581581,6 @@
       ],
       "_product_type": "Fragrance",
       "_url": "https://samawa.ae/products/paris-hilton-with-love-eau-de-parfum-for-women-50ml"
-    },
-    {
-      "name": "Paris Hilton Limited Edition Anniversary For Women- Eau de Parfum  100ml",
-      "brand": "Paris Hilton",
-      "category_slug": "homme",
-      "size": "100ml",
-      "price_retail": 149,
-      "price_gros": 149,
-      "stock": 999,
-      "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/paris_hilton_limited_anniversary_edition.jpg?v=1624395429",
-      "active": true,
-      "_handle": "paris-hilton-limited-edition-anniversary-for-women-eau-de-parfum-100ml",
-      "_sku": "608940561621",
-      "_tags": [
-        "100ml",
-        "Branded Perfumes",
-        "EDP",
-        "Fragrance"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/paris-hilton-limited-edition-anniversary-for-women-eau-de-parfum-100ml"
     }
   ]
 }
