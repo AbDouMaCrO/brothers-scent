@@ -1,8 +1,55 @@
 {
-  "scraped_at": "2026-07-28T19:22:50.987Z",
+  "scraped_at": "2026-07-28T20:46:37.015Z",
   "source": "https://samawa.ae",
   "count": 25016,
   "products": [
+    {
+      "name": "Billie Eilish Body Lotion For Women 150ml",
+      "brand": "Billie Eilish",
+      "category_slug": "homme",
+      "size": "150ml",
+      "price_retail": 57,
+      "price_gros": 57,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/body-removebg-preview.png?v=1785268447",
+      "active": true,
+      "_handle": "billie-eilish-body-lotion-for-women-150ml",
+      "_sku": "608940582695",
+      "_tags": [
+        "150ml",
+        "Body lotion",
+        "Fragrance",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/billie-eilish-body-lotion-for-women-150ml"
+    },
+    {
+      "name": "Azzaro Gift Set For Men Amber",
+      "brand": "Azzaro",
+      "category_slug": "homme",
+      "size": "100ml",
+      "price_retail": 343,
+      "price_gros": 343,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/wantedd-removebg-preview.png?v=1785266731",
+      "active": true,
+      "_handle": "azzaro-gift-set-for-men-amber-2",
+      "_sku": "3614274769883",
+      "_tags": [
+        "Branded Perfumes",
+        "EDP",
+        "Fragrance",
+        "Gift set",
+        "hairand body shampoo",
+        "Men",
+        "miniature"
+      ],
+      "_product_type": "Gift Set",
+      "_url": "https://samawa.ae/products/azzaro-gift-set-for-men-amber-2"
+    },
     {
       "name": "Azzaro Gift Set For Men Amber",
       "brand": "Azzaro",
@@ -8417,7 +8464,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 156,
-      "price_gros": 84,
+      "price_gros": 74,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Mishlah_EDP_For_Unisex_100ml.webp?v=1782200858",
@@ -581536,51 +581583,6 @@
       ],
       "_product_type": "",
       "_url": "https://samawa.ae/products/chanel-allure-homme-sport-for-men-eau-de-toilette-150ml"
-    },
-    {
-      "name": "Chanel Allure Homme Sport for Men - Eau de Cologne, 150ml",
-      "brand": "Chanel",
-      "category_slug": "homme",
-      "size": "150ml",
-      "price_retail": 764,
-      "price_gros": 764,
-      "stock": 999,
-      "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/allure_homme_sport_by_chanel_for_men_-_eau_de_cologne_150ml.jpg?v=1624395451",
-      "active": true,
-      "_handle": "chanel-allure-homme-sport-for-men-eau-de-cologne-150ml",
-      "_sku": "3145891233803",
-      "_tags": [
-        "150ml",
-        "Branded Perfumes",
-        "Fragrance"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/chanel-allure-homme-sport-for-men-eau-de-cologne-150ml"
-    },
-    {
-      "name": "Paris Hilton With Love Eau de Parfum for Women 50ml",
-      "brand": "Paris Hilton",
-      "category_slug": "homme",
-      "size": "50ml",
-      "price_retail": 108,
-      "price_gros": 64,
-      "stock": 999,
-      "badge": "SALE",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/paris_hilton_with_love_eau_de_parfum_for_women_50ml.jpg?v=1624395440",
-      "active": true,
-      "_handle": "paris-hilton-with-love-eau-de-parfum-for-women-50ml",
-      "_sku": "608940557860",
-      "_tags": [
-        "50ml",
-        "Branded Perfumes",
-        "Clearance",
-        "EDP",
-        "Fragrance",
-        "Women"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/paris-hilton-with-love-eau-de-parfum-for-women-50ml"
     }
   ]
 }

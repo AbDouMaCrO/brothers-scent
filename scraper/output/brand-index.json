@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T19:24:01.056Z",
+  "generated_at": "2026-07-28T20:49:28.959Z",
   "total_brands": 888,
   "brands": [
     {
@@ -455,7 +455,7 @@
     {
       "name": "Chanel",
       "slug": "chanel",
-      "count": 330,
+      "count": 329,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/n-5-eau-de-toilette-spray-5fl-oz--packshot-default-105680-9580787662878.png?v=1782639710",
       "preview": [
         {
@@ -2105,9 +2105,16 @@
     {
       "name": "Azzaro",
       "slug": "azzaro",
-      "count": 140,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/azzaro-removebg-preview.png?v=1785261828",
+      "count": 141,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/wantedd-removebg-preview.png?v=1785266731",
       "preview": [
+        {
+          "name": "Azzaro Gift Set For Men Amber",
+          "handle": "azzaro-gift-set-for-men-amber-2",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/wantedd-removebg-preview.png?v=1785266731",
+          "price": 343,
+          "badge": ""
+        },
         {
           "name": "Azzaro Gift Set For Men Amber",
           "handle": "azzaro-gift-set-for-men-amber-1",
@@ -2141,13 +2148,6 @@
           "handle": "azzaro-forever-wanted-elixir-perfume-for-men-parfum-50ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3614274258080.jpg?v=1751458009",
           "price": 273,
-          "badge": "SALE"
-        },
-        {
-          "name": "Azzaro Forever Wanted Elixir Perfume For Men Parfum 100ml",
-          "handle": "azzaro-forever-wanted-elixir-perfume-for-men-parfum-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/azzaro-forever-wanted-elixir.jpg?v=1751457233",
-          "price": 335,
           "badge": "SALE"
         }
       ]
@@ -6903,56 +6903,6 @@
       ]
     },
     {
-      "name": "Paris Hilton",
-      "slug": "paris-hilton",
-      "count": 40,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Paris_Hilton_Iconic_EDP_For_Women_100ml.jpg?v=1763033796",
-      "preview": [
-        {
-          "name": "Paris Hilton Iconic EDP For Women 100ml",
-          "handle": "paris-hilton-iconic-edp-for-women-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Paris_Hilton_Iconic_EDP_For_Women_100ml.jpg?v=1763033796",
-          "price": 107,
-          "badge": ""
-        },
-        {
-          "name": "Paris Hilton Love Rush For Women Set EDP 100ml + EDP 10ml + Pouch",
-          "handle": "paris-hilton-love-rush-for-women-set-edp-100ml-edp-10ml-pouch",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/608940584163_1.jpg?v=1738031639",
-          "price": 129,
-          "badge": ""
-        },
-        {
-          "name": "Paris Hilton Siren Lady Perfume For Women EDP 50ml",
-          "handle": "paris-hilton-siren-lady-perfume-for-women-edp-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ParisHiltonSirenLadyEdp50Ml.jpg?v=1734155858",
-          "price": 78,
-          "badge": ""
-        },
-        {
-          "name": "Paris Hilton Siren Perfume For Women EDP 100ml",
-          "handle": "paris-hilton-siren-perfume-for-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ParisHiltonSirenEdp100Ml_ceada8da-a320-46e4-aa8f-50b7be098913.jpg?v=1732720140",
-          "price": 126,
-          "badge": ""
-        },
-        {
-          "name": "Paris Hilton Heiress Gift Set For Women",
-          "handle": "paris-hilton-heiress-gift-set-for-women-1",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ParisHiltonHeiress_W_SetEdp100Ml_EdpRollOn10Ml_BodyLotion90Ml_ShowerGel90Ml.jpg?v=1646291027",
-          "price": 125,
-          "badge": ""
-        },
-        {
-          "name": "Paris Hilton Heiress Gift Set For Women",
-          "handle": "paris-hilton-heiress-gift-set-for-women",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ParisHiltonHeiress_W_SetEdp100Ml_Edp10Ml_BodyLotion90Ml_ShowerGel90Ml.jpg?v=1646290265",
-          "price": 125,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Gres",
       "slug": "gres",
       "count": 40,
@@ -7048,6 +6998,56 @@
           "handle": "ex-nihilo-love-shot-eau-de-parfum-for-unisex-chypre-fruity-perfume-50ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/601330_1_2__90929.1700158023.jpg?v=1773574189",
           "price": 497,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Paris Hilton",
+      "slug": "paris-hilton",
+      "count": 39,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Paris_Hilton_Iconic_EDP_For_Women_100ml.jpg?v=1763033796",
+      "preview": [
+        {
+          "name": "Paris Hilton Iconic EDP For Women 100ml",
+          "handle": "paris-hilton-iconic-edp-for-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Paris_Hilton_Iconic_EDP_For_Women_100ml.jpg?v=1763033796",
+          "price": 107,
+          "badge": ""
+        },
+        {
+          "name": "Paris Hilton Love Rush For Women Set EDP 100ml + EDP 10ml + Pouch",
+          "handle": "paris-hilton-love-rush-for-women-set-edp-100ml-edp-10ml-pouch",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/608940584163_1.jpg?v=1738031639",
+          "price": 129,
+          "badge": ""
+        },
+        {
+          "name": "Paris Hilton Siren Lady Perfume For Women EDP 50ml",
+          "handle": "paris-hilton-siren-lady-perfume-for-women-edp-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ParisHiltonSirenLadyEdp50Ml.jpg?v=1734155858",
+          "price": 78,
+          "badge": ""
+        },
+        {
+          "name": "Paris Hilton Siren Perfume For Women EDP 100ml",
+          "handle": "paris-hilton-siren-perfume-for-women-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ParisHiltonSirenEdp100Ml_ceada8da-a320-46e4-aa8f-50b7be098913.jpg?v=1732720140",
+          "price": 126,
+          "badge": ""
+        },
+        {
+          "name": "Paris Hilton Heiress Gift Set For Women",
+          "handle": "paris-hilton-heiress-gift-set-for-women-1",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ParisHiltonHeiress_W_SetEdp100Ml_EdpRollOn10Ml_BodyLotion90Ml_ShowerGel90Ml.jpg?v=1646291027",
+          "price": 125,
+          "badge": ""
+        },
+        {
+          "name": "Paris Hilton Heiress Gift Set For Women",
+          "handle": "paris-hilton-heiress-gift-set-for-women",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ParisHiltonHeiress_W_SetEdp100Ml_Edp10Ml_BodyLotion90Ml_ShowerGel90Ml.jpg?v=1646290265",
+          "price": 125,
           "badge": ""
         }
       ]
@@ -17753,6 +17753,56 @@
       ]
     },
     {
+      "name": "Billie Eilish",
+      "slug": "billie-eilish",
+      "count": 11,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/body-removebg-preview.png?v=1785268447",
+      "preview": [
+        {
+          "name": "Billie Eilish Body Lotion For Women 150ml",
+          "handle": "billie-eilish-body-lotion-for-women-150ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/body-removebg-preview.png?v=1785268447",
+          "price": 57,
+          "badge": ""
+        },
+        {
+          "name": "Billie Eilish Gift Set For Women Amber",
+          "handle": "billie-eilish-gift-set-for-women-amber",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ellish-removebg-preview_1.png?v=1784821665",
+          "price": 288,
+          "badge": ""
+        },
+        {
+          "name": "Billie Eilish Gift Set For Men And Women Woody",
+          "handle": "billie-eilish-gift-set-for-men-and-women-woody",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/yourr-removebg-preview.png?v=1784820914",
+          "price": 259,
+          "badge": ""
+        },
+        {
+          "name": "Billie Eilish Your Turn Edp For Men And Women Woody 50ml",
+          "handle": "billie-eilish-your-turn-edp-for-men-and-women-woody-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/your.avif?v=1776844182",
+          "price": 228,
+          "badge": ""
+        },
+        {
+          "name": "Billie Eilish No. 2 Eau de Parfum For Men And Women Woody 50ml",
+          "handle": "billie-eilish-no-2-eau-de-parfum-for-men-and-women-woody-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/no2.jpg?v=1776843984",
+          "price": 185,
+          "badge": ""
+        },
+        {
+          "name": "Billie Eilish Edp For Women Sweet 50ml",
+          "handle": "billie-eilish-edp-for-women-sweet-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bellieeee.jpg?v=1776843686",
+          "price": 219,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "BRIONI",
       "slug": "brioni",
       "count": 11,
@@ -18248,56 +18298,6 @@
           "handle": "essenzia-forever-love-pour-femme-eau-de-parfum-for-women-floral-100ml-1",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ibiza-removebg-preview.png?v=1785051739",
           "price": 185,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Billie Eilish",
-      "slug": "billie-eilish",
-      "count": 10,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ellish-removebg-preview_1.png?v=1784821665",
-      "preview": [
-        {
-          "name": "Billie Eilish Gift Set For Women Amber",
-          "handle": "billie-eilish-gift-set-for-women-amber",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ellish-removebg-preview_1.png?v=1784821665",
-          "price": 288,
-          "badge": ""
-        },
-        {
-          "name": "Billie Eilish Gift Set For Men And Women Woody",
-          "handle": "billie-eilish-gift-set-for-men-and-women-woody",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/yourr-removebg-preview.png?v=1784820914",
-          "price": 259,
-          "badge": ""
-        },
-        {
-          "name": "Billie Eilish Your Turn Edp For Men And Women Woody 50ml",
-          "handle": "billie-eilish-your-turn-edp-for-men-and-women-woody-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/your.avif?v=1776844182",
-          "price": 228,
-          "badge": ""
-        },
-        {
-          "name": "Billie Eilish No. 2 Eau de Parfum For Men And Women Woody 50ml",
-          "handle": "billie-eilish-no-2-eau-de-parfum-for-men-and-women-woody-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/no2.jpg?v=1776843984",
-          "price": 185,
-          "badge": ""
-        },
-        {
-          "name": "Billie Eilish Edp For Women Sweet 50ml",
-          "handle": "billie-eilish-edp-for-women-sweet-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bellieeee.jpg?v=1776843686",
-          "price": 219,
-          "badge": ""
-        },
-        {
-          "name": "Billie Eilish Eilish No. 2 Gift Set For Men And Women",
-          "handle": "billie-eilish-eilish-no-2-gift-set-for-me",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Billie_Eilish_Eilish_No._2_Gift_Set_For_Men_And_Women.jpg?v=1768282036",
-          "price": 256,
           "badge": ""
         }
       ]
