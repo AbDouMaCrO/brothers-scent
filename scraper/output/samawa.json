@@ -1,8 +1,32 @@
 {
-  "scraped_at": "2026-07-30T11:31:51.429Z",
+  "scraped_at": "2026-07-30T15:34:09.249Z",
   "source": "https://samawa.ae",
   "count": 25016,
   "products": [
+    {
+      "name": "Lattafa Fire On Ice  EDP For Unisex 110ml",
+      "brand": "Lattafa",
+      "category_slug": "homme",
+      "size": "110ml",
+      "price_retail": 198,
+      "price_gros": 120,
+      "stock": 999,
+      "badge": "SALE",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Fire_On_Ice_EDP_For_Unisex_110ml.png?v=1785417498",
+      "active": true,
+      "_handle": "lattafa-fire-on-ice-edp-for-unisex-110ml",
+      "_sku": "6290360598901",
+      "_tags": [
+        "100ml",
+        "Arabic Perfume",
+        "EDP",
+        "Fragrance",
+        "Men",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/lattafa-fire-on-ice-edp-for-unisex-110ml"
+    },
     {
       "name": "Billie Eilish Body Lotion For Women 150ml",
       "brand": "Billie Eilish",
@@ -62562,7 +62586,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 143,
-      "price_gros": 70,
+      "price_gros": 85,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Hawas_Kobra_By_Rasasi_Perfume_For_Men_Edp_100ml.jpg?v=1757568616",
@@ -189989,7 +190013,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 105,
-      "price_gros": 90,
+      "price_gros": 101,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rasasi_Hawas_Ice_For_Him_EDP_100ml.jpg?v=1776327812",
@@ -212238,7 +212262,7 @@
       "price_gros": 95,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Stronger-with-you-Amber-Amazing-Creation.jpg?v=1690271547",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Stronger_With_You_Amber_For_Unisex_100ml_1.png?v=1785417517",
       "active": true,
       "_handle": "amazing-creation-stronger-with-you-amber-for-unisex-100ml-pfb0322",
       "_sku": "6253481593224",
@@ -581567,27 +581591,6 @@
       ],
       "_product_type": "Fragrance",
       "_url": "https://samawa.ae/products/chanel-chance-eau-fraiche-for-women-eau-de-toilette-150-ml"
-    },
-    {
-      "name": "Chanel Allure Homme Sport for Men - Eau de Toilette, 150ml",
-      "brand": "Chanel",
-      "category_slug": "homme",
-      "size": "150ml",
-      "price_retail": 650,
-      "price_gros": 903,
-      "stock": 999,
-      "badge": "SALE",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/3145891236408i.jpg?v=1660801026",
-      "active": true,
-      "_handle": "chanel-allure-homme-sport-for-men-eau-de-toilette-150ml",
-      "_sku": "3145891236408",
-      "_tags": [
-        "150ml",
-        "Branded Perfumes",
-        "Fragrance"
-      ],
-      "_product_type": "",
-      "_url": "https://samawa.ae/products/chanel-allure-homme-sport-for-men-eau-de-toilette-150ml"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T11:33:29.622Z",
+  "generated_at": "2026-07-30T15:35:20.289Z",
   "total_brands": 888,
   "brands": [
     {
@@ -455,7 +455,7 @@
     {
       "name": "Chanel",
       "slug": "chanel",
-      "count": 329,
+      "count": 328,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/n-5-eau-de-toilette-spray-5fl-oz--packshot-default-105680-9580787662878.png?v=1782639710",
       "preview": [
         {
@@ -605,9 +605,16 @@
     {
       "name": "Lattafa",
       "slug": "lattafa",
-      "count": 274,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Raghad.png?v=1785303830",
+      "count": 275,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Fire_On_Ice_EDP_For_Unisex_110ml.png?v=1785417498",
       "preview": [
+        {
+          "name": "Lattafa Fire On Ice  EDP For Unisex 110ml",
+          "handle": "lattafa-fire-on-ice-edp-for-unisex-110ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Fire_On_Ice_EDP_For_Unisex_110ml.png?v=1785417498",
+          "price": 120,
+          "badge": "SALE"
+        },
         {
           "name": "Lattafa Pride Raghad EDP For Men 100ml",
           "handle": "lattafa-pride-raghad-edp-for-men-100ml",
@@ -640,13 +647,6 @@
           "name": "Lattafa Give Me Gourmand Berry On Top EDP For Women 75ml",
           "handle": "lattafa-give-me-gourmand-berry-on-top-edp-for-women-75ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Berry_On_Top.png?v=1785304769",
-          "price": 103,
-          "badge": "SALE"
-        },
-        {
-          "name": "Lattafa Give Me Gourmand Mallow Madness EDP For Women 75ml",
-          "handle": "lattafa-give-me-gourmand-mallow-madness-edp-for-women-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Mallow_Madness.png?v=1785304649",
           "price": 103,
           "badge": "SALE"
         }
