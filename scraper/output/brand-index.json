@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T05:59:36.137Z",
+  "generated_at": "2026-08-02T08:25:50.910Z",
   "total_brands": 888,
   "brands": [
     {
@@ -455,7 +455,7 @@
     {
       "name": "Chanel",
       "slug": "chanel",
-      "count": 327,
+      "count": 323,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/n-5-eau-de-toilette-spray-5fl-oz--packshot-default-105680-9580787662878.png?v=1782639710",
       "preview": [
         {
@@ -2403,6 +2403,56 @@
       ]
     },
     {
+      "name": "Chloe",
+      "slug": "chloe",
+      "count": 128,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/250305104845_7089116_A1-Photoroom.png?v=1785657749",
+      "preview": [
+        {
+          "name": "Chloe Nomade Lumiere D'Egypte Eau De Parfum For Women - Floral Amber Perfume 30ml",
+          "handle": "chloe-nomade-lumiere-degypte-eau-de-parfum-for-women-floral-amber-perfume-30ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/250305104845_7089116_A1-Photoroom.png?v=1785657749",
+          "price": 185,
+          "badge": ""
+        },
+        {
+          "name": "Chloe Nomade Jardin D'Egypte Eau De Parfum For Women - Oriental Woody Perfume 75ml",
+          "handle": "chloe-nomade-jardin-degypte-eau-de-parfum-for-women-oriental-woody-75ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616305943019_02.jpg?v=1781084468",
+          "price": 325,
+          "badge": ""
+        },
+        {
+          "name": "Chloe Nomade Jardin D'Egypte Eau De Parfum For Women- Oriental Woody Perfume 50ml",
+          "handle": "chloe-nomade-jardin-degypte-eau-de-parfum-for-women-oriental-woody-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616305942982-21_PNG.png?v=1781077607",
+          "price": 222,
+          "badge": ""
+        },
+        {
+          "name": "Chloé Le Parfum Edp For Women Floral 100ml",
+          "handle": "chloe-le-parfum-edp-for-women-floral-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/CHLOEE.webp?v=1776844496",
+          "price": 444,
+          "badge": ""
+        },
+        {
+          "name": "Chloe Gift Set For Women Floral",
+          "handle": "chloe-gift-set-for-women-floral",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/VHLOEE.jpg?v=1776527906",
+          "price": 380,
+          "badge": ""
+        },
+        {
+          "name": "Chloe Le Parfum For Women - Oriental Floral Perfume 50ml Refillable",
+          "handle": "chloe-le-parfum-for-women-oriental-floral-perfume-50ml-refillable",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616306110878_20250924075300.jpg?v=1775992965",
+          "price": 325,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Maison Francis Kurkdjian",
       "slug": "maison-francis-kurkdjian",
       "count": 127,
@@ -2498,56 +2548,6 @@
           "handle": "lacoste-lhomme-eau-de-toilette-for-men-woody-spicy-perfume-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/8005610521305_1-1000x1000h_jpg.webp?v=1772603569",
           "price": 173,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Chloe",
-      "slug": "chloe",
-      "count": 127,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616305943019_02.jpg?v=1781084468",
-      "preview": [
-        {
-          "name": "Chloe Nomade Jardin D'Egypte Eau De Parfum For Women - Oriental Woody Perfume 75ml",
-          "handle": "chloe-nomade-jardin-degypte-eau-de-parfum-for-women-oriental-woody-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616305943019_02.jpg?v=1781084468",
-          "price": 325,
-          "badge": ""
-        },
-        {
-          "name": "Chloe Nomade Jardin D'Egypte Eau De Parfum For Women- Oriental Woody Perfume 50ml",
-          "handle": "chloe-nomade-jardin-degypte-eau-de-parfum-for-women-oriental-woody-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616305942982-21_PNG.png?v=1781077607",
-          "price": 222,
-          "badge": ""
-        },
-        {
-          "name": "Chloé Le Parfum Edp For Women Floral 100ml",
-          "handle": "chloe-le-parfum-edp-for-women-floral-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/CHLOEE.webp?v=1776844496",
-          "price": 444,
-          "badge": ""
-        },
-        {
-          "name": "Chloe Gift Set For Women Floral",
-          "handle": "chloe-gift-set-for-women-floral",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/VHLOEE.jpg?v=1776527906",
-          "price": 380,
-          "badge": ""
-        },
-        {
-          "name": "Chloe Le Parfum For Women - Oriental Floral Perfume 50ml Refillable",
-          "handle": "chloe-le-parfum-for-women-oriental-floral-perfume-50ml-refillable",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616306110878_20250924075300.jpg?v=1775992965",
-          "price": 325,
-          "badge": ""
-        },
-        {
-          "name": "Chloe Le Parfum For Women - Floral Perfume 150ml Refill",
-          "handle": "chloe-le-parfum-for-women-floral-perfume-150ml-refill",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616306110540_20250924075300.jpg?v=1775992543",
-          "price": 497,
           "badge": ""
         }
       ]
@@ -5755,9 +5755,16 @@
     {
       "name": "CARON",
       "slug": "caron",
-      "count": 48,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/caron.jpg?v=1766259928",
+      "count": 49,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Pour-Un-Homme-de-CARON_1800x1800-Photoroom.png?v=1785655425",
       "preview": [
+        {
+          "name": "Caron Pour Un Homme De Caron Eau De Toilette For Men -Aromatic Fougere Perfume 125ml",
+          "handle": "caron-pour-un-homme-de-caron-eau-de-toilette-for-men-aromatic-fougere-perfume-125ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Pour-Un-Homme-de-CARON_1800x1800-Photoroom.png?v=1785655425",
+          "price": 370,
+          "badge": ""
+        },
         {
           "name": "Caron Pour Un Homme de Caron Gift Set For Men",
           "handle": "caron-pour-un-homme-de-caron-gift-set-for-men-1",
@@ -5792,12 +5799,55 @@
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/CaronMuscOli50MlEdt_eb2b4c10-73db-4e93-91c6-db4a1b4428e2.webp?v=1729145070",
           "price": 599,
           "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Alexandre J",
+      "slug": "alexandre-j",
+      "count": 47,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/BIGGIFTSET_MorningMuscs_2-Photoroom.png?v=1785652630",
+      "preview": [
+        {
+          "name": "Alexandre J TC Morning Muscs Gift Set For Unisex",
+          "handle": "alexandre-j-tc-morning-muscs-gift-set-for-unisex",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/BIGGIFTSET_MorningMuscs_2-Photoroom.png?v=1785652630",
+          "price": 497,
+          "badge": ""
         },
         {
-          "name": "Caron Belle De Niassa Perfume For Women EDP 50ml",
-          "handle": "caron-belle-de-niassa-perfume-for-women-edp-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/CaronCaronBelleDeNiassa50MlEdp_a6af7db4-7283-4d67-a61e-72f4035d7988.webp?v=1729062693",
-          "price": 607,
+          "name": "Alexandre J TC Elixir Rose Oud II Eau De Parfum For Unisex-Amber Floral Perfume 100ml",
+          "handle": "alexandre-j-tc-elixir-rose-oud-ii-eau-de-parfum-for-unisex-amber-floral-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rose_Oud_II_1-Photoroom.png?v=1785651138",
+          "price": 463,
+          "badge": ""
+        },
+        {
+          "name": "Alexandre J TC Elixir Rose Alba II Eau De Parfum For Unisex-Floral Perfume 100ml",
+          "handle": "alexandre-j-tc-elixir-rose-alba-ii-eau-de-parfum-for-unisex-floral-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rose_Alba_II_1-Photoroom.png?v=1785649227",
+          "price": 463,
+          "badge": ""
+        },
+        {
+          "name": "Alexandre J TC Elixir Morning Muscs II Eau De Parfum For Unisex-Floral Woody Musk Perfume 100ml",
+          "handle": "alexandre-j-tc-elixir-morning-muscs-ii-eau-de-parfum-for-unisex-floral-woody-musk-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Morning_Muscs_II_1-Photoroom.png?v=1785648082",
+          "price": 463,
+          "badge": ""
+        },
+        {
+          "name": "Alexandre J TC Elixir Black Muscs II Eau De Parfum For Unisex-Woody Floral Musk Perfume 100ml",
+          "handle": "alexandre-j-tc-elixir-black-muscs-ii-eau-de-parfum-for-unisex-woody-floral-musk-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Black_Muscs_II_1-Photoroom.png?v=1785645215",
+          "price": 463,
+          "badge": ""
+        },
+        {
+          "name": "Alexandre J ANC Majestic Nard Eau De Parfum For Unisex- Woody Spicy Perfume 100ml",
+          "handle": "alexandre-j-anc-majestic-nard-eau-de-parfum-for-unisex-woody-spicy-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/MajesticNard1-Photoroom.png?v=1785078903",
+          "price": 739,
           "badge": ""
         }
       ]
@@ -6148,56 +6198,6 @@
           "handle": "hind-al-oud-emarati-musk-trio-shield-edition-gift-set-for-unisex",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/HindAlOudEmaratiMuskETrioShieldEdtn_U_SetParfum50Ml_SPetite3Ml_OAlQasr20G.jpg?v=1647933687",
           "price": 1751,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Alexandre J",
-      "slug": "alexandre-j",
-      "count": 45,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rose_Alba_II_1-Photoroom.png?v=1785649227",
-      "preview": [
-        {
-          "name": "Alexandre J TC Elixir Rose Alba II Eau De Parfum For Unisex-Floral Perfume 100ml",
-          "handle": "alexandre-j-tc-elixir-rose-alba-ii-eau-de-parfum-for-unisex-floral-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rose_Alba_II_1-Photoroom.png?v=1785649227",
-          "price": 463,
-          "badge": ""
-        },
-        {
-          "name": "Alexandre J TC Elixir Morning Muscs II Eau De Parfum For Unisex-Floral Woody Musk Perfume 100ml",
-          "handle": "alexandre-j-tc-elixir-morning-muscs-ii-eau-de-parfum-for-unisex-floral-woody-musk-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Morning_Muscs_II_1-Photoroom.png?v=1785648082",
-          "price": 463,
-          "badge": ""
-        },
-        {
-          "name": "Alexandre J TC Elixir Black Muscs II Eau De Parfum For Unisex-Woody Floral Musk Perfume 100ml",
-          "handle": "alexandre-j-tc-elixir-black-muscs-ii-eau-de-parfum-for-unisex-woody-floral-musk-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Black_Muscs_II_1-Photoroom.png?v=1785645215",
-          "price": 463,
-          "badge": ""
-        },
-        {
-          "name": "Alexandre J ANC Majestic Nard Eau De Parfum For Unisex- Woody Spicy Perfume 100ml",
-          "handle": "alexandre-j-anc-majestic-nard-eau-de-parfum-for-unisex-woody-spicy-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/MajesticNard1-Photoroom.png?v=1785078903",
-          "price": 739,
-          "badge": ""
-        },
-        {
-          "name": "Alexandre J ANC Oriental Enigma Eau De Parfum For Unisex-Oriental Spicy Perfume  100ml",
-          "handle": "alexandre-j-anc-oriental-enigma-eau-de-parfum-for-unisex-oriental-spicy-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/1722244014_aj-oriental-enigma-Photoroom.png?v=1783667415",
-          "price": 739,
-          "badge": ""
-        },
-        {
-          "name": "Alexandre J Anc Ode To Rose EDP 100ml Spray For Unisex",
-          "handle": "alexandre-j-anc-ode-to-rose-edp-100ml-spy-for-unisex",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/5alexandre-j-unisex-ode-to-rose-edp-spray-338-oz-fragrances-3701278602190.jpg?v=1711590628",
-          "price": 739,
           "badge": ""
         }
       ]
