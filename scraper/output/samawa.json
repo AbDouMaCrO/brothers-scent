@@ -1,8 +1,31 @@
 {
-  "scraped_at": "2026-08-02T18:32:27.688Z",
+  "scraped_at": "2026-08-02T19:48:35.372Z",
   "source": "https://samawa.ae",
   "count": 25016,
   "products": [
+    {
+      "name": "Dior Eau Sauvage Parfum For Men- Citrus Aromatic Perfume 100ml",
+      "brand": "Christian Dior",
+      "category_slug": "homme",
+      "size": "100ml",
+      "price_retail": 657,
+      "price_gros": 657,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Y0896220_F089624009_E01_ZHC-Photoroom.png?v=1785696252",
+      "active": true,
+      "_handle": "dior-eau-sauvage-parfum-for-men-citrus-aromatic-perfume-100ml",
+      "_sku": "3348901069830",
+      "_tags": [
+        "100ml",
+        "Branded Perfumes",
+        "Fragrance",
+        "Men",
+        "Parfum"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/dior-eau-sauvage-parfum-for-men-citrus-aromatic-perfume-100ml"
+    },
     {
       "name": "Cartier Baiser Vole Gift Set",
       "brand": "Cartier",
@@ -67721,7 +67744,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 168,
-      "price_gros": 58,
+      "price_gros": 54.38,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Maison_Alhambra_Jean_Lowe_Azure_EDP_For_Unisex_100ml.jpg?v=1753334391",
@@ -167100,7 +167123,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 85,
-      "price_gros": 35,
+      "price_gros": 34,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LattafaHayaatiAlMalekyEdp100ml.webp?v=1709108739",
@@ -581691,27 +581714,6 @@
       ],
       "_product_type": "Fragrance",
       "_url": "https://samawa.ae/products/roger-gallet-open-black-for-men-edt-100ml"
-    },
-    {
-      "name": "Chloé NOMADE For Women- Eau de Parfum, 75ml",
-      "brand": "Chloe",
-      "category_slug": "homme",
-      "size": "75ml",
-      "price_retail": 303,
-      "price_gros": 303,
-      "stock": 999,
-      "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/chlo_nomade_for_women_75ml_-_eau_de_parfum.jpg?v=1624395635",
-      "active": true,
-      "_handle": "chloe-nomade-for-women-eau-de-parfum-75ml",
-      "_sku": "3614223113347",
-      "_tags": [
-        "75ml",
-        "Branded Perfumes",
-        "Fragrance"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/chloe-nomade-for-women-eau-de-parfum-75ml"
     }
   ]
 }

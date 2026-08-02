@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T18:33:35.881Z",
+  "generated_at": "2026-08-02T19:49:41.680Z",
   "total_brands": 888,
   "brands": [
     {
@@ -205,9 +205,16 @@
     {
       "name": "Christian Dior",
       "slug": "christian-dior",
-      "count": 350,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rose_glow-removebg.png?v=1784536564",
+      "count": 351,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Y0896220_F089624009_E01_ZHC-Photoroom.png?v=1785696252",
       "preview": [
+        {
+          "name": "Dior Eau Sauvage Parfum For Men- Citrus Aromatic Perfume 100ml",
+          "handle": "dior-eau-sauvage-parfum-for-men-citrus-aromatic-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Y0896220_F089624009_E01_ZHC-Photoroom.png?v=1785696252",
+          "price": 657,
+          "badge": ""
+        },
         {
           "name": "Christian Dior Addict Rosy Glow Eau de Parfum, Floral Fruity Gourmand Fragrance For Women 100ml",
           "handle": "christian-dior-addict-rosy-glow-eau-de-parfum-for-women-floral-100ml",
@@ -241,13 +248,6 @@
           "handle": "christian-dior-addict-peachy-glow-eau-de-parfum-for-women-floral-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/dior-removebg-preview_7802345b-6e3e-474b-ade9-73392c207d7c.png?v=1784487627",
           "price": 939,
-          "badge": ""
-        },
-        {
-          "name": "Christian Dior J'Adore  Eau De Parfum For Women- Floral Fruity Perfume 50ml",
-          "handle": "christian-dior-jadore-eau-de-parfum-for-women-floral-fruity-perfume-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3348901738217_1.webp?v=1782230777",
-          "price": 622,
           "badge": ""
         }
       ]
@@ -2405,7 +2405,7 @@
     {
       "name": "Chloe",
       "slug": "chloe",
-      "count": 128,
+      "count": 127,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/250305104845_7089116_A1-Photoroom.png?v=1785657749",
       "preview": [
         {
