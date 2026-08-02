@@ -1,8 +1,28 @@
 {
-  "scraped_at": "2026-08-02T17:10:09.964Z",
+  "scraped_at": "2026-08-02T18:32:27.688Z",
   "source": "https://samawa.ae",
   "count": 25016,
   "products": [
+    {
+      "name": "Cartier Baiser Vole Gift Set",
+      "brand": "Cartier",
+      "category_slug": "homme",
+      "size": "100ml",
+      "price_retail": 471,
+      "price_gros": 471,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/77b7052c5ee4531d838a2b9fe4ae5836-Photoroom.png?v=1785694572",
+      "active": true,
+      "_handle": "cartier-baiser-vole-gift-set",
+      "_sku": "3432240504920",
+      "_tags": [
+        "Gift set",
+        "Women"
+      ],
+      "_product_type": "Gift Set",
+      "_url": "https://samawa.ae/products/cartier-baiser-vole-gift-set"
+    },
     {
       "name": "Chloe Nomade Lumiere D'Egypte Eau De Parfum For Women - Floral Amber Perfume 30ml",
       "brand": "Chloe",
@@ -234029,7 +234049,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 81,
-      "price_gros": 57,
+      "price_gros": 47,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/MaisonAlHambraDelilahPourFemmeEDP100ml.jpg?v=1676615851",
@@ -452493,7 +452513,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 108,
-      "price_gros": 84,
+      "price_gros": 82,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Ck_One_Perfume_for_Unisex_EDT_100ml.jpg?v=1776326684",
@@ -581692,29 +581712,6 @@
       ],
       "_product_type": "Fragrance",
       "_url": "https://samawa.ae/products/chloe-nomade-for-women-eau-de-parfum-75ml"
-    },
-    {
-      "name": "Chanel Coco for Women - Eau de Parfum, 100 ml",
-      "brand": "Chanel",
-      "category_slug": "homme",
-      "size": "100ml",
-      "price_retail": 998,
-      "price_gros": 957,
-      "stock": 999,
-      "badge": "SALE",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/3145891135305.jpg?v=1656478598",
-      "active": true,
-      "_handle": "chanel-coco-for-women-eau-de-parfum-100-ml",
-      "_sku": "3145891135305",
-      "_tags": [
-        "100ml",
-        "Branded Perfumes",
-        "EDP",
-        "Fragrance",
-        "Women"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/chanel-coco-for-women-eau-de-parfum-100-ml"
     }
   ]
 }

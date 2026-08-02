@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T17:11:16.157Z",
+  "generated_at": "2026-08-02T18:33:35.881Z",
   "total_brands": 888,
   "brands": [
     {
@@ -455,7 +455,7 @@
     {
       "name": "Chanel",
       "slug": "chanel",
-      "count": 323,
+      "count": 322,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/n-5-eau-de-toilette-spray-5fl-oz--packshot-default-105680-9580787662878.png?v=1782639710",
       "preview": [
         {
@@ -2753,6 +2753,56 @@
       ]
     },
     {
+      "name": "Cartier",
+      "slug": "cartier",
+      "count": 119,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/77b7052c5ee4531d838a2b9fe4ae5836-Photoroom.png?v=1785694572",
+      "preview": [
+        {
+          "name": "Cartier Baiser Vole Gift Set",
+          "handle": "cartier-baiser-vole-gift-set",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/77b7052c5ee4531d838a2b9fe4ae5836-Photoroom.png?v=1785694572",
+          "price": 471,
+          "badge": ""
+        },
+        {
+          "name": "Cartier Oud & Rose Parfum For Unisex - Amber Floral Perfume 45ml",
+          "handle": "cartier-oud-rose-parfum-for-unisex-amber-floral-perfume-45ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/aJtzBrCJGuJ9Xky2KcOW3VMlFkqAvk7mW2is14HY.jpg?v=1769582349",
+          "price": 802,
+          "badge": ""
+        },
+        {
+          "name": "Cartier Pasha De Cartier Edition Noire Eau De Toilette For Men - Woody Aromatic Perfume 50ml",
+          "handle": "cartier-pasha-de-cartier-edition-noire-eau-de-toilette-for-men-woody-aromatic-perfume-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3432240506245_641ce5bf-8d50-43b4-ba62-fb92393bd11d.jpg?v=1769580845",
+          "price": 243,
+          "badge": ""
+        },
+        {
+          "name": "Cartier Pasha de Cartier Edition Noire Eau De Toilette For Men - Woody Aromatic Perfume 100ml Refillable",
+          "handle": "cartier-pasha-de-cartier-edition-noire-eau-de-toilette-for-men-woody-aromatic-perfume-100ml-refillable",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/u_3432240516626_01.jpg?v=1766421545",
+          "price": 337,
+          "badge": ""
+        },
+        {
+          "name": "Cartier L'Heure Osee V Eau De Parfum For Unisex - Floral Perfume  75ml",
+          "handle": "cartier-lheure-osee-v-eau-de-parfum-for-unisex-floral-perfume-75ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/375x500.65702.2x.avif?v=1763361516",
+          "price": 904,
+          "badge": ""
+        },
+        {
+          "name": "Cartier Declaration Parfum For Men - Woody Floral Musk Perfume 50ml Refillable",
+          "handle": "cartier-declaration-parfum-for-men-woody-floral-musk-perfume-50ml-refillable",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cartier-mens-declaration-parfum-17-oz-fragrances-3432240506733.jpg?v=1763306661",
+          "price": 306,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "ROJA PARFUMS",
       "slug": "roja-parfums",
       "count": 119,
@@ -2948,56 +2998,6 @@
           "handle": "goutal-paris-gift-set-for-women",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/goutal.webp?v=1769359083",
           "price": 537,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Cartier",
-      "slug": "cartier",
-      "count": 118,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/aJtzBrCJGuJ9Xky2KcOW3VMlFkqAvk7mW2is14HY.jpg?v=1769582349",
-      "preview": [
-        {
-          "name": "Cartier Oud & Rose Parfum For Unisex - Amber Floral Perfume 45ml",
-          "handle": "cartier-oud-rose-parfum-for-unisex-amber-floral-perfume-45ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/aJtzBrCJGuJ9Xky2KcOW3VMlFkqAvk7mW2is14HY.jpg?v=1769582349",
-          "price": 802,
-          "badge": ""
-        },
-        {
-          "name": "Cartier Pasha De Cartier Edition Noire Eau De Toilette For Men - Woody Aromatic Perfume 50ml",
-          "handle": "cartier-pasha-de-cartier-edition-noire-eau-de-toilette-for-men-woody-aromatic-perfume-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3432240506245_641ce5bf-8d50-43b4-ba62-fb92393bd11d.jpg?v=1769580845",
-          "price": 243,
-          "badge": ""
-        },
-        {
-          "name": "Cartier Pasha de Cartier Edition Noire Eau De Toilette For Men - Woody Aromatic Perfume 100ml Refillable",
-          "handle": "cartier-pasha-de-cartier-edition-noire-eau-de-toilette-for-men-woody-aromatic-perfume-100ml-refillable",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/u_3432240516626_01.jpg?v=1766421545",
-          "price": 337,
-          "badge": ""
-        },
-        {
-          "name": "Cartier L'Heure Osee V Eau De Parfum For Unisex - Floral Perfume  75ml",
-          "handle": "cartier-lheure-osee-v-eau-de-parfum-for-unisex-floral-perfume-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/375x500.65702.2x.avif?v=1763361516",
-          "price": 904,
-          "badge": ""
-        },
-        {
-          "name": "Cartier Declaration Parfum For Men - Woody Floral Musk Perfume 50ml Refillable",
-          "handle": "cartier-declaration-parfum-for-men-woody-floral-musk-perfume-50ml-refillable",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cartier-mens-declaration-parfum-17-oz-fragrances-3432240506733.jpg?v=1763306661",
-          "price": 306,
-          "badge": ""
-        },
-        {
-          "name": "Cartier Declaration Eau De Parfum For Men - Woody Floral Musk Perfume 50ml Refillable",
-          "handle": "cartier-declaration-eau-de-parfum-for-men-woody-floral-musk-perfume-50ml-refillable",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/u_3432240515438_01.jpg?v=1763295967",
-          "price": 332,
           "badge": ""
         }
       ]
