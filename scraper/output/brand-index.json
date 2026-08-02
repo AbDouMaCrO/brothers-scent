@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T02:37:44.306Z",
+  "generated_at": "2026-08-02T05:59:36.137Z",
   "total_brands": 888,
   "brands": [
     {
@@ -455,7 +455,7 @@
     {
       "name": "Chanel",
       "slug": "chanel",
-      "count": 328,
+      "count": 327,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/n-5-eau-de-toilette-spray-5fl-oz--packshot-default-105680-9580787662878.png?v=1782639710",
       "preview": [
         {
@@ -505,7 +505,7 @@
     {
       "name": "Carolina Herrera",
       "slug": "carolina-herrera",
-      "count": 310,
+      "count": 308,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rosee-removebg-preview.png?v=1785048190",
       "preview": [
         {
@@ -6153,6 +6153,56 @@
       ]
     },
     {
+      "name": "Alexandre J",
+      "slug": "alexandre-j",
+      "count": 45,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rose_Alba_II_1-Photoroom.png?v=1785649227",
+      "preview": [
+        {
+          "name": "Alexandre J TC Elixir Rose Alba II Eau De Parfum For Unisex-Floral Perfume 100ml",
+          "handle": "alexandre-j-tc-elixir-rose-alba-ii-eau-de-parfum-for-unisex-floral-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rose_Alba_II_1-Photoroom.png?v=1785649227",
+          "price": 463,
+          "badge": ""
+        },
+        {
+          "name": "Alexandre J TC Elixir Morning Muscs II Eau De Parfum For Unisex-Floral Woody Musk Perfume 100ml",
+          "handle": "alexandre-j-tc-elixir-morning-muscs-ii-eau-de-parfum-for-unisex-floral-woody-musk-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Morning_Muscs_II_1-Photoroom.png?v=1785648082",
+          "price": 463,
+          "badge": ""
+        },
+        {
+          "name": "Alexandre J TC Elixir Black Muscs II Eau De Parfum For Unisex-Woody Floral Musk Perfume 100ml",
+          "handle": "alexandre-j-tc-elixir-black-muscs-ii-eau-de-parfum-for-unisex-woody-floral-musk-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Black_Muscs_II_1-Photoroom.png?v=1785645215",
+          "price": 463,
+          "badge": ""
+        },
+        {
+          "name": "Alexandre J ANC Majestic Nard Eau De Parfum For Unisex- Woody Spicy Perfume 100ml",
+          "handle": "alexandre-j-anc-majestic-nard-eau-de-parfum-for-unisex-woody-spicy-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/MajesticNard1-Photoroom.png?v=1785078903",
+          "price": 739,
+          "badge": ""
+        },
+        {
+          "name": "Alexandre J ANC Oriental Enigma Eau De Parfum For Unisex-Oriental Spicy Perfume  100ml",
+          "handle": "alexandre-j-anc-oriental-enigma-eau-de-parfum-for-unisex-oriental-spicy-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/1722244014_aj-oriental-enigma-Photoroom.png?v=1783667415",
+          "price": 739,
+          "badge": ""
+        },
+        {
+          "name": "Alexandre J Anc Ode To Rose EDP 100ml Spray For Unisex",
+          "handle": "alexandre-j-anc-ode-to-rose-edp-100ml-spy-for-unisex",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/5alexandre-j-unisex-ode-to-rose-edp-spray-338-oz-fragrances-3701278602190.jpg?v=1711590628",
+          "price": 739,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Scent Magic",
       "slug": "scent-magic",
       "count": 45,
@@ -6349,56 +6399,6 @@
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/719346257107.jpg?v=1729940171",
           "price": 132,
           "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Alexandre J",
-      "slug": "alexandre-j",
-      "count": 42,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/MajesticNard1-Photoroom.png?v=1785078903",
-      "preview": [
-        {
-          "name": "Alexandre J ANC Majestic Nard Eau De Parfum For Unisex- Woody Spicy Perfume 100ml",
-          "handle": "alexandre-j-anc-majestic-nard-eau-de-parfum-for-unisex-woody-spicy-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/MajesticNard1-Photoroom.png?v=1785078903",
-          "price": 739,
-          "badge": ""
-        },
-        {
-          "name": "Alexandre J ANC Oriental Enigma Eau De Parfum For Unisex-Oriental Spicy Perfume  100ml",
-          "handle": "alexandre-j-anc-oriental-enigma-eau-de-parfum-for-unisex-oriental-spicy-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/1722244014_aj-oriental-enigma-Photoroom.png?v=1783667415",
-          "price": 739,
-          "badge": ""
-        },
-        {
-          "name": "Alexandre J Anc Ode To Rose EDP 100ml Spray For Unisex",
-          "handle": "alexandre-j-anc-ode-to-rose-edp-100ml-spy-for-unisex",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/5alexandre-j-unisex-ode-to-rose-edp-spray-338-oz-fragrances-3701278602190.jpg?v=1711590628",
-          "price": 739,
-          "badge": ""
-        },
-        {
-          "name": "Alexandre J Anc Black Beetle EDP 100ml Spray For Unisex",
-          "handle": "alexandre-j-anc-black-beetle-edp-100ml-spy-for-unisex",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3s-l1600.jpg?v=1711575557",
-          "price": 739,
-          "badge": ""
-        },
-        {
-          "name": "Alexandre J Art Nouveau Collection Imperial Peacock Perfume For Unisex EDP 100ml",
-          "handle": "alexandre-j-anc-imperial-peacock-perfume-for-unisex-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/AlexandreJANCImperialPeacockEdp100ml.jpg?v=1703868180",
-          "price": 739,
-          "badge": ""
-        },
-        {
-          "name": "Alexandre J Art Nouveau Collection Oriental Enigma Perfume For Unisex EDP 100ml",
-          "handle": "alexandre-j-art-nouveau-collection-oriental-enigma-perfume-for-unisex-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/AlexandreJArtNouveauCollectionOrientalEnigma_U_Edp100Ml.webp?v=1703562478",
-          "price": 737,
-          "badge": "SALE"
         }
       ]
     },
