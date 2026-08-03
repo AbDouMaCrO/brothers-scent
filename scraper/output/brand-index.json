@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T18:20:48.606Z",
+  "generated_at": "2026-08-03T20:15:18.215Z",
   "total_brands": 889,
   "brands": [
     {
@@ -11753,56 +11753,6 @@
       ]
     },
     {
-      "name": "David Beckham",
-      "slug": "david-beckham",
-      "count": 20,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/7ab75394-fe30-4669-8dbe-a3f72ba5633c.807a0aa903938e1b279a686e9b2d7299.jpg?v=1761309142",
-      "preview": [
-        {
-          "name": "David Beckham True Instinct Eau De Parfum For Men - Woody Aromatic Perfume 75ml",
-          "handle": "david-beckham-true-instinct-eau-de-parfum-for-men-woody-aromatic-perfume-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/7ab75394-fe30-4669-8dbe-a3f72ba5633c.807a0aa903938e1b279a686e9b2d7299.jpg?v=1761309142",
-          "price": 48,
-          "badge": ""
-        },
-        {
-          "name": "David Beckham Instinct 20th Anniversary Edition Eau De Parfum For Men - Fougère Aromatic Perfume 75ml",
-          "handle": "david-beckham-instinct-20th-anniversary-edition-eau-de-parfum-for-men-fougere-aromatic-perfume-75ml-75-ml-es",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616305188243.gif?v=1761307405",
-          "price": 52,
-          "badge": ""
-        },
-        {
-          "name": "David Beckham Instinct Eau De Parfum For Men - Aromatic Fougère Perfume 75ml",
-          "handle": "david-beckham-instinct-eau-de-parfum-for-men-aromatic-fougere-perfume-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/David-Beckham-Instinct-Eau-De-Parfum-75ml-1_5fccb9a0-e86a-459e-a652-0f91e3901b31.jpg?v=1761306230",
-          "price": 55,
-          "badge": ""
-        },
-        {
-          "name": "David Beckham Infinite Aqua Perfume For Unisex EDP 100ml",
-          "handle": "david-beckham-infinite-aqua-perfume-for-unisex-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/InfiniteAqua_EDP_100ml_packshot.jpg?v=1752467492",
-          "price": 78,
-          "badge": ""
-        },
-        {
-          "name": "David Beckham Amber Breeze Perfume For Men EDP 100ml",
-          "handle": "david-beckham-amber-breeze-perfume-for-men-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/4964190704.jpg?v=1752411898",
-          "price": 78,
-          "badge": ""
-        },
-        {
-          "name": "David Beckham Classic Blue Perfume For Men EDT 100ml",
-          "handle": "david-beckham-classic-blue-perfume-for-men-edt-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/DavidBeckhamClassicBlueEDTM100ml.jpg?v=1685189103",
-          "price": 55,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "ZARKOPERFUME",
       "slug": "zarkoperfume",
       "count": 20,
@@ -12348,6 +12298,56 @@
           "handle": "laura-biagiotti-forever-gold-for-her-perfume-for-women-edp-60ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LB_GoldForHer-60ml-Bottle-Front.jpg?v=1747648088",
           "price": 160,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "David Beckham",
+      "slug": "david-beckham",
+      "count": 19,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/7ab75394-fe30-4669-8dbe-a3f72ba5633c.807a0aa903938e1b279a686e9b2d7299.jpg?v=1761309142",
+      "preview": [
+        {
+          "name": "David Beckham True Instinct Eau De Parfum For Men - Woody Aromatic Perfume 75ml",
+          "handle": "david-beckham-true-instinct-eau-de-parfum-for-men-woody-aromatic-perfume-75ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/7ab75394-fe30-4669-8dbe-a3f72ba5633c.807a0aa903938e1b279a686e9b2d7299.jpg?v=1761309142",
+          "price": 48,
+          "badge": ""
+        },
+        {
+          "name": "David Beckham Instinct 20th Anniversary Edition Eau De Parfum For Men - Fougère Aromatic Perfume 75ml",
+          "handle": "david-beckham-instinct-20th-anniversary-edition-eau-de-parfum-for-men-fougere-aromatic-perfume-75ml-75-ml-es",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616305188243.gif?v=1761307405",
+          "price": 52,
+          "badge": ""
+        },
+        {
+          "name": "David Beckham Instinct Eau De Parfum For Men - Aromatic Fougère Perfume 75ml",
+          "handle": "david-beckham-instinct-eau-de-parfum-for-men-aromatic-fougere-perfume-75ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/David-Beckham-Instinct-Eau-De-Parfum-75ml-1_5fccb9a0-e86a-459e-a652-0f91e3901b31.jpg?v=1761306230",
+          "price": 55,
+          "badge": ""
+        },
+        {
+          "name": "David Beckham Infinite Aqua Perfume For Unisex EDP 100ml",
+          "handle": "david-beckham-infinite-aqua-perfume-for-unisex-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/InfiniteAqua_EDP_100ml_packshot.jpg?v=1752467492",
+          "price": 78,
+          "badge": ""
+        },
+        {
+          "name": "David Beckham Amber Breeze Perfume For Men EDP 100ml",
+          "handle": "david-beckham-amber-breeze-perfume-for-men-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/4964190704.jpg?v=1752411898",
+          "price": 78,
+          "badge": ""
+        },
+        {
+          "name": "David Beckham Classic Blue Perfume For Men EDT 100ml",
+          "handle": "david-beckham-classic-blue-perfume-for-men-edt-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/DavidBeckhamClassicBlueEDTM100ml.jpg?v=1685189103",
+          "price": 55,
           "badge": ""
         }
       ]
@@ -19353,6 +19353,56 @@
       ]
     },
     {
+      "name": "Reef",
+      "slug": "reef",
+      "count": 9,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/shopping-Photoroom.png?v=1785781151",
+      "preview": [
+        {
+          "name": "Reef 29 Parfum For Unisex-Amber Floral Perfume 100ml",
+          "handle": "reef-29-parfum-for-unisex-amber-floral-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/shopping-Photoroom.png?v=1785781151",
+          "price": 202,
+          "badge": ""
+        },
+        {
+          "name": "Reef 11 Parfum For Unisex-Floral Woody Perfume 100ml",
+          "handle": "reef-11-parfum-for-unisex-floral-woody-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/11-Photoroom.png?v=1785779177",
+          "price": 202,
+          "badge": ""
+        },
+        {
+          "name": "Reef Lady Reef Eau de Parfum For Women Floral 150ml",
+          "handle": "reef-lady-reef-eau-de-parfum-for-women-floral-150ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/reef.webp?v=1773852649",
+          "price": 236,
+          "badge": ""
+        },
+        {
+          "name": "Reef 21 Parfum For Unisex - Woody-Fruity Perfume 100ml",
+          "handle": "reef-21-parfum-for-unisex-woody-fruity-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/61n8TZfd8_L.jpg?v=1771857508",
+          "price": 202,
+          "badge": ""
+        },
+        {
+          "name": "Reef Perfumes Arabs of Obaiah Edp For Men And Women Fruity 100ml",
+          "handle": "reef-perfumes-arabs-of-obaiah-edp-for-men-and-women-fruity-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/reeffff.avif?v=1771784749",
+          "price": 210,
+          "badge": ""
+        },
+        {
+          "name": "Reef Perfumes Reef 33 White Edp For Men And Women Fruity 100ml",
+          "handle": "reef-perfumes-reef-33-white-edp-for-men-and-women-fruity-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/33_053dfa1d-f262-48a8-bdaa-2ac2c8706dd7.webp?v=1771783902",
+          "price": 202,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "PALOMA PICASSO",
       "slug": "paloma-picasso",
       "count": 9,
@@ -20348,56 +20398,6 @@
           "handle": "lamuse-revelation-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/revelatuion.jpg?v=1624452188",
           "price": 24,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Reef",
-      "slug": "reef",
-      "count": 8,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/11-Photoroom.png?v=1785779177",
-      "preview": [
-        {
-          "name": "Reef 11 Parfum For Unisex-Floral Woody Perfume 100ml",
-          "handle": "reef-11-parfum-for-unisex-floral-woody-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/11-Photoroom.png?v=1785779177",
-          "price": 202,
-          "badge": ""
-        },
-        {
-          "name": "Reef Lady Reef Eau de Parfum For Women Floral 150ml",
-          "handle": "reef-lady-reef-eau-de-parfum-for-women-floral-150ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/reef.webp?v=1773852649",
-          "price": 236,
-          "badge": ""
-        },
-        {
-          "name": "Reef 21 Parfum For Unisex - Woody-Fruity Perfume 100ml",
-          "handle": "reef-21-parfum-for-unisex-woody-fruity-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/61n8TZfd8_L.jpg?v=1771857508",
-          "price": 202,
-          "badge": ""
-        },
-        {
-          "name": "Reef Perfumes Arabs of Obaiah Edp For Men And Women Fruity 100ml",
-          "handle": "reef-perfumes-arabs-of-obaiah-edp-for-men-and-women-fruity-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/reeffff.avif?v=1771784749",
-          "price": 210,
-          "badge": ""
-        },
-        {
-          "name": "Reef Perfumes Reef 33 White Edp For Men And Women Fruity 100ml",
-          "handle": "reef-perfumes-reef-33-white-edp-for-men-and-women-fruity-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/33_053dfa1d-f262-48a8-bdaa-2ac2c8706dd7.webp?v=1771783902",
-          "price": 202,
-          "badge": ""
-        },
-        {
-          "name": "Reef 31 Edp For Men And Women Fresh 100ml",
-          "handle": "reef-31-edp-for-men-and-women-fresh-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/31_fc945503-20e0-4e4b-9d39-0d91b1f7627e.jpg?v=1767550116",
-          "price": 202,
           "badge": ""
         }
       ]

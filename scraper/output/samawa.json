@@ -1,8 +1,32 @@
 {
-  "scraped_at": "2026-08-03T18:19:32.596Z",
+  "scraped_at": "2026-08-03T20:13:40.058Z",
   "source": "https://samawa.ae",
   "count": 25016,
   "products": [
+    {
+      "name": "Reef 29 Parfum For Unisex-Amber Floral Perfume 100ml",
+      "brand": "Reef",
+      "category_slug": "homme",
+      "size": "100ml",
+      "price_retail": 202,
+      "price_gros": 202,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/shopping-Photoroom.png?v=1785781151",
+      "active": true,
+      "_handle": "reef-29-parfum-for-unisex-amber-floral-perfume-100ml",
+      "_sku": "6287036280888",
+      "_tags": [
+        "100ml",
+        "Branded Perfumes",
+        "Fragrance",
+        "Men",
+        "unisex",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/reef-29-parfum-for-unisex-amber-floral-perfume-100ml"
+    },
     {
       "name": "Reef 11 Parfum For Unisex-Floral Woody Perfume 100ml",
       "brand": "Reef",
@@ -226844,7 +226868,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 85,
-      "price_gros": 58,
+      "price_gros": 57.5,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Yara_Perfume_For_Women_EDP_100ml.jpg?v=1776326509",
@@ -234407,7 +234431,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 81,
-      "price_gros": 57,
+      "price_gros": 47,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/MaisonAlHambraDelilahPourFemmeEDP100ml.jpg?v=1676615851",
@@ -581718,27 +581742,6 @@
       ],
       "_product_type": "Fragrance",
       "_url": "https://samawa.ae/products/beckham-instinct-for-men-eau-de-toilette-75ml"
-    },
-    {
-      "name": "David BeClavin Kleinam Classic Blue Men for Men - eau de Toilette, 90 ml",
-      "brand": "David Beckham",
-      "category_slug": "homme",
-      "size": "90ml",
-      "price_retail": 79,
-      "price_gros": 60,
-      "stock": 999,
-      "badge": "SALE",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/david_beclavin_kleinam_classic_blue_men_for_men_-_eau_de_toilette_90_ml.jpg?v=1624395855",
-      "active": true,
-      "_handle": "david-beclavin-kleinam-classic-blue-men-for-men-eau-de-toilette-90-ml",
-      "_sku": "3607349938079",
-      "_tags": [
-        "90ml",
-        "Branded Perfumes",
-        "Fragrance"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/david-beclavin-kleinam-classic-blue-men-for-men-eau-de-toilette-90-ml"
     }
   ]
 }
