@@ -1,8 +1,82 @@
 {
-  "scraped_at": "2026-08-03T02:56:25.778Z",
+  "scraped_at": "2026-08-03T06:24:00.612Z",
   "source": "https://samawa.ae",
   "count": 25016,
   "products": [
+    {
+      "name": "Ibraq TC. Mexican Tobacco Extrait De Parfum For Unisex-Oriental Perfume 100ml",
+      "brand": "Ibraheem Al.Qurashi",
+      "category_slug": "homme",
+      "size": "100ml",
+      "price_retail": 210,
+      "price_gros": 210,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/df4ec949-603b-4372-97c3-0bb75664e3b5-1000x1000-SENntb8T16xEbnAoTbT3MLiRV9LniEJkQzCt6cSX-Photoroom.png?v=1785737625",
+      "active": true,
+      "_handle": "ibraq-tc-mexican-tobacco-extrait-de-parfum-for-unisex-oriental-perfume-100ml",
+      "_sku": "6287020281051",
+      "_tags": [
+        "100ml",
+        "Arabic Perfume",
+        "Extrait De Parfum",
+        "Fragrance",
+        "Men",
+        "unisex",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/ibraq-tc-mexican-tobacco-extrait-de-parfum-for-unisex-oriental-perfume-100ml"
+    },
+    {
+      "name": "Ibraq Diamond Nude Coral Eau De Parfum For Unisex-Oriental Perfume 150ml",
+      "brand": "Ibraheem Al.Qurashi",
+      "category_slug": "homme",
+      "size": "150ml",
+      "price_retail": 236,
+      "price_gros": 236,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/f64a1400-73dd-4722-ae4e-8f50a39fd5eb-1000x1000-MY63z4oqBjikyFEqWffL3Ya0IEPFiD3jRAuhh9nA-Photoroom.png?v=1785735739",
+      "active": true,
+      "_handle": "ibraq-diamond-nude-coral-eau-de-parfum-for-unisex-oriental-perfume-150ml",
+      "_sku": "6287020283420",
+      "_tags": [
+        "150ml",
+        "Arabic Perfume",
+        "EDP",
+        "Fragrance",
+        "Men",
+        "unisex",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/ibraq-diamond-nude-coral-eau-de-parfum-for-unisex-oriental-perfume-150ml"
+    },
+    {
+      "name": "Ibraq Diamond Emerald Soul Eau De Parfum For Unisex-Citrus Aromatic Perfume 150ml",
+      "brand": "Ibraheem Al.Qurashi",
+      "category_slug": "homme",
+      "size": "150ml",
+      "price_retail": 230,
+      "price_gros": 230,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/26bf0b6d-b521-40ee-a6d1-710f8c575f00-1000x1000-ZHRkBetgO8xKzmltXy0SfhVQqdD926YGoe0gJpTr-Photoroom.png?v=1785734297",
+      "active": true,
+      "_handle": "ibraq-diamond-emerald-soul-eau-de-parfum-for-unisex-citrus-aromatic-perfume-150ml",
+      "_sku": "6287020283383",
+      "_tags": [
+        "150ml",
+        "Arabic Perfume",
+        "EDP",
+        "Fragrance",
+        "Men",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/ibraq-diamond-emerald-soul-eau-de-parfum-for-unisex-citrus-aromatic-perfume-150ml"
+    },
     {
       "name": "Dior Eau Sauvage Parfum For Men- Citrus Aromatic Perfume 100ml",
       "brand": "Christian Dior",
@@ -259,7 +333,7 @@
       "_url": "https://samawa.ae/products/billie-eilish-body-lotion-for-women-150ml"
     },
     {
-      "name": "Azzaro Gift Set For Men",
+      "name": "Azzaro Gift Set For Men.",
       "brand": "Azzaro",
       "category_slug": "homme",
       "size": "100ml",
@@ -65991,7 +66065,7 @@
       "category_slug": "homme",
       "size": "55ml",
       "price_retail": 159,
-      "price_gros": 66,
+      "price_gros": 65.63,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Atlas_For_Unisex_EDP_55ml.jpg?v=1754894332",
@@ -76518,7 +76592,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 199,
-      "price_gros": 90,
+      "price_gros": 104,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Hawas_Tropical.jpg?v=1751954222",
@@ -581647,73 +581721,6 @@
       ],
       "_product_type": "Fragrance",
       "_url": "https://samawa.ae/products/christian-dior-dior-homme-intense-for-men-eau-de-parfum-100ml"
-    },
-    {
-      "name": "Roger & Gallet Open White For Men EDT  100ml",
-      "brand": "Roger & Gallet",
-      "category_slug": "homme",
-      "size": "100ml",
-      "price_retail": 51,
-      "price_gros": 60,
-      "stock": 999,
-      "badge": "SALE",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/open_white.jpg?v=1624395677",
-      "active": true,
-      "_handle": "roger-gallet-open-white-for-men-edt-100ml",
-      "_sku": "3337875200769",
-      "_tags": [
-        "100ml",
-        "Branded Perfumes",
-        "EDT",
-        "Fragrance",
-        "Men"
-      ],
-      "_product_type": "",
-      "_url": "https://samawa.ae/products/roger-gallet-open-white-for-men-edt-100ml"
-    },
-    {
-      "name": "Roger & Gallet Open Gold For Men EDT  100ml",
-      "brand": "Roger & Gallet",
-      "category_slug": "homme",
-      "size": "100ml",
-      "price_retail": 46,
-      "price_gros": 46,
-      "stock": 999,
-      "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/roger-gallet-gold-800x800.jpg?v=1624395658",
-      "active": true,
-      "_handle": "roger-gallet-open-gold-for-men-edt-100ml",
-      "_sku": "3337875201438",
-      "_tags": [
-        "100ml",
-        "Branded Perfumes",
-        "EDT",
-        "Fragrance",
-        "Men"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/roger-gallet-open-gold-for-men-edt-100ml"
-    },
-    {
-      "name": "Roger & Gallet Open Black For Men EDT  100ml",
-      "brand": "Roger & Gallet",
-      "category_slug": "homme",
-      "size": "100ml",
-      "price_retail": 59,
-      "price_gros": 53,
-      "stock": 999,
-      "badge": "SALE",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/open_black.jpg?v=1624395647",
-      "active": true,
-      "_handle": "roger-gallet-open-black-for-men-edt-100ml",
-      "_sku": "3337875201186",
-      "_tags": [
-        "100ml",
-        "Branded Perfumes",
-        "Fragrance"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/roger-gallet-open-black-for-men-edt-100ml"
     }
   ]
 }

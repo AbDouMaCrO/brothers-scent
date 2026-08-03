@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T02:57:32.762Z",
+  "generated_at": "2026-08-03T06:25:24.857Z",
   "total_brands": 888,
   "brands": [
     {
@@ -2109,7 +2109,7 @@
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/wantedd-removebg-preview.png?v=1785266731",
       "preview": [
         {
-          "name": "Azzaro Gift Set For Men",
+          "name": "Azzaro Gift Set For Men.",
           "handle": "azzaro-gift-set-for-men-amber-2",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/wantedd-removebg-preview.png?v=1785266731",
           "price": 343,
@@ -12003,56 +12003,6 @@
       ]
     },
     {
-      "name": "Roger & Gallet",
-      "slug": "roger-gallet",
-      "count": 20,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3701436912376_1.jpg?v=1731966348",
-      "preview": [
-        {
-          "name": "Roger & Gallet Jean Marie Farina For Unisex EDC 100ml",
-          "handle": "roger-gallet-jean-marie-farina-for-unisex-edc-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3701436912376_1.jpg?v=1731966348",
-          "price": 93,
-          "badge": ""
-        },
-        {
-          "name": "Roger & Gallet Shiso For Unisex Eau Parfumee 100ml",
-          "handle": "roger-gallet-shiso-for-unisex-eau-parfumee-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3701436912390.jpg?v=1731965460",
-          "price": 93,
-          "badge": ""
-        },
-        {
-          "name": "Roger & Gallet The Vert For Women Eau Parfumee 100ml",
-          "handle": "roger-gallet-the-vert-for-women-eau-parfumee-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3701436912406_2.jpg?v=1731964886",
-          "price": 93,
-          "badge": ""
-        },
-        {
-          "name": "Roger & Gallet Rose For Women Eau Parfumee 100ml",
-          "handle": "roger-gallet-rose-for-women-eau-parfumee-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3701436907952_1.jpg?v=1731963911",
-          "price": 93,
-          "badge": ""
-        },
-        {
-          "name": "Roger & Gallet Neroli For Women Eau Parfumee 100ml",
-          "handle": "roger-gallet-neroli-for-women-eau-parfumee-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3701436907945.jpg?v=1731963313",
-          "price": 128,
-          "badge": ""
-        },
-        {
-          "name": "Roger & Gallet Lavande Royale For Women Eau Parfumee 100ml",
-          "handle": "roger-gallet-lavande-royale-for-women-eau-parfumee-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3701436912420_1.jpg?v=1731962528",
-          "price": 93,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "ROCCOBAROCCO",
       "slug": "roccobarocco",
       "count": 20,
@@ -13898,6 +13848,56 @@
           "handle": "porsche-design-titan-for-men-edt-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/porsche_design_titan_for_men_edt_100ml.jpg?v=1624492933",
           "price": 121,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Roger & Gallet",
+      "slug": "roger-gallet",
+      "count": 17,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3701436912376_1.jpg?v=1731966348",
+      "preview": [
+        {
+          "name": "Roger & Gallet Jean Marie Farina For Unisex EDC 100ml",
+          "handle": "roger-gallet-jean-marie-farina-for-unisex-edc-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3701436912376_1.jpg?v=1731966348",
+          "price": 93,
+          "badge": ""
+        },
+        {
+          "name": "Roger & Gallet Shiso For Unisex Eau Parfumee 100ml",
+          "handle": "roger-gallet-shiso-for-unisex-eau-parfumee-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3701436912390.jpg?v=1731965460",
+          "price": 93,
+          "badge": ""
+        },
+        {
+          "name": "Roger & Gallet The Vert For Women Eau Parfumee 100ml",
+          "handle": "roger-gallet-the-vert-for-women-eau-parfumee-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3701436912406_2.jpg?v=1731964886",
+          "price": 93,
+          "badge": ""
+        },
+        {
+          "name": "Roger & Gallet Rose For Women Eau Parfumee 100ml",
+          "handle": "roger-gallet-rose-for-women-eau-parfumee-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3701436907952_1.jpg?v=1731963911",
+          "price": 93,
+          "badge": ""
+        },
+        {
+          "name": "Roger & Gallet Neroli For Women Eau Parfumee 100ml",
+          "handle": "roger-gallet-neroli-for-women-eau-parfumee-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3701436907945.jpg?v=1731963313",
+          "price": 128,
+          "badge": ""
+        },
+        {
+          "name": "Roger & Gallet Lavande Royale For Women Eau Parfumee 100ml",
+          "handle": "roger-gallet-lavande-royale-for-women-eau-parfumee-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3701436912420_1.jpg?v=1731962528",
+          "price": 93,
           "badge": ""
         }
       ]
@@ -21253,6 +21253,56 @@
       ]
     },
     {
+      "name": "Ibraheem Al.Qurashi",
+      "slug": "ibraheem-al-qurashi",
+      "count": 7,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/df4ec949-603b-4372-97c3-0bb75664e3b5-1000x1000-SENntb8T16xEbnAoTbT3MLiRV9LniEJkQzCt6cSX-Photoroom.png?v=1785737625",
+      "preview": [
+        {
+          "name": "Ibraq TC. Mexican Tobacco Extrait De Parfum For Unisex-Oriental Perfume 100ml",
+          "handle": "ibraq-tc-mexican-tobacco-extrait-de-parfum-for-unisex-oriental-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/df4ec949-603b-4372-97c3-0bb75664e3b5-1000x1000-SENntb8T16xEbnAoTbT3MLiRV9LniEJkQzCt6cSX-Photoroom.png?v=1785737625",
+          "price": 210,
+          "badge": ""
+        },
+        {
+          "name": "Ibraq Diamond Nude Coral Eau De Parfum For Unisex-Oriental Perfume 150ml",
+          "handle": "ibraq-diamond-nude-coral-eau-de-parfum-for-unisex-oriental-perfume-150ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/f64a1400-73dd-4722-ae4e-8f50a39fd5eb-1000x1000-MY63z4oqBjikyFEqWffL3Ya0IEPFiD3jRAuhh9nA-Photoroom.png?v=1785735739",
+          "price": 236,
+          "badge": ""
+        },
+        {
+          "name": "Ibraq Diamond Emerald Soul Eau De Parfum For Unisex-Citrus Aromatic Perfume 150ml",
+          "handle": "ibraq-diamond-emerald-soul-eau-de-parfum-for-unisex-citrus-aromatic-perfume-150ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/26bf0b6d-b521-40ee-a6d1-710f8c575f00-1000x1000-ZHRkBetgO8xKzmltXy0SfhVQqdD926YGoe0gJpTr-Photoroom.png?v=1785734297",
+          "price": 230,
+          "badge": ""
+        },
+        {
+          "name": "Ibraq Tobacco Coll. Cuban Tobacco Extrait De Parfum For Unisex - Oriental Perfume 100ml",
+          "handle": "ibraq-tobacco-coll-cuban-tobacco-extrait-de-parfum-for-unisex-oriental-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cuban_20white-1000x1000.jpg?v=1777795110",
+          "price": 210,
+          "badge": ""
+        },
+        {
+          "name": "Ibraq Tobacco Collection Spanish Tobacco Extrait De Parfum For Unisex - Oriental Woody Perfume 100ml",
+          "handle": "ibraq-tobacco-collection-spanish-tobacco-extrait-de-parfum-for-unisex-oriental-woody-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/spanish_20white-1000x1000.jpg?v=1776843864",
+          "price": 210,
+          "badge": ""
+        },
+        {
+          "name": "Ibraq Tobacco Collection French Tobacco Extrait De Parfum For Unisex - Aromatic Fougere Perfume 100ml",
+          "handle": "ibraq-tobacco-collection-french-tobacco-extrait-de-parfum-for-unisex-aromatic-fougere-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/828bef87-11b1-4468-a4ba-5ddab45f23c3-1000x1000-GQd87Eu8NtYPX1iSIEGIdNaLwNzvwJCx6U4tm3pX.png?v=1776843310",
+          "price": 204,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "BYREDO",
       "slug": "byredo",
       "count": 7,
@@ -25741,42 +25791,6 @@
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/jean_patou_joy_forever_edp_w_75_ml.jpg?v=1624509555",
           "price": 256,
           "badge": "SALE"
-        }
-      ]
-    },
-    {
-      "name": "Ibraheem Al.Qurashi",
-      "slug": "ibraheem-al-qurashi",
-      "count": 4,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cuban_20white-1000x1000.jpg?v=1777795110",
-      "preview": [
-        {
-          "name": "Ibraq Tobacco Coll. Cuban Tobacco Extrait De Parfum For Unisex - Oriental Perfume 100ml",
-          "handle": "ibraq-tobacco-coll-cuban-tobacco-extrait-de-parfum-for-unisex-oriental-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cuban_20white-1000x1000.jpg?v=1777795110",
-          "price": 210,
-          "badge": ""
-        },
-        {
-          "name": "Ibraq Tobacco Collection Spanish Tobacco Extrait De Parfum For Unisex - Oriental Woody Perfume 100ml",
-          "handle": "ibraq-tobacco-collection-spanish-tobacco-extrait-de-parfum-for-unisex-oriental-woody-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/spanish_20white-1000x1000.jpg?v=1776843864",
-          "price": 210,
-          "badge": ""
-        },
-        {
-          "name": "Ibraq Tobacco Collection French Tobacco Extrait De Parfum For Unisex - Aromatic Fougere Perfume 100ml",
-          "handle": "ibraq-tobacco-collection-french-tobacco-extrait-de-parfum-for-unisex-aromatic-fougere-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/828bef87-11b1-4468-a4ba-5ddab45f23c3-1000x1000-GQd87Eu8NtYPX1iSIEGIdNaLwNzvwJCx6U4tm3pX.png?v=1776843310",
-          "price": 204,
-          "badge": ""
-        },
-        {
-          "name": "Ibraq Blue Oud Eau De Parfum For Unisex - Oriental Woody Perfume 100ml",
-          "handle": "ibraq-blue-oud-eau-de-parfum-for-unisex-oriental-woody-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/IbraheemAlQurashiBlueOud3_1800x1800_8381e9d7-33a5-4b96-b594-c195b413a830.jpg?v=1772602979",
-          "price": 236,
-          "badge": ""
         }
       ]
     },
