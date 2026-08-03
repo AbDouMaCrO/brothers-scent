@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T16:06:33.681Z",
+  "generated_at": "2026-08-03T18:20:48.606Z",
   "total_brands": 889,
   "brands": [
     {
@@ -1709,7 +1709,7 @@
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cq5dam.web.hebebed.2400.2400-Photoroom.png?v=1785770539",
       "preview": [
         {
-          "name": "Prada Paradigme M Le Parfum For Men- Oriental Woody Perfume 100ml",
+          "name": "Prada Paradigme Le Parfum For Men- Oriental Woody Perfume 100ml",
           "handle": "prada-paradigme-m-le-parfum-for-men-oriental-woody-perfume-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cq5dam.web.hebebed.2400.2400-Photoroom.png?v=1785770539",
           "price": 640,
@@ -6853,56 +6853,6 @@
       ]
     },
     {
-      "name": "Ferrari",
-      "slug": "ferrari",
-      "count": 41,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/FerrariScuderiaFerrariForte_M_SetEdp75Ml_Bath_ShowerGel200Ml.jpg?v=1659097420",
-      "preview": [
-        {
-          "name": "Ferrari Scuderia Ferrari Forte Gift Set For Men",
-          "handle": "ferrari-scuderia-ferrari-forte-gift-set-for-men",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/FerrariScuderiaFerrariForte_M_SetEdp75Ml_Bath_ShowerGel200Ml.jpg?v=1659097420",
-          "price": 75,
-          "badge": ""
-        },
-        {
-          "name": "Ferrari Uomo Perfume For Men EDT 30ml",
-          "handle": "ferrari-uomo-perfume-for-men-edt-30ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/FerrariUomo_M_Edt30Ml.jpg?v=1659097130",
-          "price": 41,
-          "badge": ""
-        },
-        {
-          "name": "Ferrari Scuderia Ferrari Red Perfume For Men EDT 40ml",
-          "handle": "ferrari-scuderia-ferrari-red-perfume-for-men-edt-40ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/FerrariScuderiaFerrariRed_M_Edt40Ml.jpg?v=1659084330",
-          "price": 46,
-          "badge": ""
-        },
-        {
-          "name": "Ferrari Scuderia Ferrari Racing Red Perfume For Men EDT 40ml",
-          "handle": "ferrari-scuderia-ferrari-racing-red-perfume-for-men-edt-40ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/FerrariScuderiaFerrariRacingRed_M_Edt40Ml.jpg?v=1659083138",
-          "price": 41,
-          "badge": ""
-        },
-        {
-          "name": "Ferrari Scuderia Ferrari Black Signature Perfume For Men EDT 40ml",
-          "handle": "ferrari-scuderia-ferrari-black-signature-perfume-for-men-edt-40ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/FerrariScuderiaFerrariBlackSignature_M_Edt40Ml.jpg?v=1659082802",
-          "price": 48,
-          "badge": ""
-        },
-        {
-          "name": "Ferrari Red Power Ice 3 Perfume For Men EDT 75ml",
-          "handle": "ferrari-red-power-ice-3-perfume-for-men-edt-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/FerrariRedPowerIce3_M_Edt75Ml.jpg?v=1659081522",
-          "price": 56,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Gres",
       "slug": "gres",
       "count": 40,
@@ -6948,6 +6898,56 @@
           "handle": "gres-les-signes-de-gres-extreme-purete-perfume-for-women-edp-100-ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/gres_les_signes_de_gres_extreme_purete_w_edp_100_ml_fr.jpg?v=1624519227",
           "price": 48,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Ferrari",
+      "slug": "ferrari",
+      "count": 40,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/FerrariScuderiaFerrariForte_M_SetEdp75Ml_Bath_ShowerGel200Ml.jpg?v=1659097420",
+      "preview": [
+        {
+          "name": "Ferrari Scuderia Ferrari Forte Gift Set For Men",
+          "handle": "ferrari-scuderia-ferrari-forte-gift-set-for-men",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/FerrariScuderiaFerrariForte_M_SetEdp75Ml_Bath_ShowerGel200Ml.jpg?v=1659097420",
+          "price": 75,
+          "badge": ""
+        },
+        {
+          "name": "Ferrari Uomo Perfume For Men EDT 30ml",
+          "handle": "ferrari-uomo-perfume-for-men-edt-30ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/FerrariUomo_M_Edt30Ml.jpg?v=1659097130",
+          "price": 41,
+          "badge": ""
+        },
+        {
+          "name": "Ferrari Scuderia Ferrari Red Perfume For Men EDT 40ml",
+          "handle": "ferrari-scuderia-ferrari-red-perfume-for-men-edt-40ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/FerrariScuderiaFerrariRed_M_Edt40Ml.jpg?v=1659084330",
+          "price": 46,
+          "badge": ""
+        },
+        {
+          "name": "Ferrari Scuderia Ferrari Racing Red Perfume For Men EDT 40ml",
+          "handle": "ferrari-scuderia-ferrari-racing-red-perfume-for-men-edt-40ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/FerrariScuderiaFerrariRacingRed_M_Edt40Ml.jpg?v=1659083138",
+          "price": 41,
+          "badge": ""
+        },
+        {
+          "name": "Ferrari Scuderia Ferrari Black Signature Perfume For Men EDT 40ml",
+          "handle": "ferrari-scuderia-ferrari-black-signature-perfume-for-men-edt-40ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/FerrariScuderiaFerrariBlackSignature_M_Edt40Ml.jpg?v=1659082802",
+          "price": 48,
+          "badge": ""
+        },
+        {
+          "name": "Ferrari Red Power Ice 3 Perfume For Men EDT 75ml",
+          "handle": "ferrari-red-power-ice-3-perfume-for-men-edt-75ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/FerrariRedPowerIce3_M_Edt75Ml.jpg?v=1659081522",
+          "price": 56,
           "badge": ""
         }
       ]
@@ -20353,6 +20353,56 @@
       ]
     },
     {
+      "name": "Reef",
+      "slug": "reef",
+      "count": 8,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/11-Photoroom.png?v=1785779177",
+      "preview": [
+        {
+          "name": "Reef 11 Parfum For Unisex-Floral Woody Perfume 100ml",
+          "handle": "reef-11-parfum-for-unisex-floral-woody-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/11-Photoroom.png?v=1785779177",
+          "price": 202,
+          "badge": ""
+        },
+        {
+          "name": "Reef Lady Reef Eau de Parfum For Women Floral 150ml",
+          "handle": "reef-lady-reef-eau-de-parfum-for-women-floral-150ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/reef.webp?v=1773852649",
+          "price": 236,
+          "badge": ""
+        },
+        {
+          "name": "Reef 21 Parfum For Unisex - Woody-Fruity Perfume 100ml",
+          "handle": "reef-21-parfum-for-unisex-woody-fruity-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/61n8TZfd8_L.jpg?v=1771857508",
+          "price": 202,
+          "badge": ""
+        },
+        {
+          "name": "Reef Perfumes Arabs of Obaiah Edp For Men And Women Fruity 100ml",
+          "handle": "reef-perfumes-arabs-of-obaiah-edp-for-men-and-women-fruity-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/reeffff.avif?v=1771784749",
+          "price": 210,
+          "badge": ""
+        },
+        {
+          "name": "Reef Perfumes Reef 33 White Edp For Men And Women Fruity 100ml",
+          "handle": "reef-perfumes-reef-33-white-edp-for-men-and-women-fruity-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/33_053dfa1d-f262-48a8-bdaa-2ac2c8706dd7.webp?v=1771783902",
+          "price": 202,
+          "badge": ""
+        },
+        {
+          "name": "Reef 31 Edp For Men And Women Fresh 100ml",
+          "handle": "reef-31-edp-for-men-and-women-fresh-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/31_fc945503-20e0-4e4b-9d39-0d91b1f7627e.jpg?v=1767550116",
+          "price": 202,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "RiiFFS",
       "slug": "riiffs",
       "count": 8,
@@ -21398,56 +21448,6 @@
           "handle": "jeroboam-gozo-for-unisex-extrait-de-parfum-30ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3760156771045_2.jpg?v=1729887761",
           "price": 584,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Reef",
-      "slug": "reef",
-      "count": 7,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/reef.webp?v=1773852649",
-      "preview": [
-        {
-          "name": "Reef Lady Reef Eau de Parfum For Women Floral 150ml",
-          "handle": "reef-lady-reef-eau-de-parfum-for-women-floral-150ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/reef.webp?v=1773852649",
-          "price": 236,
-          "badge": ""
-        },
-        {
-          "name": "Reef 21 Parfum For Unisex - Woody-Fruity Perfume 100ml",
-          "handle": "reef-21-parfum-for-unisex-woody-fruity-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/61n8TZfd8_L.jpg?v=1771857508",
-          "price": 202,
-          "badge": ""
-        },
-        {
-          "name": "Reef Perfumes Arabs of Obaiah Edp For Men And Women Fruity 100ml",
-          "handle": "reef-perfumes-arabs-of-obaiah-edp-for-men-and-women-fruity-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/reeffff.avif?v=1771784749",
-          "price": 210,
-          "badge": ""
-        },
-        {
-          "name": "Reef Perfumes Reef 33 White Edp For Men And Women Fruity 100ml",
-          "handle": "reef-perfumes-reef-33-white-edp-for-men-and-women-fruity-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/33_053dfa1d-f262-48a8-bdaa-2ac2c8706dd7.webp?v=1771783902",
-          "price": 202,
-          "badge": ""
-        },
-        {
-          "name": "Reef 31 Edp For Men And Women Fresh 100ml",
-          "handle": "reef-31-edp-for-men-and-women-fresh-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/31_fc945503-20e0-4e4b-9d39-0d91b1f7627e.jpg?v=1767550116",
-          "price": 202,
-          "badge": ""
-        },
-        {
-          "name": "Reef 33 Edp For Men And Women Woody 100ml",
-          "handle": "reef-33-edp-for-men-and-women-woody-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/33.jpg?v=1767549994",
-          "price": 219,
           "badge": ""
         }
       ]
