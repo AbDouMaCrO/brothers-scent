@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T06:25:24.857Z",
-  "total_brands": 888,
+  "generated_at": "2026-08-03T10:17:22.589Z",
+  "total_brands": 889,
   "brands": [
     {
       "name": "Amazing Creation",
@@ -203,56 +203,6 @@
       ]
     },
     {
-      "name": "Christian Dior",
-      "slug": "christian-dior",
-      "count": 351,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Y0896220_F089624009_E01_ZHC-Photoroom.png?v=1785696252",
-      "preview": [
-        {
-          "name": "Dior Eau Sauvage Parfum For Men- Citrus Aromatic Perfume 100ml",
-          "handle": "dior-eau-sauvage-parfum-for-men-citrus-aromatic-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Y0896220_F089624009_E01_ZHC-Photoroom.png?v=1785696252",
-          "price": 657,
-          "badge": ""
-        },
-        {
-          "name": "Christian Dior Addict Rosy Glow Eau de Parfum, Floral Fruity Gourmand Fragrance For Women 100ml",
-          "handle": "christian-dior-addict-rosy-glow-eau-de-parfum-for-women-floral-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rose_glow-removebg.png?v=1784536564",
-          "price": 903,
-          "badge": ""
-        },
-        {
-          "name": "Christian Dior Addict Purple Glow Eau de Parfum, Floral Fruity Gourmand Fragrance For Women 50ml",
-          "handle": "christian-dior-addict-purple-glow-eau-de-parfum-for-women-floral-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/purple-removebg_aae3b397-8439-470e-a52a-3b1ffd7a02c9.png?v=1784536008",
-          "price": 613,
-          "badge": ""
-        },
-        {
-          "name": "Christian Dior Addict Purple Glow Eau de Parfum, Floral Fruity Gourmand Fragrance For Women 100ml",
-          "handle": "christian-dior-addict-purple-glow-eau-de-parfum-for-women-floral-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/purple-removebg.png?v=1784491609",
-          "price": 939,
-          "badge": ""
-        },
-        {
-          "name": "Christian Dior Addict Peachy Glow Eau de Parfum, Floral Fruity Gourmand Fragrance For Women 50ml",
-          "handle": "christian-dior-addict-peachy-glow-eau-de-parfum-for-women-floral-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/50-removebg.png?v=1784489964",
-          "price": 613,
-          "badge": ""
-        },
-        {
-          "name": "Christian Dior Addict Peachy Glow Eau de Parfum, Floral Fruity Gourmand Fragrance For Women 100ml",
-          "handle": "christian-dior-addict-peachy-glow-eau-de-parfum-for-women-floral-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/dior-removebg-preview_7802345b-6e3e-474b-ade9-73392c207d7c.png?v=1784487627",
-          "price": 939,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Giorgio Armani",
       "slug": "giorgio-armani",
       "count": 348,
@@ -298,6 +248,56 @@
           "handle": "giorgio-armani-si-parfum-for-women-chypre-floral-perfume-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/01.jpg?v=1781189670",
           "price": 497,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Christian Dior",
+      "slug": "christian-dior",
+      "count": 347,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Y0896220_F089624009_E01_ZHC-Photoroom.png?v=1785696252",
+      "preview": [
+        {
+          "name": "Dior Eau Sauvage Parfum For Men- Citrus Aromatic Perfume 100ml",
+          "handle": "dior-eau-sauvage-parfum-for-men-citrus-aromatic-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Y0896220_F089624009_E01_ZHC-Photoroom.png?v=1785696252",
+          "price": 657,
+          "badge": ""
+        },
+        {
+          "name": "Christian Dior Addict Rosy Glow Eau de Parfum, Floral Fruity Gourmand Fragrance For Women 100ml",
+          "handle": "christian-dior-addict-rosy-glow-eau-de-parfum-for-women-floral-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rose_glow-removebg.png?v=1784536564",
+          "price": 903,
+          "badge": ""
+        },
+        {
+          "name": "Christian Dior Addict Purple Glow Eau de Parfum, Floral Fruity Gourmand Fragrance For Women 50ml",
+          "handle": "christian-dior-addict-purple-glow-eau-de-parfum-for-women-floral-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/purple-removebg_aae3b397-8439-470e-a52a-3b1ffd7a02c9.png?v=1784536008",
+          "price": 613,
+          "badge": ""
+        },
+        {
+          "name": "Christian Dior Addict Purple Glow Eau de Parfum, Floral Fruity Gourmand Fragrance For Women 100ml",
+          "handle": "christian-dior-addict-purple-glow-eau-de-parfum-for-women-floral-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/purple-removebg.png?v=1784491609",
+          "price": 939,
+          "badge": ""
+        },
+        {
+          "name": "Christian Dior Addict Peachy Glow Eau de Parfum, Floral Fruity Gourmand Fragrance For Women 50ml",
+          "handle": "christian-dior-addict-peachy-glow-eau-de-parfum-for-women-floral-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/50-removebg.png?v=1784489964",
+          "price": 613,
+          "badge": ""
+        },
+        {
+          "name": "Christian Dior Addict Peachy Glow Eau de Parfum, Floral Fruity Gourmand Fragrance For Women 100ml",
+          "handle": "christian-dior-addict-peachy-glow-eau-de-parfum-for-women-floral-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/dior-removebg-preview_7802345b-6e3e-474b-ade9-73392c207d7c.png?v=1784487627",
+          "price": 939,
           "badge": ""
         }
       ]
@@ -605,9 +605,16 @@
     {
       "name": "Lattafa",
       "slug": "lattafa",
-      "count": 275,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Fire_On_Ice_EDP_For_Unisex_110ml.png?v=1785417498",
+      "count": 276,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/second-Photoroom.png?v=1785744907",
       "preview": [
+        {
+          "name": "Lattafa Angham Second Song Eau De Parfum For Women- Floral Fruity Gourmand Perfume 100ml",
+          "handle": "lattafa-angham-second-song-eau-de-parfum-for-women-floral-fruity-gourmand-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/second-Photoroom.png?v=1785744907",
+          "price": 162,
+          "badge": ""
+        },
         {
           "name": "Lattafa Fire On Ice  EDP For Unisex 110ml",
           "handle": "lattafa-fire-on-ice-edp-for-unisex-110ml",
@@ -640,13 +647,6 @@
           "name": "Lattafa Give Me Gourmand Whipped Pleasure EDP For Women 75ml",
           "handle": "lattafa-give-me-gourmand-whipped-pleasure-edp-for-women-75ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Whipped_Pleasure.png?v=1785304977",
-          "price": 103,
-          "badge": "SALE"
-        },
-        {
-          "name": "Lattafa Give Me Gourmand Berry On Top EDP For Women 75ml",
-          "handle": "lattafa-give-me-gourmand-berry-on-top-edp-for-women-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Berry_On_Top.png?v=1785304769",
           "price": 103,
           "badge": "SALE"
         }
@@ -1655,9 +1655,23 @@
     {
       "name": "Lancome",
       "slug": "lancome",
-      "count": 175,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/idoleeee-removebg-preview.png?v=1785046465",
+      "count": 177,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/53847_NA_1__12493-Photoroom.png?v=1785743796",
       "preview": [
+        {
+          "name": "Lancome La Vie Est Belle Vanille Nude Eau De Parfum For Women-Oriental Floral  Perfume 50ml",
+          "handle": "lancome-la-vie-est-belle-vanille-nude-eau-de-parfum-for-women-oriental-floral-perfume-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/53847_NA_1__12493-Photoroom.png?v=1785743796",
+          "price": 396,
+          "badge": ""
+        },
+        {
+          "name": "Lancome Idole L'EAU De Parfum Travel For Women- Chypre Floral Perfume 10ml",
+          "handle": "lancome-idole-leau-de-parfum-travel-for-women-chypre-floral-perfume-10ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ALT0-3614273549745-PACKSHOT-Photoroom.png?v=1785742380",
+          "price": 64,
+          "badge": ""
+        },
         {
           "name": "Lancôme Idôle L'Eau de Parfum,  Chypre Floral Fragrance For Women100ml",
           "handle": "lancome-idole-leau-de-parfum-for-women-floral-100ml",
@@ -1684,20 +1698,6 @@
           "handle": "lancome-absolue-not-your-rose-eau-de-parfum-for-women-floral-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/lancomee-removebg-preview.png?v=1784894098",
           "price": 678,
-          "badge": ""
-        },
-        {
-          "name": "Lancôme Gift Set For Women Floral",
-          "handle": "lancome-gift-set-for-women-floral",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/gift.avif?v=1782573036",
-          "price": 446,
-          "badge": ""
-        },
-        {
-          "name": "Lancome Idole Peach'N Roses  L' Eau De Parfum Fruitee For Women-Floral Fruity Perfume 50ml",
-          "handle": "lancome-idole-peachn-roses-l-eau-de-parfum-fruitee-for-women-floral-fruity-perfume-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/716-gosqMuL__SL1500__1774350800671.webp?v=1781419450",
-          "price": 379,
           "badge": ""
         }
       ]
@@ -15103,56 +15103,6 @@
       ]
     },
     {
-      "name": "Kim Kardashian",
-      "slug": "kim-kardashian",
-      "count": 15,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/76kim-kardashian-pure-honey-set_grande_629842f9-314f-41ec-ac77-9701792026b1.jpg?v=1711280372",
-      "preview": [
-        {
-          "name": "Kim Kardashian Pure Honey Set EDP 100ml + Body Lotion 100ml + Fragranced Bee (1) For Women",
-          "handle": "kim-kardashian-pure-honey-set-edp-100ml-body-lotion-100ml-fragranced-bee-1-for-women",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/76kim-kardashian-pure-honey-set_grande_629842f9-314f-41ec-ac77-9701792026b1.jpg?v=1711280372",
-          "price": 136,
-          "badge": ""
-        },
-        {
-          "name": "Kim Kardashian Perfume For Women EDP 50ml",
-          "handle": "kim-kardashian-perfume-for-women-edp-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/KimKardashian_W_Edp50Ml.jpg?v=1654588086",
-          "price": 73,
-          "badge": ""
-        },
-        {
-          "name": "Kim Kardashian Fleur Fatale Perfume For Women EDP 100ml",
-          "handle": "kim-kardashian-fleur-fatale-perfume-for-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/KimKardashianFleurFatale_W_Edp100MlUs.jpg?v=1634117700",
-          "price": 75,
-          "badge": ""
-        },
-        {
-          "name": "Kim Kardashian True Reflection for Women EDP 30 ml",
-          "handle": "kim-kardashian-true-reflection-for-women-edp-30-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/KimKardashianTrueReflectionforWomenEDP30ml.jpg?v=1638805388",
-          "price": 32,
-          "badge": ""
-        },
-        {
-          "name": "Kim Kardashian Pure Honey for Women EDP 30 ml",
-          "handle": "kim-kardashian-pure-honey-for-women-edp-30-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/KimKardashianPureHoneyforWomenEDP30ml.jpg?v=1638805388",
-          "price": 32,
-          "badge": ""
-        },
-        {
-          "name": "Kim Kardashian Fleur Fatale for Women EDP 30 ml",
-          "handle": "kim-kardashian-fleur-fatale-for-women-edp-30-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/KimKardashianFleurFataleforWomenEDP30ml.jpg?v=1631001161",
-          "price": 32,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Silky Cool",
       "slug": "silky-cool",
       "count": 15,
@@ -15698,6 +15648,56 @@
           "handle": "scentstory-24-ice-gold-for-unisex-edt-100-ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/39767.jpg?v=1624537916",
           "price": 109,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Kim Kardashian",
+      "slug": "kim-kardashian",
+      "count": 14,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/76kim-kardashian-pure-honey-set_grande_629842f9-314f-41ec-ac77-9701792026b1.jpg?v=1711280372",
+      "preview": [
+        {
+          "name": "Kim Kardashian Pure Honey Set EDP 100ml + Body Lotion 100ml + Fragranced Bee (1) For Women",
+          "handle": "kim-kardashian-pure-honey-set-edp-100ml-body-lotion-100ml-fragranced-bee-1-for-women",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/76kim-kardashian-pure-honey-set_grande_629842f9-314f-41ec-ac77-9701792026b1.jpg?v=1711280372",
+          "price": 136,
+          "badge": ""
+        },
+        {
+          "name": "Kim Kardashian Perfume For Women EDP 50ml",
+          "handle": "kim-kardashian-perfume-for-women-edp-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/KimKardashian_W_Edp50Ml.jpg?v=1654588086",
+          "price": 73,
+          "badge": ""
+        },
+        {
+          "name": "Kim Kardashian Fleur Fatale Perfume For Women EDP 100ml",
+          "handle": "kim-kardashian-fleur-fatale-perfume-for-women-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/KimKardashianFleurFatale_W_Edp100MlUs.jpg?v=1634117700",
+          "price": 75,
+          "badge": ""
+        },
+        {
+          "name": "Kim Kardashian True Reflection for Women EDP 30 ml",
+          "handle": "kim-kardashian-true-reflection-for-women-edp-30-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/KimKardashianTrueReflectionforWomenEDP30ml.jpg?v=1638805388",
+          "price": 32,
+          "badge": ""
+        },
+        {
+          "name": "Kim Kardashian Pure Honey for Women EDP 30 ml",
+          "handle": "kim-kardashian-pure-honey-for-women-edp-30-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/KimKardashianPureHoneyforWomenEDP30ml.jpg?v=1638805388",
+          "price": 32,
+          "badge": ""
+        },
+        {
+          "name": "Kim Kardashian Fleur Fatale for Women EDP 30 ml",
+          "handle": "kim-kardashian-fleur-fatale-for-women-edp-30-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/KimKardashianFleurFataleforWomenEDP30ml.jpg?v=1631001161",
+          "price": 32,
           "badge": ""
         }
       ]
@@ -26437,7 +26437,7 @@
           "name": "Rave Now Perfume For Men EDP 100ml",
           "handle": "rave-now-perfume-for-men-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/6291107456485.jpg?v=1624485207",
-          "price": 55,
+          "price": 53,
           "badge": "SALE"
         }
       ]
@@ -29365,6 +29365,28 @@
           "handle": "envy-1000-noir-no-gas-deodorant-spray-for-men-130ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/3_27_2.jpg?v=1624400853",
           "price": 12,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Oriarome",
+      "slug": "oriarome",
+      "count": 2,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/SMOKEDCINNAMON-05-Photoroom.png?v=1785749395",
+      "preview": [
+        {
+          "name": "Oriarome Smoked Cinnamon Eau De Parfum For Unisex- Citrus Gourmand Perfume 100ml",
+          "handle": "oriarome-smoked-cinnamon-eau-de-parfum-for-unisex-citrus-gourmand-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/SMOKEDCINNAMON-05-Photoroom.png?v=1785749395",
+          "price": 60,
+          "badge": ""
+        },
+        {
+          "name": "Oriarome Lemon Soda Eau De Parfum For Unisex-Citrus Gourmand Perfume 100ml",
+          "handle": "oriarome-lemon-soda-eau-de-parfum-for-unisex-citrus-gourmand-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LEMONSODA-01-Photoroom.png?v=1785747611",
+          "price": 60,
           "badge": ""
         }
       ]
