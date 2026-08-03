@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T13:29:34.246Z",
+  "generated_at": "2026-08-03T16:06:33.681Z",
   "total_brands": 889,
   "brands": [
     {
@@ -1703,11 +1703,18 @@
       ]
     },
     {
-      "name": "PRADA",
+      "name": "Prada",
       "slug": "prada",
-      "count": 172,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/para-removebg-preview.png?v=1784896477",
+      "count": 173,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cq5dam.web.hebebed.2400.2400-Photoroom.png?v=1785770539",
       "preview": [
+        {
+          "name": "Prada Paradigme M Le Parfum For Men- Oriental Woody Perfume 100ml",
+          "handle": "prada-paradigme-m-le-parfum-for-men-oriental-woody-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cq5dam.web.hebebed.2400.2400-Photoroom.png?v=1785770539",
+          "price": 640,
+          "badge": ""
+        },
         {
           "name": "Prada Les Infusions de Gingembre Eau de Parfum, Hespéridé Aromatique Fragrance For Men And Women 100ml",
           "handle": "prada-les-infusions-de-gingembre-eau-de-parfum-for-men-and-women-citrus-100ml",
@@ -1741,13 +1748,6 @@
           "handle": "prada-paradoxe-virtual-flower-eau-de-parfum-for-women-floral-musky-perfume-recharge-refill-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/539899.jpg?v=1766482219",
           "price": 371,
-          "badge": ""
-        },
-        {
-          "name": "Prada Olfactories Some Velvet Morning Eau De Parfum For Unisex -  Oriental Perfume 100ml",
-          "handle": "prada-olfactories-some-velvet-morning-eau-de-parfum-for-unisex-oriental-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/u_3614274113495_01.jpg?v=1766481151",
-          "price": 567,
           "badge": ""
         }
       ]
@@ -2303,56 +2303,6 @@
       ]
     },
     {
-      "name": "Creed",
-      "slug": "creed",
-      "count": 129,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/114793528-Photoroom.png?v=1785147184",
-      "preview": [
-        {
-          "name": "Creed Wild Vetiver Eau De Parfum For Unisex-Citrus Aromatic Perfume 100ml",
-          "handle": "creed-wild-vetiver-eau-de-parfum-for-unisex-citrus-aromatic-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/114793528-Photoroom.png?v=1785147184",
-          "price": 1859,
-          "badge": ""
-        },
-        {
-          "name": "Creed Vanisia Scented Candle Amber 220 g",
-          "handle": "creed-vanisia-scented-candle-amber-220g",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/toscana_box_fe7db876-603a-4419-ad92-6bbde0343df6.png?v=1783981527",
-          "price": 296,
-          "badge": ""
-        },
-        {
-          "name": "Creed Toscana Scented Candle Aromatic 220g",
-          "handle": "creed-toscana-scented-candle-aromatic-220g",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/toscana_box.png?v=1783981173",
-          "price": 296,
-          "badge": ""
-        },
-        {
-          "name": "Creed Sea Island Scented Candle Fresh 220g",
-          "handle": "creed-sea-island-scented-candle-fresh-220g",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/island-remove.png?v=1783980558",
-          "price": 296,
-          "badge": ""
-        },
-        {
-          "name": "Creed Cananga Scented Candle Floral 220g",
-          "handle": "creed-cananga-scented-candle-floral-220g",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/changa.png?v=1783980020",
-          "price": 296,
-          "badge": ""
-        },
-        {
-          "name": "Creed Birmanie Oud Scented Candle Woody 220g",
-          "handle": "creed-birmanie-oud-scented-candle-woody-220-g",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bbbbbbb.png?v=1783977749",
-          "price": 296,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Mercedes- Benz",
       "slug": "mercedes-benz",
       "count": 129,
@@ -2398,6 +2348,56 @@
           "handle": "mercedes-benz-club-black-for-men-gift-set-for-men",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/MERCEDESBENZBLACKSET.webp?v=1766316165",
           "price": 200,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Creed",
+      "slug": "creed",
+      "count": 128,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/114793528-Photoroom.png?v=1785147184",
+      "preview": [
+        {
+          "name": "Creed Wild Vetiver Eau De Parfum For Unisex-Citrus Aromatic Perfume 100ml",
+          "handle": "creed-wild-vetiver-eau-de-parfum-for-unisex-citrus-aromatic-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/114793528-Photoroom.png?v=1785147184",
+          "price": 1859,
+          "badge": ""
+        },
+        {
+          "name": "Creed Vanisia Scented Candle Amber 220 g",
+          "handle": "creed-vanisia-scented-candle-amber-220g",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/toscana_box_fe7db876-603a-4419-ad92-6bbde0343df6.png?v=1783981527",
+          "price": 296,
+          "badge": ""
+        },
+        {
+          "name": "Creed Toscana Scented Candle Aromatic 220g",
+          "handle": "creed-toscana-scented-candle-aromatic-220g",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/toscana_box.png?v=1783981173",
+          "price": 296,
+          "badge": ""
+        },
+        {
+          "name": "Creed Sea Island Scented Candle Fresh 220g",
+          "handle": "creed-sea-island-scented-candle-fresh-220g",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/island-remove.png?v=1783980558",
+          "price": 296,
+          "badge": ""
+        },
+        {
+          "name": "Creed Cananga Scented Candle Floral 220g",
+          "handle": "creed-cananga-scented-candle-floral-220g",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/changa.png?v=1783980020",
+          "price": 296,
+          "badge": ""
+        },
+        {
+          "name": "Creed Birmanie Oud Scented Candle Woody 220g",
+          "handle": "creed-birmanie-oud-scented-candle-woody-220-g",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bbbbbbb.png?v=1783977749",
+          "price": 296,
           "badge": ""
         }
       ]
@@ -10303,56 +10303,6 @@
       ]
     },
     {
-      "name": "Clinique",
-      "slug": "clinique",
-      "count": 23,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cc.webp?v=1774696974",
-      "preview": [
-        {
-          "name": "Clinique Gift Set For Men",
-          "handle": "clinique-gift-set-for-men",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cc.webp?v=1774696974",
-          "price": 222,
-          "badge": ""
-        },
-        {
-          "name": "Clinique Happy For Men 3-Piece Gift Set For Men",
-          "handle": "clinique-happy-for-men-gift-set-edt-for-men",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/61NKUKJqTIL._SL1500.jpg?v=1773858300",
-          "price": 222,
-          "badge": ""
-        },
-        {
-          "name": "Clinique Happy For Men EDT Gift Set For Men",
-          "handle": "clinique-happy-for-men-edt-gift-set-for-men",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/1006643-01.jpg?v=1773857765",
-          "price": 228,
-          "badge": ""
-        },
-        {
-          "name": "Clinique Happy For Men Gift Set For Men",
-          "handle": "clinique-happy-for-men-gift-set-for-men",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/61TIZ_xxUML.jpg?v=1773834400",
-          "price": 228,
-          "badge": ""
-        },
-        {
-          "name": "Clinique Happy Gift Set Parfum For Women",
-          "handle": "clinique-happy-gift-set-parfum-for-women",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/s-l1600_d2089f09-255e-4906-82f5-0993a8690c46.webp?v=1773833766",
-          "price": 140,
-          "badge": ""
-        },
-        {
-          "name": "Clinique Aromatics Elixir Parfum 4-Piece Gift Set For Women",
-          "handle": "clinique-aromatics-elixir-parfum-gift-set-for-women-1",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/478334.jpg?v=1773831641",
-          "price": 163,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Bentley",
       "slug": "bentley",
       "count": 23,
@@ -10748,6 +10698,56 @@
           "handle": "joop-jump-eau-de-toilette-for-men-aromatic-fougere-perfume-200ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/61UalPiPU4L.jpg?v=1757503815",
           "price": 121,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Clinique",
+      "slug": "clinique",
+      "count": 22,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cc.webp?v=1774696974",
+      "preview": [
+        {
+          "name": "Clinique Gift Set For Men",
+          "handle": "clinique-gift-set-for-men",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cc.webp?v=1774696974",
+          "price": 222,
+          "badge": ""
+        },
+        {
+          "name": "Clinique Happy For Men 3-Piece Gift Set For Men",
+          "handle": "clinique-happy-for-men-gift-set-edt-for-men",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/61NKUKJqTIL._SL1500.jpg?v=1773858300",
+          "price": 222,
+          "badge": ""
+        },
+        {
+          "name": "Clinique Happy For Men EDT Gift Set For Men",
+          "handle": "clinique-happy-for-men-edt-gift-set-for-men",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/1006643-01.jpg?v=1773857765",
+          "price": 228,
+          "badge": ""
+        },
+        {
+          "name": "Clinique Happy For Men Gift Set For Men",
+          "handle": "clinique-happy-for-men-gift-set-for-men",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/61TIZ_xxUML.jpg?v=1773834400",
+          "price": 228,
+          "badge": ""
+        },
+        {
+          "name": "Clinique Happy Gift Set Parfum For Women",
+          "handle": "clinique-happy-gift-set-parfum-for-women",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/s-l1600_d2089f09-255e-4906-82f5-0993a8690c46.webp?v=1773833766",
+          "price": 140,
+          "badge": ""
+        },
+        {
+          "name": "Clinique Aromatics Elixir Parfum 4-Piece Gift Set For Women",
+          "handle": "clinique-aromatics-elixir-parfum-gift-set-for-women-1",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/478334.jpg?v=1773831641",
+          "price": 163,
           "badge": ""
         }
       ]
@@ -22553,6 +22553,56 @@
       ]
     },
     {
+      "name": "Oriarome",
+      "slug": "oriarome",
+      "count": 6,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/VALORISENIGMA-01-Photoroom.png?v=1785765606",
+      "preview": [
+        {
+          "name": "Oriarome Valoris Enigma Extrait De Parfum For Men- Oriental Woody Perfume 100ml",
+          "handle": "oriarome-valoris-enigma-extrait-de-parfum-for-men-oriental-woody-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/VALORISENIGMA-01-Photoroom.png?v=1785765606",
+          "price": 118,
+          "badge": ""
+        },
+        {
+          "name": "Oriarome Valoris Alpha Extrait De Parfum For Men- Aromatic Aquatic Perfume 100ml",
+          "handle": "oriarome-valoris-alpha-extrait-de-parfum-for-men-aromatic-aquatic-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/VALORISALPHA-01-Photoroom.png?v=1785760873",
+          "price": 118,
+          "badge": ""
+        },
+        {
+          "name": "Oriarome Spiced Spirit Extrait De Parfum For Unisex- Oriental Vanilla Perfume 100ml",
+          "handle": "oriarome-spiced-spirit-extrait-de-parfum-for-unisex-oriental-vanilla-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/SPICED-01-Photoroom.png?v=1785760103",
+          "price": 126,
+          "badge": ""
+        },
+        {
+          "name": "Oriarome Smoky Elixir Extrait De Parfum For Unisex-Oriental Vanilla Perfume 100ml",
+          "handle": "oriarome-smoky-elixir-extrait-de-parfum-for-unisex-oriental-vanilla-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/SMOKY-01_b18131de-e661-43af-a38f-6e225345ad1a-Photoroom.png?v=1785759218",
+          "price": 126,
+          "badge": ""
+        },
+        {
+          "name": "Oriarome Smoked Cinnamon Eau De Parfum For Unisex- Citrus Gourmand Perfume 100ml",
+          "handle": "oriarome-smoked-cinnamon-eau-de-parfum-for-unisex-citrus-gourmand-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/SMOKEDCINNAMON-05-Photoroom.png?v=1785749395",
+          "price": 60,
+          "badge": ""
+        },
+        {
+          "name": "Oriarome Lemon Soda Eau De Parfum For Unisex-Citrus Gourmand Perfume 100ml",
+          "handle": "oriarome-lemon-soda-eau-de-parfum-for-unisex-citrus-gourmand-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LEMONSODA-01-Photoroom.png?v=1785747611",
+          "price": 60,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Dar El Ward",
       "slug": "dar-el-ward",
       "count": 6,
@@ -23998,49 +24048,6 @@
           "handle": "oscar-de-la-renta-ruby-velvet-edt-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/oscar_de_la_renta_ruby_velvet_edt_100ml..jpg?v=1633536439",
           "price": 142,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Oriarome",
-      "slug": "oriarome",
-      "count": 5,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/VALORISALPHA-01-Photoroom.png?v=1785760873",
-      "preview": [
-        {
-          "name": "Oriarome Valoris Alpha Extrait De Parfum For Men- Aromatic Aquatic Perfume 100ml",
-          "handle": "oriarome-valoris-alpha-extrait-de-parfum-for-men-aromatic-aquatic-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/VALORISALPHA-01-Photoroom.png?v=1785760873",
-          "price": 118,
-          "badge": ""
-        },
-        {
-          "name": "Oriarome Spiced Spirit Extrait De Parfum For Unisex- Oriental Vanilla Perfume 100ml",
-          "handle": "oriarome-spiced-spirit-extrait-de-parfum-for-unisex-oriental-vanilla-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/SPICED-01-Photoroom.png?v=1785760103",
-          "price": 126,
-          "badge": ""
-        },
-        {
-          "name": "Oriarome Smoky Elixir Extrait De Parfum For Unisex-Oriental Vanilla Perfume 100ml",
-          "handle": "oriarome-smoky-elixir-extrait-de-parfum-for-unisex-oriental-vanilla-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/SMOKY-01_b18131de-e661-43af-a38f-6e225345ad1a-Photoroom.png?v=1785759218",
-          "price": 126,
-          "badge": ""
-        },
-        {
-          "name": "Oriarome Smoked Cinnamon Eau De Parfum For Unisex- Citrus Gourmand Perfume 100ml",
-          "handle": "oriarome-smoked-cinnamon-eau-de-parfum-for-unisex-citrus-gourmand-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/SMOKEDCINNAMON-05-Photoroom.png?v=1785749395",
-          "price": 60,
-          "badge": ""
-        },
-        {
-          "name": "Oriarome Lemon Soda Eau De Parfum For Unisex-Citrus Gourmand Perfume 100ml",
-          "handle": "oriarome-lemon-soda-eau-de-parfum-for-unisex-citrus-gourmand-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LEMONSODA-01-Photoroom.png?v=1785747611",
-          "price": 60,
           "badge": ""
         }
       ]
@@ -26480,7 +26487,7 @@
           "name": "Rave Now Perfume For Men EDP 100ml",
           "handle": "rave-now-perfume-for-men-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/6291107456485.jpg?v=1624485207",
-          "price": 53,
+          "price": 52,
           "badge": "SALE"
         }
       ]
