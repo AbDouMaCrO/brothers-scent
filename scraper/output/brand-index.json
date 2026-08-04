@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T09:25:27.005Z",
-  "total_brands": 889,
+  "generated_at": "2026-08-04T11:43:43.978Z",
+  "total_brands": 890,
   "brands": [
     {
       "name": "Amazing Creation",
@@ -4353,56 +4353,6 @@
       ]
     },
     {
-      "name": "Davidoff",
-      "slug": "davidoff",
-      "count": 76,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/COOL-removebg-preview.png?v=1785318708",
-      "preview": [
-        {
-          "name": "Davidoff Cool Elixir Parfum Intense, Oriental Fougere Fragrance For Women 50ml",
-          "handle": "davidoff-cool-elixir-parfum-intense-for-women-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/COOL-removebg-preview.png?v=1785318708",
-          "price": 158,
-          "badge": ""
-        },
-        {
-          "name": "Davidoff Cool Water Intense Eau De Parfum For Men - Amber Perfume 40ml",
-          "handle": "davidoff-cool-water-intense-eau-de-parfum-for-men-amber-perfume-40ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/61l1JGb3wTL.jpg?v=1766827196",
-          "price": 84,
-          "badge": ""
-        },
-        {
-          "name": "Davidoff Cool Water Parfum For Men - Earthy & Woody Perfume 50ml",
-          "handle": "davidoff-cool-water-parfum-for-men-earthy-woody-perfume-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/davidoff_cool_water_for_men_parfum_50ml_2_jpg.webp?v=1766826297",
-          "price": 111,
-          "badge": ""
-        },
-        {
-          "name": "Davidoff Cool Water Oceanic Edition For Her Eau De Toilette For Women - Floral Aquatic Perfume 100ml",
-          "handle": "davidoff-cool-water-oceanic-edition-for-her-eau-de-toilette-for-women-floral-aquatic-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616305009005.jpg?v=1760522201",
-          "price": 140,
-          "badge": ""
-        },
-        {
-          "name": "Davidoff Cool Water Oceanic Edition Eau De Toilette For Men - Aromatic Aquatic Perfume 125ml",
-          "handle": "davidoff-cool-water-oceanic-edition-eau-de-toilette-for-men-aromatic-aquatic-perfume-125ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616305008879.jpg?v=1760519415",
-          "price": 135,
-          "badge": ""
-        },
-        {
-          "name": "Davidoff Cool Elixir Oud Aromatique Parfum Intense For Men - Oriental Fougere Perfume 50ml",
-          "handle": "davidoff-cool-elixir-oud-aromatique-parfum-intense-for-men-oriental-fougere-perfume-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/WLP6S_SQ1_0000000088_NO_COLOR_SLf.jpg?v=1760519027",
-          "price": 158,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "BOND NO.9",
       "slug": "bond-no-9",
       "count": 76,
@@ -4598,6 +4548,56 @@
           "handle": "smashbox-photo-finish-dark-for-women-lid-primer-2-5-ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/1-2a3ec358b8-smashbox_lidprimer_dark.jpg?v=1624541838",
           "price": 19,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Davidoff",
+      "slug": "davidoff",
+      "count": 74,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/COOL-removebg-preview.png?v=1785318708",
+      "preview": [
+        {
+          "name": "Davidoff Cool Elixir Parfum Intense, Oriental Fougere Fragrance For Women 50ml",
+          "handle": "davidoff-cool-elixir-parfum-intense-for-women-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/COOL-removebg-preview.png?v=1785318708",
+          "price": 158,
+          "badge": ""
+        },
+        {
+          "name": "Davidoff Cool Water Intense Eau De Parfum For Men - Amber Perfume 40ml",
+          "handle": "davidoff-cool-water-intense-eau-de-parfum-for-men-amber-perfume-40ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/61l1JGb3wTL.jpg?v=1766827196",
+          "price": 84,
+          "badge": ""
+        },
+        {
+          "name": "Davidoff Cool Water Parfum For Men - Earthy & Woody Perfume 50ml",
+          "handle": "davidoff-cool-water-parfum-for-men-earthy-woody-perfume-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/davidoff_cool_water_for_men_parfum_50ml_2_jpg.webp?v=1766826297",
+          "price": 111,
+          "badge": ""
+        },
+        {
+          "name": "Davidoff Cool Water Oceanic Edition For Her Eau De Toilette For Women - Floral Aquatic Perfume 100ml",
+          "handle": "davidoff-cool-water-oceanic-edition-for-her-eau-de-toilette-for-women-floral-aquatic-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616305009005.jpg?v=1760522201",
+          "price": 140,
+          "badge": ""
+        },
+        {
+          "name": "Davidoff Cool Water Oceanic Edition Eau De Toilette For Men - Aromatic Aquatic Perfume 125ml",
+          "handle": "davidoff-cool-water-oceanic-edition-eau-de-toilette-for-men-aromatic-aquatic-perfume-125ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616305008879.jpg?v=1760519415",
+          "price": 135,
+          "badge": ""
+        },
+        {
+          "name": "Davidoff Cool Elixir Oud Aromatique Parfum Intense For Men - Oriental Fougere Perfume 50ml",
+          "handle": "davidoff-cool-elixir-oud-aromatique-parfum-intense-for-men-oriental-fougere-perfume-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/WLP6S_SQ1_0000000088_NO_COLOR_SLf.jpg?v=1760519027",
+          "price": 158,
           "badge": ""
         }
       ]
@@ -17753,6 +17753,56 @@
       ]
     },
     {
+      "name": "Reef",
+      "slug": "reef",
+      "count": 11,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/reef-42-100ml-eau-de-parfum-front-Photoroom.png?v=1785841565",
+      "preview": [
+        {
+          "name": "Reef 42 Parfum For Unisex-Fruity Floral Perfume 100ml",
+          "handle": "reef-42-parfum-for-unisex-fruity-floral-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/reef-42-100ml-eau-de-parfum-front-Photoroom.png?v=1785841565",
+          "price": 202,
+          "badge": ""
+        },
+        {
+          "name": "Reef 36 Parfum For Women-Oriental Floral Perfume 100ml",
+          "handle": "reef-36-parfum-for-women-oriental-floral-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/9ee5df2f-ebaf-43af-b27a-a90b1028a21d-1000x1000-bFvzAMs49B5JbRQNPZGAsymVfQftUNe4w7Hz3VRt-Photoroom.png?v=1785830393",
+          "price": 202,
+          "badge": ""
+        },
+        {
+          "name": "Reef 29 Parfum For Unisex-Amber Floral Perfume 100ml",
+          "handle": "reef-29-parfum-for-unisex-amber-floral-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/shopping-Photoroom.png?v=1785781151",
+          "price": 202,
+          "badge": ""
+        },
+        {
+          "name": "Reef 11 Parfum For Unisex-Floral Woody Perfume 100ml",
+          "handle": "reef-11-parfum-for-unisex-floral-woody-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/11-Photoroom.png?v=1785779177",
+          "price": 202,
+          "badge": ""
+        },
+        {
+          "name": "Reef Lady Reef Eau de Parfum For Women Floral 150ml",
+          "handle": "reef-lady-reef-eau-de-parfum-for-women-floral-150ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/reef.webp?v=1773852649",
+          "price": 236,
+          "badge": ""
+        },
+        {
+          "name": "Reef 21 Parfum For Unisex - Woody-Fruity Perfume 100ml",
+          "handle": "reef-21-parfum-for-unisex-woody-fruity-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/61n8TZfd8_L.jpg?v=1771857508",
+          "price": 202,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Billie Eilish",
       "slug": "billie-eilish",
       "count": 11,
@@ -18249,56 +18299,6 @@
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/orchid-brown-1.jpg?v=1624401090",
           "price": 10,
           "badge": "SALE"
-        }
-      ]
-    },
-    {
-      "name": "Reef",
-      "slug": "reef",
-      "count": 10,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/9ee5df2f-ebaf-43af-b27a-a90b1028a21d-1000x1000-bFvzAMs49B5JbRQNPZGAsymVfQftUNe4w7Hz3VRt-Photoroom.png?v=1785830393",
-      "preview": [
-        {
-          "name": "Reef 36 Parfum For Women-Oriental Floral Perfume 100ml",
-          "handle": "reef-36-parfum-for-women-oriental-floral-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/9ee5df2f-ebaf-43af-b27a-a90b1028a21d-1000x1000-bFvzAMs49B5JbRQNPZGAsymVfQftUNe4w7Hz3VRt-Photoroom.png?v=1785830393",
-          "price": 202,
-          "badge": ""
-        },
-        {
-          "name": "Reef 29 Parfum For Unisex-Amber Floral Perfume 100ml",
-          "handle": "reef-29-parfum-for-unisex-amber-floral-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/shopping-Photoroom.png?v=1785781151",
-          "price": 202,
-          "badge": ""
-        },
-        {
-          "name": "Reef 11 Parfum For Unisex-Floral Woody Perfume 100ml",
-          "handle": "reef-11-parfum-for-unisex-floral-woody-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/11-Photoroom.png?v=1785779177",
-          "price": 202,
-          "badge": ""
-        },
-        {
-          "name": "Reef Lady Reef Eau de Parfum For Women Floral 150ml",
-          "handle": "reef-lady-reef-eau-de-parfum-for-women-floral-150ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/reef.webp?v=1773852649",
-          "price": 236,
-          "badge": ""
-        },
-        {
-          "name": "Reef 21 Parfum For Unisex - Woody-Fruity Perfume 100ml",
-          "handle": "reef-21-parfum-for-unisex-woody-fruity-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/61n8TZfd8_L.jpg?v=1771857508",
-          "price": 202,
-          "badge": ""
-        },
-        {
-          "name": "Reef Perfumes Arabs of Obaiah Edp For Men And Women Fruity 100ml",
-          "handle": "reef-perfumes-arabs-of-obaiah-edp-for-men-and-women-fruity-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/reeffff.avif?v=1771784749",
-          "price": 210,
-          "badge": ""
         }
       ]
     },
@@ -31176,6 +31176,21 @@
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/arqus_roulette_uomo.jpg?v=1624397277",
           "price": 10,
           "badge": "SALE"
+        }
+      ]
+    },
+    {
+      "name": "Shaikh Saeed",
+      "slug": "shaikh-saeed",
+      "count": 1,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/BURKAN-01-Photoroom.png?v=1785843060",
+      "preview": [
+        {
+          "name": "Oriarome Burkan Extrait De Parfum For Unisex-Woody Perfume 100ml",
+          "handle": "oriarome-burkan-extrait-de-parfum-for-unisex-woody-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/BURKAN-01-Photoroom.png?v=1785843060",
+          "price": 94,
+          "badge": ""
         }
       ]
     },
