@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T11:43:43.978Z",
+  "generated_at": "2026-08-04T14:10:00.926Z",
   "total_brands": 890,
   "brands": [
     {
@@ -983,7 +983,7 @@
           "name": "Xerjoff Sketchbook P.33 Blank Page Edition Parfum For Unisex - Woody Aromatic Perfume 100ml",
           "handle": "xerjoff-sketchbook-p-33-blank-page-edition-parfum-for-unisex-woody-aromatic-perfume-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/gallery-xerjoff-p33blank-eau-de-parfum-100ml.png?v=1767273844",
-          "price": 1019,
+          "price": 939,
           "badge": ""
         },
         {
@@ -4553,56 +4553,6 @@
       ]
     },
     {
-      "name": "Davidoff",
-      "slug": "davidoff",
-      "count": 74,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/COOL-removebg-preview.png?v=1785318708",
-      "preview": [
-        {
-          "name": "Davidoff Cool Elixir Parfum Intense, Oriental Fougere Fragrance For Women 50ml",
-          "handle": "davidoff-cool-elixir-parfum-intense-for-women-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/COOL-removebg-preview.png?v=1785318708",
-          "price": 158,
-          "badge": ""
-        },
-        {
-          "name": "Davidoff Cool Water Intense Eau De Parfum For Men - Amber Perfume 40ml",
-          "handle": "davidoff-cool-water-intense-eau-de-parfum-for-men-amber-perfume-40ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/61l1JGb3wTL.jpg?v=1766827196",
-          "price": 84,
-          "badge": ""
-        },
-        {
-          "name": "Davidoff Cool Water Parfum For Men - Earthy & Woody Perfume 50ml",
-          "handle": "davidoff-cool-water-parfum-for-men-earthy-woody-perfume-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/davidoff_cool_water_for_men_parfum_50ml_2_jpg.webp?v=1766826297",
-          "price": 111,
-          "badge": ""
-        },
-        {
-          "name": "Davidoff Cool Water Oceanic Edition For Her Eau De Toilette For Women - Floral Aquatic Perfume 100ml",
-          "handle": "davidoff-cool-water-oceanic-edition-for-her-eau-de-toilette-for-women-floral-aquatic-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616305009005.jpg?v=1760522201",
-          "price": 140,
-          "badge": ""
-        },
-        {
-          "name": "Davidoff Cool Water Oceanic Edition Eau De Toilette For Men - Aromatic Aquatic Perfume 125ml",
-          "handle": "davidoff-cool-water-oceanic-edition-eau-de-toilette-for-men-aromatic-aquatic-perfume-125ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616305008879.jpg?v=1760519415",
-          "price": 135,
-          "badge": ""
-        },
-        {
-          "name": "Davidoff Cool Elixir Oud Aromatique Parfum Intense For Men - Oriental Fougere Perfume 50ml",
-          "handle": "davidoff-cool-elixir-oud-aromatique-parfum-intense-for-men-oriental-fougere-perfume-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/WLP6S_SQ1_0000000088_NO_COLOR_SLf.jpg?v=1760519027",
-          "price": 158,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Frederic Malle",
       "slug": "frederic-malle",
       "count": 73,
@@ -4698,6 +4648,56 @@
           "handle": "azure-royal-by-ahmed-al-maghribi-perfume-for-men-and-women-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/azure.webp?v=1756471392",
           "price": 91,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Davidoff",
+      "slug": "davidoff",
+      "count": 72,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/COOL-removebg-preview.png?v=1785318708",
+      "preview": [
+        {
+          "name": "Davidoff Cool Elixir Parfum Intense, Oriental Fougere Fragrance For Women 50ml",
+          "handle": "davidoff-cool-elixir-parfum-intense-for-women-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/COOL-removebg-preview.png?v=1785318708",
+          "price": 158,
+          "badge": ""
+        },
+        {
+          "name": "Davidoff Cool Water Intense Eau De Parfum For Men - Amber Perfume 40ml",
+          "handle": "davidoff-cool-water-intense-eau-de-parfum-for-men-amber-perfume-40ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/61l1JGb3wTL.jpg?v=1766827196",
+          "price": 84,
+          "badge": ""
+        },
+        {
+          "name": "Davidoff Cool Water Parfum For Men - Earthy & Woody Perfume 50ml",
+          "handle": "davidoff-cool-water-parfum-for-men-earthy-woody-perfume-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/davidoff_cool_water_for_men_parfum_50ml_2_jpg.webp?v=1766826297",
+          "price": 111,
+          "badge": ""
+        },
+        {
+          "name": "Davidoff Cool Water Oceanic Edition For Her Eau De Toilette For Women - Floral Aquatic Perfume 100ml",
+          "handle": "davidoff-cool-water-oceanic-edition-for-her-eau-de-toilette-for-women-floral-aquatic-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616305009005.jpg?v=1760522201",
+          "price": 140,
+          "badge": ""
+        },
+        {
+          "name": "Davidoff Cool Water Oceanic Edition Eau De Toilette For Men - Aromatic Aquatic Perfume 125ml",
+          "handle": "davidoff-cool-water-oceanic-edition-eau-de-toilette-for-men-aromatic-aquatic-perfume-125ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616305008879.jpg?v=1760519415",
+          "price": 135,
+          "badge": ""
+        },
+        {
+          "name": "Davidoff Cool Elixir Oud Aromatique Parfum Intense For Men - Oriental Fougere Perfume 50ml",
+          "handle": "davidoff-cool-elixir-oud-aromatique-parfum-intense-for-men-oriental-fougere-perfume-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/WLP6S_SQ1_0000000088_NO_COLOR_SLf.jpg?v=1760519027",
+          "price": 158,
           "badge": ""
         }
       ]
@@ -9962,14 +9962,14 @@
           "name": "Vertus Rouge Rebel Eau De Parfum For Unisex - Oriental Vanilla Perfume 100ml",
           "handle": "vertus-rouge-rebel-eau-de-parfum-for-unisex-oriental-vanilla-perfume-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/111b6f9a-5dfc-471b-b6fc-d65f3fe02d7c-1000x1000-yA5ywogETddx5HSQGHBg5TzoNS4xEY40gV6unlQo.png?v=1769600993",
-          "price": 603,
+          "price": 585,
           "badge": ""
         },
         {
           "name": "Vertus Serenade Eau De Parfum For Unisex - Citrus Aromatic Perfume 100ml",
           "handle": "vertus-serenade-eau-de-parfum-for-unisex-citrus-aromatic-perfume-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/o.35SskaDce7z.jpg?v=1758897093",
-          "price": 603,
+          "price": 577,
           "badge": ""
         },
         {
@@ -9983,7 +9983,7 @@
           "name": "Vertus Bengal EDP  100ml For Unisex",
           "handle": "vertus-bengal-edp-100ml-for-unisex",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/76Bengal-With-Box-W.jpg?v=1713556404",
-          "price": 540,
+          "price": 504,
           "badge": ""
         },
         {
@@ -21326,7 +21326,7 @@
           "name": "Ibraq Diamond Emerald Soul Eau De Parfum For Unisex-Citrus Aromatic Perfume 150ml",
           "handle": "ibraq-diamond-emerald-soul-eau-de-parfum-for-unisex-citrus-aromatic-perfume-150ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/26bf0b6d-b521-40ee-a6d1-710f8c575f00-1000x1000-ZHRkBetgO8xKzmltXy0SfhVQqdD926YGoe0gJpTr-Photoroom.png?v=1785734297",
-          "price": 230,
+          "price": 236,
           "badge": ""
         },
         {
@@ -27825,6 +27825,35 @@
       ]
     },
     {
+      "name": "Shaikh Saeed",
+      "slug": "shaikh-saeed",
+      "count": 3,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/INVICTATERRA-01-Photoroom.png?v=1785844812",
+      "preview": [
+        {
+          "name": "Oriarome Invicta Terra Eau De Parfum For Unisex-Citrus Aromatic  Perfume 100ml",
+          "handle": "oriarome-invicta-terra-eau-de-parfum-for-unisex-citrus-aromatic-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/INVICTATERRA-01-Photoroom.png?v=1785844812",
+          "price": 108,
+          "badge": ""
+        },
+        {
+          "name": "Oriarome Invicta Noctis Eau De Parfum For Unisex-Aromatic Perfume 100ml",
+          "handle": "oriarome-invicta-noctis-eau-de-parfum-for-unisex-aromatic-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/INVICTANOCTIS-01-Photoroom.png?v=1785843972",
+          "price": 108,
+          "badge": ""
+        },
+        {
+          "name": "Oriarome Burkan Extrait De Parfum For Unisex-Woody Perfume 100ml",
+          "handle": "oriarome-burkan-extrait-de-parfum-for-unisex-woody-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/BURKAN-01-Photoroom.png?v=1785843060",
+          "price": 94,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "killian",
       "slug": "killian",
       "count": 3,
@@ -31176,21 +31205,6 @@
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/arqus_roulette_uomo.jpg?v=1624397277",
           "price": 10,
           "badge": "SALE"
-        }
-      ]
-    },
-    {
-      "name": "Shaikh Saeed",
-      "slug": "shaikh-saeed",
-      "count": 1,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/BURKAN-01-Photoroom.png?v=1785843060",
-      "preview": [
-        {
-          "name": "Oriarome Burkan Extrait De Parfum For Unisex-Woody Perfume 100ml",
-          "handle": "oriarome-burkan-extrait-de-parfum-for-unisex-woody-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/BURKAN-01-Photoroom.png?v=1785843060",
-          "price": 94,
-          "badge": ""
         }
       ]
     },
