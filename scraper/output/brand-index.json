@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T06:39:44.148Z",
+  "generated_at": "2026-08-05T09:40:41.044Z",
   "total_brands": 890,
   "brands": [
     {
@@ -605,7 +605,7 @@
     {
       "name": "Lattafa",
       "slug": "lattafa",
-      "count": 276,
+      "count": 275,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/second-Photoroom.png?v=1785744907",
       "preview": [
         {
@@ -755,9 +755,30 @@
     {
       "name": "Yves Saint Laurent",
       "slug": "yves-saint-laurent",
-      "count": 250,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/y-removebg-preview.png?v=1784823354",
+      "count": 253,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3614274479058-Photoroom.png?v=1785916106",
       "preview": [
+        {
+          "name": "Yves Saint Laurent Myslf Eau De Toilette Intense For Men-Woody Floral Musk Perfume 60ml",
+          "handle": "ysl-myslf-eau-de-toilette-intense-for-men-woody-floral-musk-perfume-60ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3614274479058-Photoroom.png?v=1785916106",
+          "price": 404,
+          "badge": ""
+        },
+        {
+          "name": "Yves Saint Laurent Myslf Eau De Toilette Intense For Men-Woody Floral Musk Perfume 100ml",
+          "handle": "yves-saint-laurent-myslf-eau-de-toilette-intense-for-men-woody-floral-musk-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3614274479096-Photoroom.png?v=1785914701",
+          "price": 532,
+          "badge": ""
+        },
+        {
+          "name": "Yves Saint Laurent  Libre Berry Crush Eau De Parfum Fruitee For Women-Floral Fruity Perfume 100ml",
+          "handle": "yves-saint-laurent-libre-berry-crush-eau-de-parfum-fruitee-for-women-floral-fruity-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3614274521245_libre_berry_50ml_alt1-Photoroom.png?v=1785913307",
+          "price": 463,
+          "badge": ""
+        },
         {
           "name": "Yves Saint Laurent Y Le Parfum, Oriental Fougère Fragrance For Men 60ml",
           "handle": "yves-saint-laurent-y-le-parfum-for-men-woody-60ml",
@@ -777,27 +798,6 @@
           "handle": "yves-saint-laurent-capeline-alluring-lily-eau-de-parfum-for-unisex-oriental-floral-perfume-75ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/u_3614274185010_01.jpg?v=1781585358",
           "price": 903,
-          "badge": ""
-        },
-        {
-          "name": "Yves Saint Laurent Y Iced Cologne Eau De Toilette Intense For Men - Aromatic Fougere Perfume 60ml",
-          "handle": "yves-saint-laurent-y-iced-cologne-eau-de-toilette-intense-for-men-aromatic-fougere-perfume-60ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Y_Iced_Cologne.jpg?v=1780579838",
-          "price": 396,
-          "badge": ""
-        },
-        {
-          "name": "Yves Saint Laurent Myslf Eau De Parfum For Men - Aromatic Perfume 150ml Refill",
-          "handle": "yves-saint-laurent-myslf-eau-de-parfum-for-men-aromatic-perfume-150ml-refill",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LE027900.webp?v=1777809907",
-          "price": 497,
-          "badge": ""
-        },
-        {
-          "name": "Yves Saint Laurent Libre Berry Crush Eau De Parfum Fruitee For Women - Floral Fruity Perfume 90ml",
-          "handle": "yves-saint-laurent-libre-berry-crush-eau-de-parfum-fruitee-for-women-floral-fruity-perfume-90ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/69617_NA_1__00185.1769615426.jpg?v=1777797230",
-          "price": 599,
           "badge": ""
         }
       ]
@@ -11903,56 +11903,6 @@
       ]
     },
     {
-      "name": "DKNY",
-      "slug": "dkny",
-      "count": 20,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/DKNYNectarLoveEDPW100ml.webp?v=1735216423",
-      "preview": [
-        {
-          "name": "DKNY Nectar Love Perfume For Women EDP 100ml",
-          "handle": "dkny-nectar-love-perfume-for-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/DKNYNectarLoveEDPW100ml.webp?v=1735216423",
-          "price": 143,
-          "badge": ""
-        },
-        {
-          "name": "DKNY Be Delicious Orchard ST. Perfume For Women EDP 100ml",
-          "handle": "dkny-be-delicious-orchard-st-perfume-for-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/DKNYBeDeliciousOrchardST.EDPW100ml.jpg?v=1735215814",
-          "price": 130,
-          "badge": ""
-        },
-        {
-          "name": "DKNY Be Delicious Fresh Blossom Perfume For Women EDP 100ml",
-          "handle": "dkny-be-delicious-fresh-blossom-perfume-for-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/DKNYBeDeliciousFreshBlossomEDPW100ml.webp?v=1735215081",
-          "price": 135,
-          "badge": ""
-        },
-        {
-          "name": "DKNY Be 100% Delicious Perfume For Women EDP 100ml",
-          "handle": "delicious-donna-karan-be-100-delicious-perfume-for-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/DKNYBe100_DeliciousEDPW100ml1_50d885e2-6a6f-4140-8f70-c3595b0a62c1.webp?v=1735210928",
-          "price": 135,
-          "badge": ""
-        },
-        {
-          "name": "DKNY Be Delicious Perfume For Women EDP 100ml",
-          "handle": "dkny-be-delicious-perfume-for-women-edp-100ml-1",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/DKNYBeDeliciousEDPW100ml_e59a8ae4-26b1-402f-9589-82bbc5eaf7c0.webp?v=1716559731",
-          "price": 210,
-          "badge": ""
-        },
-        {
-          "name": "DKNY Be Tempted Perfume For Women EDP 100ml",
-          "handle": "dkny-be-tempted-perfume-for-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/DKNYBeTemptedEDPW100ml_48ac8a7f-a786-42b7-bb01-82d713fd3dd7.jpg?v=1715413662",
-          "price": 155,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "ROCCOBAROCCO",
       "slug": "roccobarocco",
       "count": 20,
@@ -12398,6 +12348,56 @@
           "handle": "alghabra-essence-of-origins-jamaican-tobacco-perfume-for-unisex-extrait-de-parfum-50ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/AlghabraJamaicanTobaccoScentRabbit-596223.jpg?v=1744523494",
           "price": 463,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "DKNY",
+      "slug": "dkny",
+      "count": 19,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/DKNYNectarLoveEDPW100ml.webp?v=1735216423",
+      "preview": [
+        {
+          "name": "DKNY Nectar Love Perfume For Women EDP 100ml",
+          "handle": "dkny-nectar-love-perfume-for-women-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/DKNYNectarLoveEDPW100ml.webp?v=1735216423",
+          "price": 143,
+          "badge": ""
+        },
+        {
+          "name": "DKNY Be Delicious Orchard ST. Perfume For Women EDP 100ml",
+          "handle": "dkny-be-delicious-orchard-st-perfume-for-women-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/DKNYBeDeliciousOrchardST.EDPW100ml.jpg?v=1735215814",
+          "price": 130,
+          "badge": ""
+        },
+        {
+          "name": "DKNY Be Delicious Fresh Blossom Perfume For Women EDP 100ml",
+          "handle": "dkny-be-delicious-fresh-blossom-perfume-for-women-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/DKNYBeDeliciousFreshBlossomEDPW100ml.webp?v=1735215081",
+          "price": 135,
+          "badge": ""
+        },
+        {
+          "name": "DKNY Be 100% Delicious Perfume For Women EDP 100ml",
+          "handle": "delicious-donna-karan-be-100-delicious-perfume-for-women-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/DKNYBe100_DeliciousEDPW100ml1_50d885e2-6a6f-4140-8f70-c3595b0a62c1.webp?v=1735210928",
+          "price": 135,
+          "badge": ""
+        },
+        {
+          "name": "DKNY Be Delicious Perfume For Women EDP 100ml",
+          "handle": "dkny-be-delicious-perfume-for-women-edp-100ml-1",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/DKNYBeDeliciousEDPW100ml_e59a8ae4-26b1-402f-9589-82bbc5eaf7c0.webp?v=1716559731",
+          "price": 210,
+          "badge": ""
+        },
+        {
+          "name": "DKNY Be Tempted Perfume For Women EDP 100ml",
+          "handle": "dkny-be-tempted-perfume-for-women-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/DKNYBeTemptedEDPW100ml_48ac8a7f-a786-42b7-bb01-82d713fd3dd7.jpg?v=1715413662",
+          "price": 155,
           "badge": ""
         }
       ]
@@ -15453,56 +15453,6 @@
       ]
     },
     {
-      "name": "Al Raheeb",
-      "slug": "al-raheeb",
-      "count": 14,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Spanish_Vanilla.jpg?v=1750054105",
-      "preview": [
-        {
-          "name": "Al Rehab Spanish Vanilla EDP For Women 100ml",
-          "handle": "al-rehab-spanish-vanilla-edp-for-unisex-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Spanish_Vanilla.jpg?v=1750054105",
-          "price": 46,
-          "badge": "SALE"
-        },
-        {
-          "name": "Al Rehab Zidan 35ml",
-          "handle": "al-rehab-zidan-35ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/oretwq.jpg?v=1624551789",
-          "price": 15,
-          "badge": ""
-        },
-        {
-          "name": "Al Rehab White Musk Edp 35ml",
-          "handle": "al-rehab-white-musk-edp-35ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/6a1304a6-3f0d-4530-99af-3d11b4fbd670_1.296f21435012169ec8b8ca8250acd662.jpg?v=1624551782",
-          "price": 13,
-          "badge": ""
-        },
-        {
-          "name": "Al Rehab Sultan Edp 35ml",
-          "handle": "al-rehab-sultan-edp-35ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/al-rehab-sultan-eau-de-parfum-35ml-by-al-rehab-vap.jpg?v=1633601547",
-          "price": 13,
-          "badge": ""
-        },
-        {
-          "name": "Al Rehab Secret Man Edp 100ml",
-          "handle": "al-rehab-secret-man-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/AlRehabSecretManEdp100ml.png?v=1639485397",
-          "price": 62,
-          "badge": ""
-        },
-        {
-          "name": "Al Rehab Officer Edp 100ml",
-          "handle": "al-rehab-officer-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/89b913cd34f9aed350075f1d9571a1ac-600x429.jpg?v=1624551749",
-          "price": 60,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "DESIGNER SHAIK",
       "slug": "designer-shaik",
       "count": 14,
@@ -16298,6 +16248,56 @@
           "handle": "ard-al-khaleej-sheikh-zayed-oud-maattar-50gms",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vcdfreeee_1.png?v=1624554838",
           "price": 22,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Al Raheeb",
+      "slug": "al-raheeb",
+      "count": 13,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Spanish_Vanilla.jpg?v=1750054105",
+      "preview": [
+        {
+          "name": "Al Rehab Spanish Vanilla EDP For Women 100ml",
+          "handle": "al-rehab-spanish-vanilla-edp-for-unisex-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Spanish_Vanilla.jpg?v=1750054105",
+          "price": 46,
+          "badge": "SALE"
+        },
+        {
+          "name": "Al Rehab Zidan 35ml",
+          "handle": "al-rehab-zidan-35ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/oretwq.jpg?v=1624551789",
+          "price": 15,
+          "badge": ""
+        },
+        {
+          "name": "Al Rehab White Musk Edp 35ml",
+          "handle": "al-rehab-white-musk-edp-35ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/6a1304a6-3f0d-4530-99af-3d11b4fbd670_1.296f21435012169ec8b8ca8250acd662.jpg?v=1624551782",
+          "price": 13,
+          "badge": ""
+        },
+        {
+          "name": "Al Rehab Sultan Edp 35ml",
+          "handle": "al-rehab-sultan-edp-35ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/al-rehab-sultan-eau-de-parfum-35ml-by-al-rehab-vap.jpg?v=1633601547",
+          "price": 13,
+          "badge": ""
+        },
+        {
+          "name": "Al Rehab Secret Man Edp 100ml",
+          "handle": "al-rehab-secret-man-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/AlRehabSecretManEdp100ml.png?v=1639485397",
+          "price": 62,
+          "badge": ""
+        },
+        {
+          "name": "Al Rehab Officer Edp 100ml",
+          "handle": "al-rehab-officer-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/89b913cd34f9aed350075f1d9571a1ac-600x429.jpg?v=1624551749",
+          "price": 60,
           "badge": ""
         }
       ]
