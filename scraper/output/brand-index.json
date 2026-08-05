@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T09:40:41.044Z",
+  "generated_at": "2026-08-05T12:02:58.084Z",
   "total_brands": 890,
   "brands": [
     {
@@ -155,7 +155,7 @@
     {
       "name": "Dolce & Gabbana",
       "slug": "dolce-gabbana",
-      "count": 362,
+      "count": 361,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/dd-removebg-preview.png?v=1784819576",
       "preview": [
         {
@@ -605,7 +605,7 @@
     {
       "name": "Lattafa",
       "slug": "lattafa",
-      "count": 275,
+      "count": 274,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/second-Photoroom.png?v=1785744907",
       "preview": [
         {
@@ -18303,6 +18303,56 @@
       ]
     },
     {
+      "name": "RiiFFS",
+      "slug": "riiffs",
+      "count": 10,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Image6_9d2914e5-b9b6-4e1c-beb0-670fd4bc03a6-Photoroom.png?v=1785927615",
+      "preview": [
+        {
+          "name": "Riiffs Veloce Extrait De Parfum For Unisex- Amber Woody Perfume 100ml",
+          "handle": "riiffs-veloce-extrait-de-parfum-for-unisex-amber-woody-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Image6_9d2914e5-b9b6-4e1c-beb0-670fd4bc03a6-Photoroom.png?v=1785927615",
+          "price": 131,
+          "badge": ""
+        },
+        {
+          "name": "Riiffs Tahira Extrait De Parfum For Unisex- Floral Fruity Gourmand Perfume 100ml",
+          "handle": "riiffs-tahira-extrait-de-parfum-for-unisex-floral-fruity-gourmand-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Tahira1-Photoroom.png?v=1785924511",
+          "price": 101,
+          "badge": ""
+        },
+        {
+          "name": "Riiffs Imperial Rouge Edp For Women Fruity 100ml",
+          "handle": "riiffs-imperial-rouge-edp-for-women-fruity-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rouge.webp?v=1776181005",
+          "price": 62,
+          "badge": ""
+        },
+        {
+          "name": "Riiffs Imperial Noir Edp For Men Sweet 100ml",
+          "handle": "riiffs-imperial-noir-edp-for-men-sweet-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/imperial_53fb00f0-4434-4ff8-810c-9219b9fdaa6f.webp?v=1776180824",
+          "price": 62,
+          "badge": ""
+        },
+        {
+          "name": "Riiffs Momento Edp For Men And Women Sweet 100ml",
+          "handle": "riiffs-momento-edp-for-men-and-women-sweet-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Riiffs_Momento_Edp_For_Men_And_Women_Sweet_100ml.jpg?v=1778051871",
+          "price": 118,
+          "badge": ""
+        },
+        {
+          "name": "Riiffs Imperial Blue Edp For Men Aromatic 100ml",
+          "handle": "riiffs-imperial-blue-edp-for-men-aromatic-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/imperial.webp?v=1775852521",
+          "price": 60,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Essenzia",
       "slug": "essenzia",
       "count": 10,
@@ -19797,7 +19847,7 @@
           "name": "Asdaaf Ameerat Al Arab Prive Rose Perfume For Women EDP 100ml",
           "handle": "asdaaf-ameerat-al-arab-prive-rose-perfume-for-women-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/AsdaafAmeeratAlArabPriveRoseEdp100ml.webp?v=1685892097",
-          "price": 46,
+          "price": 44,
           "badge": "SALE"
         }
       ]
@@ -20398,56 +20448,6 @@
           "handle": "lamuse-revelation-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/revelatuion.jpg?v=1624452188",
           "price": 24,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "RiiFFS",
-      "slug": "riiffs",
-      "count": 8,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rouge.webp?v=1776181005",
-      "preview": [
-        {
-          "name": "Riiffs Imperial Rouge Edp For Women Fruity 100ml",
-          "handle": "riiffs-imperial-rouge-edp-for-women-fruity-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rouge.webp?v=1776181005",
-          "price": 62,
-          "badge": ""
-        },
-        {
-          "name": "Riiffs Imperial Noir Edp For Men Sweet 100ml",
-          "handle": "riiffs-imperial-noir-edp-for-men-sweet-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/imperial_53fb00f0-4434-4ff8-810c-9219b9fdaa6f.webp?v=1776180824",
-          "price": 62,
-          "badge": ""
-        },
-        {
-          "name": "Riiffs Momento Edp For Men And Women Sweet 100ml",
-          "handle": "riiffs-momento-edp-for-men-and-women-sweet-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Riiffs_Momento_Edp_For_Men_And_Women_Sweet_100ml.jpg?v=1778051871",
-          "price": 118,
-          "badge": ""
-        },
-        {
-          "name": "Riiffs Imperial Blue Edp For Men Aromatic 100ml",
-          "handle": "riiffs-imperial-blue-edp-for-men-aromatic-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/imperial.webp?v=1775852521",
-          "price": 60,
-          "badge": ""
-        },
-        {
-          "name": "Riiffs Celesto Turquoise Edp For Men Citrus 100ml",
-          "handle": "riiffs-celesto-turquoise-edp-for-men-citrus-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/clestoo.avif?v=1775852250",
-          "price": 62,
-          "badge": ""
-        },
-        {
-          "name": "Riiffs Cafe Noir Edp For Men Aromatic 100ml",
-          "handle": "riiffs-cafe-noir-edp-for-men-aromatic-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Riiffs-Cafe-Noir-For-Men-Perfume-100ml.webp?v=1775851966",
-          "price": 52,
           "badge": ""
         }
       ]
