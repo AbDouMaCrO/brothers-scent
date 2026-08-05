@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T04:04:09.662Z",
+  "generated_at": "2026-08-05T06:39:44.148Z",
   "total_brands": 890,
   "brands": [
     {
@@ -3005,9 +3005,16 @@
     {
       "name": "Valentino",
       "slug": "valentino",
-      "count": 116,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/R5kNXzS_ZR-1-Photoroom.png?v=1785215673",
+      "count": 117,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Born-In-Roma-Purple-Melancholia-Eau-De-Parfum-100Ml-Photoroom.png?v=1785905466",
       "preview": [
+        {
+          "name": "Valentino Donna Born In Roma Purple Melancholia Eau De Parfum For Women- Floral Fruity Perfume 100ml",
+          "handle": "valentino-donna-born-in-roma-purple-melancholia-eau-de-parfum-for-women-floral-fruity-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Born-In-Roma-Purple-Melancholia-Eau-De-Parfum-100Ml-Photoroom.png?v=1785905466",
+          "price": 640,
+          "badge": ""
+        },
         {
           "name": "Valentino Uomo Born in Roma Intense Eau De Parfum For Men-Oriental Vanilla Perfume 50ml",
           "handle": "valentino-uomo-born-in-roma-intense-eau-de-parfum-for-men-oriental-vanilla-perfume-50ml",
@@ -3041,13 +3048,6 @@
           "handle": "valentino-uomo-born-in-roma-green-stravaganza-eau-de-toilette-for-men-fou-gere-50-ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/valentino.avif?v=1772301379",
           "price": 315,
-          "badge": ""
-        },
-        {
-          "name": "Valentino Anatomy Of Dreams Sogno In Rosso Parfum For Unisex - Oriental Spicy Perfume 100ml",
-          "handle": "valentino-anatomy-of-dreams-sogno-in-rosso-parfum-for-unisex-oriental-spicy-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Anatomy-Of-Dreams---Sogno-In-Rosso-Parfum-100Ml.jpg?v=1772098428",
-          "price": 949,
           "badge": ""
         }
       ]
@@ -4655,7 +4655,7 @@
     {
       "name": "Davidoff",
       "slug": "davidoff",
-      "count": 72,
+      "count": 71,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/COOL-removebg-preview.png?v=1785318708",
       "preview": [
         {
@@ -17503,56 +17503,6 @@
       ]
     },
     {
-      "name": "Ulric De Varens",
-      "slug": "ulric-de-varens",
-      "count": 12,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/UDV_Varens_Homme_Paris_Silver_100ml.jpg?v=1661587951",
-      "preview": [
-        {
-          "name": "Ulric De Varens Homme Edition limitee Silver EDT For Men 100ml",
-          "handle": "ulric-de-varens-homme-edition-limitee-silver-edt-for-men-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/UDV_Varens_Homme_Paris_Silver_100ml.jpg?v=1661587951",
-          "price": 25,
-          "badge": ""
-        },
-        {
-          "name": "UDV Lovely W Edp 75ml",
-          "handle": "udv-lovely-w-edp-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/udv_lovely_w_edp_75ml_spy.jpg?v=1624498028",
-          "price": 42,
-          "badge": ""
-        },
-        {
-          "name": "UDV Miss Varens Fashion for Women Edp 75ml",
-          "handle": "udv-miss-varens-fashion-for-women-edp-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/61rwrokf-pl._sl1000.jpg?v=1624483234",
-          "price": 47,
-          "badge": ""
-        },
-        {
-          "name": "Ulric De Varens Pour Elle Edp 75 ml For Women",
-          "handle": "ulric-de-varens-pour-elle-edp-75-ml-for-women",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ulric_de_varens_pour_elle_edp_75_ml.jpg?v=1624453161",
-          "price": 39,
-          "badge": ""
-        },
-        {
-          "name": "Ulric De Varens I Love You Edp 75 ml For Women.",
-          "handle": "ulric-de-varens-i-love-you-edp-75-ml-for-women",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ulric_de_varens_i_love_you_edp_75_ml.jpg?v=1624453142",
-          "price": 28,
-          "badge": ""
-        },
-        {
-          "name": "UDV Miss Varens Women EDP 75ml Perfume",
-          "handle": "udv-miss-varens-women-edp-75ml-perfume",
-          "img": null,
-          "price": 41,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "FCUK",
       "slug": "fcuk",
       "count": 12,
@@ -18048,6 +17998,56 @@
           "handle": "perry-ellis-18-sensual-perfumes-for-women-100-ml-edp-spray",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/perry_ellis_18_sensual_-_perfumes_for_women_100_ml_-_edp_spray.jpg?v=1624476652",
           "price": 99,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Ulric De Varens",
+      "slug": "ulric-de-varens",
+      "count": 11,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/UDV_Varens_Homme_Paris_Silver_100ml.jpg?v=1661587951",
+      "preview": [
+        {
+          "name": "Ulric De Varens Homme Edition limitee Silver EDT For Men 100ml",
+          "handle": "ulric-de-varens-homme-edition-limitee-silver-edt-for-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/UDV_Varens_Homme_Paris_Silver_100ml.jpg?v=1661587951",
+          "price": 25,
+          "badge": ""
+        },
+        {
+          "name": "UDV Lovely W Edp 75ml",
+          "handle": "udv-lovely-w-edp-75ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/udv_lovely_w_edp_75ml_spy.jpg?v=1624498028",
+          "price": 42,
+          "badge": ""
+        },
+        {
+          "name": "UDV Miss Varens Fashion for Women Edp 75ml",
+          "handle": "udv-miss-varens-fashion-for-women-edp-75ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/61rwrokf-pl._sl1000.jpg?v=1624483234",
+          "price": 47,
+          "badge": ""
+        },
+        {
+          "name": "Ulric De Varens Pour Elle Edp 75 ml For Women",
+          "handle": "ulric-de-varens-pour-elle-edp-75-ml-for-women",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ulric_de_varens_pour_elle_edp_75_ml.jpg?v=1624453161",
+          "price": 39,
+          "badge": ""
+        },
+        {
+          "name": "Ulric De Varens I Love You Edp 75 ml For Women.",
+          "handle": "ulric-de-varens-i-love-you-edp-75-ml-for-women",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ulric_de_varens_i_love_you_edp_75_ml.jpg?v=1624453142",
+          "price": 28,
+          "badge": ""
+        },
+        {
+          "name": "UDV Miss Varens Women EDP 75ml Perfume",
+          "handle": "udv-miss-varens-women-edp-75ml-perfume",
+          "img": null,
+          "price": 41,
           "badge": ""
         }
       ]
@@ -24053,6 +24053,49 @@
       ]
     },
     {
+      "name": "Shaikh Saeed",
+      "slug": "shaikh-saeed",
+      "count": 5,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ROSEHONEY-06-Photoroom.png?v=1785903541",
+      "preview": [
+        {
+          "name": "Shaikh Saeed Rose Honey Eau De Extrait For Unisex- Floral Fruity Gourmand Perfume 100ml",
+          "handle": "shaikh-saeed-rose-honey-eau-de-extrait-for-unisex-floral-fruity-gourmand-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ROSEHONEY-06-Photoroom.png?v=1785903541",
+          "price": 101,
+          "badge": ""
+        },
+        {
+          "name": "Shaikh Saeed Honey Dew Eau De Extrait For Unisex-  Floral Woody Musk Perfume 100ml",
+          "handle": "shaikh-saeed-honey-dew-eau-de-extrait-for-unisex-floral-woody-musk-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/HONEYDEW-06-Photoroom.png?v=1785898719",
+          "price": 101,
+          "badge": ""
+        },
+        {
+          "name": "Oriarome Invicta Terra Eau De Parfum For Unisex-Citrus Aromatic  Perfume 100ml",
+          "handle": "oriarome-invicta-terra-eau-de-parfum-for-unisex-citrus-aromatic-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/INVICTATERRA-01-Photoroom.png?v=1785844812",
+          "price": 108,
+          "badge": ""
+        },
+        {
+          "name": "Oriarome Invicta Noctis Eau De Parfum For Unisex-Aromatic Perfume 100ml",
+          "handle": "oriarome-invicta-noctis-eau-de-parfum-for-unisex-aromatic-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/INVICTANOCTIS-01-Photoroom.png?v=1785843972",
+          "price": 108,
+          "badge": ""
+        },
+        {
+          "name": "Oriarome Burkan Extrait De Parfum For Unisex-Woody Perfume 100ml",
+          "handle": "oriarome-burkan-extrait-de-parfum-for-unisex-woody-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/BURKAN-01-Photoroom.png?v=1785843060",
+          "price": 94,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Azha Perfumes",
       "slug": "azha-perfumes",
       "count": 5,
@@ -25768,42 +25811,6 @@
           "handle": "sniff-brown-code-pour-homme-perfume-for-men-edt-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/brown-code.jpg?v=1624400998",
           "price": 13,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Shaikh Saeed",
-      "slug": "shaikh-saeed",
-      "count": 4,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/HONEYDEW-06-Photoroom.png?v=1785898719",
-      "preview": [
-        {
-          "name": "Shaikh Saeed Honey Dew Eau De Extrait For Unisex-  Floral Woody Musk Perfume 100ml",
-          "handle": "shaikh-saeed-honey-dew-eau-de-extrait-for-unisex-floral-woody-musk-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/HONEYDEW-06-Photoroom.png?v=1785898719",
-          "price": 101,
-          "badge": ""
-        },
-        {
-          "name": "Oriarome Invicta Terra Eau De Parfum For Unisex-Citrus Aromatic  Perfume 100ml",
-          "handle": "oriarome-invicta-terra-eau-de-parfum-for-unisex-citrus-aromatic-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/INVICTATERRA-01-Photoroom.png?v=1785844812",
-          "price": 108,
-          "badge": ""
-        },
-        {
-          "name": "Oriarome Invicta Noctis Eau De Parfum For Unisex-Aromatic Perfume 100ml",
-          "handle": "oriarome-invicta-noctis-eau-de-parfum-for-unisex-aromatic-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/INVICTANOCTIS-01-Photoroom.png?v=1785843972",
-          "price": 108,
-          "badge": ""
-        },
-        {
-          "name": "Oriarome Burkan Extrait De Parfum For Unisex-Woody Perfume 100ml",
-          "handle": "oriarome-burkan-extrait-de-parfum-for-unisex-woody-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/BURKAN-01-Photoroom.png?v=1785843060",
-          "price": 94,
           "badge": ""
         }
       ]
