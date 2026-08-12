@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T07:25:30.558Z",
+  "generated_at": "2026-08-12T08:52:02.017Z",
   "total_brands": 890,
   "brands": [
     {
@@ -155,7 +155,7 @@
     {
       "name": "Dolce & Gabbana",
       "slug": "dolce-gabbana",
-      "count": 361,
+      "count": 360,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/dd-removebg-preview.png?v=1784819576",
       "preview": [
         {
@@ -605,9 +605,23 @@
     {
       "name": "Lattafa",
       "slug": "lattafa",
-      "count": 274,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/second-Photoroom.png?v=1785744907",
+      "count": 275,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Maahir_Honor.png?v=1786522827",
       "preview": [
+        {
+          "name": "Lattafa Maahir Honor For Unisex EDP 100ml",
+          "handle": "lattafa-maahir-honor-for-unisex-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Maahir_Honor.png?v=1786522827",
+          "price": 88,
+          "badge": "SALE"
+        },
+        {
+          "name": "Lattafa Pride Love In Paris EDP For Unisex 100ml",
+          "handle": "lattafa-pride-love-in-paris-edp-for-unisex-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Pride_Love_In_Paris_EDP_For_Unisex_100ml.png?v=1786520694",
+          "price": 130,
+          "badge": "SALE"
+        },
         {
           "name": "Lattafa Angham Second Song Eau De Parfum For Women- Floral Fruity Gourmand Perfume 100ml",
           "handle": "lattafa-angham-second-song-eau-de-parfum-for-women-floral-fruity-gourmand-perfume-100ml",
@@ -634,20 +648,6 @@
           "handle": "lattafa-sherif-for-men-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Sherif.png?v=1785306560",
           "price": 93,
-          "badge": "SALE"
-        },
-        {
-          "name": "Lattafa Give Me Gourmand Cookie Crave EDP For Women 75ml",
-          "handle": "lattafa-give-me-gourmand-cookie-crave-edp-for-women-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Cookie_Crave.png?v=1785306239",
-          "price": 103,
-          "badge": "SALE"
-        },
-        {
-          "name": "Lattafa Give Me Gourmand Whipped Pleasure EDP For Women 75ml",
-          "handle": "lattafa-give-me-gourmand-whipped-pleasure-edp-for-women-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Whipped_Pleasure.png?v=1785304977",
-          "price": 103,
           "badge": "SALE"
         }
       ]
