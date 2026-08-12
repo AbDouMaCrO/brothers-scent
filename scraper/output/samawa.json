@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-12T13:59:45.956Z",
+  "scraped_at": "2026-08-12T14:59:55.104Z",
   "source": "https://samawa.ae",
   "count": 25016,
   "products": [
@@ -167845,7 +167845,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 85,
-      "price_gros": 40,
+      "price_gros": 39,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LattafaHayaatiAlMalekyEdp100ml.webp?v=1709108739",
@@ -207567,7 +207567,7 @@
       "price_gros": 194,
       "stock": 999,
       "badge": "SALE",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/MontBlancExplorerPlatinumEdp100ml.jpg?v=1693135063",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Mont_Blanc_Explorer_Platinum_Perfume_For_Men_EDP_100ml.png?v=1786545982",
       "active": true,
       "_handle": "mont-blanc-explorer-platinum-perfume-for-men-edp-100ml",
       "_sku": "3386460135818",
@@ -219157,31 +219157,6 @@
       ],
       "_product_type": "Fragrance",
       "_url": "https://samawa.ae/products/bath-body-works-midnight-amber-glow-fragrance-mist-for-women-236ml"
-    },
-    {
-      "name": "Asdaaf Ameerat Al Arab Prive Rose Perfume For Women EDP 100ml",
-      "brand": "Asdaaf",
-      "category_slug": "homme",
-      "size": "100ml",
-      "price_retail": 75,
-      "price_gros": 42.5,
-      "stock": 999,
-      "badge": "SALE",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/AsdaafAmeeratAlArabPriveRoseEdp100ml.webp?v=1685892097",
-      "active": true,
-      "_handle": "asdaaf-ameerat-al-arab-prive-rose-perfume-for-women-edp-100ml",
-      "_sku": "6290360590868",
-      "_tags": [
-        "100ml",
-        "badge_Best Seller",
-        "Best Seller",
-        "Branded Perfumes",
-        "EDP",
-        "Fragrance",
-        "Women"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/asdaaf-ameerat-al-arab-prive-rose-perfume-for-women-edp-100ml"
     },
     {
       "name": "Yves Saint Laurent Y Perfume For Men EDT 60ml",
@@ -408581,7 +408556,7 @@
       "price_gros": 653,
       "stock": 999,
       "badge": "SALE",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/375x500.37603.jpg?v=1624527962",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Nishane_Fan_Your_Flames_Extrait_De_Parfum_100ml.png?v=1786545821",
       "active": true,
       "_handle": "nishane-fan-your-flames-edp-100ml",
       "_sku": "8681008055524",
@@ -445116,7 +445091,7 @@
       "price_gros": 305,
       "stock": 999,
       "badge": "SALE",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Giorgio_Armani_Stronger_With_You_Intensely_Perfume_For_Men_EDP_100ml.jpg?v=1776326776",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Giorgio_Armani_Stronger_With_You_Intensely_Perfume_For_Men_EDP_100ml.png?v=1786546252",
       "active": true,
       "_handle": "giorgio-armani-stronger-with-you-intensely-perfume-for-men-edp-100ml",
       "_sku": "3614272225718",
@@ -581785,6 +581760,25 @@
       ],
       "_product_type": "Fragrance",
       "_url": "https://samawa.ae/products/dolce-gabbana-pour-homme-for-men-eau-de-toilette-125ml"
+    },
+    {
+      "name": "Lattafa Sheikh  Shuyukh for Men, DEO, 200ml",
+      "brand": "Lattafa",
+      "category_slug": "homme",
+      "size": "200ml",
+      "price_retail": 10,
+      "price_gros": 10,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/sheikh-shuyukh-body.jpg?v=1624396115",
+      "active": true,
+      "_handle": "lattafa-sheikh-shuyukh-for-men-deo-200ml",
+      "_sku": "6106061871",
+      "_tags": [
+        "200ml"
+      ],
+      "_product_type": "",
+      "_url": "https://samawa.ae/products/lattafa-sheikh-shuyukh-for-men-deo-200ml"
     }
   ]
 }
