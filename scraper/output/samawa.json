@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-14T08:47:03.853Z",
+  "scraped_at": "2026-08-14T10:01:18.853Z",
   "source": "https://samawa.ae",
   "count": 25016,
   "products": [
@@ -9425,7 +9425,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 156,
-      "price_gros": 72,
+      "price_gros": 80,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Mishlah_EDP_For_Unisex_100ml.webp?v=1782200858",
@@ -40980,7 +40980,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 135,
-      "price_gros": 61.88,
+      "price_gros": 65,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Jasoor.jpg?v=1767790567",
@@ -190387,7 +190387,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 83,
-      "price_gros": 61.88,
+      "price_gros": 62,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LattafaBadeeAlOudSublimeEdp100ml.jpg?v=1699864456",
@@ -202453,7 +202453,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 139,
-      "price_gros": 61.88,
+      "price_gros": 62,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Badee-Al-Oud-Honor-_-Glory-1_a3e5a0eb-fe3d-4799-8408-2874e3a642fa.webp?v=1759134617",
@@ -267981,7 +267981,7 @@
       "category_slug": "homme",
       "size": "125ml",
       "price_retail": 175,
-      "price_gros": 77.5,
+      "price_gros": 78,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/Davidoff_Cool_water_125ml_1_120bf700-0c2d-4803-aab9-200956107c95.jpg?v=1658903058",
@@ -499979,7 +499979,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 55,
-      "price_gros": 40,
+      "price_gros": 42,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/lattafa_lail_maleki_437109cf-0ab4-4bca-ba65-2e52b88f64af.jpg?v=1683870973",
@@ -548031,6 +548031,28 @@
       "_url": "https://samawa.ae/products/kenzo-flower-eau-de-vie-perfumes-for-women-edp-50ml"
     },
     {
+      "name": "Kenzo Flower Eau De Vie Perfumes For Women, EDP, 50ml",
+      "brand": "Kenzo",
+      "category_slug": "homme",
+      "size": "50ml",
+      "price_retail": 158,
+      "price_gros": 158,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/3274872389526.jpg?v=1624434124",
+      "active": true,
+      "_handle": "kenzo-flower-eau-de-vie-perfumes-for-women-edp-50ml",
+      "_sku": "3274872389526",
+      "_tags": [
+        "50ml",
+        "Branded Perfumes",
+        "Fragrance",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/kenzo-flower-eau-de-vie-perfumes-for-women-edp-50ml"
+    },
+    {
       "name": "Kenzo Flower Perfumes For Women, EDP, 50ml",
       "brand": "Kenzo",
       "category_slug": "homme",
@@ -581886,25 +581908,6 @@
       ],
       "_product_type": "Fragrance",
       "_url": "https://samawa.ae/products/dolce-gabbana-pour-homme-for-men-eau-de-toilette-125ml"
-    },
-    {
-      "name": "Lattafa Sheikh  Shuyukh for Men, DEO, 200ml",
-      "brand": "Lattafa",
-      "category_slug": "homme",
-      "size": "200ml",
-      "price_retail": 10,
-      "price_gros": 10,
-      "stock": 999,
-      "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/sheikh-shuyukh-body.jpg?v=1624396115",
-      "active": true,
-      "_handle": "lattafa-sheikh-shuyukh-for-men-deo-200ml",
-      "_sku": "6106061871",
-      "_tags": [
-        "200ml"
-      ],
-      "_product_type": "",
-      "_url": "https://samawa.ae/products/lattafa-sheikh-shuyukh-for-men-deo-200ml"
     }
   ]
 }
