@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-15T15:47:54.619Z",
+  "scraped_at": "2026-08-15T16:24:11.307Z",
   "source": "https://samawa.ae",
   "count": 25016,
   "products": [
@@ -9549,7 +9549,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 156,
-      "price_gros": 80,
+      "price_gros": 70,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Mishlah_EDP_For_Unisex_100ml.webp?v=1782200858",
@@ -75484,7 +75484,7 @@
       "price_gros": 1249,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Solstis_FragranceDuBois_100ml.jpg?v=1751885666",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Fragrance_Du_Bois_Solstis_Perfume_For_Unisex_Extrait_De_Parfum_100ml.png?v=1786810644",
       "active": true,
       "_handle": "fragrance-du-bois-solstis-perfume-for-unisex-extrait-de-parfum-100ml",
       "_sku": "5081304448649",
@@ -117746,7 +117746,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 85,
-      "price_gros": 61,
+      "price_gros": 60,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Asad_Bourbon.jpg?v=1776337559",
