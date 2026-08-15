@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T12:36:42.405Z",
+  "generated_at": "2026-08-15T13:32:32.491Z",
   "total_brands": 890,
   "brands": [
     {
@@ -155,7 +155,7 @@
     {
       "name": "Dolce & Gabbana",
       "slug": "dolce-gabbana",
-      "count": 360,
+      "count": 358,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/dd-removebg-preview.png?v=1784819576",
       "preview": [
         {
@@ -6453,6 +6453,56 @@
       ]
     },
     {
+      "name": "Histoires de Parfums",
+      "slug": "histoires-de-parfums",
+      "count": 42,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/MP000000024903532_1348Wx2000H_202504161750161.jpg?v=1774158103",
+      "preview": [
+        {
+          "name": "Histoires De Parfums 1889 Moulin Rouge Eau De Parfum For Women - Floral – Oriental Perfume 120ml",
+          "handle": "histoires-de-parfums-1889-moulin-rouge-eau-de-parfum-for-women-floral-oriental-perfume-120ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/MP000000024903532_1348Wx2000H_202504161750161.jpg?v=1774158103",
+          "price": 540,
+          "badge": ""
+        },
+        {
+          "name": "Histoires De Parfums 1969 Eau De Parfum For Unisex - Oriental Spicy Perfume 60ml",
+          "handle": "histoires-de-parfums-1969-eau-de-parfum-for-unisex-oriental-spicy-perfume-60ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/histoires-de-parfums-1969-eau-de-parfum-783741870.jpg?v=1768286437",
+          "price": 389,
+          "badge": ""
+        },
+        {
+          "name": "Histoires De Parfums 1804 Eau De Parfum For Women - Orientale Floral Perfume 60ml",
+          "handle": "histoires-de-parfums-1804-eau-de-parfum-for-women-orientale-floral-perfume-60ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Histoires-1804EDP1.jpg?v=1768286050",
+          "price": 389,
+          "badge": ""
+        },
+        {
+          "name": "Histoires De Parfums Noir Patchouli Eau De Parfum For Unisex - Woody Aromatic Perfume 60ml",
+          "handle": "histoires-de-parfums-noir-patchouli-eau-de-parfum-for-unisex-woody-aromatic-perfume-60ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/HDP_NP_60ML.jpg?v=1768285506",
+          "price": 389,
+          "badge": ""
+        },
+        {
+          "name": "Histoires De Parfums This Is Not A Blue Bottle 1/.7 Eau De Parfum For Unisex - Floral Fruity Perfume 60ml",
+          "handle": "histoires-de-parfums-this-is-not-a-blue-bottle-1-7-eau-de-parfum-for-unisex-floral-fruity-perfume-60ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/1713275594_hdp-blue7-60ml-hd-copy.jpg?v=1768284690",
+          "price": 389,
+          "badge": ""
+        },
+        {
+          "name": "Histoires De Parfums Tubereuse Nuit Blanche Eau De Parfum For Women - Oriental Floral Perfume 120ml",
+          "handle": "histoires-de-parfums-tubereuse-nuit-blanche-eau-de-parfum-for-women-oriental-floral-perfume-120ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/HistoiresdeParfumsTubereuseNuitBlancheEDP_900x_e8487e6d-feb4-441f-8df0-7e58698cdf35.jpg?v=1768283855",
+          "price": 530,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "CLEAN",
       "slug": "clean",
       "count": 42,
@@ -6748,56 +6798,6 @@
           "handle": "rayhaan-tonquin-giza-edp-for-unisex-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Tonquin_Giza.jpg?v=1778051639",
           "price": 88,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Histoires de Parfums",
-      "slug": "histoires-de-parfums",
-      "count": 41,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/MP000000024903532_1348Wx2000H_202504161750161.jpg?v=1774158103",
-      "preview": [
-        {
-          "name": "Histoires De Parfums 1889 Moulin Rouge Eau De Parfum For Women - Floral – Oriental Perfume 120ml",
-          "handle": "histoires-de-parfums-1889-moulin-rouge-eau-de-parfum-for-women-floral-oriental-perfume-120ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/MP000000024903532_1348Wx2000H_202504161750161.jpg?v=1774158103",
-          "price": 540,
-          "badge": ""
-        },
-        {
-          "name": "Histoires De Parfums 1969 Eau De Parfum For Unisex - Oriental Spicy Perfume 60ml",
-          "handle": "histoires-de-parfums-1969-eau-de-parfum-for-unisex-oriental-spicy-perfume-60ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/histoires-de-parfums-1969-eau-de-parfum-783741870.jpg?v=1768286437",
-          "price": 389,
-          "badge": ""
-        },
-        {
-          "name": "Histoires De Parfums 1804 Eau De Parfum For Women - Orientale Floral Perfume 60ml",
-          "handle": "histoires-de-parfums-1804-eau-de-parfum-for-women-orientale-floral-perfume-60ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Histoires-1804EDP1.jpg?v=1768286050",
-          "price": 389,
-          "badge": ""
-        },
-        {
-          "name": "Histoires De Parfums Noir Patchouli Eau De Parfum For Unisex - Woody Aromatic Perfume 60ml",
-          "handle": "histoires-de-parfums-noir-patchouli-eau-de-parfum-for-unisex-woody-aromatic-perfume-60ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/HDP_NP_60ML.jpg?v=1768285506",
-          "price": 389,
-          "badge": ""
-        },
-        {
-          "name": "Histoires De Parfums This Is Not A Blue Bottle 1/.7 Eau De Parfum For Unisex - Floral Fruity Perfume 60ml",
-          "handle": "histoires-de-parfums-this-is-not-a-blue-bottle-1-7-eau-de-parfum-for-unisex-floral-fruity-perfume-60ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/1713275594_hdp-blue7-60ml-hd-copy.jpg?v=1768284690",
-          "price": 389,
-          "badge": ""
-        },
-        {
-          "name": "Histoires De Parfums Tubereuse Nuit Blanche Eau De Parfum For Women - Oriental Floral Perfume 120ml",
-          "handle": "histoires-de-parfums-tubereuse-nuit-blanche-eau-de-parfum-for-women-oriental-floral-perfume-120ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/HistoiresdeParfumsTubereuseNuitBlancheEDP_900x_e8487e6d-feb4-441f-8df0-7e58698cdf35.jpg?v=1768283855",
-          "price": 530,
           "badge": ""
         }
       ]
@@ -9503,6 +9503,56 @@
       ]
     },
     {
+      "name": "Arabiyat",
+      "slug": "arabiyat",
+      "count": 25,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/midnight_thumbnail-Photoroom.png?v=1786798870",
+      "preview": [
+        {
+          "name": "Arabiyat Oud Al Layl Midnight Edition Eau De Parfum For Unisex-Aquatic Aromatic Woody Perfume 100ml",
+          "handle": "arabiyat-oud-al-layl-midnight-edition-eau-de-parfum-for-unisex-aquatic-aromatic-woody-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/midnight_thumbnail-Photoroom.png?v=1786798870",
+          "price": 48,
+          "badge": ""
+        },
+        {
+          "name": "Arabiyat Prestige Ramad Earthy Extrait De Parfum For Unisex- Oriental Spicy Perfume 100ml",
+          "handle": "arabiyat-prestige-ramad-earthy-extrait-de-parfum-for-unisex-oriental-spicy-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/earthy-Photoroom.png?v=1783669283",
+          "price": 155,
+          "badge": ""
+        },
+        {
+          "name": "Arabiyat Prestige Nyla Vani Elle Edp For Men And Women Gourmand 80ml",
+          "handle": "arabiyat-prestige-nyla-vani-elle-edp-for-men-and-women-gourmand-80ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/vani.webp?v=1767102917",
+          "price": 99,
+          "badge": ""
+        },
+        {
+          "name": "Arabiyat Prestige Nyla Suede Edp For Men And Women Soft 80ml",
+          "handle": "arabiyat-prestige-nyla-suede-edp-for-men-and-women-soft-80ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/nylaaaaa.webp?v=1767102562",
+          "price": 99,
+          "badge": ""
+        },
+        {
+          "name": "Arabiyat Prestige Uhud Eau De Parfum For Unisex - Oriental Vanilla Perfume 100ml",
+          "handle": "arabiyat-prestige-uhud-eau-de-parfum-for-unisex-oriental-vanilla-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Arabiyat_Prestige_Uhud_Eau_de_Parfum_100ml_Image_1_png.webp?v=1766249677",
+          "price": 155,
+          "badge": ""
+        },
+        {
+          "name": "Arabiyat Prestige Safa Eau De Parfum For Women - Floral Fruity Gourmand Perfume 100ml",
+          "handle": "arabiyat-prestige-safa-eau-de-parfum-for-women-floral-fruity-gourmand-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Arabiyat_Prestige_Safa.avif?v=1769588256",
+          "price": 155,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Jenifer Lopez",
       "slug": "jenifer-lopez",
       "count": 25,
@@ -9848,56 +9898,6 @@
           "handle": "electimuss-cupids-kiss-for-unisex-pure-parfum-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/5060485383499.jpg?v=1729756769",
           "price": 777,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Arabiyat",
-      "slug": "arabiyat",
-      "count": 24,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/earthy-Photoroom.png?v=1783669283",
-      "preview": [
-        {
-          "name": "Arabiyat Prestige Ramad Earthy Extrait De Parfum For Unisex- Oriental Spicy Perfume 100ml",
-          "handle": "arabiyat-prestige-ramad-earthy-extrait-de-parfum-for-unisex-oriental-spicy-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/earthy-Photoroom.png?v=1783669283",
-          "price": 155,
-          "badge": ""
-        },
-        {
-          "name": "Arabiyat Prestige Nyla Vani Elle Edp For Men And Women Gourmand 80ml",
-          "handle": "arabiyat-prestige-nyla-vani-elle-edp-for-men-and-women-gourmand-80ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/vani.webp?v=1767102917",
-          "price": 99,
-          "badge": ""
-        },
-        {
-          "name": "Arabiyat Prestige Nyla Suede Edp For Men And Women Soft 80ml",
-          "handle": "arabiyat-prestige-nyla-suede-edp-for-men-and-women-soft-80ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/nylaaaaa.webp?v=1767102562",
-          "price": 99,
-          "badge": ""
-        },
-        {
-          "name": "Arabiyat Prestige Uhud Eau De Parfum For Unisex - Oriental Vanilla Perfume 100ml",
-          "handle": "arabiyat-prestige-uhud-eau-de-parfum-for-unisex-oriental-vanilla-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Arabiyat_Prestige_Uhud_Eau_de_Parfum_100ml_Image_1_png.webp?v=1766249677",
-          "price": 155,
-          "badge": ""
-        },
-        {
-          "name": "Arabiyat Prestige Safa Eau De Parfum For Women - Floral Fruity Gourmand Perfume 100ml",
-          "handle": "arabiyat-prestige-safa-eau-de-parfum-for-women-floral-fruity-gourmand-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Arabiyat_Prestige_Safa.avif?v=1769588256",
-          "price": 155,
-          "badge": ""
-        },
-        {
-          "name": "Arabiyat Prestige Ramad Eau De Parfum For Unisex - Aromatic Spicy Perfume 100ml",
-          "handle": "arabiyat-prestige-ramad-eau-de-parfum-for-unisex-aromatic-spicy-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/AA40A787-25D6-4C08-AB31-B1B6AB1D8BB4_1024x1024_2x_11ba820e-9ba2-4c29-a066-4b9c499e3014.jpg?v=1766077547",
-          "price": 124,
           "badge": ""
         }
       ]
