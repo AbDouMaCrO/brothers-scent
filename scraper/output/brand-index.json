@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T13:57:53.415Z",
+  "generated_at": "2026-08-15T14:24:04.146Z",
   "total_brands": 890,
   "brands": [
     {
@@ -155,7 +155,7 @@
     {
       "name": "Dolce & Gabbana",
       "slug": "dolce-gabbana",
-      "count": 358,
+      "count": 357,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/dd-removebg-preview.png?v=1784819576",
       "preview": [
         {
@@ -1255,9 +1255,16 @@
     {
       "name": "Rasasi",
       "slug": "rasasi",
-      "count": 199,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/NewProject_12-Photoroom.png?v=1785212184",
+      "count": 200,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/1_62487cbe-f7f0-4f47-b84d-ec2b77d74d10-Photoroom.png?v=1786803110",
       "preview": [
+        {
+          "name": "Rasasi Hamasaat Azafron Legacy Eau De Parfum For Unisex- Oriental Spicy Perfume 100ml",
+          "handle": "rasasi-hamasaat-azafron-legacy-eau-de-parfum-for-unisex-oriental-spicy-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/1_62487cbe-f7f0-4f47-b84d-ec2b77d74d10-Photoroom.png?v=1786803110",
+          "price": 202,
+          "badge": ""
+        },
         {
           "name": "Rasasi Rafan Pour Homme Eau De Parfum For Men-Woody Aromatic Perfume 100ml",
           "handle": "rasasi-rafan-pour-homme-eau-de-parfum-for-men-woody-aromatic-perfume-100ml",
@@ -1291,13 +1298,6 @@
           "handle": "rasasi-hawas-chrome-for-him-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Hawas_Chrome.png?v=1784619105",
           "price": 143,
-          "badge": "SALE"
-        },
-        {
-          "name": "Rasasi Hawas Majestic For Unisex EDP 100ml",
-          "handle": "rasasi-hawas-majestic-for-unisex-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rasasi_Hawas_Majestic_For_Unisex_EDP_100ml.jpg?v=1784178518",
-          "price": 159,
           "badge": "SALE"
         }
       ]

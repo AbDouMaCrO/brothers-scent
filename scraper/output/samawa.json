@@ -1,8 +1,33 @@
 {
-  "scraped_at": "2026-08-15T13:56:13.363Z",
+  "scraped_at": "2026-08-15T14:22:55.684Z",
   "source": "https://samawa.ae",
   "count": 25016,
   "products": [
+    {
+      "name": "Rasasi Hamasaat Azafron Legacy Eau De Parfum For Unisex- Oriental Spicy Perfume 100ml",
+      "brand": "Rasasi",
+      "category_slug": "homme",
+      "size": "100ml",
+      "price_retail": 202,
+      "price_gros": 202,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/1_62487cbe-f7f0-4f47-b84d-ec2b77d74d10-Photoroom.png?v=1786803110",
+      "active": true,
+      "_handle": "rasasi-hamasaat-azafron-legacy-eau-de-parfum-for-unisex-oriental-spicy-perfume-100ml",
+      "_sku": "614514555217",
+      "_tags": [
+        "100ml",
+        "Arabic Perfume",
+        "EDP",
+        "Fragrance",
+        "Men",
+        "unisex",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/rasasi-hamasaat-azafron-legacy-eau-de-parfum-for-unisex-oriental-spicy-perfume-100ml"
+    },
     {
       "name": "Armani I Will Eau De Parfume Refillable For Men- Oriental Woody Perfume 100ml",
       "brand": "Giorgio Armani",
@@ -167981,7 +168006,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 85,
-      "price_gros": 35,
+      "price_gros": 39,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LattafaHayaatiAlMalekyEdp100ml.webp?v=1709108739",
@@ -570114,7 +570139,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 26,
-      "price_gros": 21,
+      "price_gros": 24,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/adidas_pure_game_edt_100ml.jpg?v=1624405310",
@@ -581896,27 +581921,6 @@
       ],
       "_product_type": "Fragrance",
       "_url": "https://samawa.ae/products/dolce-gabbana-velvet-wood-special-edition-for-unisex-150ml"
-    },
-    {
-      "name": "Dolce & Gabbana The One Royal Night for Men - Eau de Parfum, 100ml",
-      "brand": "Dolce & Gabbana",
-      "category_slug": "homme",
-      "size": "100ml",
-      "price_retail": 319,
-      "price_gros": 319,
-      "stock": 999,
-      "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/the_one_royal_night_by_dolce_gabbana_for_men_-_eau_de_parfum_100ml.jpg?v=1624396147",
-      "active": true,
-      "_handle": "dolce-gabbana-the-one-royal-night-for-men-eau-de-parfum-100ml",
-      "_sku": "3423473021391",
-      "_tags": [
-        "100ml",
-        "Branded Perfumes",
-        "Fragrance"
-      ],
-      "_product_type": "",
-      "_url": "https://samawa.ae/products/dolce-gabbana-the-one-royal-night-for-men-eau-de-parfum-100ml"
     }
   ]
 }
