@@ -1,8 +1,34 @@
 {
-  "scraped_at": "2026-08-15T04:30:51.249Z",
+  "scraped_at": "2026-08-15T05:00:51.288Z",
   "source": "https://samawa.ae",
   "count": 25016,
   "products": [
+    {
+      "name": "Amazing Creation Stronger With You Amber Travel Size Mini Perfume For Unisex EDP PFB-322 10ml",
+      "brand": "Amazing Creation",
+      "category_slug": "homme",
+      "size": "10ml",
+      "price_retail": 25,
+      "price_gros": 10,
+      "stock": 999,
+      "badge": "SALE",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Stronger_With_You_Amber_Travel_Size_Mini_Perfume_For_Unisex_EDP_PFB-322_10ml.png?v=1786769682",
+      "active": true,
+      "_handle": "amazing-creation-stronger-with-you-amber-travel-size-mini-perfume-for-unisex-edp-pfb-322-10ml",
+      "_sku": "6253481103225",
+      "_tags": [
+        "10ml",
+        "Branded Perfumes",
+        "Buy More Save More",
+        "EDP",
+        "Fragrance",
+        "Men",
+        "Samawa Collection",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/amazing-creation-stronger-with-you-amber-travel-size-mini-perfume-for-unisex-edp-pfb-322-10ml"
+    },
     {
       "name": "Lattafa Maahir Honor For Unisex EDP 100ml",
       "brand": "Lattafa",
@@ -40980,7 +41006,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 135,
-      "price_gros": 61.88,
+      "price_gros": 63,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Jasoor.jpg?v=1767790567",
@@ -234847,7 +234873,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 81,
-      "price_gros": 47,
+      "price_gros": 57,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/MaisonAlHambraDelilahPourFemmeEDP100ml.jpg?v=1676615851",
@@ -581886,25 +581912,6 @@
       ],
       "_product_type": "Fragrance",
       "_url": "https://samawa.ae/products/dolce-gabbana-pour-homme-for-men-eau-de-toilette-125ml"
-    },
-    {
-      "name": "Lattafa Sheikh  Shuyukh for Men, DEO, 200ml",
-      "brand": "Lattafa",
-      "category_slug": "homme",
-      "size": "200ml",
-      "price_retail": 10,
-      "price_gros": 10,
-      "stock": 999,
-      "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/sheikh-shuyukh-body.jpg?v=1624396115",
-      "active": true,
-      "_handle": "lattafa-sheikh-shuyukh-for-men-deo-200ml",
-      "_sku": "6106061871",
-      "_tags": [
-        "200ml"
-      ],
-      "_product_type": "",
-      "_url": "https://samawa.ae/products/lattafa-sheikh-shuyukh-for-men-deo-200ml"
     }
   ]
 }

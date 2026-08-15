@@ -1,13 +1,20 @@
 {
-  "generated_at": "2026-08-15T04:32:45.664Z",
+  "generated_at": "2026-08-15T05:02:32.709Z",
   "total_brands": 890,
   "brands": [
     {
       "name": "Amazing Creation",
       "slug": "amazing-creation",
-      "count": 1108,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Oud_Saffron_Perfume_Oil_For_Unisex_10ml_1.jpg?v=1784876173",
+      "count": 1109,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Stronger_With_You_Amber_Travel_Size_Mini_Perfume_For_Unisex_EDP_PFB-322_10ml.png?v=1786769682",
       "preview": [
+        {
+          "name": "Amazing Creation Stronger With You Amber Travel Size Mini Perfume For Unisex EDP PFB-322 10ml",
+          "handle": "amazing-creation-stronger-with-you-amber-travel-size-mini-perfume-for-unisex-edp-pfb-322-10ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Stronger_With_You_Amber_Travel_Size_Mini_Perfume_For_Unisex_EDP_PFB-322_10ml.png?v=1786769682",
+          "price": 10,
+          "badge": "SALE"
+        },
         {
           "name": "Amazing Creation Oud Saffron Roll On Perfume Oil For Unisex 10ml",
           "handle": "amazing-creation-oud-saffron-roll-on-perfume-oil-for-unisex-10ml",
@@ -40,13 +47,6 @@
           "name": "Amazing Creation Oud For Greatness Roll On Perfume Oil For Unisex 10ml",
           "handle": "amazing-creation-oud-for-greatness-roll-on-perfume-oil-for-unisex-10ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Oud_For_Greatness_Perfume_Oil_For_Unisex_10ml.jpg?v=1784874093",
-          "price": 15,
-          "badge": "SALE"
-        },
-        {
-          "name": "Amazing Creation Musc Shamal Roll On Perfume Oil For Unisex 10ml",
-          "handle": "amazing-creation-musc-shamal-roll-on-perfume-oil-for-unisex-10ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Desert_Musc_Shamal_Roll-on_Perfume_Oil_For_Unisex_EDP_10ml_1.jpg?v=1784871899",
           "price": 15,
           "badge": "SALE"
         }
@@ -605,7 +605,7 @@
     {
       "name": "Lattafa",
       "slug": "lattafa",
-      "count": 276,
+      "count": 275,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Maahir_Honor.png?v=1786522827",
       "preview": [
         {
