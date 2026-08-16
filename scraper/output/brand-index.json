@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T02:45:28.679Z",
+  "generated_at": "2026-08-16T03:50:37.021Z",
   "total_brands": 890,
   "brands": [
     {
@@ -205,11 +205,18 @@
     {
       "name": "Giorgio Armani",
       "slug": "giorgio-armani",
-      "count": 349,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3614274578690_i-will-eau-de-parfum_60ml_main-v2-Photoroom_1.png?v=1786800520",
+      "count": 350,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3614274578690_i-will-eau-de-parfum_60ml_main-v2_1_-Photoroom.png?v=1786851725",
       "preview": [
         {
-          "name": "Armani I Will Eau De Parfume Refillable For Men- Oriental Woody Perfume 100ml",
+          "name": "Armani I Will Eau De Parfum For Men Refillable- Oriental Woody Perfume 100ml",
+          "handle": "armani-i-will-eau-de-parfum-for-men-refillable-oriental-woody-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3614274578690_i-will-eau-de-parfum_60ml_main-v2_1_-Photoroom.png?v=1786851725",
+          "price": 463,
+          "badge": ""
+        },
+        {
+          "name": "Armani I Will Eau De Parfum Refillable For Men- Oriental Woody Perfume 100ml",
           "handle": "armani-i-will-eau-de-parfume-refillable-for-men-oriental-woody-perfume-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3614274578690_i-will-eau-de-parfum_60ml_main-v2-Photoroom_1.png?v=1786800520",
           "price": 696,
@@ -241,13 +248,6 @@
           "handle": "giorgio-armani-emporio-armani-power-of-you-pour-femme-eau-de-parfum-for-women-30ml-floral-30ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/u.png?v=1783496911",
           "price": 352,
-          "badge": ""
-        },
-        {
-          "name": "Giorgio Armani Si Parfum For Women - Chypre Floral Perfume 50ml",
-          "handle": "giorgio-armani-si-parfum-for-women-chypre-floral-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3614274322293.jpg?v=1781191832",
-          "price": 389,
           "badge": ""
         }
       ]
@@ -3853,56 +3853,6 @@
       ]
     },
     {
-      "name": "Dunhill",
-      "slug": "dunhill",
-      "count": 88,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/dunhil.png?v=1783496575",
-      "preview": [
-        {
-          "name": "Dunhill Signature Collection Mongolian Cashmere Eau de Parfum For Men Woody 100ml",
-          "handle": "dunhill-signature-collection-mongolian-cashmere-eau-de-parfum-for-men-woody-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/dunhil.png?v=1783496575",
-          "price": 219,
-          "badge": ""
-        },
-        {
-          "name": "Dunhill Desire Platinum Perfume For Men EDT 100ml",
-          "handle": "dunhill-desire-platinum-perfume-for-men-edt-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Dunhill_Desire_Platinum_For_Men_M_Edt_100_Ml.jpg?v=1751651259",
-          "price": 121,
-          "badge": ""
-        },
-        {
-          "name": "Dunhill Driven For Men EDT 60ml",
-          "handle": "dunhill-driven-for-men-edt-60ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/85715807748_1.jpg?v=1728918430",
-          "price": 57,
-          "badge": "SALE"
-        },
-        {
-          "name": "Dunhill Signature Collection Nordic Fougere Perfume For Men EDP 100ml",
-          "handle": "dunhill-signature-collection-nordic-fougere-perfume-for-men-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/DunhillSignatureCollectionNordicFougereEDP100ml_fe955592-2157-4e10-93be-faf4ff51f7f0.jpg?v=1715420010",
-          "price": 227,
-          "badge": ""
-        },
-        {
-          "name": "Dunhill Desire Blue Deodorizing Body Spray For Men 226ml",
-          "handle": "dunhill-desire-blue-deodorizing-body-spray-for-men-226ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/DunhillDesireBlue_M_226mlDeoSpray.jpg?v=1704792993",
-          "price": 40,
-          "badge": ""
-        },
-        {
-          "name": "Dunhill Desire Red Gift Set For Men",
-          "handle": "dunhill-desire-red-gift-set-for-men",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/DunhillDesireRed_M_2pc_EDT100ml_BodySpray226ml_Set.webp?v=1700140384",
-          "price": 144,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Trussardi",
       "slug": "trussardi",
       "count": 88,
@@ -3948,6 +3898,56 @@
           "handle": "trussardi-my-land-pour-homme-eau-de-toilette-for-men-woody-30ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/dark-375x500.16027.avif?v=1771696803",
           "price": 111,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Dunhill",
+      "slug": "dunhill",
+      "count": 87,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/dunhil.png?v=1783496575",
+      "preview": [
+        {
+          "name": "Dunhill Signature Collection Mongolian Cashmere Eau de Parfum For Men Woody 100ml",
+          "handle": "dunhill-signature-collection-mongolian-cashmere-eau-de-parfum-for-men-woody-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/dunhil.png?v=1783496575",
+          "price": 219,
+          "badge": ""
+        },
+        {
+          "name": "Dunhill Desire Platinum Perfume For Men EDT 100ml",
+          "handle": "dunhill-desire-platinum-perfume-for-men-edt-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Dunhill_Desire_Platinum_For_Men_M_Edt_100_Ml.jpg?v=1751651259",
+          "price": 121,
+          "badge": ""
+        },
+        {
+          "name": "Dunhill Driven For Men EDT 60ml",
+          "handle": "dunhill-driven-for-men-edt-60ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/85715807748_1.jpg?v=1728918430",
+          "price": 57,
+          "badge": "SALE"
+        },
+        {
+          "name": "Dunhill Signature Collection Nordic Fougere Perfume For Men EDP 100ml",
+          "handle": "dunhill-signature-collection-nordic-fougere-perfume-for-men-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/DunhillSignatureCollectionNordicFougereEDP100ml_fe955592-2157-4e10-93be-faf4ff51f7f0.jpg?v=1715420010",
+          "price": 227,
+          "badge": ""
+        },
+        {
+          "name": "Dunhill Desire Blue Deodorizing Body Spray For Men 226ml",
+          "handle": "dunhill-desire-blue-deodorizing-body-spray-for-men-226ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/DunhillDesireBlue_M_226mlDeoSpray.jpg?v=1704792993",
+          "price": 40,
+          "badge": ""
+        },
+        {
+          "name": "Dunhill Desire Red Gift Set For Men",
+          "handle": "dunhill-desire-red-gift-set-for-men",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/DunhillDesireRed_M_2pc_EDT100ml_BodySpray226ml_Set.webp?v=1700140384",
+          "price": 144,
           "badge": ""
         }
       ]

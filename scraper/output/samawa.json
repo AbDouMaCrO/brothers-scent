@@ -1,8 +1,31 @@
 {
-  "scraped_at": "2026-08-16T02:44:15.292Z",
+  "scraped_at": "2026-08-16T03:49:10.182Z",
   "source": "https://samawa.ae",
   "count": 25016,
   "products": [
+    {
+      "name": "Armani I Will Eau De Parfum For Men Refillable- Oriental Woody Perfume 100ml",
+      "brand": "Giorgio Armani",
+      "category_slug": "homme",
+      "size": "100ml",
+      "price_retail": 463,
+      "price_gros": 463,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3614274578690_i-will-eau-de-parfum_60ml_main-v2_1_-Photoroom.png?v=1786851725",
+      "active": true,
+      "_handle": "armani-i-will-eau-de-parfum-for-men-refillable-oriental-woody-perfume-100ml",
+      "_sku": "3614274578690",
+      "_tags": [
+        "100ml",
+        "Branded Perfumes",
+        "EDP",
+        "Fragrance",
+        "Men"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/armani-i-will-eau-de-parfum-for-men-refillable-oriental-woody-perfume-100ml"
+    },
     {
       "name": "Rasasi Hamasaat Musk Memoirs Eau De Parfum For Unisex-Musky Oriental Perfume 100ml",
       "brand": "Rasasi",
@@ -54,7 +77,7 @@
       "_url": "https://samawa.ae/products/rasasi-hamasaat-azafron-legacy-eau-de-parfum-for-unisex-oriental-spicy-perfume-100ml"
     },
     {
-      "name": "Armani I Will Eau De Parfume Refillable For Men- Oriental Woody Perfume 100ml",
+      "name": "Armani I Will Eau De Parfum Refillable For Men- Oriental Woody Perfume 100ml",
       "brand": "Giorgio Armani",
       "category_slug": "homme",
       "size": "100ml",
@@ -568801,7 +568824,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 65,
-      "price_gros": 49,
+      "price_gros": 48.75,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/afnan_pure_musk_2.jpg?v=1624406182",
@@ -581905,26 +581928,6 @@
       ],
       "_product_type": "",
       "_url": "https://samawa.ae/products/lattafa-najdiya-perfumed-body-spray-for-unisex-deo-200ml"
-    },
-    {
-      "name": "Dunhill Century for Men - Eau de Parfum, 135ml",
-      "brand": "Dunhill",
-      "category_slug": "homme",
-      "size": "135ml",
-      "price_retail": 94,
-      "price_gros": 94,
-      "stock": 999,
-      "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/century_by_dunhill_for_men_-_eau_de_parfum_135ml.jpg?v=1624396180",
-      "active": true,
-      "_handle": "dunhill-century-for-men-eau-de-parfum-135ml",
-      "_sku": "85715806529",
-      "_tags": [
-        "Branded Perfumes",
-        "Fragrance"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/dunhill-century-for-men-eau-de-parfum-135ml"
     }
   ]
 }
