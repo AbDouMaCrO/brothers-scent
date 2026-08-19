@@ -1,8 +1,32 @@
 {
-  "scraped_at": "2026-08-19T10:28:37.928Z",
+  "scraped_at": "2026-08-19T10:58:17.658Z",
   "source": "https://samawa.ae",
   "count": 25016,
   "products": [
+    {
+      "name": "Al Majed Oud Candy Musk Classic Eau de Toilette For Unisex 150ml",
+      "brand": "Al Majed Oud",
+      "category_slug": "homme",
+      "size": "150ml",
+      "price_retail": 172,
+      "price_gros": 172,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/6285091002155_Al_Majed_Oud_Candy_Musk_Classic_Eau_De_Toilette_150ml.png?v=1787135934",
+      "active": true,
+      "_handle": "al-majed-oud-candy-musk-classic-eau-de-toilette-for-unisex-150ml",
+      "_sku": "6285091002155",
+      "_tags": [
+        "150ml",
+        "Arabic Perfume",
+        "EDT",
+        "Fragrance",
+        "Men",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/al-majed-oud-candy-musk-classic-eau-de-toilette-for-unisex-150ml"
+    },
     {
       "name": "Armani I Will Eau De Parfum For Men Refillable- Oriental Woody Perfume 60ml",
       "brand": "Giorgio Armani",
@@ -215060,7 +215084,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 185,
-      "price_gros": 87.5,
+      "price_gros": 92,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LattafaMusamamEdp100mlSpy.jpg?v=1689854045",
@@ -230480,7 +230504,7 @@
       "category_slug": "homme",
       "size": "60ml",
       "price_retail": 109,
-      "price_gros": 55,
+      "price_gros": 58,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/LattafaAjwadEdp60mlSpy.webp?v=1678953645",
@@ -268130,7 +268154,7 @@
       "category_slug": "homme",
       "size": "125ml",
       "price_retail": 175,
-      "price_gros": 77.5,
+      "price_gros": 78,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/Davidoff_Cool_water_125ml_1_120bf700-0c2d-4803-aab9-200956107c95.jpg?v=1658903058",
@@ -581909,25 +581933,6 @@
       ],
       "_product_type": "Fragrance",
       "_url": "https://samawa.ae/products/lattafa-pure-musk-perfumed-body-spray-for-unisex-200ml"
-    },
-    {
-      "name": "Lattafa Najdiya Perfumed Body Spray for Unisex, Deo, 200ml",
-      "brand": "Lattafa",
-      "category_slug": "unisexe",
-      "size": "200ml",
-      "price_retail": 11,
-      "price_gros": 11,
-      "stock": 999,
-      "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/najdiya-deo.jpg?v=1624396192",
-      "active": true,
-      "_handle": "lattafa-najdiya-perfumed-body-spray-for-unisex-deo-200ml",
-      "_sku": "6106064193",
-      "_tags": [
-        "200ml"
-      ],
-      "_product_type": "",
-      "_url": "https://samawa.ae/products/lattafa-najdiya-perfumed-body-spray-for-unisex-deo-200ml"
     }
   ]
 }
