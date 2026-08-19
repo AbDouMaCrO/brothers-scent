@@ -1,8 +1,32 @@
 {
-  "scraped_at": "2026-08-19T10:58:17.658Z",
+  "scraped_at": "2026-08-19T11:25:48.892Z",
   "source": "https://samawa.ae",
   "count": 25016,
   "products": [
+    {
+      "name": "Al Majed Oud Rose De Mai Eau De Parfum For Women 100ml",
+      "brand": "Al Majed Oud",
+      "category_slug": "homme",
+      "size": "100ml",
+      "price_retail": 172,
+      "price_gros": 172,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/6285091002216_-_Al_Majed_Oud_Rose_De_Mai_Eau_De_Parfum_For_Women_100ml_2.png?v=1787137930",
+      "active": true,
+      "_handle": "al-majed-oud-rose-de-mai-eau-de-parfum-for-women-100ml",
+      "_sku": "6285091002216",
+      "_tags": [
+        "100ml",
+        "Arabic Perfume",
+        "EDP",
+        "Fragrance",
+        "Men",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/al-majed-oud-rose-de-mai-eau-de-parfum-for-women-100ml"
+    },
     {
       "name": "Al Majed Oud Candy Musk Classic Eau de Toilette For Unisex 150ml",
       "brand": "Al Majed Oud",
@@ -163427,7 +163451,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 94,
-      "price_gros": 54,
+      "price_gros": 53,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/666290171070993.jpg?v=1712110299",
@@ -188050,7 +188074,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 199,
-      "price_gros": 87.5,
+      "price_gros": 101,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Musamam_White_Intense_Perfume_For_Unisex_EDP_100ml.jpg?v=1776347853",
@@ -581911,28 +581935,6 @@
       ],
       "_product_type": "Fragrance",
       "_url": "https://samawa.ae/products/dunhill-icon-racing-green-for-men-eau-de-parfum-100ml"
-    },
-    {
-      "name": "Lattafa Pure Musk Perfumed Body Spray for unisex, 200ml",
-      "brand": "Lattafa",
-      "category_slug": "homme",
-      "size": "200ml",
-      "price_retail": 11,
-      "price_gros": 11,
-      "stock": 999,
-      "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/item_xxl_23832639_34524612.jpg?v=1624396201",
-      "active": true,
-      "_handle": "lattafa-pure-musk-perfumed-body-spray-for-unisex-200ml",
-      "_sku": "6291106061727_musk",
-      "_tags": [
-        "200ml",
-        "Fragrance",
-        "Men",
-        "Women"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/lattafa-pure-musk-perfumed-body-spray-for-unisex-200ml"
     }
   ]
 }

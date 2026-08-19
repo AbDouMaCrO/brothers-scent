@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T11:00:17.820Z",
+  "generated_at": "2026-08-19T11:27:12.541Z",
   "total_brands": 890,
   "brands": [
     {
@@ -605,7 +605,7 @@
     {
       "name": "Lattafa",
       "slug": "lattafa",
-      "count": 274,
+      "count": 273,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Maahir_Honor.png?v=1786522827",
       "preview": [
         {
@@ -20403,6 +20403,56 @@
       ]
     },
     {
+      "name": "Al Majed Oud",
+      "slug": "al-majed-oud",
+      "count": 8,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/6285091002216_-_Al_Majed_Oud_Rose_De_Mai_Eau_De_Parfum_For_Women_100ml_2.png?v=1787137930",
+      "preview": [
+        {
+          "name": "Al Majed Oud Rose De Mai Eau De Parfum For Women 100ml",
+          "handle": "al-majed-oud-rose-de-mai-eau-de-parfum-for-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/6285091002216_-_Al_Majed_Oud_Rose_De_Mai_Eau_De_Parfum_For_Women_100ml_2.png?v=1787137930",
+          "price": 172,
+          "badge": ""
+        },
+        {
+          "name": "Al Majed Oud Candy Musk Classic Eau de Toilette For Unisex 150ml",
+          "handle": "al-majed-oud-candy-musk-classic-eau-de-toilette-for-unisex-150ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/6285091002155_Al_Majed_Oud_Candy_Musk_Classic_Eau_De_Toilette_150ml.png?v=1787135934",
+          "price": 172,
+          "badge": ""
+        },
+        {
+          "name": "Al Majed Oud Noir Parfum For Unisex 150ml",
+          "handle": "al-majed-oud-noir-parfum-for-unisex-150ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Al_Majed_Oud_Noir_Parfum_For_Unisex_150ml.jpg?v=1763715523",
+          "price": 251,
+          "badge": ""
+        },
+        {
+          "name": "Al Majed Oud Ice EDP For Unisex 75ml",
+          "handle": "al-majed-oud-ice-edp-for-unisex-75ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Al_Majed_Oud_Ice_75ml.jpg?v=1764057810",
+          "price": 194,
+          "badge": ""
+        },
+        {
+          "name": "Al Majed Oud 99 White EDP For Unisex 75ml",
+          "handle": "al-majed-oud-99-white-edp-for-unisex-75ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Al_Majed_Oud_99_White_EDP_For_Unisex_75ml.jpg?v=1763722663",
+          "price": 172,
+          "badge": "SALE"
+        },
+        {
+          "name": "Al Majed Oud 99 Gray EDP For Unisex 75ml",
+          "handle": "al-majed-oud-99-gray-edp-for-unisex-75ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Al_Majed_Oud_99_Gray_EDP_For_Unisex_75ml.jpg?v=1763722135",
+          "price": 268,
+          "badge": "SALE"
+        }
+      ]
+    },
+    {
       "name": "Al Malakia",
       "slug": "al-malakia",
       "count": 8,
@@ -21298,56 +21348,6 @@
           "handle": "beurer-digital-kitchen-scale-lemon-ks19",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ks19-lemon.jpg?v=1624401216",
           "price": 107,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Al Majed Oud",
-      "slug": "al-majed-oud",
-      "count": 7,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/6285091002155_Al_Majed_Oud_Candy_Musk_Classic_Eau_De_Toilette_150ml.png?v=1787135934",
-      "preview": [
-        {
-          "name": "Al Majed Oud Candy Musk Classic Eau de Toilette For Unisex 150ml",
-          "handle": "al-majed-oud-candy-musk-classic-eau-de-toilette-for-unisex-150ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/6285091002155_Al_Majed_Oud_Candy_Musk_Classic_Eau_De_Toilette_150ml.png?v=1787135934",
-          "price": 172,
-          "badge": ""
-        },
-        {
-          "name": "Al Majed Oud Noir Parfum For Unisex 150ml",
-          "handle": "al-majed-oud-noir-parfum-for-unisex-150ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Al_Majed_Oud_Noir_Parfum_For_Unisex_150ml.jpg?v=1763715523",
-          "price": 251,
-          "badge": ""
-        },
-        {
-          "name": "Al Majed Oud Ice EDP For Unisex 75ml",
-          "handle": "al-majed-oud-ice-edp-for-unisex-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Al_Majed_Oud_Ice_75ml.jpg?v=1764057810",
-          "price": 194,
-          "badge": ""
-        },
-        {
-          "name": "Al Majed Oud 99 White EDP For Unisex 75ml",
-          "handle": "al-majed-oud-99-white-edp-for-unisex-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Al_Majed_Oud_99_White_EDP_For_Unisex_75ml.jpg?v=1763722663",
-          "price": 172,
-          "badge": "SALE"
-        },
-        {
-          "name": "Al Majed Oud 99 Gray EDP For Unisex 75ml",
-          "handle": "al-majed-oud-99-gray-edp-for-unisex-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Al_Majed_Oud_99_Gray_EDP_For_Unisex_75ml.jpg?v=1763722135",
-          "price": 268,
-          "badge": "SALE"
-        },
-        {
-          "name": "Al Majed Oud Boisee Extrait De Parfum For Unisex 150ml",
-          "handle": "al-majed-oud-boisee-extrait-de-parfum-for-unisex-150ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Al_Majed_Oud_Boisee_Extrait_De_Parfum_For_Unisex_150ml.jpg?v=1763716352",
-          "price": 251,
           "badge": ""
         }
       ]
