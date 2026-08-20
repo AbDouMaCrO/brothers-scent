@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-20T13:47:02.505Z",
+  "scraped_at": "2026-08-20T14:36:48.250Z",
   "source": "https://samawa.ae",
   "count": 25016,
   "products": [
@@ -12,7 +12,7 @@
       "price_gros": 288,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/AC-Photoroom.png?v=1787229006",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ac-Photoroom_1.png?v=1787236151",
       "active": true,
       "_handle": "acqua-di-parma-mandarino-di-sicilia-edt-aromatic-fragrance-for-men-and-women-50ml",
       "_sku": "8028713829154",
@@ -36,7 +36,7 @@
       "price_gros": 111,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/imm.png?v=1787232150",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/immense-Photoroom.png?v=1787235785",
       "active": true,
       "_handle": "angel-schlesser-les-eaux-dun-instant-immense-peony-eau-de-toilette-floral-fragrance-for-women-and-men-100ml",
       "_sku": "8058045426752",
@@ -49,6 +49,30 @@
       ],
       "_product_type": "Fragrance",
       "_url": "https://samawa.ae/products/angel-schlesser-les-eaux-dun-instant-immense-peony-eau-de-toilette-floral-fragrance-for-women-and-men-100ml"
+    },
+    {
+      "name": "Angel Schlesser Les Eaux d'un Instant Tempting Bergamot Eau de Toilette, Citrus Aromatic Fragrance For Women And Men 100ml",
+      "brand": "Angel Schlesser",
+      "category_slug": "homme",
+      "size": "100ml",
+      "price_retail": 121,
+      "price_gros": 121,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/t-Photoroom.png?v=1787235278",
+      "active": true,
+      "_handle": "angel-schlesser-les-eaux-dun-instant-tempting-bergamot-eau-de-toilette-citrus-aromatic-fragrance-for-women-and-men-100ml",
+      "_sku": "8058045426950",
+      "_tags": [
+        "100ml",
+        "Branded Perfumes",
+        "EDT",
+        "Fragrance",
+        "Men",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/angel-schlesser-les-eaux-dun-instant-tempting-bergamot-eau-de-toilette-citrus-aromatic-fragrance-for-women-and-men-100ml"
     },
     {
       "name": "Al Majed Oud Rose De Mai Eau De Parfum For Women 100ml",
@@ -581919,25 +581943,6 @@
       ],
       "_product_type": "Fragrance",
       "_url": "https://samawa.ae/products/vurv-octave-women-gift-set-for-women-edp-100ml-deo-spray-200ml"
-    },
-    {
-      "name": "Vurv Octave Man , Gift Set for Men (EDP 100ML & Deo Spray 200ML)",
-      "brand": "Vurv",
-      "category_slug": "homme",
-      "size": "100ml",
-      "price_retail": 50,
-      "price_gros": 50,
-      "stock": 999,
-      "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv_octave_man_perfume_gift_set_for_men.jpg?v=1633422791",
-      "active": true,
-      "_handle": "vurv-octave-man-gift-set-for-men-edp-100ml-deo-spray-200ml",
-      "_sku": "6291106063943",
-      "_tags": [
-        "300ml"
-      ],
-      "_product_type": "",
-      "_url": "https://samawa.ae/products/vurv-octave-man-gift-set-for-men-edp-100ml-deo-spray-200ml"
     }
   ]
 }

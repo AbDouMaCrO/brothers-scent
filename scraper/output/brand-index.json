@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T13:48:50.282Z",
+  "generated_at": "2026-08-20T14:38:40.054Z",
   "total_brands": 890,
   "brands": [
     {
@@ -1556,12 +1556,12 @@
       "name": "Acqua Di Parma",
       "slug": "acqua-di-parma",
       "count": 190,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/AC-Photoroom.png?v=1787229006",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ac-Photoroom_1.png?v=1787236151",
       "preview": [
         {
           "name": "Acqua di Parma Mandarino di Sicilia Edt, Aromatic Fragrance For Men And Women 50ml",
           "handle": "acqua-di-parma-mandarino-di-sicilia-edt-aromatic-fragrance-for-men-and-women-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/AC-Photoroom.png?v=1787229006",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ac-Photoroom_1.png?v=1787236151",
           "price": 288,
           "badge": ""
         },
@@ -9703,56 +9703,6 @@
       ]
     },
     {
-      "name": "Vurv",
-      "slug": "vurv",
-      "count": 25,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tn2_0_07999500_1633406164.jpg?v=1661848280",
-      "preview": [
-        {
-          "name": "Vurv Rivage Femme EDP For Women 100ml",
-          "handle": "vurv-rivage-femme-edp-for-women-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tn2_0_07999500_1633406164.jpg?v=1661848280",
-          "price": 33,
-          "badge": ""
-        },
-        {
-          "name": "Vurv Octave Women - Deodorant Body Spray For Women - 200 ml",
-          "handle": "vurv-octave-women-deodorant-body-spray-for-women-200-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv_octave_woman_deo.jpg?v=1624521999",
-          "price": 8,
-          "badge": ""
-        },
-        {
-          "name": "Vurv Rivage Gift Set for Men (EDP 100ml & 200ml Deodorant)",
-          "handle": "vurv-rivage-gift-set-for-men-edp-100ml-200ml-deodorant",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/rivage-gift-set.jpg?v=1633422754",
-          "price": 52,
-          "badge": ""
-        },
-        {
-          "name": "Vurv Octave perfume for women, EDP 100ml",
-          "handle": "vurv-octave-perfume-for-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv-octave-woman-edp-100ml_1.jpg?v=1624444636",
-          "price": 39,
-          "badge": "SALE"
-        },
-        {
-          "name": "Vurv Prive club Homme for Men EDP 100ml",
-          "handle": "vurv-prive-club-homme-for-men-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/92706_01b12827ef7d386f09edf68d604bca08_prive_club_pour_homme.jpg?v=1633422763",
-          "price": 42,
-          "badge": ""
-        },
-        {
-          "name": "Vurv Waltz pour Homme Perfume For Men, Eau De Parfum,  100 ML",
-          "handle": "vurv-waltz-pour-homme-perfume-for-men-eau-de-parfum-100-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv-waltz.jpg?v=1624401524",
-          "price": 43,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Unique'e Luxury",
       "slug": "uniquee-luxury",
       "count": 24,
@@ -10148,6 +10098,56 @@
           "handle": "nasamat-scotland-leather-edp-100-ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/3700796900238.jpg?v=1624458794",
           "price": 492,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Vurv",
+      "slug": "vurv",
+      "count": 24,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tn2_0_07999500_1633406164.jpg?v=1661848280",
+      "preview": [
+        {
+          "name": "Vurv Rivage Femme EDP For Women 100ml",
+          "handle": "vurv-rivage-femme-edp-for-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tn2_0_07999500_1633406164.jpg?v=1661848280",
+          "price": 33,
+          "badge": ""
+        },
+        {
+          "name": "Vurv Octave Women - Deodorant Body Spray For Women - 200 ml",
+          "handle": "vurv-octave-women-deodorant-body-spray-for-women-200-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv_octave_woman_deo.jpg?v=1624521999",
+          "price": 8,
+          "badge": ""
+        },
+        {
+          "name": "Vurv Rivage Gift Set for Men (EDP 100ml & 200ml Deodorant)",
+          "handle": "vurv-rivage-gift-set-for-men-edp-100ml-200ml-deodorant",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/rivage-gift-set.jpg?v=1633422754",
+          "price": 52,
+          "badge": ""
+        },
+        {
+          "name": "Vurv Octave perfume for women, EDP 100ml",
+          "handle": "vurv-octave-perfume-for-women-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv-octave-woman-edp-100ml_1.jpg?v=1624444636",
+          "price": 39,
+          "badge": "SALE"
+        },
+        {
+          "name": "Vurv Prive club Homme for Men EDP 100ml",
+          "handle": "vurv-prive-club-homme-for-men-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/92706_01b12827ef7d386f09edf68d604bca08_prive_club_pour_homme.jpg?v=1633422763",
+          "price": 42,
+          "badge": ""
+        },
+        {
+          "name": "Vurv Waltz pour Homme Perfume For Men, Eau De Parfum,  100 ML",
+          "handle": "vurv-waltz-pour-homme-perfume-for-men-eau-de-parfum-100-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv-waltz.jpg?v=1624401524",
+          "price": 43,
           "badge": ""
         }
       ]
@@ -11653,6 +11653,56 @@
       ]
     },
     {
+      "name": "Angel Schlesser",
+      "slug": "angel-schlesser",
+      "count": 20,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/immense-Photoroom.png?v=1787235785",
+      "preview": [
+        {
+          "name": "Angel Schlesser Les Eaux d'un Instant Immense Peony Eau de Toilette, Floral Fragrance For Women And Men 100ml",
+          "handle": "angel-schlesser-les-eaux-dun-instant-immense-peony-eau-de-toilette-floral-fragrance-for-women-and-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/immense-Photoroom.png?v=1787235785",
+          "price": 111,
+          "badge": ""
+        },
+        {
+          "name": "Angel Schlesser Les Eaux d'un Instant Tempting Bergamot Eau de Toilette, Citrus Aromatic Fragrance For Women And Men 100ml",
+          "handle": "angel-schlesser-les-eaux-dun-instant-tempting-bergamot-eau-de-toilette-citrus-aromatic-fragrance-for-women-and-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/t-Photoroom.png?v=1787235278",
+          "price": 121,
+          "badge": ""
+        },
+        {
+          "name": "ANGEL SCHLESSER LES EAUX D'UN INSTANT ABSOLU SUBLIME ROSE PERFUME FOR MEN AND WOMEN EDP 100ML",
+          "handle": "angel-schlesser-les-eaux-dun-instant-absolu-sublime-rose-perfume-for-men-and-women-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ANGELSCHLESSERLESEAUXD_UNINSTANTABSOLUSUBLIMEROSE_U_EDP100mlIT.jpg?v=1628679622",
+          "price": 150,
+          "badge": "SALE"
+        },
+        {
+          "name": "ANGEL SCHLESSER LES EAUX D'UN INSTANT ABSOLU SENSUAL PATCHOULI PERFUME FOR MEN AND WOMEN EDP 100 ml IT",
+          "handle": "angel-schlesser-les-eaux-dun-instant-absolu-sensual-patchouli-perfume-for-men-and-women-edp-100-ml-it",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ANGELSCHLESSERLESEAUXD_UNINSTANTABSOLUSENSUALPATCHOULI_U_EDP100mlIT.jpg?v=1628679195",
+          "price": 150,
+          "badge": ""
+        },
+        {
+          "name": "ANGEL SCHLESSER LES EAUX D'UN INSTANT ABSOLU DEEP LEATHER PERFUME FOR MEN AND WOMEN EDP 100ML",
+          "handle": "angel-schlesser-les-eaux-dun-instant-absolu-deep-leather-perfume-for-men-and-women-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ANGELSCHLESSERLESEAUXD_UNINSTANTABSOLUDEEPLEATHER_U_EDP100mlIT.jpg?v=1628678699",
+          "price": 150,
+          "badge": ""
+        },
+        {
+          "name": "ANGEL SCHLESSER ESSENTIAL PERFUME FOR MEN EDT 100ml",
+          "handle": "angel-schlesser-essential-perfume-for-men-edt-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/3a6e6e79f93d43adb70f836ea2694ba9-l12322628.jpg?v=1656998729",
+          "price": 98,
+          "badge": "SALE"
+        }
+      ]
+    },
+    {
       "name": "Maison Asrar",
       "slug": "maison-asrar",
       "count": 20,
@@ -12148,56 +12198,6 @@
           "handle": "fendi-fan-di-fendi-pour-homme-for-men-mini-spray-edt-7-5-ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/fendi_fan_di_fendi_pour_homme_for_men_mini_spray_edt_7.5_ml.jpg?v=1624495331",
           "price": 14,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Angel Schlesser",
-      "slug": "angel-schlesser",
-      "count": 19,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/imm.png?v=1787232150",
-      "preview": [
-        {
-          "name": "Angel Schlesser Les Eaux d'un Instant Immense Peony Eau de Toilette, Floral Fragrance For Women And Men 100ml",
-          "handle": "angel-schlesser-les-eaux-dun-instant-immense-peony-eau-de-toilette-floral-fragrance-for-women-and-men-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/imm.png?v=1787232150",
-          "price": 111,
-          "badge": ""
-        },
-        {
-          "name": "ANGEL SCHLESSER LES EAUX D'UN INSTANT ABSOLU SUBLIME ROSE PERFUME FOR MEN AND WOMEN EDP 100ML",
-          "handle": "angel-schlesser-les-eaux-dun-instant-absolu-sublime-rose-perfume-for-men-and-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ANGELSCHLESSERLESEAUXD_UNINSTANTABSOLUSUBLIMEROSE_U_EDP100mlIT.jpg?v=1628679622",
-          "price": 150,
-          "badge": "SALE"
-        },
-        {
-          "name": "ANGEL SCHLESSER LES EAUX D'UN INSTANT ABSOLU SENSUAL PATCHOULI PERFUME FOR MEN AND WOMEN EDP 100 ml IT",
-          "handle": "angel-schlesser-les-eaux-dun-instant-absolu-sensual-patchouli-perfume-for-men-and-women-edp-100-ml-it",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ANGELSCHLESSERLESEAUXD_UNINSTANTABSOLUSENSUALPATCHOULI_U_EDP100mlIT.jpg?v=1628679195",
-          "price": 150,
-          "badge": ""
-        },
-        {
-          "name": "ANGEL SCHLESSER LES EAUX D'UN INSTANT ABSOLU DEEP LEATHER PERFUME FOR MEN AND WOMEN EDP 100ML",
-          "handle": "angel-schlesser-les-eaux-dun-instant-absolu-deep-leather-perfume-for-men-and-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ANGELSCHLESSERLESEAUXD_UNINSTANTABSOLUDEEPLEATHER_U_EDP100mlIT.jpg?v=1628678699",
-          "price": 150,
-          "badge": ""
-        },
-        {
-          "name": "ANGEL SCHLESSER ESSENTIAL PERFUME FOR MEN EDT 100ml",
-          "handle": "angel-schlesser-essential-perfume-for-men-edt-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/3a6e6e79f93d43adb70f836ea2694ba9-l12322628.jpg?v=1656998729",
-          "price": 98,
-          "badge": "SALE"
-        },
-        {
-          "name": "Angel Schlesser Oriental Edition 2 for women EDT 100ml",
-          "handle": "angel-schlesser-oriental-edition-2-for-women-edt-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/Angel_4895c554-2412-46e4-b620-125133c81a50.jpg?v=1626066348",
-          "price": 113,
           "badge": ""
         }
       ]
