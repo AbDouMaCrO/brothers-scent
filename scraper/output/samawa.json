@@ -1,8 +1,54 @@
 {
-  "scraped_at": "2026-08-20T21:36:51.073Z",
+  "scraped_at": "2026-08-20T22:27:23.509Z",
   "source": "https://samawa.ae",
   "count": 25016,
   "products": [
+    {
+      "name": "Armand Basi L’Eau Pour Homme Eau de Toilette, Woody Aquatic Fragrance For Men 125ml",
+      "brand": "Armand Basi",
+      "category_slug": "homme",
+      "size": "125ml",
+      "price_retail": 130,
+      "price_gros": 130,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/armand_bottleeee-Photoroom.png?v=1787264358",
+      "active": true,
+      "_handle": "armand-basi-l-eau-pour-homme-eau-de-toilette-woody-aquatic-fragrance-for-men-125ml",
+      "_sku": "8427395900296",
+      "_tags": [
+        "125ml",
+        "Branded Perfumes",
+        "EDT",
+        "Fragrance",
+        "Men"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/armand-basi-l-eau-pour-homme-eau-de-toilette-woody-aquatic-fragrance-for-men-125ml"
+    },
+    {
+      "name": "Christian Dior Miss Dior Parfum, Chypre Fruity Fragrance For Women 125ml",
+      "brand": "Christian Dior",
+      "category_slug": "homme",
+      "size": "125ml",
+      "price_retail": 1039,
+      "price_gros": 1039,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/diorrrr-Photoroom.png?v=1787263316",
+      "active": true,
+      "_handle": "christian-dior-miss-dior-parfum-chypre-fruity-fragrance-for-women-125ml",
+      "_sku": "3348901709026",
+      "_tags": [
+        "125ml",
+        "Branded Perfumes",
+        "Fragrance",
+        "Parfum",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/christian-dior-miss-dior-parfum-chypre-fruity-fragrance-for-women-125ml"
+    },
     {
       "name": "Chopard Collection Patchouli de Sumatra Eau de Parfum, Woody Chypre Fragrance For Women And Men 100ml",
       "brand": "Chopard",
@@ -97536,8 +97582,8 @@
       "brand": "Armaf",
       "category_slug": "homme",
       "size": "60ml",
-      "price_retail": 74,
-      "price_gros": 74,
+      "price_retail": 65,
+      "price_gros": 65,
       "stock": 999,
       "badge": "",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/6294015189582.jpg?v=1745400067",
@@ -116970,7 +117016,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 97,
-      "price_gros": 64,
+      "price_gros": 62,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LattafaBadeeAlOudNobleBlushEdp100mlSpy.webp?v=1737035429",
@@ -372309,7 +372355,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 86,
-      "price_gros": 33,
+      "price_gros": 30.31,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/s-l1600_7c7301af-d47b-4893-8ae0-cf05ce02346e.jpg?v=1661750897",
@@ -569062,7 +569108,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 65,
-      "price_gros": 50,
+      "price_gros": 48.75,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/afnan_pure_musk_2.jpg?v=1624406182",
@@ -581906,54 +581952,6 @@
       ],
       "_product_type": "Fragrance",
       "_url": "https://samawa.ae/products/elizabeth-arden-provocative-for-women-eau-de-parfum-100-ml"
-    },
-    {
-      "name": "VURV Rivage Women Perfume Gift Set For Women (EDP 100ml + Deo 200ml)",
-      "brand": "Vurv",
-      "category_slug": "homme",
-      "size": "100ml",
-      "price_retail": 43,
-      "price_gros": 43,
-      "stock": 999,
-      "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv_rivage_gf.jpg?v=1633422742",
-      "active": true,
-      "_handle": "vurv-rivage-women-perfume-gift-set-for-women-edp-100ml-deo-200ml",
-      "_sku": "6291106065312",
-      "_tags": [
-        "300ml",
-        "Fragrance",
-        "Men",
-        "Women"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/vurv-rivage-women-perfume-gift-set-for-women-edp-100ml-deo-200ml"
-    },
-    {
-      "name": "Lattafa Ana Abiyedh for Men & Women, 60ml Eau de Parfum",
-      "brand": "Lattafa",
-      "category_slug": "homme",
-      "size": "60ml",
-      "price_retail": 53,
-      "price_gros": 44,
-      "stock": 999,
-      "badge": "SALE",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Ana_Abiyedh_for_Men_Women_60ml_Eau_de_Parfum.png?v=1776347341",
-      "active": true,
-      "_handle": "lattafa-ana-abiyedh-for-men-women-60ml-eau-de-parfum",
-      "_sku": "6291106066890",
-      "_tags": [
-        "100ml",
-        "Arabic Perfume",
-        "badge_Best Seller",
-        "Best Seller",
-        "Fragrance",
-        "Men",
-        "summer collection",
-        "Women"
-      ],
-      "_product_type": "",
-      "_url": "https://samawa.ae/products/lattafa-ana-abiyedh-for-men-women-60ml-eau-de-parfum"
     }
   ]
 }

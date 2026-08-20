@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T21:38:28.162Z",
+  "generated_at": "2026-08-20T22:29:14.678Z",
   "total_brands": 890,
   "brands": [
     {
@@ -255,9 +255,16 @@
     {
       "name": "Christian Dior",
       "slug": "christian-dior",
-      "count": 344,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Y0896220_F089624009_E01_ZHC-Photoroom.png?v=1785696252",
+      "count": 345,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/diorrrr-Photoroom.png?v=1787263316",
       "preview": [
+        {
+          "name": "Christian Dior Miss Dior Parfum, Chypre Fruity Fragrance For Women 125ml",
+          "handle": "christian-dior-miss-dior-parfum-chypre-fruity-fragrance-for-women-125ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/diorrrr-Photoroom.png?v=1787263316",
+          "price": 1039,
+          "badge": ""
+        },
         {
           "name": "Dior Eau Sauvage Parfum For Men- Citrus Aromatic Perfume 100ml",
           "handle": "dior-eau-sauvage-parfum-for-men-citrus-aromatic-perfume-100ml",
@@ -291,13 +298,6 @@
           "handle": "christian-dior-addict-peachy-glow-eau-de-parfum-for-women-floral-50ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/50-removebg.png?v=1784489964",
           "price": 603,
-          "badge": ""
-        },
-        {
-          "name": "Christian Dior Addict Peachy Glow Eau de Parfum, Floral Fruity Gourmand Fragrance For Women 100ml",
-          "handle": "christian-dior-addict-peachy-glow-eau-de-parfum-for-women-floral-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/dior-removebg-preview_7802345b-6e3e-474b-ade9-73392c207d7c.png?v=1784487627",
-          "price": 939,
           "badge": ""
         }
       ]
@@ -605,7 +605,7 @@
     {
       "name": "Lattafa",
       "slug": "lattafa",
-      "count": 272,
+      "count": 271,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Maahir_Honor.png?v=1786522827",
       "preview": [
         {
@@ -11103,56 +11103,6 @@
       ]
     },
     {
-      "name": "Vurv",
-      "slug": "vurv",
-      "count": 22,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tn2_0_07999500_1633406164.jpg?v=1661848280",
-      "preview": [
-        {
-          "name": "Vurv Rivage Femme EDP For Women 100ml",
-          "handle": "vurv-rivage-femme-edp-for-women-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tn2_0_07999500_1633406164.jpg?v=1661848280",
-          "price": 33,
-          "badge": ""
-        },
-        {
-          "name": "Vurv Octave Women - Deodorant Body Spray For Women - 200 ml",
-          "handle": "vurv-octave-women-deodorant-body-spray-for-women-200-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv_octave_woman_deo.jpg?v=1624521999",
-          "price": 8,
-          "badge": ""
-        },
-        {
-          "name": "Vurv Rivage Gift Set for Men (EDP 100ml & 200ml Deodorant)",
-          "handle": "vurv-rivage-gift-set-for-men-edp-100ml-200ml-deodorant",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/rivage-gift-set.jpg?v=1633422754",
-          "price": 52,
-          "badge": ""
-        },
-        {
-          "name": "Vurv Octave perfume for women, EDP 100ml",
-          "handle": "vurv-octave-perfume-for-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv-octave-woman-edp-100ml_1.jpg?v=1624444636",
-          "price": 39,
-          "badge": "SALE"
-        },
-        {
-          "name": "Vurv Prive club Homme for Men EDP 100ml",
-          "handle": "vurv-prive-club-homme-for-men-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/92706_01b12827ef7d386f09edf68d604bca08_prive_club_pour_homme.jpg?v=1633422763",
-          "price": 42,
-          "badge": ""
-        },
-        {
-          "name": "Vurv Waltz pour Homme Perfume For Men, Eau De Parfum,  100 ML",
-          "handle": "vurv-waltz-pour-homme-perfume-for-men-eau-de-parfum-100-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv-waltz.jpg?v=1624401524",
-          "price": 43,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Mini New York",
       "slug": "mini-new-york",
       "count": 22,
@@ -11198,6 +11148,56 @@
           "handle": "min-new-york-scent-stories-vol-1-moon-dust-u-body-wash-300-ml-it",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/min_new_york_scent_stories_vol._1_moon_dust_u_body_wash_300_ml_1.jpg?v=1624502554",
           "price": 109,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Armand Basi",
+      "slug": "armand-basi",
+      "count": 21,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/armand_bottleeee-Photoroom.png?v=1787264358",
+      "preview": [
+        {
+          "name": "Armand Basi L’Eau Pour Homme Eau de Toilette, Woody Aquatic Fragrance For Men 125ml",
+          "handle": "armand-basi-l-eau-pour-homme-eau-de-toilette-woody-aquatic-fragrance-for-men-125ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/armand_bottleeee-Photoroom.png?v=1787264358",
+          "price": 130,
+          "badge": ""
+        },
+        {
+          "name": "Armand Basi In Red Eau de Toilette, Floral Aquatic Fragrance For Women 30ml",
+          "handle": "armand-basi-in-red-eau-de-toilette-floral-fragrance-for-women-30ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/in_red-Photoroom.png?v=1787237129",
+          "price": 83,
+          "badge": ""
+        },
+        {
+          "name": "Armand Basi Sensual Orchid My Paradise Eau De Toilette For Women - Floral Fruity Perfume 50ml",
+          "handle": "armand-basi-sensual-orchid-my-paradise-eau-de-toilette-for-women-floral-fruity-perfume-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/o.57649.jpg?v=1772022291",
+          "price": 69,
+          "badge": ""
+        },
+        {
+          "name": "Armand Basi Uniform Don't Look Back For Unisex EDT 100ml",
+          "handle": "armand-basi-uniform-dont-look-back-for-unisex-edt-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/8058045437185_1.jpg?v=1733848940",
+          "price": 76,
+          "badge": ""
+        },
+        {
+          "name": "Armand Basi Uniform Build Yourself For Unisex EDT 100ml",
+          "handle": "armand-basi-uniform-build-yourself-for-unisex-edt-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/8058045437178.jpg?v=1733847406",
+          "price": 76,
+          "badge": ""
+        },
+        {
+          "name": "ARMAND BASI SCENT OF KISS #POPLOVE  Perfume for women EDT 50ml",
+          "handle": "armand-basi-scent-of-kiss-poplove-perfume-for-women-edt-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ARMANDBASISCENTOFKISS_POPLOVE_W_EDT50mlIT.jpg?v=1639556514",
+          "price": 60,
           "badge": ""
         }
       ]
@@ -11453,6 +11453,56 @@
       ]
     },
     {
+      "name": "Vurv",
+      "slug": "vurv",
+      "count": 21,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tn2_0_07999500_1633406164.jpg?v=1661848280",
+      "preview": [
+        {
+          "name": "Vurv Rivage Femme EDP For Women 100ml",
+          "handle": "vurv-rivage-femme-edp-for-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tn2_0_07999500_1633406164.jpg?v=1661848280",
+          "price": 33,
+          "badge": ""
+        },
+        {
+          "name": "Vurv Octave Women - Deodorant Body Spray For Women - 200 ml",
+          "handle": "vurv-octave-women-deodorant-body-spray-for-women-200-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv_octave_woman_deo.jpg?v=1624521999",
+          "price": 8,
+          "badge": ""
+        },
+        {
+          "name": "Vurv Rivage Gift Set for Men (EDP 100ml & 200ml Deodorant)",
+          "handle": "vurv-rivage-gift-set-for-men-edp-100ml-200ml-deodorant",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/rivage-gift-set.jpg?v=1633422754",
+          "price": 52,
+          "badge": ""
+        },
+        {
+          "name": "Vurv Octave perfume for women, EDP 100ml",
+          "handle": "vurv-octave-perfume-for-women-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv-octave-woman-edp-100ml_1.jpg?v=1624444636",
+          "price": 39,
+          "badge": "SALE"
+        },
+        {
+          "name": "Vurv Prive club Homme for Men EDP 100ml",
+          "handle": "vurv-prive-club-homme-for-men-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/92706_01b12827ef7d386f09edf68d604bca08_prive_club_pour_homme.jpg?v=1633422763",
+          "price": 42,
+          "badge": ""
+        },
+        {
+          "name": "Vurv Waltz pour Homme Perfume For Men, Eau De Parfum,  100 ML",
+          "handle": "vurv-waltz-pour-homme-perfume-for-men-eau-de-parfum-100-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv-waltz.jpg?v=1624401524",
+          "price": 43,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Nuparfume",
       "slug": "nuparfume",
       "count": 21,
@@ -11648,56 +11698,6 @@
           "handle": "orchid-perfumes-etiquette-blanc-pour-femme-for-women-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/blanc-etiquette_-femme.jpg?v=1624437971",
           "price": 66,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Armand Basi",
-      "slug": "armand-basi",
-      "count": 20,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/in_red-Photoroom.png?v=1787237129",
-      "preview": [
-        {
-          "name": "Armand Basi In Red Eau de Toilette, Floral Aquatic Fragrance For Women 30ml",
-          "handle": "armand-basi-in-red-eau-de-toilette-floral-fragrance-for-women-30ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/in_red-Photoroom.png?v=1787237129",
-          "price": 83,
-          "badge": ""
-        },
-        {
-          "name": "Armand Basi Sensual Orchid My Paradise Eau De Toilette For Women - Floral Fruity Perfume 50ml",
-          "handle": "armand-basi-sensual-orchid-my-paradise-eau-de-toilette-for-women-floral-fruity-perfume-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/o.57649.jpg?v=1772022291",
-          "price": 69,
-          "badge": ""
-        },
-        {
-          "name": "Armand Basi Uniform Don't Look Back For Unisex EDT 100ml",
-          "handle": "armand-basi-uniform-dont-look-back-for-unisex-edt-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/8058045437185_1.jpg?v=1733848940",
-          "price": 76,
-          "badge": ""
-        },
-        {
-          "name": "Armand Basi Uniform Build Yourself For Unisex EDT 100ml",
-          "handle": "armand-basi-uniform-build-yourself-for-unisex-edt-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/8058045437178.jpg?v=1733847406",
-          "price": 76,
-          "badge": ""
-        },
-        {
-          "name": "ARMAND BASI SCENT OF KISS #POPLOVE  Perfume for women EDT 50ml",
-          "handle": "armand-basi-scent-of-kiss-poplove-perfume-for-women-edt-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ARMANDBASISCENTOFKISS_POPLOVE_W_EDT50mlIT.jpg?v=1639556514",
-          "price": 60,
-          "badge": ""
-        },
-        {
-          "name": "ARMAND BASI SCENT OF KISS MY HEART PERFUME FOR WOMEN EDT 50ML",
-          "handle": "armand-basi-scent-of-kiss-my-heart-perfume-for-women-edt-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ARMANDBASISCENTOFKISSMYHEART_W_EDT50mlIT.jpg?v=1639556213",
-          "price": 59,
           "badge": ""
         }
       ]
