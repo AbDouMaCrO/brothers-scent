@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T20:02:09.276Z",
+  "generated_at": "2026-08-20T20:34:01.190Z",
   "total_brands": 890,
   "brands": [
     {
@@ -2605,7 +2605,7 @@
     {
       "name": "Elie Saab",
       "slug": "elie-saab",
-      "count": 126,
+      "count": 125,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/7640233340691_1-Photoroom.png?v=1783840093",
       "preview": [
         {
@@ -3853,6 +3853,56 @@
       ]
     },
     {
+      "name": "Chopard",
+      "slug": "chopard",
+      "count": 88,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/deee-Photoroom.png?v=1787257384",
+      "preview": [
+        {
+          "name": "Chopard Collection Patchouli de Sumatra Eau de Parfum, Woody Chypre Fragrance For Women And Men 100ml",
+          "handle": "chopard-collection-patchouli-de-sumatra-eau-de-parfum-woody-chypre-fragrance-for-women-and-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/deee-Photoroom.png?v=1787257384",
+          "price": 622,
+          "badge": ""
+        },
+        {
+          "name": "Chopard Collection Néroli à la Cardamome du Guatemala Eau de Parfum, Floral Fragrance For Women And Men 100ml",
+          "handle": "chopard-collection-neroli-a-la-cardamome-du-guatemala-eau-de-parfum-floral-fragrance-for-women-and-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/neroli-Photoroom.png?v=1787255290",
+          "price": 658,
+          "badge": ""
+        },
+        {
+          "name": "Chopard Collection Angélique Begum Eau de Parfum, Oriental Woody Fragrance For Women 100ml",
+          "handle": "chopard-collection-angelique-begum-eau-de-parfum-oriental-woody-fragrance-for-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ag-Photoroom.png?v=1787239717",
+          "price": 768,
+          "badge": ""
+        },
+        {
+          "name": "Chopard Sparkling Love Eau de Parfum, Floral Woody Musk Fragrance For Women 100ml",
+          "handle": "chopard-sparkling-love-eau-de-parfum-for-women-floral-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/chopard.png?v=1784485902",
+          "price": 232,
+          "badge": ""
+        },
+        {
+          "name": "Chopard Tobacco Malaki Eau De Parfum For Unisex - Oriental Woody Perfume 80ml",
+          "handle": "chopard-tobacco-malaki-eau-de-parfum-for-unisex-oriental-woody-perfume-80ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/7640177360175_Chopard_Malaki_Tabacco_Eau_de_Parfum_80ml_1920x1920_bf699033-c30b-4e41-b675-166d16c49e71.webp?v=1778755334",
+          "price": 269,
+          "badge": ""
+        },
+        {
+          "name": "Chopard Love Eau de Parfum For Women Floral 50 ml",
+          "handle": "chopard-love-eau-de-parfum-for-women-floral-50-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/chopard.jpg?v=1772550349",
+          "price": 132,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Trussardi",
       "slug": "trussardi",
       "count": 88,
@@ -3898,56 +3948,6 @@
           "handle": "trussardi-my-land-pour-homme-eau-de-toilette-for-men-woody-30ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/dark-375x500.16027.avif?v=1771696803",
           "price": 111,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Chopard",
-      "slug": "chopard",
-      "count": 86,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ag-Photoroom.png?v=1787239717",
-      "preview": [
-        {
-          "name": "Chopard Collection Angélique Begum Eau de Parfum, Oriental Woody Fragrance For Women 100ml",
-          "handle": "chopard-collection-angelique-begum-eau-de-parfum-oriental-woody-fragrance-for-women-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ag-Photoroom.png?v=1787239717",
-          "price": 768,
-          "badge": ""
-        },
-        {
-          "name": "Chopard Sparkling Love Eau de Parfum, Floral Woody Musk Fragrance For Women 100ml",
-          "handle": "chopard-sparkling-love-eau-de-parfum-for-women-floral-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/chopard.png?v=1784485902",
-          "price": 232,
-          "badge": ""
-        },
-        {
-          "name": "Chopard Tobacco Malaki Eau De Parfum For Unisex - Oriental Woody Perfume 80ml",
-          "handle": "chopard-tobacco-malaki-eau-de-parfum-for-unisex-oriental-woody-perfume-80ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/7640177360175_Chopard_Malaki_Tabacco_Eau_de_Parfum_80ml_1920x1920_bf699033-c30b-4e41-b675-166d16c49e71.webp?v=1778755334",
-          "price": 269,
-          "badge": ""
-        },
-        {
-          "name": "Chopard Love Eau de Parfum For Women Floral 50 ml",
-          "handle": "chopard-love-eau-de-parfum-for-women-floral-50-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/chopard.jpg?v=1772550349",
-          "price": 132,
-          "badge": ""
-        },
-        {
-          "name": "Chopard Gift Set For Men Oriental",
-          "handle": "chopard-gift-set-for-men-oriental",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/oudmalik.webp?v=1771263212",
-          "price": 276,
-          "badge": ""
-        },
-        {
-          "name": "Chopard Cedar Malaki Gift Set For Men And Women",
-          "handle": "chopard-cedar-malaki-gift-set-for-men-and-women",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/chopard-cedar-malaki-set-per-uomo___240826_993770a2-eccc-4911-81b0-8a4584d64314.webp?v=1766261370",
-          "price": 278,
           "badge": ""
         }
       ]
@@ -10403,56 +10403,6 @@
       ]
     },
     {
-      "name": "Vurv",
-      "slug": "vurv",
-      "count": 23,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tn2_0_07999500_1633406164.jpg?v=1661848280",
-      "preview": [
-        {
-          "name": "Vurv Rivage Femme EDP For Women 100ml",
-          "handle": "vurv-rivage-femme-edp-for-women-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tn2_0_07999500_1633406164.jpg?v=1661848280",
-          "price": 33,
-          "badge": ""
-        },
-        {
-          "name": "Vurv Octave Women - Deodorant Body Spray For Women - 200 ml",
-          "handle": "vurv-octave-women-deodorant-body-spray-for-women-200-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv_octave_woman_deo.jpg?v=1624521999",
-          "price": 8,
-          "badge": ""
-        },
-        {
-          "name": "Vurv Rivage Gift Set for Men (EDP 100ml & 200ml Deodorant)",
-          "handle": "vurv-rivage-gift-set-for-men-edp-100ml-200ml-deodorant",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/rivage-gift-set.jpg?v=1633422754",
-          "price": 52,
-          "badge": ""
-        },
-        {
-          "name": "Vurv Octave perfume for women, EDP 100ml",
-          "handle": "vurv-octave-perfume-for-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv-octave-woman-edp-100ml_1.jpg?v=1624444636",
-          "price": 39,
-          "badge": "SALE"
-        },
-        {
-          "name": "Vurv Prive club Homme for Men EDP 100ml",
-          "handle": "vurv-prive-club-homme-for-men-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/92706_01b12827ef7d386f09edf68d604bca08_prive_club_pour_homme.jpg?v=1633422763",
-          "price": 42,
-          "badge": ""
-        },
-        {
-          "name": "Vurv Waltz pour Homme Perfume For Men, Eau De Parfum,  100 ML",
-          "handle": "vurv-waltz-pour-homme-perfume-for-men-eau-de-parfum-100-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv-waltz.jpg?v=1624401524",
-          "price": 43,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Acqua Di Parisis",
       "slug": "acqua-di-parisis",
       "count": 23,
@@ -11148,6 +11098,56 @@
           "handle": "jesus-del-pozo-gold-cedar-nights-perfume-for-men-edp-100-ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/jesus_del_pozo_gold_cedar_nights_m_edp_100_ml_es.jpg?v=1624545222",
           "price": 91,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Vurv",
+      "slug": "vurv",
+      "count": 22,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tn2_0_07999500_1633406164.jpg?v=1661848280",
+      "preview": [
+        {
+          "name": "Vurv Rivage Femme EDP For Women 100ml",
+          "handle": "vurv-rivage-femme-edp-for-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tn2_0_07999500_1633406164.jpg?v=1661848280",
+          "price": 33,
+          "badge": ""
+        },
+        {
+          "name": "Vurv Octave Women - Deodorant Body Spray For Women - 200 ml",
+          "handle": "vurv-octave-women-deodorant-body-spray-for-women-200-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv_octave_woman_deo.jpg?v=1624521999",
+          "price": 8,
+          "badge": ""
+        },
+        {
+          "name": "Vurv Rivage Gift Set for Men (EDP 100ml & 200ml Deodorant)",
+          "handle": "vurv-rivage-gift-set-for-men-edp-100ml-200ml-deodorant",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/rivage-gift-set.jpg?v=1633422754",
+          "price": 52,
+          "badge": ""
+        },
+        {
+          "name": "Vurv Octave perfume for women, EDP 100ml",
+          "handle": "vurv-octave-perfume-for-women-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv-octave-woman-edp-100ml_1.jpg?v=1624444636",
+          "price": 39,
+          "badge": "SALE"
+        },
+        {
+          "name": "Vurv Prive club Homme for Men EDP 100ml",
+          "handle": "vurv-prive-club-homme-for-men-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/92706_01b12827ef7d386f09edf68d604bca08_prive_club_pour_homme.jpg?v=1633422763",
+          "price": 42,
+          "badge": ""
+        },
+        {
+          "name": "Vurv Waltz pour Homme Perfume For Men, Eau De Parfum,  100 ML",
+          "handle": "vurv-waltz-pour-homme-perfume-for-men-eau-de-parfum-100-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv-waltz.jpg?v=1624401524",
+          "price": 43,
           "badge": ""
         }
       ]

@@ -1,8 +1,56 @@
 {
-  "scraped_at": "2026-08-20T20:00:28.163Z",
+  "scraped_at": "2026-08-20T20:32:48.003Z",
   "source": "https://samawa.ae",
   "count": 25016,
   "products": [
+    {
+      "name": "Chopard Collection Patchouli de Sumatra Eau de Parfum, Woody Chypre Fragrance For Women And Men 100ml",
+      "brand": "Chopard",
+      "category_slug": "homme",
+      "size": "100ml",
+      "price_retail": 622,
+      "price_gros": 622,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/deee-Photoroom.png?v=1787257384",
+      "active": true,
+      "_handle": "chopard-collection-patchouli-de-sumatra-eau-de-parfum-woody-chypre-fragrance-for-women-and-men-100ml",
+      "_sku": "7640177363350",
+      "_tags": [
+        "100ml",
+        "Branded Perfumes",
+        "EDP",
+        "Fragrance",
+        "Men",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/chopard-collection-patchouli-de-sumatra-eau-de-parfum-woody-chypre-fragrance-for-women-and-men-100ml"
+    },
+    {
+      "name": "Chopard Collection Néroli à la Cardamome du Guatemala Eau de Parfum, Floral Fragrance For Women And Men 100ml",
+      "brand": "Chopard",
+      "category_slug": "homme",
+      "size": "100ml",
+      "price_retail": 658,
+      "price_gros": 658,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/neroli-Photoroom.png?v=1787255290",
+      "active": true,
+      "_handle": "chopard-collection-neroli-a-la-cardamome-du-guatemala-eau-de-parfum-floral-fragrance-for-women-and-men-100ml",
+      "_sku": "7640177363374",
+      "_tags": [
+        "100ml",
+        "Branded Perfumes",
+        "EDP",
+        "Fragrance",
+        "Men",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/chopard-collection-neroli-a-la-cardamome-du-guatemala-eau-de-parfum-floral-fragrance-for-women-and-men-100ml"
+    },
     {
       "name": "Chopard Collection Angélique Begum Eau de Parfum, Oriental Woody Fragrance For Women 100ml",
       "brand": "Chopard",
@@ -158246,7 +158294,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 80,
-      "price_gros": 54,
+      "price_gros": 49,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Rave_Now_Women_Perfume_For_Women_EDP_100ml.png?v=1776338169",
@@ -188214,7 +188262,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 199,
-      "price_gros": 95,
+      "price_gros": 87.5,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Musamam_White_Intense_Perfume_For_Unisex_EDP_100ml.jpg?v=1776347853",
@@ -581906,48 +581954,6 @@
       ],
       "_product_type": "",
       "_url": "https://samawa.ae/products/lattafa-ana-abiyedh-for-men-women-60ml-eau-de-parfum"
-    },
-    {
-      "name": "Elie Saab Le Parfum Resort Collection For Women - Eau De Toilette, 90Ml",
-      "brand": "Elie Saab",
-      "category_slug": "homme",
-      "size": "90ml",
-      "price_retail": 195,
-      "price_gros": 195,
-      "stock": 999,
-      "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/le_parfum_resort_collection_by_elie_saab_for_women_-_eau_de_toilette_90ml.jpg?v=1624396306",
-      "active": true,
-      "_handle": "elie-saab-le-parfum-resort-collection-for-women-eau-de-toilette-90ml",
-      "_sku": "3423473995852",
-      "_tags": [
-        "90ml",
-        "Branded Perfumes",
-        "Fragrance"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/elie-saab-le-parfum-resort-collection-for-women-eau-de-toilette-90ml"
-    },
-    {
-      "name": "VURV Fusion Women Perfume Gift Set For Women (EDP 100ml + Deo 200ml)",
-      "brand": "Vurv",
-      "category_slug": "homme",
-      "size": "100ml",
-      "price_retail": 53,
-      "price_gros": 53,
-      "stock": 999,
-      "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv_fusion_gift_set1.jpg?v=1624396295",
-      "active": true,
-      "_handle": "vurv-fusion-women-perfume-gift-set-for-women-edp-100ml-deo-200ml",
-      "_sku": "6291106063240",
-      "_tags": [
-        "300ml",
-        "Fragrance",
-        "Women"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/vurv-fusion-women-perfume-gift-set-for-women-edp-100ml-deo-200ml"
     }
   ]
 }
