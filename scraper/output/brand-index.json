@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T12:47:27.444Z",
+  "generated_at": "2026-08-20T13:48:50.282Z",
   "total_brands": 890,
   "brands": [
     {
@@ -1555,9 +1555,16 @@
     {
       "name": "Acqua Di Parma",
       "slug": "acqua-di-parma",
-      "count": 189,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/UK200056119_ACQUA_DI.jpg?v=1781016739",
+      "count": 190,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/AC-Photoroom.png?v=1787229006",
       "preview": [
+        {
+          "name": "Acqua di Parma Mandarino di Sicilia Edt, Aromatic Fragrance For Men And Women 50ml",
+          "handle": "acqua-di-parma-mandarino-di-sicilia-edt-aromatic-fragrance-for-men-and-women-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/AC-Photoroom.png?v=1787229006",
+          "price": 288,
+          "badge": ""
+        },
         {
           "name": "Acqua Di Parma Colonia Club Eau De Cologne For Men - Woody Spicy Perfume 100ml",
           "handle": "acqua-di-parma-colonia-club-eau-de-cologne-for-men-woody-spicy-perfume-100ml",
@@ -1591,13 +1598,6 @@
           "handle": "acqua-di-parma-blu-mediterraneo-arancia-di-capri-gift-set-for-unisex",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/13962_NA_2__27141.1727711350.jpg?v=1767871490",
           "price": 522,
-          "badge": ""
-        },
-        {
-          "name": "Acqua di Parma Fico di Amalfi Gift Set For Men And Women",
-          "handle": "acqua-di-parma-fico-di-amalfi-gift-set-for-men-and-women",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/fi.jpg?v=1766258231",
-          "price": 504,
           "badge": ""
         }
       ]
@@ -3903,56 +3903,6 @@
       ]
     },
     {
-      "name": "Dunhill",
-      "slug": "dunhill",
-      "count": 87,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/dunhil.png?v=1783496575",
-      "preview": [
-        {
-          "name": "Dunhill Signature Collection Mongolian Cashmere Eau de Parfum For Men Woody 100ml",
-          "handle": "dunhill-signature-collection-mongolian-cashmere-eau-de-parfum-for-men-woody-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/dunhil.png?v=1783496575",
-          "price": 219,
-          "badge": ""
-        },
-        {
-          "name": "Dunhill Desire Platinum Perfume For Men EDT 100ml",
-          "handle": "dunhill-desire-platinum-perfume-for-men-edt-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Dunhill_Desire_Platinum_For_Men_M_Edt_100_Ml.jpg?v=1751651259",
-          "price": 121,
-          "badge": ""
-        },
-        {
-          "name": "Dunhill Driven For Men EDT 60ml",
-          "handle": "dunhill-driven-for-men-edt-60ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/85715807748_1.jpg?v=1728918430",
-          "price": 57,
-          "badge": "SALE"
-        },
-        {
-          "name": "Dunhill Signature Collection Nordic Fougere Perfume For Men EDP 100ml",
-          "handle": "dunhill-signature-collection-nordic-fougere-perfume-for-men-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/DunhillSignatureCollectionNordicFougereEDP100ml_fe955592-2157-4e10-93be-faf4ff51f7f0.jpg?v=1715420010",
-          "price": 227,
-          "badge": ""
-        },
-        {
-          "name": "Dunhill Desire Blue Deodorizing Body Spray For Men 226ml",
-          "handle": "dunhill-desire-blue-deodorizing-body-spray-for-men-226ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/DunhillDesireBlue_M_226mlDeoSpray.jpg?v=1704792993",
-          "price": 40,
-          "badge": ""
-        },
-        {
-          "name": "Dunhill Desire Red Gift Set For Men",
-          "handle": "dunhill-desire-red-gift-set-for-men",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/DunhillDesireRed_M_2pc_EDT100ml_BodySpray226ml_Set.webp?v=1700140384",
-          "price": 144,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Moschino",
       "slug": "moschino",
       "count": 86,
@@ -4048,6 +3998,56 @@
           "handle": "chopard-imperiale-vanille-malika-gift-set-for-women",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/c42197f7-b496-49fd-8b3c-3e0692387f07.webp?v=1763612336",
           "price": 259,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Dunhill",
+      "slug": "dunhill",
+      "count": 85,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/dunhil.png?v=1783496575",
+      "preview": [
+        {
+          "name": "Dunhill Signature Collection Mongolian Cashmere Eau de Parfum For Men Woody 100ml",
+          "handle": "dunhill-signature-collection-mongolian-cashmere-eau-de-parfum-for-men-woody-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/dunhil.png?v=1783496575",
+          "price": 219,
+          "badge": ""
+        },
+        {
+          "name": "Dunhill Desire Platinum Perfume For Men EDT 100ml",
+          "handle": "dunhill-desire-platinum-perfume-for-men-edt-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Dunhill_Desire_Platinum_For_Men_M_Edt_100_Ml.jpg?v=1751651259",
+          "price": 121,
+          "badge": ""
+        },
+        {
+          "name": "Dunhill Driven For Men EDT 60ml",
+          "handle": "dunhill-driven-for-men-edt-60ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/85715807748_1.jpg?v=1728918430",
+          "price": 57,
+          "badge": "SALE"
+        },
+        {
+          "name": "Dunhill Signature Collection Nordic Fougere Perfume For Men EDP 100ml",
+          "handle": "dunhill-signature-collection-nordic-fougere-perfume-for-men-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/DunhillSignatureCollectionNordicFougereEDP100ml_fe955592-2157-4e10-93be-faf4ff51f7f0.jpg?v=1715420010",
+          "price": 227,
+          "badge": ""
+        },
+        {
+          "name": "Dunhill Desire Blue Deodorizing Body Spray For Men 226ml",
+          "handle": "dunhill-desire-blue-deodorizing-body-spray-for-men-226ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/DunhillDesireBlue_M_226mlDeoSpray.jpg?v=1704792993",
+          "price": 40,
+          "badge": ""
+        },
+        {
+          "name": "Dunhill Desire Red Gift Set For Men",
+          "handle": "dunhill-desire-red-gift-set-for-men",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/DunhillDesireRed_M_2pc_EDT100ml_BodySpray226ml_Set.webp?v=1700140384",
+          "price": 144,
           "badge": ""
         }
       ]
@@ -12153,6 +12153,56 @@
       ]
     },
     {
+      "name": "Angel Schlesser",
+      "slug": "angel-schlesser",
+      "count": 19,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/imm.png?v=1787232150",
+      "preview": [
+        {
+          "name": "Angel Schlesser Les Eaux d'un Instant Immense Peony Eau de Toilette, Floral Fragrance For Women And Men 100ml",
+          "handle": "angel-schlesser-les-eaux-dun-instant-immense-peony-eau-de-toilette-floral-fragrance-for-women-and-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/imm.png?v=1787232150",
+          "price": 111,
+          "badge": ""
+        },
+        {
+          "name": "ANGEL SCHLESSER LES EAUX D'UN INSTANT ABSOLU SUBLIME ROSE PERFUME FOR MEN AND WOMEN EDP 100ML",
+          "handle": "angel-schlesser-les-eaux-dun-instant-absolu-sublime-rose-perfume-for-men-and-women-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ANGELSCHLESSERLESEAUXD_UNINSTANTABSOLUSUBLIMEROSE_U_EDP100mlIT.jpg?v=1628679622",
+          "price": 150,
+          "badge": "SALE"
+        },
+        {
+          "name": "ANGEL SCHLESSER LES EAUX D'UN INSTANT ABSOLU SENSUAL PATCHOULI PERFUME FOR MEN AND WOMEN EDP 100 ml IT",
+          "handle": "angel-schlesser-les-eaux-dun-instant-absolu-sensual-patchouli-perfume-for-men-and-women-edp-100-ml-it",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ANGELSCHLESSERLESEAUXD_UNINSTANTABSOLUSENSUALPATCHOULI_U_EDP100mlIT.jpg?v=1628679195",
+          "price": 150,
+          "badge": ""
+        },
+        {
+          "name": "ANGEL SCHLESSER LES EAUX D'UN INSTANT ABSOLU DEEP LEATHER PERFUME FOR MEN AND WOMEN EDP 100ML",
+          "handle": "angel-schlesser-les-eaux-dun-instant-absolu-deep-leather-perfume-for-men-and-women-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ANGELSCHLESSERLESEAUXD_UNINSTANTABSOLUDEEPLEATHER_U_EDP100mlIT.jpg?v=1628678699",
+          "price": 150,
+          "badge": ""
+        },
+        {
+          "name": "ANGEL SCHLESSER ESSENTIAL PERFUME FOR MEN EDT 100ml",
+          "handle": "angel-schlesser-essential-perfume-for-men-edt-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/3a6e6e79f93d43adb70f836ea2694ba9-l12322628.jpg?v=1656998729",
+          "price": 98,
+          "badge": "SALE"
+        },
+        {
+          "name": "Angel Schlesser Oriental Edition 2 for women EDT 100ml",
+          "handle": "angel-schlesser-oriental-edition-2-for-women-edt-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/Angel_4895c554-2412-46e4-b620-125133c81a50.jpg?v=1626066348",
+          "price": 113,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Armand Basi",
       "slug": "armand-basi",
       "count": 19,
@@ -13248,56 +13298,6 @@
           "handle": "sergio-tacchini-smash-perfume-for-men-edt-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/SergioTacchiniSmash_M_Edt100MlIt.jpg?v=1634724581",
           "price": 44,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Angel Schlesser",
-      "slug": "angel-schlesser",
-      "count": 18,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ANGELSCHLESSERLESEAUXD_UNINSTANTABSOLUSUBLIMEROSE_U_EDP100mlIT.jpg?v=1628679622",
-      "preview": [
-        {
-          "name": "ANGEL SCHLESSER LES EAUX D'UN INSTANT ABSOLU SUBLIME ROSE PERFUME FOR MEN AND WOMEN EDP 100ML",
-          "handle": "angel-schlesser-les-eaux-dun-instant-absolu-sublime-rose-perfume-for-men-and-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ANGELSCHLESSERLESEAUXD_UNINSTANTABSOLUSUBLIMEROSE_U_EDP100mlIT.jpg?v=1628679622",
-          "price": 150,
-          "badge": "SALE"
-        },
-        {
-          "name": "ANGEL SCHLESSER LES EAUX D'UN INSTANT ABSOLU SENSUAL PATCHOULI PERFUME FOR MEN AND WOMEN EDP 100 ml IT",
-          "handle": "angel-schlesser-les-eaux-dun-instant-absolu-sensual-patchouli-perfume-for-men-and-women-edp-100-ml-it",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ANGELSCHLESSERLESEAUXD_UNINSTANTABSOLUSENSUALPATCHOULI_U_EDP100mlIT.jpg?v=1628679195",
-          "price": 150,
-          "badge": ""
-        },
-        {
-          "name": "ANGEL SCHLESSER LES EAUX D'UN INSTANT ABSOLU DEEP LEATHER PERFUME FOR MEN AND WOMEN EDP 100ML",
-          "handle": "angel-schlesser-les-eaux-dun-instant-absolu-deep-leather-perfume-for-men-and-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ANGELSCHLESSERLESEAUXD_UNINSTANTABSOLUDEEPLEATHER_U_EDP100mlIT.jpg?v=1628678699",
-          "price": 150,
-          "badge": ""
-        },
-        {
-          "name": "ANGEL SCHLESSER ESSENTIAL PERFUME FOR MEN EDT 100ml",
-          "handle": "angel-schlesser-essential-perfume-for-men-edt-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/3a6e6e79f93d43adb70f836ea2694ba9-l12322628.jpg?v=1656998729",
-          "price": 98,
-          "badge": "SALE"
-        },
-        {
-          "name": "Angel Schlesser Oriental Edition 2 for women EDT 100ml",
-          "handle": "angel-schlesser-oriental-edition-2-for-women-edt-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/Angel_4895c554-2412-46e4-b620-125133c81a50.jpg?v=1626066348",
-          "price": 113,
-          "badge": ""
-        },
-        {
-          "name": "ANGEL SCHLESSER AMBRE FRAIS POUR HOMME FOR MEN EDT 100 ml",
-          "handle": "angel-schlesser-ambre-frais-pour-homme-for-men-edt-100-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/61t1tqpqsyl._ac_sl1000.jpg?v=1624536450",
-          "price": 80,
           "badge": ""
         }
       ]
