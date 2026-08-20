@@ -1,8 +1,77 @@
 {
-  "scraped_at": "2026-08-20T14:36:48.250Z",
+  "scraped_at": "2026-08-20T15:34:31.681Z",
   "source": "https://samawa.ae",
   "count": 25016,
   "products": [
+    {
+      "name": "Chopard Collection Angélique Begum Eau de Parfum, Oriental Woody Fragrance For Women 100ml",
+      "brand": "Chopard",
+      "category_slug": "homme",
+      "size": "100ml",
+      "price_retail": 768,
+      "price_gros": 768,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ag-Photoroom.png?v=1787239717",
+      "active": true,
+      "_handle": "chopard-collection-angelique-begum-eau-de-parfum-oriental-woody-fragrance-for-women-100ml",
+      "_sku": "7640177361042",
+      "_tags": [
+        "100ml",
+        "Branded Perfumes",
+        "EDP",
+        "Fragrance",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/chopard-collection-angelique-begum-eau-de-parfum-oriental-woody-fragrance-for-women-100ml"
+    },
+    {
+      "name": "Chanel Chance Eau Splendide Eau de Parfum, Floral Fruity Fragrance For Women 35ml",
+      "brand": "Chanel",
+      "category_slug": "homme",
+      "size": "35ml",
+      "price_retail": 567,
+      "price_gros": 567,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/immense_2_-Photoroom.png?v=1787238744",
+      "active": true,
+      "_handle": "chanel-chance-eau-splendide-eau-de-parfum-floral-fruity-fragrance-for-women-35ml",
+      "_sku": "3145891362008",
+      "_tags": [
+        "35ml",
+        "Branded Perfumes",
+        "EDP",
+        "Fragrance",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/chanel-chance-eau-splendide-eau-de-parfum-floral-fruity-fragrance-for-women-35ml"
+    },
+    {
+      "name": "Armand Basi In Red Eau de Toilette, Floral Aquatic Fragrance For Women 30ml",
+      "brand": "Armand Basi",
+      "category_slug": "homme",
+      "size": "30ml",
+      "price_retail": 83,
+      "price_gros": 83,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/in_red-Photoroom.png?v=1787237129",
+      "active": true,
+      "_handle": "armand-basi-in-red-eau-de-toilette-floral-fragrance-for-women-30ml",
+      "_sku": "8427395940001",
+      "_tags": [
+        "30ml",
+        "Branded Perfumes",
+        "EDT",
+        "Fragrance",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/armand-basi-in-red-eau-de-toilette-floral-fragrance-for-women-30ml"
+    },
     {
       "name": "Acqua di Parma Mandarino di Sicilia Edt, Aromatic Fragrance For Men And Women 50ml",
       "brand": "Acqua Di Parma",
@@ -17808,7 +17877,7 @@
       "category_slug": "homme",
       "size": "90ml",
       "price_retail": 95,
-      "price_gros": 45,
+      "price_gros": 44,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Qaed_Al_Fursan_Untamed_Eau_de_Parfum_For_Unisex_90ml.jpg?v=1775629529",
@@ -168175,7 +168244,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 85,
-      "price_gros": 31,
+      "price_gros": 42,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LattafaHayaatiAlMalekyEdp100ml.webp?v=1709108739",
@@ -188145,7 +188214,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 199,
-      "price_gros": 96,
+      "price_gros": 95,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Musamam_White_Intense_Perfume_For_Unisex_EDP_100ml.jpg?v=1776347853",
@@ -229160,7 +229229,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 165,
-      "price_gros": 123,
+      "price_gros": 96,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/LattafaPrideAlQiamGold_W_Edp100Ml.png?v=1679656141",
@@ -581879,70 +581948,6 @@
       ],
       "_product_type": "Fragrance",
       "_url": "https://samawa.ae/products/vurv-fusion-women-perfume-gift-set-for-women-edp-100ml-deo-200ml"
-    },
-    {
-      "name": "Dunhill Pursuit for Men - Eau de Toilette, 75 ml",
-      "brand": "Dunhill",
-      "category_slug": "homme",
-      "size": "75ml",
-      "price_retail": 0,
-      "price_gros": 84,
-      "stock": 999,
-      "badge": "SALE",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/pursuit_by_dunhill_for_men_-_eau_de_toilette_75_ml.jpg?v=1624396282",
-      "active": true,
-      "_handle": "dunhill-pursuit-for-men-eau-de-toilette-75-ml",
-      "_sku": "85715805010",
-      "_tags": [
-        "75ml",
-        "Branded Perfumes",
-        "Fragrance"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/dunhill-pursuit-for-men-eau-de-toilette-75-ml"
-    },
-    {
-      "name": "Lattafa Maghroor for Men, Eau De Parfum, 100ml",
-      "brand": "Lattafa",
-      "category_slug": "homme",
-      "size": "100ml",
-      "price_retail": 50,
-      "price_gros": 50,
-      "stock": 999,
-      "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/maghroor_for_men.jpg?v=1624396269",
-      "active": true,
-      "_handle": "lattafa-maghroor-for-men-eau-de-parfum-100ml",
-      "_sku": "6291106062090",
-      "_tags": [
-        "100ml",
-        "Arabic Perfume",
-        "Fragrance",
-        "Men"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/lattafa-maghroor-for-men-eau-de-parfum-100ml"
-    },
-    {
-      "name": "VURV Octave Women  , Gift Set for Women (EDP 100ML & Deo Spray 200ML)",
-      "brand": "Vurv",
-      "category_slug": "homme",
-      "size": "100ml",
-      "price_retail": 43,
-      "price_gros": 43,
-      "stock": 999,
-      "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv_octave_woman_gf_1.jpg?v=1633422775",
-      "active": true,
-      "_handle": "vurv-octave-women-gift-set-for-women-edp-100ml-deo-spray-200ml",
-      "_sku": "6291106063752",
-      "_tags": [
-        "300ml",
-        "Fragrance",
-        "Women"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/vurv-octave-women-gift-set-for-women-edp-100ml-deo-spray-200ml"
     }
   ]
 }

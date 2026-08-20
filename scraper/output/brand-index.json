@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T14:38:40.054Z",
+  "generated_at": "2026-08-20T15:35:39.060Z",
   "total_brands": 890,
   "brands": [
     {
@@ -455,9 +455,16 @@
     {
       "name": "Chanel",
       "slug": "chanel",
-      "count": 322,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/n-5-eau-de-toilette-spray-5fl-oz--packshot-default-105680-9580787662878.png?v=1782639710",
+      "count": 323,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/immense_2_-Photoroom.png?v=1787238744",
       "preview": [
+        {
+          "name": "Chanel Chance Eau Splendide Eau de Parfum, Floral Fruity Fragrance For Women 35ml",
+          "handle": "chanel-chance-eau-splendide-eau-de-parfum-floral-fruity-fragrance-for-women-35ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/immense_2_-Photoroom.png?v=1787238744",
+          "price": 567,
+          "badge": ""
+        },
         {
           "name": "Chanel No.5 Eau De Toilette For Women-Floral Aldehyde Perfume 150ml",
           "handle": "chanel-no-5-eau-de-toilette-for-women-floral-aldehyde-perfume-150ml",
@@ -491,13 +498,6 @@
           "handle": "chanel-cristalle-edp-for-women-floral-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/channel.avif?v=1770818442",
           "price": 975,
-          "badge": ""
-        },
-        {
-          "name": "Chanel Bleu De Chanel L'Exclusif Parfum For Men - Woody Aromatic Perfume 100ml",
-          "handle": "chanel-bleu-de-chanel-lexclusif-parfum-for-men-woody-aromatic-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3145891072204_enfr_01_1200.jpg?v=1767594349",
-          "price": 1496,
           "badge": ""
         }
       ]
@@ -605,7 +605,7 @@
     {
       "name": "Lattafa",
       "slug": "lattafa",
-      "count": 273,
+      "count": 272,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Maahir_Honor.png?v=1786522827",
       "preview": [
         {
@@ -3903,6 +3903,56 @@
       ]
     },
     {
+      "name": "Chopard",
+      "slug": "chopard",
+      "count": 86,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ag-Photoroom.png?v=1787239717",
+      "preview": [
+        {
+          "name": "Chopard Collection Angélique Begum Eau de Parfum, Oriental Woody Fragrance For Women 100ml",
+          "handle": "chopard-collection-angelique-begum-eau-de-parfum-oriental-woody-fragrance-for-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ag-Photoroom.png?v=1787239717",
+          "price": 768,
+          "badge": ""
+        },
+        {
+          "name": "Chopard Sparkling Love Eau de Parfum, Floral Woody Musk Fragrance For Women 100ml",
+          "handle": "chopard-sparkling-love-eau-de-parfum-for-women-floral-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/chopard.png?v=1784485902",
+          "price": 232,
+          "badge": ""
+        },
+        {
+          "name": "Chopard Tobacco Malaki Eau De Parfum For Unisex - Oriental Woody Perfume 80ml",
+          "handle": "chopard-tobacco-malaki-eau-de-parfum-for-unisex-oriental-woody-perfume-80ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/7640177360175_Chopard_Malaki_Tabacco_Eau_de_Parfum_80ml_1920x1920_bf699033-c30b-4e41-b675-166d16c49e71.webp?v=1778755334",
+          "price": 269,
+          "badge": ""
+        },
+        {
+          "name": "Chopard Love Eau de Parfum For Women Floral 50 ml",
+          "handle": "chopard-love-eau-de-parfum-for-women-floral-50-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/chopard.jpg?v=1772550349",
+          "price": 132,
+          "badge": ""
+        },
+        {
+          "name": "Chopard Gift Set For Men Oriental",
+          "handle": "chopard-gift-set-for-men-oriental",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/oudmalik.webp?v=1771263212",
+          "price": 276,
+          "badge": ""
+        },
+        {
+          "name": "Chopard Cedar Malaki Gift Set For Men And Women",
+          "handle": "chopard-cedar-malaki-gift-set-for-men-and-women",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/chopard-cedar-malaki-set-per-uomo___240826_993770a2-eccc-4911-81b0-8a4584d64314.webp?v=1766261370",
+          "price": 278,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Moschino",
       "slug": "moschino",
       "count": 86,
@@ -3953,59 +4003,9 @@
       ]
     },
     {
-      "name": "Chopard",
-      "slug": "chopard",
-      "count": 85,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/chopard.png?v=1784485902",
-      "preview": [
-        {
-          "name": "Chopard Sparkling Love Eau de Parfum, Floral Woody Musk Fragrance For Women 100ml",
-          "handle": "chopard-sparkling-love-eau-de-parfum-for-women-floral-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/chopard.png?v=1784485902",
-          "price": 232,
-          "badge": ""
-        },
-        {
-          "name": "Chopard Tobacco Malaki Eau De Parfum For Unisex - Oriental Woody Perfume 80ml",
-          "handle": "chopard-tobacco-malaki-eau-de-parfum-for-unisex-oriental-woody-perfume-80ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/7640177360175_Chopard_Malaki_Tabacco_Eau_de_Parfum_80ml_1920x1920_bf699033-c30b-4e41-b675-166d16c49e71.webp?v=1778755334",
-          "price": 269,
-          "badge": ""
-        },
-        {
-          "name": "Chopard Love Eau de Parfum For Women Floral 50 ml",
-          "handle": "chopard-love-eau-de-parfum-for-women-floral-50-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/chopard.jpg?v=1772550349",
-          "price": 132,
-          "badge": ""
-        },
-        {
-          "name": "Chopard Gift Set For Men Oriental",
-          "handle": "chopard-gift-set-for-men-oriental",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/oudmalik.webp?v=1771263212",
-          "price": 276,
-          "badge": ""
-        },
-        {
-          "name": "Chopard Cedar Malaki Gift Set For Men And Women",
-          "handle": "chopard-cedar-malaki-gift-set-for-men-and-women",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/chopard-cedar-malaki-set-per-uomo___240826_993770a2-eccc-4911-81b0-8a4584d64314.webp?v=1766261370",
-          "price": 278,
-          "badge": ""
-        },
-        {
-          "name": "Chopard Imperiale Vanille Malika Gift Set For Women",
-          "handle": "chopard-imperiale-vanille-malika-gift-set-for-women",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/c42197f7-b496-49fd-8b3c-3e0692387f07.webp?v=1763612336",
-          "price": 259,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Dunhill",
       "slug": "dunhill",
-      "count": 85,
+      "count": 84,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/dunhil.png?v=1783496575",
       "preview": [
         {
@@ -10103,56 +10103,6 @@
       ]
     },
     {
-      "name": "Vurv",
-      "slug": "vurv",
-      "count": 24,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tn2_0_07999500_1633406164.jpg?v=1661848280",
-      "preview": [
-        {
-          "name": "Vurv Rivage Femme EDP For Women 100ml",
-          "handle": "vurv-rivage-femme-edp-for-women-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tn2_0_07999500_1633406164.jpg?v=1661848280",
-          "price": 33,
-          "badge": ""
-        },
-        {
-          "name": "Vurv Octave Women - Deodorant Body Spray For Women - 200 ml",
-          "handle": "vurv-octave-women-deodorant-body-spray-for-women-200-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv_octave_woman_deo.jpg?v=1624521999",
-          "price": 8,
-          "badge": ""
-        },
-        {
-          "name": "Vurv Rivage Gift Set for Men (EDP 100ml & 200ml Deodorant)",
-          "handle": "vurv-rivage-gift-set-for-men-edp-100ml-200ml-deodorant",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/rivage-gift-set.jpg?v=1633422754",
-          "price": 52,
-          "badge": ""
-        },
-        {
-          "name": "Vurv Octave perfume for women, EDP 100ml",
-          "handle": "vurv-octave-perfume-for-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv-octave-woman-edp-100ml_1.jpg?v=1624444636",
-          "price": 39,
-          "badge": "SALE"
-        },
-        {
-          "name": "Vurv Prive club Homme for Men EDP 100ml",
-          "handle": "vurv-prive-club-homme-for-men-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/92706_01b12827ef7d386f09edf68d604bca08_prive_club_pour_homme.jpg?v=1633422763",
-          "price": 42,
-          "badge": ""
-        },
-        {
-          "name": "Vurv Waltz pour Homme Perfume For Men, Eau De Parfum,  100 ML",
-          "handle": "vurv-waltz-pour-homme-perfume-for-men-eau-de-parfum-100-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv-waltz.jpg?v=1624401524",
-          "price": 43,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "JAMES BOND",
       "slug": "james-bond",
       "count": 24,
@@ -10449,6 +10399,56 @@
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Al_Fakhar_Musk_Malakati_EDP_For_Unisex_100ml.jpg?v=1734001010",
           "price": 12,
           "badge": "SALE"
+        }
+      ]
+    },
+    {
+      "name": "Vurv",
+      "slug": "vurv",
+      "count": 23,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tn2_0_07999500_1633406164.jpg?v=1661848280",
+      "preview": [
+        {
+          "name": "Vurv Rivage Femme EDP For Women 100ml",
+          "handle": "vurv-rivage-femme-edp-for-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tn2_0_07999500_1633406164.jpg?v=1661848280",
+          "price": 33,
+          "badge": ""
+        },
+        {
+          "name": "Vurv Octave Women - Deodorant Body Spray For Women - 200 ml",
+          "handle": "vurv-octave-women-deodorant-body-spray-for-women-200-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv_octave_woman_deo.jpg?v=1624521999",
+          "price": 8,
+          "badge": ""
+        },
+        {
+          "name": "Vurv Rivage Gift Set for Men (EDP 100ml & 200ml Deodorant)",
+          "handle": "vurv-rivage-gift-set-for-men-edp-100ml-200ml-deodorant",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/rivage-gift-set.jpg?v=1633422754",
+          "price": 52,
+          "badge": ""
+        },
+        {
+          "name": "Vurv Octave perfume for women, EDP 100ml",
+          "handle": "vurv-octave-perfume-for-women-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv-octave-woman-edp-100ml_1.jpg?v=1624444636",
+          "price": 39,
+          "badge": "SALE"
+        },
+        {
+          "name": "Vurv Prive club Homme for Men EDP 100ml",
+          "handle": "vurv-prive-club-homme-for-men-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/92706_01b12827ef7d386f09edf68d604bca08_prive_club_pour_homme.jpg?v=1633422763",
+          "price": 42,
+          "badge": ""
+        },
+        {
+          "name": "Vurv Waltz pour Homme Perfume For Men, Eau De Parfum,  100 ML",
+          "handle": "vurv-waltz-pour-homme-perfume-for-men-eau-de-parfum-100-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv-waltz.jpg?v=1624401524",
+          "price": 43,
+          "badge": ""
         }
       ]
     },
@@ -11653,6 +11653,56 @@
       ]
     },
     {
+      "name": "Armand Basi",
+      "slug": "armand-basi",
+      "count": 20,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/in_red-Photoroom.png?v=1787237129",
+      "preview": [
+        {
+          "name": "Armand Basi In Red Eau de Toilette, Floral Aquatic Fragrance For Women 30ml",
+          "handle": "armand-basi-in-red-eau-de-toilette-floral-fragrance-for-women-30ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/in_red-Photoroom.png?v=1787237129",
+          "price": 83,
+          "badge": ""
+        },
+        {
+          "name": "Armand Basi Sensual Orchid My Paradise Eau De Toilette For Women - Floral Fruity Perfume 50ml",
+          "handle": "armand-basi-sensual-orchid-my-paradise-eau-de-toilette-for-women-floral-fruity-perfume-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/o.57649.jpg?v=1772022291",
+          "price": 69,
+          "badge": ""
+        },
+        {
+          "name": "Armand Basi Uniform Don't Look Back For Unisex EDT 100ml",
+          "handle": "armand-basi-uniform-dont-look-back-for-unisex-edt-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/8058045437185_1.jpg?v=1733848940",
+          "price": 76,
+          "badge": ""
+        },
+        {
+          "name": "Armand Basi Uniform Build Yourself For Unisex EDT 100ml",
+          "handle": "armand-basi-uniform-build-yourself-for-unisex-edt-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/8058045437178.jpg?v=1733847406",
+          "price": 76,
+          "badge": ""
+        },
+        {
+          "name": "ARMAND BASI SCENT OF KISS #POPLOVE  Perfume for women EDT 50ml",
+          "handle": "armand-basi-scent-of-kiss-poplove-perfume-for-women-edt-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ARMANDBASISCENTOFKISS_POPLOVE_W_EDT50mlIT.jpg?v=1639556514",
+          "price": 60,
+          "badge": ""
+        },
+        {
+          "name": "ARMAND BASI SCENT OF KISS MY HEART PERFUME FOR WOMEN EDT 50ML",
+          "handle": "armand-basi-scent-of-kiss-my-heart-perfume-for-women-edt-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ARMANDBASISCENTOFKISSMYHEART_W_EDT50mlIT.jpg?v=1639556213",
+          "price": 59,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Angel Schlesser",
       "slug": "angel-schlesser",
       "count": 20,
@@ -12198,56 +12248,6 @@
           "handle": "fendi-fan-di-fendi-pour-homme-for-men-mini-spray-edt-7-5-ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/fendi_fan_di_fendi_pour_homme_for_men_mini_spray_edt_7.5_ml.jpg?v=1624495331",
           "price": 14,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Armand Basi",
-      "slug": "armand-basi",
-      "count": 19,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/o.57649.jpg?v=1772022291",
-      "preview": [
-        {
-          "name": "Armand Basi Sensual Orchid My Paradise Eau De Toilette For Women - Floral Fruity Perfume 50ml",
-          "handle": "armand-basi-sensual-orchid-my-paradise-eau-de-toilette-for-women-floral-fruity-perfume-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/o.57649.jpg?v=1772022291",
-          "price": 69,
-          "badge": ""
-        },
-        {
-          "name": "Armand Basi Uniform Don't Look Back For Unisex EDT 100ml",
-          "handle": "armand-basi-uniform-dont-look-back-for-unisex-edt-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/8058045437185_1.jpg?v=1733848940",
-          "price": 76,
-          "badge": ""
-        },
-        {
-          "name": "Armand Basi Uniform Build Yourself For Unisex EDT 100ml",
-          "handle": "armand-basi-uniform-build-yourself-for-unisex-edt-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/8058045437178.jpg?v=1733847406",
-          "price": 76,
-          "badge": ""
-        },
-        {
-          "name": "ARMAND BASI SCENT OF KISS #POPLOVE  Perfume for women EDT 50ml",
-          "handle": "armand-basi-scent-of-kiss-poplove-perfume-for-women-edt-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ARMANDBASISCENTOFKISS_POPLOVE_W_EDT50mlIT.jpg?v=1639556514",
-          "price": 60,
-          "badge": ""
-        },
-        {
-          "name": "ARMAND BASI SCENT OF KISS MY HEART PERFUME FOR WOMEN EDT 50ML",
-          "handle": "armand-basi-scent-of-kiss-my-heart-perfume-for-women-edt-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ARMANDBASISCENTOFKISSMYHEART_W_EDT50mlIT.jpg?v=1639556213",
-          "price": 59,
-          "badge": ""
-        },
-        {
-          "name": "ARMAND BASI SCENT OF KISS FOR WOMEN EDT 50 ml",
-          "handle": "armand-basi-scent-of-kiss-for-women-edt-50-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/1579608866910armandbasiscentofkissedpvpml.jpg?v=1624539486",
-          "price": 59,
           "badge": ""
         }
       ]
