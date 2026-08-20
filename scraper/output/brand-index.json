@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T22:29:14.678Z",
+  "generated_at": "2026-08-20T22:59:19.898Z",
   "total_brands": 890,
   "brands": [
     {
@@ -3803,56 +3803,6 @@
       ]
     },
     {
-      "name": "Elizabeth Arden",
-      "slug": "elizabeth-arden",
-      "count": 89,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/85805582517_20251022131800.jpg?v=1775318234",
-      "preview": [
-        {
-          "name": "Elizabeth Arden Green Tea Strawberry Basil Eau De Toilette For Women - Aromatic Green Perfume 100ml",
-          "handle": "elizabeth-arden-green-tea-strawberry-basil-eau-de-toilette-for-women-aromatic-green-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/85805582517_20251022131800.jpg?v=1775318234",
-          "price": 55,
-          "badge": ""
-        },
-        {
-          "name": "Elizabeth Arden 5Th Avenue NYC Eau De Parfum For Women - Floral Perfume 75ml",
-          "handle": "elizabeth-arden-5th-avenue-nyc-eau-de-parfum-for-women-floral-perfume-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/085805156596.jpg?v=1771074710",
-          "price": 69,
-          "badge": ""
-        },
-        {
-          "name": "Elizabeth Arden Sunflowers Golden Vibe Eau De Toilette For Women - Floral Woody Musk Perfume 100ml",
-          "handle": "elizabeth-arden-sunflowers-golden-vibe-eau-de-toilette-for-women-floral-woody-musk-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/000108_A0137508_01.jpg?v=1766422813",
-          "price": 64,
-          "badge": ""
-        },
-        {
-          "name": "Elizabeth Arden Green Tea Pistachio Crunch Eau De Toilette For Women - Oriental Floral Perfume 100ml",
-          "handle": "elizabeth-arden-green-tea-pistachio-crunch-eau-de-toilette-for-women-oriental-floral-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/85805378349_1280x1280_2x_ed62b284-ef57-42c7-8d87-a7cce77c58bf.jpg?v=1763447586",
-          "price": 54,
-          "badge": ""
-        },
-        {
-          "name": "Elizabeth Arden Untold Perfume For Women EDP 100ml",
-          "handle": "elizabeth-arden-untold-perfume-for-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/51vLEqi65rL.jpg?v=1756817566",
-          "price": 112,
-          "badge": ""
-        },
-        {
-          "name": "Elizabeth Arden Always Red Perfume For Women EDT 100ml",
-          "handle": "elizabeth-arden-always-red-perfume-for-women-edt-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/A0134774_ALWAYS-RED-100ML-0280_STACKED_300CMYK-2048x2048_1_1800x1800_d56a231b-a211-4b6b-a2c4-768cb82324de.jpg?v=1756816700",
-          "price": 99,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Chopard",
       "slug": "chopard",
       "count": 88,
@@ -3948,6 +3898,56 @@
           "handle": "trussardi-my-land-pour-homme-eau-de-toilette-for-men-woody-30ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/dark-375x500.16027.avif?v=1771696803",
           "price": 111,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Elizabeth Arden",
+      "slug": "elizabeth-arden",
+      "count": 87,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/85805582517_20251022131800.jpg?v=1775318234",
+      "preview": [
+        {
+          "name": "Elizabeth Arden Green Tea Strawberry Basil Eau De Toilette For Women - Aromatic Green Perfume 100ml",
+          "handle": "elizabeth-arden-green-tea-strawberry-basil-eau-de-toilette-for-women-aromatic-green-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/85805582517_20251022131800.jpg?v=1775318234",
+          "price": 55,
+          "badge": ""
+        },
+        {
+          "name": "Elizabeth Arden 5Th Avenue NYC Eau De Parfum For Women - Floral Perfume 75ml",
+          "handle": "elizabeth-arden-5th-avenue-nyc-eau-de-parfum-for-women-floral-perfume-75ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/085805156596.jpg?v=1771074710",
+          "price": 69,
+          "badge": ""
+        },
+        {
+          "name": "Elizabeth Arden Sunflowers Golden Vibe Eau De Toilette For Women - Floral Woody Musk Perfume 100ml",
+          "handle": "elizabeth-arden-sunflowers-golden-vibe-eau-de-toilette-for-women-floral-woody-musk-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/000108_A0137508_01.jpg?v=1766422813",
+          "price": 64,
+          "badge": ""
+        },
+        {
+          "name": "Elizabeth Arden Green Tea Pistachio Crunch Eau De Toilette For Women - Oriental Floral Perfume 100ml",
+          "handle": "elizabeth-arden-green-tea-pistachio-crunch-eau-de-toilette-for-women-oriental-floral-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/85805378349_1280x1280_2x_ed62b284-ef57-42c7-8d87-a7cce77c58bf.jpg?v=1763447586",
+          "price": 54,
+          "badge": ""
+        },
+        {
+          "name": "Elizabeth Arden Untold Perfume For Women EDP 100ml",
+          "handle": "elizabeth-arden-untold-perfume-for-women-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/51vLEqi65rL.jpg?v=1756817566",
+          "price": 112,
+          "badge": ""
+        },
+        {
+          "name": "Elizabeth Arden Always Red Perfume For Women EDT 100ml",
+          "handle": "elizabeth-arden-always-red-perfume-for-women-edt-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/A0134774_ALWAYS-RED-100ML-0280_STACKED_300CMYK-2048x2048_1_1800x1800_d56a231b-a211-4b6b-a2c4-768cb82324de.jpg?v=1756816700",
+          "price": 99,
           "badge": ""
         }
       ]
@@ -6053,56 +6053,6 @@
       ]
     },
     {
-      "name": "Escada",
-      "slug": "escada",
-      "count": 46,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616304203626.jpg?v=1767608544",
-      "preview": [
-        {
-          "name": "Escada Chiffon Sorbet Limited Edition Eau De Toilette For Women - Fruity‑floral Perfume 100ml",
-          "handle": "escada-chiffon-sorbet-limited-edition-eau-de-toilette-for-women-fruity-floral-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616304203626.jpg?v=1767608544",
-          "price": 136,
-          "badge": ""
-        },
-        {
-          "name": "Escada Brisa Cubana Limited Edition Perfume For Women EDT 100ml",
-          "handle": "escada-brisa-cubana-limited-edition-perfume-for-women-edt-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616304203572_20240126093719.jpg?v=1751651809",
-          "price": 140,
-          "badge": ""
-        },
-        {
-          "name": "Escada Santorini Sunrise Limited Edition Perfume For Women EDT 100ml",
-          "handle": "escada-santorini-sunrise-limited-edition-perfume-for-women-edt-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616303456313.jpg?v=1746356793",
-          "price": 145,
-          "badge": ""
-        },
-        {
-          "name": "Escada Sorbetto Rosso Limited Edition Perfume For Women EDT 100ml",
-          "handle": "escada-sorbetto-rosso-limited-edition-perfume-for-women-edt-100ml-1",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/a832fc065d44d64f9dc957814c0774fe.webp?v=1746356197",
-          "price": 144,
-          "badge": ""
-        },
-        {
-          "name": "Escada Especially Escada Delicate Notes Perfume For Women EDT 50ml",
-          "handle": "escada-especially-escada-delicate-notes-perfume-for-women-edt-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/EscadaEspeciallyEscadaDelicateNotes_W_Edt50Ml.jpg?v=1698397823",
-          "price": 174,
-          "badge": ""
-        },
-        {
-          "name": "Escada Born In Paradise Perfume For Women EDT 50ml",
-          "handle": "escada-born-in-paradise-perfume-for-women-edt-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/EscadaBornInParadise_W_Edt50Ml.jpg?v=1698397238",
-          "price": 117,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "KATIVA",
       "slug": "kativa",
       "count": 46,
@@ -6398,6 +6348,56 @@
           "handle": "juicy-couture-viva-la-juicy-neon-for-women-edp-50ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/719346257107.jpg?v=1729940171",
           "price": 132,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Escada",
+      "slug": "escada",
+      "count": 44,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616304203626.jpg?v=1767608544",
+      "preview": [
+        {
+          "name": "Escada Chiffon Sorbet Limited Edition Eau De Toilette For Women - Fruity‑floral Perfume 100ml",
+          "handle": "escada-chiffon-sorbet-limited-edition-eau-de-toilette-for-women-fruity-floral-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616304203626.jpg?v=1767608544",
+          "price": 136,
+          "badge": ""
+        },
+        {
+          "name": "Escada Brisa Cubana Limited Edition Perfume For Women EDT 100ml",
+          "handle": "escada-brisa-cubana-limited-edition-perfume-for-women-edt-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616304203572_20240126093719.jpg?v=1751651809",
+          "price": 140,
+          "badge": ""
+        },
+        {
+          "name": "Escada Santorini Sunrise Limited Edition Perfume For Women EDT 100ml",
+          "handle": "escada-santorini-sunrise-limited-edition-perfume-for-women-edt-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616303456313.jpg?v=1746356793",
+          "price": 145,
+          "badge": ""
+        },
+        {
+          "name": "Escada Sorbetto Rosso Limited Edition Perfume For Women EDT 100ml",
+          "handle": "escada-sorbetto-rosso-limited-edition-perfume-for-women-edt-100ml-1",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/a832fc065d44d64f9dc957814c0774fe.webp?v=1746356197",
+          "price": 144,
+          "badge": ""
+        },
+        {
+          "name": "Escada Especially Escada Delicate Notes Perfume For Women EDT 50ml",
+          "handle": "escada-especially-escada-delicate-notes-perfume-for-women-edt-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/EscadaEspeciallyEscadaDelicateNotes_W_Edt50Ml.jpg?v=1698397823",
+          "price": 174,
+          "badge": ""
+        },
+        {
+          "name": "Escada Born In Paradise Perfume For Women EDT 50ml",
+          "handle": "escada-born-in-paradise-perfume-for-women-edt-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/EscadaBornInParadise_W_Edt50Ml.jpg?v=1698397238",
+          "price": 117,
           "badge": ""
         }
       ]
@@ -10203,6 +10203,56 @@
       ]
     },
     {
+      "name": "Armand Basi",
+      "slug": "armand-basi",
+      "count": 23,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/armand_bottleeee-Photoroom_e1b6c438-05ca-4f30-a7e9-64a9ec6877f3.png?v=1787264546",
+      "preview": [
+        {
+          "name": "Armand Basi L’Eau Pour Homme Eau de Toilette, Woody Aquatic Fragrance For Men 75ml",
+          "handle": "armand-basi-l-eau-pour-homme-eau-de-toilette-woody-aquatic-fragrance-for-men-75ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/armand_bottleeee-Photoroom_e1b6c438-05ca-4f30-a7e9-64a9ec6877f3.png?v=1787264546",
+          "price": 103,
+          "badge": ""
+        },
+        {
+          "name": "Armand Basi L’Eau Woody Musk Pour Homme Eau de Toilette, Woody Spicy Fragrance For Men 125ml",
+          "handle": "armand-basi-l-eau-woody-musk-pour-homme-eau-de-toilette-woody-spicy-fragrance-for-men-125ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/woodyy-Photoroom.png?v=1787265244",
+          "price": 140,
+          "badge": ""
+        },
+        {
+          "name": "Armand Basi L’Eau Pour Homme Eau de Toilette, Woody Aquatic Fragrance For Men 125ml",
+          "handle": "armand-basi-l-eau-pour-homme-eau-de-toilette-woody-aquatic-fragrance-for-men-125ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/armand_bottleeee-Photoroom.png?v=1787264358",
+          "price": 130,
+          "badge": ""
+        },
+        {
+          "name": "Armand Basi In Red Eau de Toilette, Floral Aquatic Fragrance For Women 30ml",
+          "handle": "armand-basi-in-red-eau-de-toilette-floral-fragrance-for-women-30ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/in_red-Photoroom.png?v=1787237129",
+          "price": 83,
+          "badge": ""
+        },
+        {
+          "name": "Armand Basi Sensual Orchid My Paradise Eau De Toilette For Women - Floral Fruity Perfume 50ml",
+          "handle": "armand-basi-sensual-orchid-my-paradise-eau-de-toilette-for-women-floral-fruity-perfume-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/o.57649.jpg?v=1772022291",
+          "price": 69,
+          "badge": ""
+        },
+        {
+          "name": "Armand Basi Uniform Don't Look Back For Unisex EDT 100ml",
+          "handle": "armand-basi-uniform-dont-look-back-for-unisex-edt-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/8058045437185_1.jpg?v=1733848940",
+          "price": 76,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Tory Burch",
       "slug": "tory-burch",
       "count": 23,
@@ -11148,56 +11198,6 @@
           "handle": "min-new-york-scent-stories-vol-1-moon-dust-u-body-wash-300-ml-it",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/min_new_york_scent_stories_vol._1_moon_dust_u_body_wash_300_ml_1.jpg?v=1624502554",
           "price": 109,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Armand Basi",
-      "slug": "armand-basi",
-      "count": 21,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/armand_bottleeee-Photoroom.png?v=1787264358",
-      "preview": [
-        {
-          "name": "Armand Basi L’Eau Pour Homme Eau de Toilette, Woody Aquatic Fragrance For Men 125ml",
-          "handle": "armand-basi-l-eau-pour-homme-eau-de-toilette-woody-aquatic-fragrance-for-men-125ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/armand_bottleeee-Photoroom.png?v=1787264358",
-          "price": 130,
-          "badge": ""
-        },
-        {
-          "name": "Armand Basi In Red Eau de Toilette, Floral Aquatic Fragrance For Women 30ml",
-          "handle": "armand-basi-in-red-eau-de-toilette-floral-fragrance-for-women-30ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/in_red-Photoroom.png?v=1787237129",
-          "price": 83,
-          "badge": ""
-        },
-        {
-          "name": "Armand Basi Sensual Orchid My Paradise Eau De Toilette For Women - Floral Fruity Perfume 50ml",
-          "handle": "armand-basi-sensual-orchid-my-paradise-eau-de-toilette-for-women-floral-fruity-perfume-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/o.57649.jpg?v=1772022291",
-          "price": 69,
-          "badge": ""
-        },
-        {
-          "name": "Armand Basi Uniform Don't Look Back For Unisex EDT 100ml",
-          "handle": "armand-basi-uniform-dont-look-back-for-unisex-edt-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/8058045437185_1.jpg?v=1733848940",
-          "price": 76,
-          "badge": ""
-        },
-        {
-          "name": "Armand Basi Uniform Build Yourself For Unisex EDT 100ml",
-          "handle": "armand-basi-uniform-build-yourself-for-unisex-edt-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/8058045437178.jpg?v=1733847406",
-          "price": 76,
-          "badge": ""
-        },
-        {
-          "name": "ARMAND BASI SCENT OF KISS #POPLOVE  Perfume for women EDT 50ml",
-          "handle": "armand-basi-scent-of-kiss-poplove-perfume-for-women-edt-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ARMANDBASISCENTOFKISS_POPLOVE_W_EDT50mlIT.jpg?v=1639556514",
-          "price": 60,
           "badge": ""
         }
       ]
@@ -19453,6 +19453,56 @@
       ]
     },
     {
+      "name": "BYREDO",
+      "slug": "byredo",
+      "count": 9,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/inffl-Photoroom.png?v=1787266268",
+      "preview": [
+        {
+          "name": "Byredo Inflorescence Eau de Parfum, Floral Fragrance For Women 100ml",
+          "handle": "byredo-inflorescence-eau-de-parfum-floral-fragrance-for-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/inffl-Photoroom.png?v=1787266268",
+          "price": 921,
+          "badge": ""
+        },
+        {
+          "name": "Byredo Bal d’Afrique Eau de Parfum, Floral Fragrance For Women And Men 50ml",
+          "handle": "byredo-bal-d-afrique-eau-de-parfum-floral-fragrance-for-women-and-men-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bal-Photoroom.png?v=1787265918",
+          "price": 805,
+          "badge": ""
+        },
+        {
+          "name": "Byredo Young Rose Eau de Parfum, Floral Woody Musk Fragrance For Men And Women 100ml",
+          "handle": "byredo-young-rose-eau-de-parfum-for-men-and-women-floral-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/young.png?v=1784483324",
+          "price": 957,
+          "badge": ""
+        },
+        {
+          "name": "Byredo Rose of No Man's Land Eau de Parfum, Oriental Spicy Fragrance For Men And Women 50ml",
+          "handle": "byredo-rose-of-no-mans-land-eau-de-parfum-for-men-and-women-floral-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rosee-removebg_cda3d2b5-2781-4f6b-b05b-f30a87c0e235.png?v=1784478890",
+          "price": 777,
+          "badge": ""
+        },
+        {
+          "name": "Byredo Desert Dawn  Eau De Parfum For Unisex-Woody Spicy Perfume 50ml",
+          "handle": "byredo-desert-dawn-eau-de-parfum-for-unisex-woody-spicy-perfume-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/DD-EDP_50ML_1800x1800_4ade52c0-2b7a-4c63-9cad-c384ff1ee4ff.jpg?v=1782638746",
+          "price": 722,
+          "badge": ""
+        },
+        {
+          "name": "Byredo Alto Astral Eau De Parfum For Unisex-Floral Aldehyde Perfume  50ml",
+          "handle": "byredo-alto-astral-eau-de-parfum-for-unisex-floral-aldehyde-perfume-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Byredo_Alto_Astral_Eau_de_Parfum_50ML_1_6d0f9ee3-1f78-4139-aa0f-73c736fd739a.jpg?v=1782636791",
+          "price": 722,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "PALOMA PICASSO",
       "slug": "paloma-picasso",
       "count": 9,
@@ -21398,56 +21448,6 @@
           "handle": "ibraq-tobacco-collection-french-tobacco-extrait-de-parfum-for-unisex-aromatic-fougere-perfume-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/828bef87-11b1-4468-a4ba-5ddab45f23c3-1000x1000-GQd87Eu8NtYPX1iSIEGIdNaLwNzvwJCx6U4tm3pX.png?v=1776843310",
           "price": 204,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "BYREDO",
-      "slug": "byredo",
-      "count": 7,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/young.png?v=1784483324",
-      "preview": [
-        {
-          "name": "Byredo Young Rose Eau de Parfum, Floral Woody Musk Fragrance For Men And Women 100ml",
-          "handle": "byredo-young-rose-eau-de-parfum-for-men-and-women-floral-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/young.png?v=1784483324",
-          "price": 957,
-          "badge": ""
-        },
-        {
-          "name": "Byredo Rose of No Man's Land Eau de Parfum, Oriental Spicy Fragrance For Men And Women 50ml",
-          "handle": "byredo-rose-of-no-mans-land-eau-de-parfum-for-men-and-women-floral-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rosee-removebg_cda3d2b5-2781-4f6b-b05b-f30a87c0e235.png?v=1784478890",
-          "price": 777,
-          "badge": ""
-        },
-        {
-          "name": "Byredo Desert Dawn  Eau De Parfum For Unisex-Woody Spicy Perfume 50ml",
-          "handle": "byredo-desert-dawn-eau-de-parfum-for-unisex-woody-spicy-perfume-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/DD-EDP_50ML_1800x1800_4ade52c0-2b7a-4c63-9cad-c384ff1ee4ff.jpg?v=1782638746",
-          "price": 722,
-          "badge": ""
-        },
-        {
-          "name": "Byredo Alto Astral Eau De Parfum For Unisex-Floral Aldehyde Perfume  50ml",
-          "handle": "byredo-alto-astral-eau-de-parfum-for-unisex-floral-aldehyde-perfume-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Byredo_Alto_Astral_Eau_de_Parfum_50ML_1_6d0f9ee3-1f78-4139-aa0f-73c736fd739a.jpg?v=1782636791",
-          "price": 722,
-          "badge": ""
-        },
-        {
-          "name": "Byredo Alto Astral Eau De Parfum For Unisex- Floral Aldehyde Perfume 100ml",
-          "handle": "byredo-alto-astral-eau-de-parfum-for-unisex-floral-aldehyde-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Byredo_Alto_Astral_Eau_de_Parfum_50ML_1.jpg?v=1782634502",
-          "price": 1048,
-          "badge": ""
-        },
-        {
-          "name": "Byredo La Tulipe Eau De Parfum For Women - Floral Perfume 100ml",
-          "handle": "byredo-la-tulipe-eau-de-parfum-for-women-floral-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/La-Tulipe_1800x1800_e1e69978-e4d1-4929-ba58-7ee0b7618437.jpg?v=1776227718",
-          "price": 1011,
           "badge": ""
         }
       ]

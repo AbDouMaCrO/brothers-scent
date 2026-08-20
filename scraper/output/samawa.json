@@ -1,8 +1,101 @@
 {
-  "scraped_at": "2026-08-20T22:27:23.509Z",
+  "scraped_at": "2026-08-20T22:58:11.327Z",
   "source": "https://samawa.ae",
   "count": 25016,
   "products": [
+    {
+      "name": "Byredo Inflorescence Eau de Parfum, Floral Fragrance For Women 100ml",
+      "brand": "BYREDO",
+      "category_slug": "homme",
+      "size": "100ml",
+      "price_retail": 921,
+      "price_gros": 921,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/inffl-Photoroom.png?v=1787266268",
+      "active": true,
+      "_handle": "byredo-inflorescence-eau-de-parfum-floral-fragrance-for-women-100ml",
+      "_sku": "7340032887907",
+      "_tags": [
+        "100ml",
+        "Branded Perfumes",
+        "EDP",
+        "Fragrance",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/byredo-inflorescence-eau-de-parfum-floral-fragrance-for-women-100ml"
+    },
+    {
+      "name": "Byredo Bal d’Afrique Eau de Parfum, Floral Fragrance For Women And Men 50ml",
+      "brand": "BYREDO",
+      "category_slug": "homme",
+      "size": "50ml",
+      "price_retail": 805,
+      "price_gros": 805,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bal-Photoroom.png?v=1787265918",
+      "active": true,
+      "_handle": "byredo-bal-d-afrique-eau-de-parfum-floral-fragrance-for-women-and-men-50ml",
+      "_sku": "7340032875287",
+      "_tags": [
+        "50ml",
+        "Branded Perfumes",
+        "EDP",
+        "Fragrance",
+        "Men",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/byredo-bal-d-afrique-eau-de-parfum-floral-fragrance-for-women-and-men-50ml"
+    },
+    {
+      "name": "Armand Basi L’Eau Pour Homme Eau de Toilette, Woody Aquatic Fragrance For Men 75ml",
+      "brand": "Armand Basi",
+      "category_slug": "homme",
+      "size": "75ml",
+      "price_retail": 103,
+      "price_gros": 103,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/armand_bottleeee-Photoroom_e1b6c438-05ca-4f30-a7e9-64a9ec6877f3.png?v=1787264546",
+      "active": true,
+      "_handle": "armand-basi-l-eau-pour-homme-eau-de-toilette-woody-aquatic-fragrance-for-men-75ml",
+      "_sku": "8427395900197",
+      "_tags": [
+        "75ml",
+        "Branded Perfumes",
+        "EDT",
+        "Fragrance",
+        "Men"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/armand-basi-l-eau-pour-homme-eau-de-toilette-woody-aquatic-fragrance-for-men-75ml"
+    },
+    {
+      "name": "Armand Basi L’Eau Woody Musk Pour Homme Eau de Toilette, Woody Spicy Fragrance For Men 125ml",
+      "brand": "Armand Basi",
+      "category_slug": "homme",
+      "size": "125ml",
+      "price_retail": 140,
+      "price_gros": 140,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/woodyy-Photoroom.png?v=1787265244",
+      "active": true,
+      "_handle": "armand-basi-l-eau-woody-musk-pour-homme-eau-de-toilette-woody-spicy-fragrance-for-men-125ml",
+      "_sku": "8058045434030",
+      "_tags": [
+        "125ml",
+        "Branded Perfumes",
+        "EDT",
+        "Fragrance",
+        "Men"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/armand-basi-l-eau-woody-musk-pour-homme-eau-de-toilette-woody-spicy-fragrance-for-men-125ml"
+    },
     {
       "name": "Armand Basi L’Eau Pour Homme Eau de Toilette, Woody Aquatic Fragrance For Men 125ml",
       "brand": "Armand Basi",
@@ -117016,7 +117109,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 97,
-      "price_gros": 62,
+      "price_gros": 61.88,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LattafaBadeeAlOudNobleBlushEdp100mlSpy.webp?v=1737035429",
@@ -581865,93 +581958,6 @@
       ],
       "_product_type": "",
       "_url": "https://samawa.ae/products/lattafa-raghba-wood-intense-gift-set-edp-perfume-100ml-and-deodorant-200ml"
-    },
-    {
-      "name": "Escada Especially Escada Elixir for Women, EDP  75ml",
-      "brand": "Escada",
-      "category_slug": "homme",
-      "size": "75ml",
-      "price_retail": 121,
-      "price_gros": 121,
-      "stock": 999,
-      "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/escada_especially_escada_elixir_75ml_for_women.jpg?v=1624396397",
-      "active": true,
-      "_handle": "escada-especially-escada-elixir-for-women-edp-75ml",
-      "_sku": "737052684956",
-      "_tags": [
-        "75ml",
-        "Branded Perfumes",
-        "Fragrance"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/escada-especially-escada-elixir-for-women-edp-75ml"
-    },
-    {
-      "name": "Escada Desire Me For Women Eau de Parfum, 50ml",
-      "brand": "Escada",
-      "category_slug": "homme",
-      "size": "50ml",
-      "price_retail": 111,
-      "price_gros": 111,
-      "stock": 999,
-      "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/escada_desire_me_for_women_50ml_-_eau_de_parfum.jpg?v=1624396389",
-      "active": true,
-      "_handle": "escada-desire-me-for-women-eau-de-parfum-50ml",
-      "_sku": "737052266046",
-      "_tags": [
-        "50ml",
-        "Branded Perfumes",
-        "Fragrance"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/escada-desire-me-for-women-eau-de-parfum-50ml"
-    },
-    {
-      "name": "Elizabeth Arden White Tea for Women - Eau de Toilette, 100ml",
-      "brand": "Elizabeth Arden",
-      "category_slug": "homme",
-      "size": "100ml",
-      "price_retail": 112,
-      "price_gros": 96,
-      "stock": 999,
-      "badge": "SALE",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/White_Tea_4ef9e213-daff-4f37-8524-5f48e64e4d71.jpg?v=1747379451",
-      "active": true,
-      "_handle": "elizabeth-arden-white-tea-for-women-eau-de-toilette-100ml",
-      "_sku": "085805557331",
-      "_tags": [
-        "100ml",
-        "Branded Perfumes",
-        "EDT",
-        "Fragrance",
-        "summer collection",
-        "Women"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/elizabeth-arden-white-tea-for-women-eau-de-toilette-100ml"
-    },
-    {
-      "name": "Elizabeth Arden Provocative for Women - Eau de Parfum, 100 ml",
-      "brand": "Elizabeth Arden",
-      "category_slug": "homme",
-      "size": "100ml",
-      "price_retail": 90,
-      "price_gros": 90,
-      "stock": 999,
-      "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/provocative_by_elizabeth_arden_for_women_-_eau_de_parfum_100_ml.jpg?v=1624396348",
-      "active": true,
-      "_handle": "elizabeth-arden-provocative-for-women-eau-de-parfum-100-ml",
-      "_sku": "85805004668",
-      "_tags": [
-        "100ml",
-        "Branded Perfumes",
-        "Fragrance"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/elizabeth-arden-provocative-for-women-eau-de-parfum-100-ml"
     }
   ]
 }
