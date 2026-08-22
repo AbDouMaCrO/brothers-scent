@@ -1,14 +1,28 @@
 {
-  "generated_at": "2026-08-22T10:24:53.035Z",
+  "generated_at": "2026-08-22T10:53:04.099Z",
   "total_brands": 889,
   "brands": [
     {
       "name": "Amazing Creation",
       "slug": "amazing-creation",
-      "count": 1117,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Oud_Save_The_King_Perfume_For_Unisex_EDP_50ml_PFB-514.png?v=1787393711",
+      "count": 1119,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Sindbad_Perfume_For_Unisex_EDP_50ml_PFB-515.png?v=1787394078",
       "preview": [
         {
+          "name": "Amazing Creation Sindbad Perfume For Unisex EDP PFB-515",
+          "handle": "amazing-creation-sindbad-perfume-for-unisex-edp-pfb-515",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Sindbad_Perfume_For_Unisex_EDP_50ml_PFB-515.png?v=1787394078",
+          "price": 55,
+          "badge": ""
+        },
+        {
+          "name": "Amazing Creation Sindbad Perfume For Unisex EDP PFB-515",
+          "handle": "amazing-creation-sindbad-perfume-for-unisex-edp-pfb-515",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Sindbad_Perfume_For_Unisex_EDP_50ml_PFB-515.png?v=1787394078",
+          "price": 95,
+          "badge": ""
+        },
+        {
           "name": "Amazing Creation Oud Save The King Perfume For Unisex EDP PFB-514",
           "handle": "amazing-creation-oud-save-the-king-perfume-for-unisex-edp-pfb-514",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Oud_Save_The_King_Perfume_For_Unisex_EDP_50ml_PFB-514.png?v=1787393711",
@@ -33,20 +47,6 @@
           "name": "Amazing Creation Oud Royal Prive Perfume For Unisex EDP PFB-513",
           "handle": "amazing-creation-oud-royal-prive-perfume-for-unisex-edp-pfb-513",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Oud_Royal_Prive_Perfume_For_Unisex_EDP_50ml_PFB-513.png?v=1787393080",
-          "price": 95,
-          "badge": ""
-        },
-        {
-          "name": "Amazing Creation Azaran Perfume For Men EDP PFB-512",
-          "handle": "amazing-creation-azaran-perfume-for-men-edp-pfb-512",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Azaran_Perfume_For_Men_EDP_50ml_PFB-512.png?v=1787392523",
-          "price": 55,
-          "badge": ""
-        },
-        {
-          "name": "Amazing Creation Azaran Perfume For Men EDP PFB-512",
-          "handle": "amazing-creation-azaran-perfume-for-men-edp-pfb-512",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Azaran_Perfume_For_Men_EDP_50ml_PFB-512.png?v=1787392523",
           "price": 95,
           "badge": ""
         }
@@ -455,7 +455,7 @@
     {
       "name": "Chanel",
       "slug": "chanel",
-      "count": 324,
+      "count": 323,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/immense_2_-Photoroom.png?v=1787238744",
       "preview": [
         {
