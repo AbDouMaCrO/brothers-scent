@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T23:22:57.668Z",
+  "generated_at": "2026-08-22T23:49:56.965Z",
   "total_brands": 889,
   "brands": [
     {
@@ -1205,9 +1205,16 @@
     {
       "name": "Tom Ford",
       "slug": "tom-ford",
-      "count": 208,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/sol-removebg-preview.png?v=1784839141",
+      "count": 209,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/OUD-resized-Photoroom.png?v=1787441337",
       "preview": [
+        {
+          "name": "Tom Ford Oud Voyager Eau de Parfum, Oriental Woody Fragrance For Women And Men 30ml",
+          "handle": "tom-ford-oud-voyager-eau-de-parfum-oriental-woody-fragrance-for-women-and-men-30ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/OUD-resized-Photoroom.png?v=1787441337",
+          "price": 678,
+          "badge": ""
+        },
         {
           "name": "Tom Ford Soleil Neige All Over Body Spray, For Men And Women 150ml",
           "handle": "tom-ford-soleil-neige-all-over-body-spray-for-men-and-women-floral",
@@ -1241,13 +1248,6 @@
           "handle": "tom-ford-soleil-brulant-eau-de-parfum-for-unisex-oriental-woody-perfume-30ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/888066131377_0.jpg?v=1781519977",
           "price": 585,
-          "badge": ""
-        },
-        {
-          "name": "Tom Ford Oud Voyager Eau De Parfum For Unisex-Oriental Woody Perfume 50ml",
-          "handle": "tom-ford-oud-voyager-eau-de-parfum-for-unisex-oriental-woody-perfume-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/tom_ford_oud_voyager.png?v=1786373511",
-          "price": 1021,
           "badge": ""
         }
       ]
@@ -15953,6 +15953,56 @@
       ]
     },
     {
+      "name": "OMANLUXURY",
+      "slug": "omanluxury",
+      "count": 13,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/wand-resized-Photoroom.png?v=1787440806",
+      "preview": [
+        {
+          "name": "Omanluxury Wanderlust Eau de Parfum, Floral Green Fragrance For Women And Men 100ml",
+          "handle": "omanluxury-wanderlust-eau-de-parfum-floral-green-fragrance-for-women-and-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/wand-resized-Photoroom.png?v=1787440806",
+          "price": 813,
+          "badge": ""
+        },
+        {
+          "name": "Omanluxury Serenity Eau de Parfum, Fragrance For Women And Men 100ml",
+          "handle": "omanluxury-serenity-eau-de-parfum-fragrance-for-women-and-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/serenity-resized-Photoroom.png?v=1787440446",
+          "price": 813,
+          "badge": ""
+        },
+        {
+          "name": "Omanluxury Nasaj Eau de Parfum, Oriental Floral Fragrance For Women And Men 100ml",
+          "handle": "omanluxury-nasaj-eau-de-parfum-oriental-floral-fragrance-for-women-and-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/nasaj-resized-Photoroom.png?v=1787439975",
+          "price": 1011,
+          "badge": ""
+        },
+        {
+          "name": "Omanluxury Khanjar Eau de Parfum, Fragrance For Women And Men 100ml",
+          "handle": "omanluxury-khanjar-eau-de-parfum-fragrance-for-women-and-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/kkhan-resized-Photoroom.png?v=1787439765",
+          "price": 1011,
+          "badge": ""
+        },
+        {
+          "name": "Omanluxury Hommage 1744 Eau de Parfum, Oriental Woody Fragrance For Women And Men 100ml",
+          "handle": "omanluxury-hommage-1744-eau-de-parfum-oriental-woody-fragrance-for-women-and-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/hommage-resized-Photoroom.png?v=1787439477",
+          "price": 831,
+          "badge": ""
+        },
+        {
+          "name": "Omanluxury  Flowerlush Eau de Parfum, Floral Woody Musk Fragrance For Women And Men 100ml",
+          "handle": "omanluxury-flowerlush-eau-de-parfum-floral-woody-musk-fragrance-for-women-and-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/FLOWWER-resized-Photoroom.png?v=1787439139",
+          "price": 831,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "PANA DORA",
       "slug": "pana-dora",
       "count": 13,
@@ -16748,56 +16798,6 @@
           "handle": "jean-loues-scherrer-2-for-women-edt-50ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/jean_loues_scherrer_2_for_women_edt_50ml..jpg?v=1624492295",
           "price": 142,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "OMANLUXURY",
-      "slug": "omanluxury",
-      "count": 12,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/serenity-resized-Photoroom.png?v=1787440446",
-      "preview": [
-        {
-          "name": "Omanluxury Serenity Eau de Parfum, Fragrance For Women And Men 100ml",
-          "handle": "omanluxury-serenity-eau-de-parfum-fragrance-for-women-and-men-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/serenity-resized-Photoroom.png?v=1787440446",
-          "price": 813,
-          "badge": ""
-        },
-        {
-          "name": "Omanluxury Nasaj Eau de Parfum, Oriental Floral Fragrance For Women And Men 100ml",
-          "handle": "omanluxury-nasaj-eau-de-parfum-oriental-floral-fragrance-for-women-and-men-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/nasaj-resized-Photoroom.png?v=1787439975",
-          "price": 1011,
-          "badge": ""
-        },
-        {
-          "name": "Omanluxury Khanjar Eau de Parfum, Fragrance For Women And Men 100ml",
-          "handle": "omanluxury-khanjar-eau-de-parfum-fragrance-for-women-and-men-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/kkhan-resized-Photoroom.png?v=1787439765",
-          "price": 1011,
-          "badge": ""
-        },
-        {
-          "name": "Omanluxury Hommage 1744 Eau de Parfum, Oriental Woody Fragrance For Women And Men 100ml",
-          "handle": "omanluxury-hommage-1744-eau-de-parfum-oriental-woody-fragrance-for-women-and-men-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/hommage-resized-Photoroom.png?v=1787439477",
-          "price": 831,
-          "badge": ""
-        },
-        {
-          "name": "Omanluxury  Flowerlush Eau de Parfum, Floral Woody Musk Fragrance For Women And Men 100ml",
-          "handle": "omanluxury-flowerlush-eau-de-parfum-floral-woody-musk-fragrance-for-women-and-men-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/FLOWWER-resized-Photoroom.png?v=1787439139",
-          "price": 831,
-          "badge": ""
-        },
-        {
-          "name": "Omanluxury Dejan Eau de Parfum, Fragrance For Women And Men 100ml",
-          "handle": "omanluxury-dejan-eau-de-parfum-fragrance-for-women-and-men-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/dej-resized-Photoroom.png?v=1787438639",
-          "price": 1338,
           "badge": ""
         }
       ]
@@ -20403,56 +20403,6 @@
       ]
     },
     {
-      "name": "Lamuse",
-      "slug": "lamuse",
-      "count": 9,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/protect-plus_hand-sanitizer_60ml.jpg?v=1624457028",
-      "preview": [
-        {
-          "name": "Lamuse  Antiseptic Disinfectant Hand Sanitizer Spray 60ml",
-          "handle": "lamuse-antiseptic-disinfectant-hand-sanitizer-spray-60ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/protect-plus_hand-sanitizer_60ml.jpg?v=1624457028",
-          "price": 4,
-          "badge": "SALE"
-        },
-        {
-          "name": "Lamuse Protect Plus Antiseptic Disinfectant Hand Sanitizer Spray 60ml",
-          "handle": "lamuse-protect-plus-antiseptic-disinfectant-hand-sanitizer-spray-60ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/lamuse-protect-plus-60ml.jpg?v=1624457009",
-          "price": 4,
-          "badge": "SALE"
-        },
-        {
-          "name": "Lamuse Protect Plus Antiseptic Disinfectant Hand Sanitizer Gel 1000 ml",
-          "handle": "lamuse-protect-plus-antiseptic-disinfectant-hand-sanitizer-gel-1000-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/lamuse-protect-plus-1-ltr.jpg?v=1624455449",
-          "price": 26,
-          "badge": "SALE"
-        },
-        {
-          "name": "Lamuse Protect Plus Antiseptic Disinfectant Hand Sanitizer Spray 120ml",
-          "handle": "lamuse-protect-plus-antiseptic-disinfectant-hand-sanitizer-spray-120ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/lamuse-protect-plus-120ml.jpg?v=1624455428",
-          "price": 7,
-          "badge": "SALE"
-        },
-        {
-          "name": "Lamuse Xtreme Black EDP 100ml",
-          "handle": "lamuse-xtreme-black-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/xtreme-black.jpg?v=1624452201",
-          "price": 24,
-          "badge": ""
-        },
-        {
-          "name": "Lamuse Revelation EDP 100ml",
-          "handle": "lamuse-revelation-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/revelatuion.jpg?v=1624452188",
-          "price": 24,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Al Majed Oud",
       "slug": "al-majed-oud",
       "count": 8,
@@ -21303,51 +21253,51 @@
       ]
     },
     {
-      "name": "Gianfranco Ferre",
-      "slug": "gianfranco-ferre",
+      "name": "Lamuse",
+      "slug": "lamuse",
       "count": 8,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/gianfranco_ferre_camicia_113_eau_de_toilette_100_ml.jpg?v=1624474202",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/protect-plus_hand-sanitizer_60ml.jpg?v=1624457028",
       "preview": [
         {
-          "name": "Gianfranco Ferre Camicia 113 Eau De Toilette, 100 ml",
-          "handle": "gianfranco-ferre-camicia-113-eau-de-toilette-100-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/gianfranco_ferre_camicia_113_eau_de_toilette_100_ml.jpg?v=1624474202",
-          "price": 73,
+          "name": "Lamuse  Antiseptic Disinfectant Hand Sanitizer Spray 60ml",
+          "handle": "lamuse-antiseptic-disinfectant-hand-sanitizer-spray-60ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/protect-plus_hand-sanitizer_60ml.jpg?v=1624457028",
+          "price": 4,
+          "badge": "SALE"
+        },
+        {
+          "name": "Lamuse Protect Plus Antiseptic Disinfectant Hand Sanitizer Spray 60ml",
+          "handle": "lamuse-protect-plus-antiseptic-disinfectant-hand-sanitizer-spray-60ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/lamuse-protect-plus-60ml.jpg?v=1624457009",
+          "price": 4,
+          "badge": "SALE"
+        },
+        {
+          "name": "Lamuse Protect Plus Antiseptic Disinfectant Hand Sanitizer Gel 1000 ml",
+          "handle": "lamuse-protect-plus-antiseptic-disinfectant-hand-sanitizer-gel-1000-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/lamuse-protect-plus-1-ltr.jpg?v=1624455449",
+          "price": 26,
+          "badge": "SALE"
+        },
+        {
+          "name": "Lamuse Protect Plus Antiseptic Disinfectant Hand Sanitizer Spray 120ml",
+          "handle": "lamuse-protect-plus-antiseptic-disinfectant-hand-sanitizer-spray-120ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/lamuse-protect-plus-120ml.jpg?v=1624455428",
+          "price": 7,
+          "badge": "SALE"
+        },
+        {
+          "name": "Lamuse Xtreme Black EDP 100ml",
+          "handle": "lamuse-xtreme-black-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/xtreme-black.jpg?v=1624452201",
+          "price": 24,
           "badge": ""
         },
         {
-          "name": "Ferre Camicia 113 by Gianfranco Ferre - perfumes for women - Eau de Toilette, 50 ml",
-          "handle": "ferre-camicia-113-by-gianfranco-ferre-perfumes-for-women-eau-de-toilette-50-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ferre_camicia_113_by_gianfranco_ferre_-_perfumes_for_women_-_eau_de_toilette_50_ml.jpg?v=1624474127",
-          "price": 50,
-          "badge": ""
-        },
-        {
-          "name": "Gianfranco Ferre L'Uomo Eau De Toilette Spray 50ml",
-          "handle": "gianfranco-ferre-luomo-eau-de-toilette-spray-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/gianfranco_ferre_l_uomo_eau_de_toilette_spray_50ml.jpg?v=1624467021",
-          "price": 56,
-          "badge": ""
-        },
-        {
-          "name": "GIANFRANCO FERRE BLOOMING ROSE FOR WOMEN EDT 100ML",
-          "handle": "gianfranco-ferre-blooming-rose-for-women-edt-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/0013502_ferre-rose-donna-edt-100-spr_600.jpg?v=1624457845",
-          "price": 130,
-          "badge": ""
-        },
-        {
-          "name": "GIANFRANCO FERRE IN THE MOOD FOR LOVE FOR WOMEN EDP 50ML",
-          "handle": "gianfranco-ferre-in-the-mood-for-love-for-women-edp-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/51skugn1ybl._sr600_315_sclzzzzzzz.jpg?v=1624457467",
-          "price": 88,
-          "badge": ""
-        },
-        {
-          "name": "GIANFRANCO FERRE GIEFFEFFE EDT 100ML",
-          "handle": "gianfranco-ferre-gieffeffe-edt-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/8011530041304_6ef65f57eb80ffac8707c16af362b525.jpg?v=1624457439",
-          "price": 86,
+          "name": "Lamuse Revelation EDP 100ml",
+          "handle": "lamuse-revelation-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/revelatuion.jpg?v=1624452188",
+          "price": 24,
           "badge": ""
         }
       ]
@@ -22648,6 +22598,56 @@
           "handle": "joyau-unique-sensoriel-noiressence-unisex-parfum-100-ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/joyau_unique_sensoriel_noiressence_u_parfum_100_ml.jpg?v=1624501480",
           "price": 387,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Gianfranco Ferre",
+      "slug": "gianfranco-ferre",
+      "count": 7,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/gianfranco_ferre_camicia_113_eau_de_toilette_100_ml.jpg?v=1624474202",
+      "preview": [
+        {
+          "name": "Gianfranco Ferre Camicia 113 Eau De Toilette, 100 ml",
+          "handle": "gianfranco-ferre-camicia-113-eau-de-toilette-100-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/gianfranco_ferre_camicia_113_eau_de_toilette_100_ml.jpg?v=1624474202",
+          "price": 73,
+          "badge": ""
+        },
+        {
+          "name": "Ferre Camicia 113 by Gianfranco Ferre - perfumes for women - Eau de Toilette, 50 ml",
+          "handle": "ferre-camicia-113-by-gianfranco-ferre-perfumes-for-women-eau-de-toilette-50-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ferre_camicia_113_by_gianfranco_ferre_-_perfumes_for_women_-_eau_de_toilette_50_ml.jpg?v=1624474127",
+          "price": 50,
+          "badge": ""
+        },
+        {
+          "name": "Gianfranco Ferre L'Uomo Eau De Toilette Spray 50ml",
+          "handle": "gianfranco-ferre-luomo-eau-de-toilette-spray-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/gianfranco_ferre_l_uomo_eau_de_toilette_spray_50ml.jpg?v=1624467021",
+          "price": 56,
+          "badge": ""
+        },
+        {
+          "name": "GIANFRANCO FERRE BLOOMING ROSE FOR WOMEN EDT 100ML",
+          "handle": "gianfranco-ferre-blooming-rose-for-women-edt-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/0013502_ferre-rose-donna-edt-100-spr_600.jpg?v=1624457845",
+          "price": 130,
+          "badge": ""
+        },
+        {
+          "name": "GIANFRANCO FERRE IN THE MOOD FOR LOVE FOR WOMEN EDP 50ML",
+          "handle": "gianfranco-ferre-in-the-mood-for-love-for-women-edp-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/51skugn1ybl._sr600_315_sclzzzzzzz.jpg?v=1624457467",
+          "price": 88,
+          "badge": ""
+        },
+        {
+          "name": "GIANFRANCO FERRE GIEFFEFFE EDT 100ML",
+          "handle": "gianfranco-ferre-gieffeffe-edt-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/8011530041304_6ef65f57eb80ffac8707c16af362b525.jpg?v=1624457439",
+          "price": 86,
           "badge": ""
         }
       ]
