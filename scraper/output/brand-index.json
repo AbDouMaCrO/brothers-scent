@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T19:50:59.178Z",
+  "generated_at": "2026-08-22T20:23:51.803Z",
   "total_brands": 889,
   "brands": [
     {
@@ -205,9 +205,30 @@
     {
       "name": "Giorgio Armani",
       "slug": "giorgio-armani",
-      "count": 351,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cuir-resized-Photoroom.png?v=1787402516",
+      "count": 354,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/red-resized-Photoroom.png?v=1787429652",
       "preview": [
+        {
+          "name": "Giorgio Armani Sì Passione Red Bloom Eau de Parfum, Floral Fruité Pour Femme For Women 100ml",
+          "handle": "giorgio-armani-si-passione-red-bloom-eau-de-parfum-floral-fruite-pour-femme-for-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/red-resized-Photoroom.png?v=1787429652",
+          "price": 567,
+          "badge": ""
+        },
+        {
+          "name": "Giorgio Armani Sì Nüde Bloom Eau de Parfum, Chypre Fruity Fragrance For Women 50ml",
+          "handle": "giorgio-armani-si-nude-bloom-eau-de-parfum-chypre-fruity-fragrance-for-women-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/si-resized-Photoroom_d6a427e6-6cbb-4fa7-b3a0-98f58afe516c.png?v=1787428707",
+          "price": 455,
+          "badge": ""
+        },
+        {
+          "name": "Giorgio Armani Sì Nüde Bloom Eau de Parfum, Chypre Fruity Fragrance For Women 100ml",
+          "handle": "giorgio-armani-si-nude-bloom-eau-de-parfum-chypre-fruity-fragrance-for-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/si-resized-Photoroom.png?v=1787427303",
+          "price": 567,
+          "badge": ""
+        },
         {
           "name": "Giorgio Armani Armani Privé Cuir Doré Eau de Parfum Intense, Leather Fragrance For Women And Men 100ml",
           "handle": "giorgio-armani-armani-prive-cuir-dore-eau-de-parfum-intense-leather-fragrance-for-women-and-men-100ml",
@@ -227,27 +248,6 @@
           "handle": "armani-i-will-eau-de-parfume-refillable-for-men-oriental-woody-perfume-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3614274578690_i-will-eau-de-parfum_60ml_main-v2-Photoroom_1.png?v=1786800520",
           "price": 696,
-          "badge": ""
-        },
-        {
-          "name": "Giorgio Armani Privé Thé Yulong Eau de Toilette, Aromatic Green Fragrance For Men And Women 100ml",
-          "handle": "giorgio-armani-prive-the-yulong-eau-de-toilette-for-men-and-women-citrus-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/the-removebg-preview.png?v=1784989914",
-          "price": 759,
-          "badge": ""
-        },
-        {
-          "name": "Giorgio Armani Emporio Armani Stronger With You Powerfull Eau de Parfum For Men Amber 50ml",
-          "handle": "giorgio-armani-emporio-armani-stronger-with-you-powerfull-eau-de-parfum-for-men-amber-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Emporio-Armani-Stronger-with-You-Powerfully-Eau-de-Parfum.png?v=1783497205",
-          "price": 379,
-          "badge": ""
-        },
-        {
-          "name": "Giorgio Armani Emporio Armani Power of You Pour Femme Eau de Parfum For Women Floral 50ml",
-          "handle": "giorgio-armani-emporio-armani-power-of-you-pour-femme-eau-de-parfum-for-women-floral-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/u_5f4b5fdd-adbf-4cff-aca4-86c84872db6a.png?v=1783497032",
-          "price": 396,
           "badge": ""
         }
       ]
@@ -6355,7 +6355,7 @@
     {
       "name": "Escada",
       "slug": "escada",
-      "count": 44,
+      "count": 43,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616304203626.jpg?v=1767608544",
       "preview": [
         {
@@ -6853,56 +6853,6 @@
       ]
     },
     {
-      "name": "Gres",
-      "slug": "gres",
-      "count": 40,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/GresCabochard_W_Edt100Ml.jpg?v=1698077608",
-      "preview": [
-        {
-          "name": "Gres Cabochard Perfume For Women EDT 100ml",
-          "handle": "gres-cabochard-perfume-for-women-edt-100ml-1",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/GresCabochard_W_Edt100Ml.jpg?v=1698077608",
-          "price": 64,
-          "badge": ""
-        },
-        {
-          "name": "Gres Cabochard Cherie Perfume For Women EDP 100ml",
-          "handle": "gres-cabochard-cherie-perfume-for-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/GresCabochardCherie_W_Edp100Ml.jpg?v=1697458547",
-          "price": 77,
-          "badge": ""
-        },
-        {
-          "name": "GRES CABOCHARD Perfume For Women EDT 100ml",
-          "handle": "gres-cabochard-perfume-for-women-edt-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/GRESCABOCHARD_W_EDT100mlFR.jpg?v=1638805665",
-          "price": 75,
-          "badge": ""
-        },
-        {
-          "name": "Gres Etat De Grace - Perfume For Women - EDP 100 ml",
-          "handle": "gres-etat-de-grace-perfume-for-women-edp-100-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/etat_de_grace_by_gres_eau_de_parfum_spray_100_ml_women.jpg?v=1624521766",
-          "price": 48,
-          "badge": ""
-        },
-        {
-          "name": "GRES LES SIGNES DE GRES FRUIT DE LA CREATIVITE - PERFUME FOR UNISEX - EDP 100 ml",
-          "handle": "gres-les-signes-de-gres-fruit-de-la-creativite-perfume-for-unisex-edp-100-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/gres_les_signes_de_gres_fruit_de_la_creativite_u_edp_100_ml_fr.jpg?v=1624519238",
-          "price": 48,
-          "badge": ""
-        },
-        {
-          "name": "GRES LES SIGNES DE GRES EXTREME PURETE - PERFUME FOR WOMEN - EDP 100 ml",
-          "handle": "gres-les-signes-de-gres-extreme-purete-perfume-for-women-edp-100-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/gres_les_signes_de_gres_extreme_purete_w_edp_100_ml_fr.jpg?v=1624519227",
-          "price": 48,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Ferrari",
       "slug": "ferrari",
       "count": 40,
@@ -7148,6 +7098,56 @@
           "handle": "lolita-lempicka-mon-petit-for-women-scented-water-alcohol-free-80ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3760269840027.jpg?v=1736155717",
           "price": 146,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Gres",
+      "slug": "gres",
+      "count": 39,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/GresCabochard_W_Edt100Ml.jpg?v=1698077608",
+      "preview": [
+        {
+          "name": "Gres Cabochard Perfume For Women EDT 100ml",
+          "handle": "gres-cabochard-perfume-for-women-edt-100ml-1",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/GresCabochard_W_Edt100Ml.jpg?v=1698077608",
+          "price": 64,
+          "badge": ""
+        },
+        {
+          "name": "Gres Cabochard Cherie Perfume For Women EDP 100ml",
+          "handle": "gres-cabochard-cherie-perfume-for-women-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/GresCabochardCherie_W_Edp100Ml.jpg?v=1697458547",
+          "price": 77,
+          "badge": ""
+        },
+        {
+          "name": "GRES CABOCHARD Perfume For Women EDT 100ml",
+          "handle": "gres-cabochard-perfume-for-women-edt-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/GRESCABOCHARD_W_EDT100mlFR.jpg?v=1638805665",
+          "price": 75,
+          "badge": ""
+        },
+        {
+          "name": "Gres Etat De Grace - Perfume For Women - EDP 100 ml",
+          "handle": "gres-etat-de-grace-perfume-for-women-edp-100-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/etat_de_grace_by_gres_eau_de_parfum_spray_100_ml_women.jpg?v=1624521766",
+          "price": 48,
+          "badge": ""
+        },
+        {
+          "name": "GRES LES SIGNES DE GRES FRUIT DE LA CREATIVITE - PERFUME FOR UNISEX - EDP 100 ml",
+          "handle": "gres-les-signes-de-gres-fruit-de-la-creativite-perfume-for-unisex-edp-100-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/gres_les_signes_de_gres_fruit_de_la_creativite_u_edp_100_ml_fr.jpg?v=1624519238",
+          "price": 48,
+          "badge": ""
+        },
+        {
+          "name": "GRES LES SIGNES DE GRES EXTREME PURETE - PERFUME FOR WOMEN - EDP 100 ml",
+          "handle": "gres-les-signes-de-gres-extreme-purete-perfume-for-women-edp-100-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/gres_les_signes_de_gres_extreme_purete_w_edp_100_ml_fr.jpg?v=1624519227",
+          "price": 48,
           "badge": ""
         }
       ]
@@ -31142,28 +31142,6 @@
       ]
     },
     {
-      "name": "Whatever It takes",
-      "slug": "whatever-it-takes",
-      "count": 2,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/whatever-1.jpg?v=1624400426",
-      "preview": [
-        {
-          "name": "Whatever IT Takes Pink, Women EDP 100ml",
-          "handle": "whatever-it-takes-pink-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/whatever-1.jpg?v=1624400426",
-          "price": 17,
-          "badge": "SALE"
-        },
-        {
-          "name": "Whatever It Takes Lucy Liu for Women EDP 100ml",
-          "handle": "whatever-it-takes-lucy-liu-for-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/whatever_it_takes.jpg?v=1624911099",
-          "price": 15,
-          "badge": "SALE"
-        }
-      ]
-    },
-    {
       "name": "Fleur De Grasse",
       "slug": "fleur-de-grasse",
       "count": 2,
@@ -33821,6 +33799,21 @@
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/royal_mirage.jpg?v=1624403445",
           "price": 45,
           "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Whatever It takes",
+      "slug": "whatever-it-takes",
+      "count": 1,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/whatever-1.jpg?v=1624400426",
+      "preview": [
+        {
+          "name": "Whatever IT Takes Pink, Women EDP 100ml",
+          "handle": "whatever-it-takes-pink-women-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/whatever-1.jpg?v=1624400426",
+          "price": 17,
+          "badge": "SALE"
         }
       ]
     },

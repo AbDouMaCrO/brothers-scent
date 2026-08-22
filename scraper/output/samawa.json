@@ -1,8 +1,77 @@
 {
-  "scraped_at": "2026-08-22T19:49:15.736Z",
+  "scraped_at": "2026-08-22T20:22:41.423Z",
   "source": "https://samawa.ae",
   "count": 25021,
   "products": [
+    {
+      "name": "Giorgio Armani Sì Passione Red Bloom Eau de Parfum, Floral Fruité Pour Femme For Women 100ml",
+      "brand": "Giorgio Armani",
+      "category_slug": "homme",
+      "size": "100ml",
+      "price_retail": 567,
+      "price_gros": 567,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/red-resized-Photoroom.png?v=1787429652",
+      "active": true,
+      "_handle": "giorgio-armani-si-passione-red-bloom-eau-de-parfum-floral-fruite-pour-femme-for-women-100ml",
+      "_sku": "3614274657876",
+      "_tags": [
+        "100ml",
+        "Branded Perfumes",
+        "EDP",
+        "Fragrance",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/giorgio-armani-si-passione-red-bloom-eau-de-parfum-floral-fruite-pour-femme-for-women-100ml"
+    },
+    {
+      "name": "Giorgio Armani Sì Nüde Bloom Eau de Parfum, Chypre Fruity Fragrance For Women 50ml",
+      "brand": "Giorgio Armani",
+      "category_slug": "homme",
+      "size": "50ml",
+      "price_retail": 455,
+      "price_gros": 455,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/si-resized-Photoroom_d6a427e6-6cbb-4fa7-b3a0-98f58afe516c.png?v=1787428707",
+      "active": true,
+      "_handle": "giorgio-armani-si-nude-bloom-eau-de-parfum-chypre-fruity-fragrance-for-women-50ml",
+      "_sku": "3614274752663",
+      "_tags": [
+        "50ml",
+        "Branded Perfumes",
+        "EDP",
+        "Fragrance",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/giorgio-armani-si-nude-bloom-eau-de-parfum-chypre-fruity-fragrance-for-women-50ml"
+    },
+    {
+      "name": "Giorgio Armani Sì Nüde Bloom Eau de Parfum, Chypre Fruity Fragrance For Women 100ml",
+      "brand": "Giorgio Armani",
+      "category_slug": "homme",
+      "size": "100ml",
+      "price_retail": 567,
+      "price_gros": 567,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/si-resized-Photoroom.png?v=1787427303",
+      "active": true,
+      "_handle": "giorgio-armani-si-nude-bloom-eau-de-parfum-chypre-fruity-fragrance-for-women-100ml",
+      "_sku": "3614274752670",
+      "_tags": [
+        "100ml",
+        "Branded Perfumes",
+        "EDP",
+        "Fragrance",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/giorgio-armani-si-nude-bloom-eau-de-parfum-chypre-fruity-fragrance-for-women-100ml"
+    },
     {
       "name": "Giorgio Armani Armani Privé Cuir Doré Eau de Parfum Intense, Leather Fragrance For Women And Men 100ml",
       "brand": "Giorgio Armani",
@@ -76388,7 +76457,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 109,
-      "price_gros": 74,
+      "price_gros": 73.75,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Khamrah_Dukhan.jpg?v=1751954145",
@@ -504705,7 +504774,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 125,
-      "price_gros": 93,
+      "price_gros": 91,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Clinique_Happy_Heart_Perfume_Spray_for_Women_100ml-Photoroom.png?v=1787411332",
@@ -576547,6 +576616,27 @@
       "_url": "https://samawa.ae/products/al-dur-al-maknoon-air-freshener-300ml"
     },
     {
+      "name": "Al Dur Al Maknoon Air Freshener 300ml",
+      "brand": "Lattafa",
+      "category_slug": "oriental",
+      "size": "300ml",
+      "price_retail": 15,
+      "price_gros": 9,
+      "stock": 999,
+      "badge": "SALE",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/al-dur-al-maknoon-air-frshner.jpg?v=1633601361",
+      "active": true,
+      "_handle": "al-dur-al-maknoon-air-freshener-300ml",
+      "_sku": "6291106069303",
+      "_tags": [
+        "300ml",
+        "Bakhoor",
+        "Home Fragrance"
+      ],
+      "_product_type": "Home Fragrance",
+      "_url": "https://samawa.ae/products/al-dur-al-maknoon-air-freshener-300ml"
+    },
+    {
       "name": "Lattafa Mahasin Crystal Violet Air Freshener 300ml",
       "brand": "Lattafa",
       "category_slug": "oriental",
@@ -581959,94 +582049,6 @@
       ],
       "_product_type": "Fragrance",
       "_url": "https://samawa.ae/products/escada-joyful-for-women-eau-de-parfum-75ml"
-    },
-    {
-      "name": "Escada Island Kiss For Women Eau de Toillette, 100ml",
-      "brand": "Escada",
-      "category_slug": "homme",
-      "size": "100ml",
-      "price_retail": 147,
-      "price_gros": 147,
-      "stock": 999,
-      "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/escada_island_kiss.jpg?v=1624396624",
-      "active": true,
-      "_handle": "escada-island-kiss-for-women-eau-de-toillette-100ml",
-      "_sku": "737052507545",
-      "_tags": [
-        "100ml",
-        "Branded Perfumes",
-        "Fragrance"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/escada-island-kiss-for-women-eau-de-toillette-100ml"
-    },
-    {
-      "name": "Lattafa Zakariyatik for ,Women, Eau de Parfum, 100ml",
-      "brand": "Lattafa",
-      "category_slug": "homme",
-      "size": "100ml",
-      "price_retail": 76,
-      "price_gros": 76,
-      "stock": 999,
-      "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/zakari.jpg?v=1624396616",
-      "active": true,
-      "_handle": "lattafa-zakariyatik-for-women-eau-de-parfum-100ml",
-      "_sku": "6291106064858",
-      "_tags": [
-        "100ml",
-        "Arabic Perfume",
-        "Fragrance",
-        "Women"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/lattafa-zakariyatik-for-women-eau-de-parfum-100ml"
-    },
-    {
-      "name": "One Direction You & I EDP for Women EDP 50ml",
-      "brand": "Gres",
-      "category_slug": "homme",
-      "size": "50ml",
-      "price_retail": 43,
-      "price_gros": 43,
-      "stock": 999,
-      "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/one_direction_you_i.jpg?v=1624396604",
-      "active": true,
-      "_handle": "one-direction-you-i-edp-for-women-edp-50ml",
-      "_sku": "5060152403291",
-      "_tags": [
-        "50ml",
-        "Branded Perfumes",
-        "Fragrance",
-        "Men"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/one-direction-you-i-edp-for-women-edp-50ml"
-    },
-    {
-      "name": "Whatever It Takes Lucy Liu for Women EDP 100ml",
-      "brand": "Whatever It takes",
-      "category_slug": "homme",
-      "size": "100ml",
-      "price_retail": 70,
-      "price_gros": 15,
-      "stock": 999,
-      "badge": "SALE",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/whatever_it_takes.jpg?v=1624911099",
-      "active": true,
-      "_handle": "whatever-it-takes-lucy-liu-for-women-edp-100ml",
-      "_sku": "3021011012179",
-      "_tags": [
-        "100ml",
-        "Branded Perfumes",
-        "EDP",
-        "Fragrance",
-        "Women"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/whatever-it-takes-lucy-liu-for-women-edp-100ml"
     }
   ]
 }
