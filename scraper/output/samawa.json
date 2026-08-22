@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-22T08:33:27.757Z",
+  "scraped_at": "2026-08-22T09:02:42.272Z",
   "source": "https://samawa.ae",
   "count": 25016,
   "products": [
@@ -11854,6 +11854,31 @@
       ],
       "_product_type": "Fragrance",
       "_url": "https://samawa.ae/products/pana-dora-emanuele-eau-de-parfum-for-unisex-floral-woody-musk-perfume-100ml"
+    },
+    {
+      "name": "Paco Rabanne Fame Intense Eau De Parfum Intense For Unisex-Floral Woody Musk Perfume 30ml",
+      "brand": "Paco Rabanne",
+      "category_slug": "homme",
+      "size": "30ml",
+      "price_retail": 222,
+      "price_gros": 222,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/shop-pf-03942-01-fame-intense-edp---30ml--1.jpg?v=1781452704",
+      "active": true,
+      "_handle": "paco-rabanne-fame-intense-eau-de-parfum-intense-for-unisex-floral-woody-musk-perfume-30ml",
+      "_sku": "3349668630127",
+      "_tags": [
+        "30ml",
+        "Branded Perfumes",
+        "EDP",
+        "Fragrance",
+        "Men",
+        "unisex",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/paco-rabanne-fame-intense-eau-de-parfum-intense-for-unisex-floral-woody-musk-perfume-30ml"
     },
     {
       "name": "Paco Rabanne Fame Intense Eau De Parfum Intense For Unisex-Floral Woody Musk Perfume 30ml",
@@ -41492,7 +41517,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 135,
-      "price_gros": 61.88,
+      "price_gros": 62,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Jasoor.jpg?v=1767790567",
@@ -44566,7 +44591,7 @@
       "category_slug": "homme",
       "size": "75ml",
       "price_retail": 144,
-      "price_gros": 97,
+      "price_gros": 96,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Layaan.jpg?v=1773119648",
@@ -581847,25 +581872,6 @@
       ],
       "_product_type": "Fragrance",
       "_url": "https://samawa.ae/products/h-sk-paris-rose-de-paradeso-for-women-edp-80ml"
-    },
-    {
-      "name": "Lattafa Raghba Wood Intense Gift Set ( EDP Perfume 100ml and Deodorant 200ml)",
-      "brand": "Lattafa",
-      "category_slug": "oriental",
-      "size": "100ml",
-      "price_retail": 45,
-      "price_gros": 45,
-      "stock": 999,
-      "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/518s1n9bycl.jpg?v=1624396418",
-      "active": true,
-      "_handle": "lattafa-raghba-wood-intense-gift-set-edp-perfume-100ml-and-deodorant-200ml",
-      "_sku": "6291106066302",
-      "_tags": [
-        "300ml"
-      ],
-      "_product_type": "",
-      "_url": "https://samawa.ae/products/lattafa-raghba-wood-intense-gift-set-edp-perfume-100ml-and-deodorant-200ml"
     }
   ]
 }
