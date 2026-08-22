@@ -1,8 +1,79 @@
 {
-  "scraped_at": "2026-08-22T22:22:04.615Z",
+  "scraped_at": "2026-08-22T22:50:51.462Z",
   "source": "https://samawa.ae",
   "count": 25021,
   "products": [
+    {
+      "name": "Omanluxury Dejan Eau de Parfum, Fragrance For Women And Men 100ml",
+      "brand": "OMANLUXURY",
+      "category_slug": "homme",
+      "size": "100ml",
+      "price_retail": 1338,
+      "price_gros": 1338,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/dej-resized-Photoroom.png?v=1787438639",
+      "active": true,
+      "_handle": "omanluxury-dejan-eau-de-parfum-fragrance-for-women-and-men-100ml",
+      "_sku": "6074000141135",
+      "_tags": [
+        "100ml",
+        "Branded Perfumes",
+        "EDP",
+        "Fragrance",
+        "Men",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/omanluxury-dejan-eau-de-parfum-fragrance-for-women-and-men-100ml"
+    },
+    {
+      "name": "Omanluxury Caden Eau de Parfum, Fragrance For Women And Men 100ml",
+      "brand": "OMANLUXURY",
+      "category_slug": "homme",
+      "size": "100ml",
+      "price_retail": 859,
+      "price_gros": 859,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/caden-resized-Photoroom.png?v=1787438189",
+      "active": true,
+      "_handle": "omanluxury-caden-eau-de-parfum-fragrance-for-women-and-men-100ml",
+      "_sku": "6074000141463",
+      "_tags": [
+        "100ml",
+        "Branded Perfumes",
+        "EDP",
+        "Fragrance",
+        "Men",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/omanluxury-caden-eau-de-parfum-fragrance-for-women-and-men-100ml"
+    },
+    {
+      "name": "Narciso Rodriguez Musc Santal Eau de Parfum Intense, Woody Floral Musk Fragrance For Men 100ml",
+      "brand": "Narciso Rodriguez",
+      "category_slug": "homme",
+      "size": "100ml",
+      "price_retail": 418,
+      "price_gros": 418,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/musc-resized-Photoroom.png?v=1787437721",
+      "active": true,
+      "_handle": "narciso-rodriguez-musc-santal-eau-de-parfum-intense-woody-floral-musk-fragrance-for-men-100ml",
+      "_sku": "3423222145057",
+      "_tags": [
+        "100ml",
+        "Branded Perfumes",
+        "EDP",
+        "Fragrance",
+        "Men"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/narciso-rodriguez-musc-santal-eau-de-parfum-intense-woody-floral-musk-fragrance-for-men-100ml"
+    },
     {
       "name": "MCM Onyx Eau de Parfum, For Men 50ml",
       "brand": "MCM",
@@ -42097,7 +42168,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 135,
-      "price_gros": 65,
+      "price_gros": 61.88,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Jasoor.jpg?v=1767790567",
@@ -107551,7 +107622,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 91,
-      "price_gros": 70,
+      "price_gros": 63.75,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_The_Kingdom_Perfume_For_Women_EDP_100ml.jpg?v=1764057557",
@@ -503181,7 +503252,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 65,
-      "price_gros": 46,
+      "price_gros": 43,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Hayaati_Eau_De_Parfum_For_Men_100ml.jpg?v=1748254172",
@@ -582000,69 +582071,6 @@
       ],
       "_product_type": "Fragrance",
       "_url": "https://samawa.ae/products/ferrari-scuderia-black-for-men-eau-de-toilette-200ml"
-    },
-    {
-      "name": "Ferrari Pure Lavender for Unisex EDT 100ML",
-      "brand": "Ferrari",
-      "category_slug": "unisexe",
-      "size": "100ml",
-      "price_retail": 107,
-      "price_gros": 107,
-      "stock": 999,
-      "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ferrari_pure_lavender_edt_100ml.jpg?v=1624396732",
-      "active": true,
-      "_handle": "ferrari-pure-lavender-for-unisex-edt-100ml",
-      "_sku": "8002135130821",
-      "_tags": [
-        "100ml",
-        "Branded Perfumes",
-        "Fragrance"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/ferrari-pure-lavender-for-unisex-edt-100ml"
-    },
-    {
-      "name": "Ferrari Noble Fig for Men and Women - Eau de Toilette, 100 ml",
-      "brand": "Ferrari",
-      "category_slug": "homme",
-      "size": "100ml",
-      "price_retail": 107,
-      "price_gros": 107,
-      "stock": 999,
-      "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ferrari_noble_fig_for_men_and_women_-_eau_de_toilette_100_ml.jpg?v=1624396721",
-      "active": true,
-      "_handle": "ferrari-noble-fig-for-men-and-women-eau-de-toilette-100-ml",
-      "_sku": "8002135130753",
-      "_tags": [
-        "100ml",
-        "Branded Perfumes",
-        "Fragrance"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/ferrari-noble-fig-for-men-and-women-eau-de-toilette-100-ml"
-    },
-    {
-      "name": "Ferrari Amber Essence for Men - Eau de Parfum, 100ml",
-      "brand": "Ferrari",
-      "category_slug": "homme",
-      "size": "100ml",
-      "price_retail": 109,
-      "price_gros": 109,
-      "stock": 999,
-      "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/amber_essence_by_ferrari_for_men_-_eau_de_parfum_100ml.jpg?v=1624396709",
-      "active": true,
-      "_handle": "ferrari-amber-essence-for-men-eau-de-parfum-100ml",
-      "_sku": "8002135140561",
-      "_tags": [
-        "100ml",
-        "Branded Perfumes",
-        "Fragrance"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/ferrari-amber-essence-for-men-eau-de-parfum-100ml"
     }
   ]
 }
