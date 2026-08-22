@@ -1,8 +1,32 @@
 {
-  "scraped_at": "2026-08-22T12:37:04.755Z",
+  "scraped_at": "2026-08-22T13:32:47.394Z",
   "source": "https://samawa.ae",
   "count": 25021,
   "products": [
+    {
+      "name": "Giorgio Armani Armani Privé Cuir Doré Eau de Parfum Intense, Leather Fragrance For Women And Men 100ml",
+      "brand": "Giorgio Armani",
+      "category_slug": "homme",
+      "size": "100ml",
+      "price_retail": 1498,
+      "price_gros": 1498,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cuir-resized-Photoroom.png?v=1787402516",
+      "active": true,
+      "_handle": "giorgio-armani-armani-prive-cuir-dore-eau-de-parfum-intense-leather-fragrance-for-women-and-men-100ml",
+      "_sku": "3614274819014",
+      "_tags": [
+        "100ml",
+        "Branded Perfumes",
+        "EDP",
+        "Fragrance",
+        "Men",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/giorgio-armani-armani-prive-cuir-dore-eau-de-parfum-intense-leather-fragrance-for-women-and-men-100ml"
+    },
     {
       "name": "Etro Palais Jamais Eau de Toilette, Woody Aromatic Fragrance For Women And Men 100ml",
       "brand": "ETRO",
@@ -640,7 +664,7 @@
       "price_gros": 288,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ac-Photoroom_1.png?v=1787236151",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/acc-resized-Photoroom.png?v=1787402003",
       "active": true,
       "_handle": "acqua-di-parma-mandarino-di-sicilia-edt-aromatic-fragrance-for-men-and-women-50ml",
       "_sku": "8028713829154",
@@ -158751,7 +158775,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 80,
-      "price_gros": 40,
+      "price_gros": 43,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Rave_Now_Women_Perfume_For_Women_EDP_100ml.png?v=1776338169",
@@ -168743,7 +168767,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 85,
-      "price_gros": 35,
+      "price_gros": 37,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LattafaHayaatiAlMalekyEdp100ml.webp?v=1709108739",
@@ -524419,7 +524443,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 139,
-      "price_gros": 62,
+      "price_gros": 67,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/Lattafa-Badee-Al-Oud-Bottle.jpg?v=1739598856",
@@ -582023,25 +582047,6 @@
       ],
       "_product_type": "Fragrance",
       "_url": "https://samawa.ae/products/whatever-it-takes-lucy-liu-for-women-edp-100ml"
-    },
-    {
-      "name": "Lattafa Al Dur Al Maknoon Giftset perfume for Men EDP 100 ml + Deo 200ml",
-      "brand": "Lattafa",
-      "category_slug": "homme",
-      "size": "100ml",
-      "price_retail": 41,
-      "price_gros": 45,
-      "stock": 999,
-      "badge": "SALE",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/lattafa_al_dur_al_maknoon.jpg?v=1624396574",
-      "active": true,
-      "_handle": "lattafa-al-dur-al-maknoon-giftset-perfume-for-men-edp-100-ml-deo-200ml",
-      "_sku": "6291106064360",
-      "_tags": [
-        "300ml"
-      ],
-      "_product_type": "",
-      "_url": "https://samawa.ae/products/lattafa-al-dur-al-maknoon-giftset-perfume-for-men-edp-100-ml-deo-200ml"
     }
   ]
 }

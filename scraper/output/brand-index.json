@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T12:38:27.315Z",
+  "generated_at": "2026-08-22T13:34:22.247Z",
   "total_brands": 889,
   "brands": [
     {
@@ -205,9 +205,16 @@
     {
       "name": "Giorgio Armani",
       "slug": "giorgio-armani",
-      "count": 350,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3614274578690_i-will-eau-de-parfum_60ml_main-v2_1_-Photoroom.png?v=1786851725",
+      "count": 351,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cuir-resized-Photoroom.png?v=1787402516",
       "preview": [
+        {
+          "name": "Giorgio Armani Armani Privé Cuir Doré Eau de Parfum Intense, Leather Fragrance For Women And Men 100ml",
+          "handle": "giorgio-armani-armani-prive-cuir-dore-eau-de-parfum-intense-leather-fragrance-for-women-and-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cuir-resized-Photoroom.png?v=1787402516",
+          "price": 1498,
+          "badge": ""
+        },
         {
           "name": "Armani I Will Eau De Parfum For Men Refillable- Oriental Woody Perfume 60ml",
           "handle": "armani-i-will-eau-de-parfum-for-men-refillable-oriental-woody-perfume-100ml",
@@ -241,13 +248,6 @@
           "handle": "giorgio-armani-emporio-armani-power-of-you-pour-femme-eau-de-parfum-for-women-floral-50ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/u_5f4b5fdd-adbf-4cff-aca4-86c84872db6a.png?v=1783497032",
           "price": 396,
-          "badge": ""
-        },
-        {
-          "name": "Giorgio Armani Emporio Armani Power of You Pour Femme Eau de Parfum For Women 30ml Floral  30ml",
-          "handle": "giorgio-armani-emporio-armani-power-of-you-pour-femme-eau-de-parfum-for-women-30ml-floral-30ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/u.png?v=1783496911",
-          "price": 352,
           "badge": ""
         }
       ]
@@ -605,7 +605,7 @@
     {
       "name": "Lattafa",
       "slug": "lattafa",
-      "count": 264,
+      "count": 263,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Maahir_Honor.png?v=1786522827",
       "preview": [
         {
@@ -1556,12 +1556,12 @@
       "name": "Acqua Di Parma",
       "slug": "acqua-di-parma",
       "count": 190,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ac-Photoroom_1.png?v=1787236151",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/acc-resized-Photoroom.png?v=1787402003",
       "preview": [
         {
           "name": "Acqua di Parma Mandarino di Sicilia Edt, Aromatic Fragrance For Men And Women 50ml",
           "handle": "acqua-di-parma-mandarino-di-sicilia-edt-aromatic-fragrance-for-men-and-women-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ac-Photoroom_1.png?v=1787236151",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/acc-resized-Photoroom.png?v=1787402003",
           "price": 288,
           "badge": ""
         },
