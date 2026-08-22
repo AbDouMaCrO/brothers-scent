@@ -1,8 +1,78 @@
 {
-  "scraped_at": "2026-08-22T09:02:42.272Z",
+  "scraped_at": "2026-08-22T09:38:01.624Z",
   "source": "https://samawa.ae",
   "count": 25016,
   "products": [
+    {
+      "name": "Coach Pure Platinum Parfum, Woody Aromatic Fragrance For Men 100ml",
+      "brand": "Coach",
+      "category_slug": "homme",
+      "size": "100ml",
+      "price_retail": 333,
+      "price_gros": 333,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cooo-Photoroom.png?v=1787390527",
+      "active": true,
+      "_handle": "coach-pure-platinum-parfum-woody-aromatic-fragrance-for-men-100ml",
+      "_sku": "3386460171083",
+      "_tags": [
+        "100ml",
+        "Branded Perfumes",
+        "Fragrance",
+        "Men",
+        "Parfum"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/coach-pure-platinum-parfum-woody-aromatic-fragrance-for-men-100ml"
+    },
+    {
+      "name": "Clive Christian Original Collection 1872 Masculine Perfume Spray, Citrus Aromatic Fragrance For Men 50ml",
+      "brand": "CLIVE CHRISTIAN",
+      "category_slug": "homme",
+      "size": "50ml",
+      "price_retail": 1120,
+      "price_gros": 1120,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/originalll-Photoroom.png?v=1787389821",
+      "active": true,
+      "_handle": "clive-christian-original-collection-1872-masculine-perfume-spray-citrus-aromatic-fragrance-for-men-50ml",
+      "_sku": "652638014425",
+      "_tags": [
+        "50ml",
+        "Branded Perfumes",
+        "Fragrance",
+        "Men",
+        "parfum spray"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/clive-christian-original-collection-1872-masculine-perfume-spray-citrus-aromatic-fragrance-for-men-50ml"
+    },
+    {
+      "name": "Clive Christian Crown Collection Matsukita Perfume Spray, Woody Chypre Fragrance For Women And Men 50ml",
+      "brand": "CLIVE CHRISTIAN",
+      "category_slug": "homme",
+      "size": "50ml",
+      "price_retail": 1719,
+      "price_gros": 1719,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/matt-Photoroom.png?v=1787388959",
+      "active": true,
+      "_handle": "clive-christian-crown-collection-matsukita-perfume-spray-woody-chypre-fragrance-for-women-and-men-50ml",
+      "_sku": "652638014432",
+      "_tags": [
+        "50ml",
+        "Branded Perfumes",
+        "Fragrance",
+        "Men",
+        "parfum spray",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/clive-christian-crown-collection-matsukita-perfume-spray-woody-chypre-fragrance-for-women-and-men-50ml"
+    },
     {
       "name": "Byredo Inflorescence Eau de Parfum, Floral Fragrance For Women 100ml",
       "brand": "BYREDO",
@@ -11854,31 +11924,6 @@
       ],
       "_product_type": "Fragrance",
       "_url": "https://samawa.ae/products/pana-dora-emanuele-eau-de-parfum-for-unisex-floral-woody-musk-perfume-100ml"
-    },
-    {
-      "name": "Paco Rabanne Fame Intense Eau De Parfum Intense For Unisex-Floral Woody Musk Perfume 30ml",
-      "brand": "Paco Rabanne",
-      "category_slug": "homme",
-      "size": "30ml",
-      "price_retail": 222,
-      "price_gros": 222,
-      "stock": 999,
-      "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/shop-pf-03942-01-fame-intense-edp---30ml--1.jpg?v=1781452704",
-      "active": true,
-      "_handle": "paco-rabanne-fame-intense-eau-de-parfum-intense-for-unisex-floral-woody-musk-perfume-30ml",
-      "_sku": "3349668630127",
-      "_tags": [
-        "30ml",
-        "Branded Perfumes",
-        "EDP",
-        "Fragrance",
-        "Men",
-        "unisex",
-        "Women"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/paco-rabanne-fame-intense-eau-de-parfum-intense-for-unisex-floral-woody-musk-perfume-30ml"
     },
     {
       "name": "Paco Rabanne Fame Intense Eau De Parfum Intense For Unisex-Floral Woody Musk Perfume 30ml",
@@ -190876,7 +190921,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 83,
-      "price_gros": 61.88,
+      "price_gros": 62,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LattafaBadeeAlOudSublimeEdp100ml.jpg?v=1699864456",
@@ -581824,54 +581869,6 @@
       ],
       "_product_type": "Fragrance",
       "_url": "https://samawa.ae/products/lattafa-musk-mood-perfume-for-men-and-women-eau-de-parfum-100ml"
-    },
-    {
-      "name": "Luxury Parfums The Excellent Extrait De Parfum for Unisex, EDP, 100ml",
-      "brand": "Luxury Concept",
-      "category_slug": "homme",
-      "size": "100ml",
-      "price_retail": 105,
-      "price_gros": 58,
-      "stock": 999,
-      "badge": "SALE",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/the-excellent.jpg?v=1624396458",
-      "active": true,
-      "_handle": "luxury-parfums-the-excellent-extrait-de-parfum-for-unisex-edp-100ml",
-      "_sku": "3534886806625",
-      "_tags": [
-        "100ml",
-        "Branded Perfumes",
-        "Extrait De Parfum",
-        "Fragrance",
-        "Men",
-        "Samawa Collection",
-        "Women"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/luxury-parfums-the-excellent-extrait-de-parfum-for-unisex-edp-100ml"
-    },
-    {
-      "name": "H SK Paris Rose De Paradeso for Women EDP, 80ml",
-      "brand": "H SK Paris",
-      "category_slug": "homme",
-      "size": "80ml",
-      "price_retail": 132,
-      "price_gros": 73,
-      "stock": 999,
-      "badge": "SALE",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/rose-paradeso.jpg?v=1624396434",
-      "active": true,
-      "_handle": "h-sk-paris-rose-de-paradeso-for-women-edp-80ml",
-      "_sku": "6296023524157",
-      "_tags": [
-        "80ml",
-        "Branded Perfumes",
-        "EDP",
-        "Fragrance",
-        "Women"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/h-sk-paris-rose-de-paradeso-for-women-edp-80ml"
     }
   ]
 }

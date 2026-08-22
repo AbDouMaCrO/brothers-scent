@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-22T09:03:47.333Z",
-  "total_brands": 890,
+  "generated_at": "2026-08-22T09:39:06.619Z",
+  "total_brands": 889,
   "brands": [
     {
       "name": "Amazing Creation",
@@ -355,7 +355,7 @@
     {
       "name": "Paco Rabanne",
       "slug": "paco-rabanne",
-      "count": 333,
+      "count": 332,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Paco_Rabanne_1_Million_Black_Eau_de_Parfum_Oriental_Vanilla_Fragrance_For_Men_100ml.jpg?v=1787122008",
       "preview": [
         {
@@ -3303,6 +3303,56 @@
       ]
     },
     {
+      "name": "CLIVE CHRISTIAN",
+      "slug": "clive-christian",
+      "count": 97,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/originalll-Photoroom.png?v=1787389821",
+      "preview": [
+        {
+          "name": "Clive Christian Original Collection 1872 Masculine Perfume Spray, Citrus Aromatic Fragrance For Men 50ml",
+          "handle": "clive-christian-original-collection-1872-masculine-perfume-spray-citrus-aromatic-fragrance-for-men-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/originalll-Photoroom.png?v=1787389821",
+          "price": 1120,
+          "badge": ""
+        },
+        {
+          "name": "Clive Christian Crown Collection Matsukita Perfume Spray, Woody Chypre Fragrance For Women And Men 50ml",
+          "handle": "clive-christian-crown-collection-matsukita-perfume-spray-woody-chypre-fragrance-for-women-and-men-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/matt-Photoroom.png?v=1787388959",
+          "price": 1719,
+          "badge": ""
+        },
+        {
+          "name": "Clive Christian Addictive Arts Jump Up And Kiss Me Ecstatic Perfume Spray For Women-Floral Perfume 50ml",
+          "handle": "clive-christian-addictive-arts-jump-up-and-kiss-me-ecstatic-perfume-spray-for-women-floral-perfume-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Ecstatic_Website_1800x1800_b9310b3d-13e5-4cc1-b00f-a332ee6b5114.jpg?v=1782232827",
+          "price": 1463,
+          "badge": ""
+        },
+        {
+          "name": "Clive Christian Noble Collection Xxi Art Deco Blonde Amber Perfume Spray For Unisex-Oriental Perfume 50ml",
+          "handle": "clive-christian-noble-collection-xxi-art-deco-blonde-amber-perfume-spray-for-unisex-oriental-perfume50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/MP000000017697675_1316Wx1468H_202412181646511.jpg?v=1782234683",
+          "price": 2256,
+          "badge": ""
+        },
+        {
+          "name": "Clive Christian Private Collection L Red Tea Vetiver Edp For Men And Women Woody 50ml",
+          "handle": "clive-christian-private-collection-l-red-tea-vetiver-edp-for-men-and-women-woody-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/reddddddd.webp?v=1769274807",
+          "price": 1130,
+          "badge": ""
+        },
+        {
+          "name": "Clive Christian Crown Collection Crab Apple Blossom Perfume Spray For Men And Women Floral 50ml",
+          "handle": "clive-christian-crown-collection-crab-apple-blossom-perfume-spray-for-men-and-women-floral-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/crab-apple-blossom___250128.webp?v=1764961738",
+          "price": 1219,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Ard Al Zafraan",
       "slug": "ard-al-zafraan",
       "count": 96,
@@ -3403,52 +3453,52 @@
       ]
     },
     {
-      "name": "CLIVE CHRISTIAN",
-      "slug": "clive-christian",
-      "count": 95,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Ecstatic_Website_1800x1800_b9310b3d-13e5-4cc1-b00f-a332ee6b5114.jpg?v=1782232827",
+      "name": "Coach",
+      "slug": "coach",
+      "count": 93,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cooo-Photoroom.png?v=1787390527",
       "preview": [
         {
-          "name": "Clive Christian Addictive Arts Jump Up And Kiss Me Ecstatic Perfume Spray For Women-Floral Perfume 50ml",
-          "handle": "clive-christian-addictive-arts-jump-up-and-kiss-me-ecstatic-perfume-spray-for-women-floral-perfume-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Ecstatic_Website_1800x1800_b9310b3d-13e5-4cc1-b00f-a332ee6b5114.jpg?v=1782232827",
-          "price": 1463,
+          "name": "Coach Pure Platinum Parfum, Woody Aromatic Fragrance For Men 100ml",
+          "handle": "coach-pure-platinum-parfum-woody-aromatic-fragrance-for-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cooo-Photoroom.png?v=1787390527",
+          "price": 333,
           "badge": ""
         },
         {
-          "name": "Clive Christian Noble Collection Xxi Art Deco Blonde Amber Perfume Spray For Unisex-Oriental Perfume 50ml",
-          "handle": "clive-christian-noble-collection-xxi-art-deco-blonde-amber-perfume-spray-for-unisex-oriental-perfume50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/MP000000017697675_1316Wx1468H_202412181646511.jpg?v=1782234683",
-          "price": 2256,
+          "name": "Coach For Men All Over Shower Gel For Men 100ml",
+          "handle": "coach-for-men-all-over-shower-gel-for-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/coach-for-men-all-over-shower-gel-perfume-cologne-926426.png?v=1775405002",
+          "price": 44,
           "badge": ""
         },
         {
-          "name": "Clive Christian Private Collection L Red Tea Vetiver Edp For Men And Women Woody 50ml",
-          "handle": "clive-christian-private-collection-l-red-tea-vetiver-edp-for-men-and-women-woody-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/reddddddd.webp?v=1769274807",
-          "price": 1130,
+          "name": "Coach Floral Body Lotion For Women 100ml",
+          "handle": "coach-floral-body-lotion-for-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/7a894647-7627-40f3-b4bd-b675d42c080c-1000x1000-7PREyoo9KblFbaAXpIQkNMgDM3IItBWitx6lxEJk.jpg?v=1775394898",
+          "price": 24,
           "badge": ""
         },
         {
-          "name": "Clive Christian Crown Collection Crab Apple Blossom Perfume Spray For Men And Women Floral 50ml",
-          "handle": "clive-christian-crown-collection-crab-apple-blossom-perfume-spray-for-men-and-women-floral-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/crab-apple-blossom___250128.webp?v=1764961738",
-          "price": 1219,
+          "name": "Coach Gold Parfum For Women - Oriental Floral Perfume 50ml",
+          "handle": "coach-gold-parfum-for-women-oriental-floral-perfume-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460157308_20260312101900.jpg?v=1775316863",
+          "price": 209,
           "badge": ""
         },
         {
-          "name": "Clive Christian Noble Collection VIII Rococo Magnolia Perfume Spray For Women Floral 50ml",
-          "handle": "clive-christian-noble-collection-viii-rococo-magnolia-perfume-spray-for-women-floral-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/queen.webp?v=1764960927",
-          "price": 957,
-          "badge": ""
+          "name": "Coach Green Gift Set For Men",
+          "handle": "coach-green-gift-set-for-men",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/s-l1600_3191b750-3e51-43fd-85fc-5db64c11912d.webp?v=1763618662",
+          "price": 215,
+          "badge": "SALE"
         },
         {
-          "name": "Clive Christian Original Collection X Feminine Perfume Spray For Women Floral 50ml",
-          "handle": "clive-christian-original-collection-x-feminine-perfume-spray-for-women-floral-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/x_dc083f8b-fdf4-475e-b02e-6b6e6411e556.webp?v=1764960274",
-          "price": 876,
-          "badge": ""
+          "name": "Coach Blue Gift Set For Men",
+          "handle": "coach-blue-gift-set-for-men-1",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Men_s-Blue-Gift-set-Set-By-Coach-For-Men-3-Pieces-73bda893.webp?v=1761914634",
+          "price": 251,
+          "badge": "SALE"
         }
       ]
     },
@@ -3498,56 +3548,6 @@
           "handle": "penhaligons-solaris-perfume-for-unisex-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/5056245035999-0_593c56b2-9ec0-4a63-8f12-4aa0b4027aed.jpg?v=1752322653",
           "price": 824,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Coach",
-      "slug": "coach",
-      "count": 92,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/coach-for-men-all-over-shower-gel-perfume-cologne-926426.png?v=1775405002",
-      "preview": [
-        {
-          "name": "Coach For Men All Over Shower Gel For Men 100ml",
-          "handle": "coach-for-men-all-over-shower-gel-for-men-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/coach-for-men-all-over-shower-gel-perfume-cologne-926426.png?v=1775405002",
-          "price": 44,
-          "badge": ""
-        },
-        {
-          "name": "Coach Floral Body Lotion For Women 100ml",
-          "handle": "coach-floral-body-lotion-for-women-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/7a894647-7627-40f3-b4bd-b675d42c080c-1000x1000-7PREyoo9KblFbaAXpIQkNMgDM3IItBWitx6lxEJk.jpg?v=1775394898",
-          "price": 24,
-          "badge": ""
-        },
-        {
-          "name": "Coach Gold Parfum For Women - Oriental Floral Perfume 50ml",
-          "handle": "coach-gold-parfum-for-women-oriental-floral-perfume-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460157308_20260312101900.jpg?v=1775316863",
-          "price": 209,
-          "badge": ""
-        },
-        {
-          "name": "Coach Green Gift Set For Men",
-          "handle": "coach-green-gift-set-for-men",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/s-l1600_3191b750-3e51-43fd-85fc-5db64c11912d.webp?v=1763618662",
-          "price": 215,
-          "badge": "SALE"
-        },
-        {
-          "name": "Coach Blue Gift Set For Men",
-          "handle": "coach-blue-gift-set-for-men-1",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Men_s-Blue-Gift-set-Set-By-Coach-For-Men-3-Pieces-73bda893.webp?v=1761914634",
-          "price": 251,
-          "badge": "SALE"
-        },
-        {
-          "name": "Coach Dreams Moonlight Eau De Parfum For Women - Floral-Fruity Gourmand Perfume 40ml",
-          "handle": "coach-dreams-moonlight-eau-de-parfum-for-women-floral-fruity-gourmand-perfume-40ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460151986_20240925093332.jpg?v=1761291804",
-          "price": 112,
           "badge": ""
         }
       ]
@@ -17603,56 +17603,6 @@
       ]
     },
     {
-      "name": "Luxury Concept",
-      "slug": "luxury-concept",
-      "count": 12,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/hsk-paris-i-am-fablulous.jpg?v=1624487886",
-      "preview": [
-        {
-          "name": "Luxury Concept HSK Paris I am Fablulous EDP 50ml",
-          "handle": "luxury-concept-hsk-paris-i-am-fablulous-edp-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/hsk-paris-i-am-fablulous.jpg?v=1624487886",
-          "price": 109,
-          "badge": ""
-        },
-        {
-          "name": "Luxury Concept Holy Oud for Unisex EDP 100ml",
-          "handle": "luxury-concept-holy-oud-for-unisex-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/luxury-collections-holy-oud-edp-100ml_big.jpg?v=1624431621",
-          "price": 87,
-          "badge": "SALE"
-        },
-        {
-          "name": "Luxury Concept VL Notte De Fabulous EDP 50ml",
-          "handle": "luxury-concept-vl-notte-de-fabulous-edp-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/note-de-fabulous.jpg?v=1624426596",
-          "price": 77,
-          "badge": "SALE"
-        },
-        {
-          "name": "HSK Paris The Jacket, Perfume For Unisex, EDP, 80ml",
-          "handle": "hsk-paris-the-jacket-perfume-for-unisex-edp-80ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/hsk-paris-the-jacket.jpg?v=1624403402",
-          "price": 95,
-          "badge": "SALE"
-        },
-        {
-          "name": "Elixir Musk, Perfume For Unisex, EDP 50ml",
-          "handle": "elixir-musk-perfume-for-unisex-edp-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/elixir-musk.jpg?v=1624401027",
-          "price": 58,
-          "badge": "SALE"
-        },
-        {
-          "name": "Holy Musk Perfume For Unisex, EDP, 75ml",
-          "handle": "holy-musk-perfume-for-unisex-edp-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/holy-musk-2.jpg?v=1624400943",
-          "price": 87,
-          "badge": "SALE"
-        }
-      ]
-    },
-    {
       "name": "Gianfranco Ferre",
       "slug": "gianfranco-ferre",
       "count": 12,
@@ -18249,6 +18199,56 @@
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/saint_hilaire_oud_ultime_edp_100_ml_1.jpg?v=1624451444",
           "price": 56,
           "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Luxury Concept",
+      "slug": "luxury-concept",
+      "count": 11,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/hsk-paris-i-am-fablulous.jpg?v=1624487886",
+      "preview": [
+        {
+          "name": "Luxury Concept HSK Paris I am Fablulous EDP 50ml",
+          "handle": "luxury-concept-hsk-paris-i-am-fablulous-edp-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/hsk-paris-i-am-fablulous.jpg?v=1624487886",
+          "price": 109,
+          "badge": ""
+        },
+        {
+          "name": "Luxury Concept Holy Oud for Unisex EDP 100ml",
+          "handle": "luxury-concept-holy-oud-for-unisex-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/luxury-collections-holy-oud-edp-100ml_big.jpg?v=1624431621",
+          "price": 87,
+          "badge": "SALE"
+        },
+        {
+          "name": "Luxury Concept VL Notte De Fabulous EDP 50ml",
+          "handle": "luxury-concept-vl-notte-de-fabulous-edp-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/note-de-fabulous.jpg?v=1624426596",
+          "price": 77,
+          "badge": "SALE"
+        },
+        {
+          "name": "HSK Paris The Jacket, Perfume For Unisex, EDP, 80ml",
+          "handle": "hsk-paris-the-jacket-perfume-for-unisex-edp-80ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/hsk-paris-the-jacket.jpg?v=1624403402",
+          "price": 95,
+          "badge": "SALE"
+        },
+        {
+          "name": "Elixir Musk, Perfume For Unisex, EDP 50ml",
+          "handle": "elixir-musk-perfume-for-unisex-edp-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/elixir-musk.jpg?v=1624401027",
+          "price": 58,
+          "badge": "SALE"
+        },
+        {
+          "name": "Holy Musk Perfume For Unisex, EDP, 75ml",
+          "handle": "holy-musk-perfume-for-unisex-edp-75ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/holy-musk-2.jpg?v=1624400943",
+          "price": 87,
+          "badge": "SALE"
         }
       ]
     },
@@ -33843,21 +33843,6 @@
           "handle": "arqus-sorus-supreme-for-men-eau-de-parfum-100-ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/sorus-supreme-600x800-0.jpg?v=1624397163",
           "price": 10,
-          "badge": "SALE"
-        }
-      ]
-    },
-    {
-      "name": "H SK Paris",
-      "slug": "h-sk-paris",
-      "count": 1,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/rose-paradeso.jpg?v=1624396434",
-      "preview": [
-        {
-          "name": "H SK Paris Rose De Paradeso for Women EDP, 80ml",
-          "handle": "h-sk-paris-rose-de-paradeso-for-women-edp-80ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/rose-paradeso.jpg?v=1624396434",
-          "price": 73,
           "badge": "SALE"
         }
       ]
