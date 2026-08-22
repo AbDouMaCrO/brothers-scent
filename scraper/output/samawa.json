@@ -1,8 +1,32 @@
 {
-  "scraped_at": "2026-08-22T20:52:05.057Z",
+  "scraped_at": "2026-08-22T21:22:25.847Z",
   "source": "https://samawa.ae",
   "count": 25021,
   "products": [
+    {
+      "name": "Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum, Oriental Floral Fragrance For Women And Men 70ml",
+      "brand": "Maison Francis Kurkdjian",
+      "category_slug": "homme",
+      "size": "70ml",
+      "price_retail": 1604,
+      "price_gros": 1604,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bacca-resized-Photoroom.png?v=1787433072",
+      "active": true,
+      "_handle": "maison-francis-kurkdjian-baccarat-rouge-540-eau-de-parfum-oriental-floral-fragrance-for-women-and-men-70ml",
+      "_sku": "3700559618127",
+      "_tags": [
+        "70ml",
+        "Branded Perfumes",
+        "EDP",
+        "Fragrance",
+        "Men",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/maison-francis-kurkdjian-baccarat-rouge-540-eau-de-parfum-oriental-floral-fragrance-for-women-and-men-70ml"
+    },
     {
       "name": "Lancôme O Oui Eau de Toilette, Citrus Fragrance For Women And Men 100ml",
       "brand": "Lancome",
@@ -582037,27 +582061,6 @@
       ],
       "_product_type": "Fragrance",
       "_url": "https://samawa.ae/products/fendi-spray-deodorant-for-women-100-ml"
-    },
-    {
-      "name": "Fendi Fan Di Homme 100ml eau de Toilette & shower Gel",
-      "brand": "Fendi",
-      "category_slug": "homme",
-      "size": "100ml",
-      "price_retail": 178,
-      "price_gros": 178,
-      "stock": 999,
-      "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/fendi_fan_di_homme_100ml_eau_de_toilette_shower_gel.jpg?v=1624396686",
-      "active": true,
-      "_handle": "fendi-fan-di-homme-100ml-eau-de-toilette-shower-gel",
-      "_sku": "3274872274785",
-      "_tags": [
-        "100ml",
-        "Branded Perfumes",
-        "Fragrance"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/fendi-fan-di-homme-100ml-eau-de-toilette-shower-gel"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T20:53:24.082Z",
+  "generated_at": "2026-08-22T21:23:32.410Z",
   "total_brands": 889,
   "brands": [
     {
@@ -2353,6 +2353,56 @@
       ]
     },
     {
+      "name": "Maison Francis Kurkdjian",
+      "slug": "maison-francis-kurkdjian",
+      "count": 128,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bacca-resized-Photoroom.png?v=1787433072",
+      "preview": [
+        {
+          "name": "Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum, Oriental Floral Fragrance For Women And Men 70ml",
+          "handle": "maison-francis-kurkdjian-baccarat-rouge-540-eau-de-parfum-oriental-floral-fragrance-for-women-and-men-70ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bacca-resized-Photoroom.png?v=1787433072",
+          "price": 1604,
+          "badge": ""
+        },
+        {
+          "name": "Maison Francis Kurkdjian 724 Eau de Parfum, For Men And Women 35ml",
+          "handle": "maison-francis-kurkdjian-724-eau-de-parfum-for-men-and-women-floral-35ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/724-removebg-preview.png?v=1784895304",
+          "price": 741,
+          "badge": ""
+        },
+        {
+          "name": "Maison Francis Kurkdjian Paris Pluriel Feminin Eau De Parfum For Women - Chypre Floral Perfume 70ml",
+          "handle": "maison-francis-kurkdjian-paris-pluriel-feminin-eau-de-parfum-for-women-chypre-floral-perfume-70ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Feminin-Pluriel-Eau-de-Parfum-1.jpg?v=1773081696",
+          "price": 993,
+          "badge": ""
+        },
+        {
+          "name": "Maison Francis Kurkdjian Paris Gentle Fluidity Silver Eau De Parfum For Unisex - Aromatic Spicy Perfume 70ml",
+          "handle": "maison-francis-kurkdjian-paris-gentle-fluidity-silver-eau-de-parfum-for-unisex-aromatic-spicy-perfume-70ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/02xfzoaspz.jpg?v=1773081199",
+          "price": 1164,
+          "badge": ""
+        },
+        {
+          "name": "Maison Francis Kurkdjian Paris Gentle Fluidity Gold Eau De Parfum For Unisex - Oriental Perfume 35ml",
+          "handle": "maison-francis-kurkdjian-paris-gentle-fluidity-gold-eau-de-parfum-for-unisex-oriental-perfume-35ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/BLL660_in_xl.jpg?v=1773080595",
+          "price": 658,
+          "badge": ""
+        },
+        {
+          "name": "Maison Francis Kurkdjian Paris Aqua Celestia Cologne Forte Eau De Parfum For Unisex - Citrus Perfume 70ml",
+          "handle": "maison-francis-kurkdjian-paris-aqua-celestia-cologne-forte-eau-de-parfum-for-unisex-citrus-perfume-70ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/maison_francis_kurkdjian_aqua_celestia_cologne_forte_70ml_3700559611050_1.jpg?v=1773079592",
+          "price": 885,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Creed",
       "slug": "creed",
       "count": 128,
@@ -2448,56 +2498,6 @@
           "handle": "chloe-le-parfum-for-women-oriental-floral-perfume-50ml-refillable",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616306110878_20250924075300.jpg?v=1775992965",
           "price": 325,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Maison Francis Kurkdjian",
-      "slug": "maison-francis-kurkdjian",
-      "count": 127,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/724-removebg-preview.png?v=1784895304",
-      "preview": [
-        {
-          "name": "Maison Francis Kurkdjian 724 Eau de Parfum, For Men And Women 35ml",
-          "handle": "maison-francis-kurkdjian-724-eau-de-parfum-for-men-and-women-floral-35ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/724-removebg-preview.png?v=1784895304",
-          "price": 741,
-          "badge": ""
-        },
-        {
-          "name": "Maison Francis Kurkdjian Paris Pluriel Feminin Eau De Parfum For Women - Chypre Floral Perfume 70ml",
-          "handle": "maison-francis-kurkdjian-paris-pluriel-feminin-eau-de-parfum-for-women-chypre-floral-perfume-70ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Feminin-Pluriel-Eau-de-Parfum-1.jpg?v=1773081696",
-          "price": 993,
-          "badge": ""
-        },
-        {
-          "name": "Maison Francis Kurkdjian Paris Gentle Fluidity Silver Eau De Parfum For Unisex - Aromatic Spicy Perfume 70ml",
-          "handle": "maison-francis-kurkdjian-paris-gentle-fluidity-silver-eau-de-parfum-for-unisex-aromatic-spicy-perfume-70ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/02xfzoaspz.jpg?v=1773081199",
-          "price": 1164,
-          "badge": ""
-        },
-        {
-          "name": "Maison Francis Kurkdjian Paris Gentle Fluidity Gold Eau De Parfum For Unisex - Oriental Perfume 35ml",
-          "handle": "maison-francis-kurkdjian-paris-gentle-fluidity-gold-eau-de-parfum-for-unisex-oriental-perfume-35ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/BLL660_in_xl.jpg?v=1773080595",
-          "price": 658,
-          "badge": ""
-        },
-        {
-          "name": "Maison Francis Kurkdjian Paris Aqua Celestia Cologne Forte Eau De Parfum For Unisex - Citrus Perfume 70ml",
-          "handle": "maison-francis-kurkdjian-paris-aqua-celestia-cologne-forte-eau-de-parfum-for-unisex-citrus-perfume-70ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/maison_francis_kurkdjian_aqua_celestia_cologne_forte_70ml_3700559611050_1.jpg?v=1773079592",
-          "price": 885,
-          "badge": ""
-        },
-        {
-          "name": "Maison Francis Kurkdjian Paris A La Rose L'Eau Eau De Toilette For Women - Floral-fruity Perfume 70ml",
-          "handle": "maison-francis-kurkdjian-paris-a-la-rose-leau-eau-de-toilette-for-women-floral-fruity-perfume-70ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/AVK688_in_xl.jpg?v=1773079198",
-          "price": 859,
           "badge": ""
         }
       ]
@@ -12203,56 +12203,6 @@
       ]
     },
     {
-      "name": "Fendi",
-      "slug": "fendi",
-      "count": 20,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tb2z5qjqpxxxxbhxpxxxxxxxxxx__36597167.jpg?v=1624536823",
-      "preview": [
-        {
-          "name": "FENDI L'ACQUAROSSA FOR WOMEN MINI EDT 4 ml",
-          "handle": "fendi-lacquarossa-for-women-mini-edt-4-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tb2z5qjqpxxxxbhxpxxxxxxxxxx__36597167.jpg?v=1624536823",
-          "price": 15,
-          "badge": ""
-        },
-        {
-          "name": "Fendi Fan Di Fendi Acqua Pour Homme Mini Perfume For Men EDT 5 ml",
-          "handle": "fendi-fan-di-fendi-acqua-pour-homme-mini-perfume-for-men-edt-5-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/fendi_1.jpg?v=1624530490",
-          "price": 14,
-          "badge": ""
-        },
-        {
-          "name": "Fendi Fan Di Fendi Leather Essence by Fendi - Perfume For Women - EDP  75ml",
-          "handle": "fendi-fan-di-fendi-leather-essence-by-fendi-perfume-for-women-edp-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/fendi_fan_di_fendi_leather_essence_by_fendi_-_perfumes_for_women_-_eau_de_parfum_75ml.jpg?v=1624517696",
-          "price": 217,
-          "badge": ""
-        },
-        {
-          "name": "FENDI L'ACQUAROSSA ELIXIR, WOMEN ,MINI EDP, 4 ml",
-          "handle": "fendi-lacquarossa-elixir-women-mini-edp-4-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/35_fendi.jpg?v=1624509709",
-          "price": 13,
-          "badge": ""
-        },
-        {
-          "name": "Fendi Furiosa For Women Mini Spray Edp 7.5 ml",
-          "handle": "fendi-furiosa-for-women-mini-spray-edp-7-5-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/fendi_furiosa_for_women_mini_spray_edp_7.5_ml.jpg?v=1624495342",
-          "price": 17,
-          "badge": ""
-        },
-        {
-          "name": "Fendi Fan Di Fendi Pour Homme For Men Mini Spray Edt 7.5 ml",
-          "handle": "fendi-fan-di-fendi-pour-homme-for-men-mini-spray-edt-7-5-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/fendi_fan_di_fendi_pour_homme_for_men_mini_spray_edt_7.5_ml.jpg?v=1624495331",
-          "price": 14,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Laura Biagiotti",
       "slug": "laura-biagiotti",
       "count": 19,
@@ -12798,6 +12748,56 @@
           "handle": "blend-oud-voyage-collection-oud-sapphire-perfume-for-unisex-edp-60ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/BlendOudVoyageCollectionOudSapphire_U_Edp60Ml.jpg?v=1649841348",
           "price": 387,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Fendi",
+      "slug": "fendi",
+      "count": 19,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tb2z5qjqpxxxxbhxpxxxxxxxxxx__36597167.jpg?v=1624536823",
+      "preview": [
+        {
+          "name": "FENDI L'ACQUAROSSA FOR WOMEN MINI EDT 4 ml",
+          "handle": "fendi-lacquarossa-for-women-mini-edt-4-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tb2z5qjqpxxxxbhxpxxxxxxxxxx__36597167.jpg?v=1624536823",
+          "price": 15,
+          "badge": ""
+        },
+        {
+          "name": "Fendi Fan Di Fendi Acqua Pour Homme Mini Perfume For Men EDT 5 ml",
+          "handle": "fendi-fan-di-fendi-acqua-pour-homme-mini-perfume-for-men-edt-5-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/fendi_1.jpg?v=1624530490",
+          "price": 14,
+          "badge": ""
+        },
+        {
+          "name": "Fendi Fan Di Fendi Leather Essence by Fendi - Perfume For Women - EDP  75ml",
+          "handle": "fendi-fan-di-fendi-leather-essence-by-fendi-perfume-for-women-edp-75ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/fendi_fan_di_fendi_leather_essence_by_fendi_-_perfumes_for_women_-_eau_de_parfum_75ml.jpg?v=1624517696",
+          "price": 217,
+          "badge": ""
+        },
+        {
+          "name": "FENDI L'ACQUAROSSA ELIXIR, WOMEN ,MINI EDP, 4 ml",
+          "handle": "fendi-lacquarossa-elixir-women-mini-edp-4-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/35_fendi.jpg?v=1624509709",
+          "price": 13,
+          "badge": ""
+        },
+        {
+          "name": "Fendi Furiosa For Women Mini Spray Edp 7.5 ml",
+          "handle": "fendi-furiosa-for-women-mini-spray-edp-7-5-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/fendi_furiosa_for_women_mini_spray_edp_7.5_ml.jpg?v=1624495342",
+          "price": 17,
+          "badge": ""
+        },
+        {
+          "name": "Fendi Fan Di Fendi Pour Homme For Men Mini Spray Edt 7.5 ml",
+          "handle": "fendi-fan-di-fendi-pour-homme-for-men-mini-spray-edt-7-5-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/fendi_fan_di_fendi_pour_homme_for_men_mini_spray_edt_7.5_ml.jpg?v=1624495331",
+          "price": 14,
           "badge": ""
         }
       ]
