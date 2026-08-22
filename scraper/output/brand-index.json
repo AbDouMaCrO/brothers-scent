@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T20:23:51.803Z",
+  "generated_at": "2026-08-22T20:53:24.082Z",
   "total_brands": 889,
   "brands": [
     {
@@ -153,6 +153,56 @@
       ]
     },
     {
+      "name": "Giorgio Armani",
+      "slug": "giorgio-armani",
+      "count": 356,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/armani-resized-Photoroom.png?v=1787430406",
+      "preview": [
+        {
+          "name": "Giorgio Armani Sì Passione Red Musk Eau de Parfum, Floral Fruité Pour Femme For Women 50ml",
+          "handle": "giorgio-armani-si-passione-red-musk-eau-de-parfum-floral-fruite-pour-femme-for-women-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/armani-resized-Photoroom.png?v=1787430406",
+          "price": 418,
+          "badge": ""
+        },
+        {
+          "name": "Giorgio Armani Sì Passione Red Bloom Eau de Parfum, Floral Fruité pour femme For Women 50ml",
+          "handle": "giorgio-armani-si-passione-red-bloom-eau-de-parfum-floral-fruite-pour-femme-for-women-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/red-resized-Photoroom_19261a2e-a22e-4291-a3db-b7a87c7fa073.png?v=1787429929",
+          "price": 455,
+          "badge": ""
+        },
+        {
+          "name": "Giorgio Armani Sì Passione Red Bloom Eau de Parfum, Floral Fruité Pour Femme For Women 100ml",
+          "handle": "giorgio-armani-si-passione-red-bloom-eau-de-parfum-floral-fruite-pour-femme-for-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/red-resized-Photoroom.png?v=1787429652",
+          "price": 567,
+          "badge": ""
+        },
+        {
+          "name": "Giorgio Armani Sì Nüde Bloom Eau de Parfum, Chypre Fruity Fragrance For Women 50ml",
+          "handle": "giorgio-armani-si-nude-bloom-eau-de-parfum-chypre-fruity-fragrance-for-women-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/si-resized-Photoroom_d6a427e6-6cbb-4fa7-b3a0-98f58afe516c.png?v=1787428707",
+          "price": 455,
+          "badge": ""
+        },
+        {
+          "name": "Giorgio Armani Sì Nüde Bloom Eau de Parfum, Chypre Fruity Fragrance For Women 100ml",
+          "handle": "giorgio-armani-si-nude-bloom-eau-de-parfum-chypre-fruity-fragrance-for-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/si-resized-Photoroom.png?v=1787427303",
+          "price": 567,
+          "badge": ""
+        },
+        {
+          "name": "Giorgio Armani Armani Privé Cuir Doré Eau de Parfum Intense, Leather Fragrance For Women And Men 100ml",
+          "handle": "giorgio-armani-armani-prive-cuir-dore-eau-de-parfum-intense-leather-fragrance-for-women-and-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cuir-resized-Photoroom.png?v=1787402516",
+          "price": 1498,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Dolce & Gabbana",
       "slug": "dolce-gabbana",
       "count": 356,
@@ -198,56 +248,6 @@
           "handle": "dolce-and-gabbana-the-one-parfum-for-men-woody-100-ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/the_one_men-removebg-preview.png?v=1782567373",
           "price": 473,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Giorgio Armani",
-      "slug": "giorgio-armani",
-      "count": 354,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/red-resized-Photoroom.png?v=1787429652",
-      "preview": [
-        {
-          "name": "Giorgio Armani Sì Passione Red Bloom Eau de Parfum, Floral Fruité Pour Femme For Women 100ml",
-          "handle": "giorgio-armani-si-passione-red-bloom-eau-de-parfum-floral-fruite-pour-femme-for-women-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/red-resized-Photoroom.png?v=1787429652",
-          "price": 567,
-          "badge": ""
-        },
-        {
-          "name": "Giorgio Armani Sì Nüde Bloom Eau de Parfum, Chypre Fruity Fragrance For Women 50ml",
-          "handle": "giorgio-armani-si-nude-bloom-eau-de-parfum-chypre-fruity-fragrance-for-women-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/si-resized-Photoroom_d6a427e6-6cbb-4fa7-b3a0-98f58afe516c.png?v=1787428707",
-          "price": 455,
-          "badge": ""
-        },
-        {
-          "name": "Giorgio Armani Sì Nüde Bloom Eau de Parfum, Chypre Fruity Fragrance For Women 100ml",
-          "handle": "giorgio-armani-si-nude-bloom-eau-de-parfum-chypre-fruity-fragrance-for-women-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/si-resized-Photoroom.png?v=1787427303",
-          "price": 567,
-          "badge": ""
-        },
-        {
-          "name": "Giorgio Armani Armani Privé Cuir Doré Eau de Parfum Intense, Leather Fragrance For Women And Men 100ml",
-          "handle": "giorgio-armani-armani-prive-cuir-dore-eau-de-parfum-intense-leather-fragrance-for-women-and-men-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cuir-resized-Photoroom.png?v=1787402516",
-          "price": 1498,
-          "badge": ""
-        },
-        {
-          "name": "Armani I Will Eau De Parfum For Men Refillable- Oriental Woody Perfume 60ml",
-          "handle": "armani-i-will-eau-de-parfum-for-men-refillable-oriental-woody-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3614274578690_i-will-eau-de-parfum_60ml_main-v2_1_-Photoroom.png?v=1786851725",
-          "price": 463,
-          "badge": ""
-        },
-        {
-          "name": "Armani I Will Eau De Parfum Refillable For Men- Oriental Woody Perfume 100ml",
-          "handle": "armani-i-will-eau-de-parfume-refillable-for-men-oriental-woody-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3614274578690_i-will-eau-de-parfum_60ml_main-v2-Photoroom_1.png?v=1786800520",
-          "price": 696,
           "badge": ""
         }
       ]
@@ -605,7 +605,7 @@
     {
       "name": "Lattafa",
       "slug": "lattafa",
-      "count": 263,
+      "count": 262,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Maahir_Honor.png?v=1786522827",
       "preview": [
         {
@@ -1603,6 +1603,56 @@
       ]
     },
     {
+      "name": "Lancome",
+      "slug": "lancome",
+      "count": 179,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ooo-resized-Photoroom_029ab83c-5ae3-4f5d-b603-aec069b7b192.png?v=1787431370",
+      "preview": [
+        {
+          "name": "Lancôme O Oui Eau de Toilette, Citrus Fragrance For Women And Men 100ml",
+          "handle": "lancome-o-oui-eau-de-toilette-citrus-fragrance-for-women-and-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ooo-resized-Photoroom_029ab83c-5ae3-4f5d-b603-aec069b7b192.png?v=1787431370",
+          "price": 370,
+          "badge": ""
+        },
+        {
+          "name": "Lancôme Idôle Power Eau de Parfum Intense, Floral Fruity Fragrance For Women 25ml",
+          "handle": "lancome-idole-power-eau-de-parfum-intense-floral-fruity-fragrance-for-women-25ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/lancome-resized-Photoroom.png?v=1787430786",
+          "price": 278,
+          "badge": ""
+        },
+        {
+          "name": "Lancome La Vie Est Belle Vanille Nude Eau De Parfum For Women-Oriental Floral  Perfume 50ml",
+          "handle": "lancome-la-vie-est-belle-vanille-nude-eau-de-parfum-for-women-oriental-floral-perfume-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/53847_NA_1__12493-Photoroom.png?v=1785743796",
+          "price": 396,
+          "badge": ""
+        },
+        {
+          "name": "Lancome Idole L'EAU De Parfum Travel For Women- Chypre Floral Perfume 10ml",
+          "handle": "lancome-idole-leau-de-parfum-travel-for-women-chypre-floral-perfume-10ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ALT0-3614273549745-PACKSHOT-Photoroom.png?v=1785742380",
+          "price": 64,
+          "badge": ""
+        },
+        {
+          "name": "Lancôme Idôle L'Eau de Parfum, Chypre Floral Fragrance For Women 100ml - Refill",
+          "handle": "lancome-idole-leau-de-parfum-for-women-floral-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lanc_me_Id_le_L_Eau_de_Parfum_Chypre_Floral_Fragrance_For_Women_100ml_-_Refill-Photoroom.png?v=1786608416",
+          "price": 379,
+          "badge": ""
+        },
+        {
+          "name": "Lancôme Trésor La Nuit Vanille Noire Eau de Parfum Pour Femme, Oriental Vanillé Fragrance For Women 50ml",
+          "handle": "lancome-tresor-la-nuit-vanille-noire-eau-de-parfum-for-women-amber-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/brown-removebg-preview.png?v=1784894804",
+          "price": 389,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Amouage",
       "slug": "amouage",
       "count": 179,
@@ -1648,56 +1698,6 @@
           "handle": "amouage-line-618-edp-for-men-and-women-woody-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/AmouageLine618Bottle.webp?v=1772292219",
           "price": 1745,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Lancome",
-      "slug": "lancome",
-      "count": 177,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/53847_NA_1__12493-Photoroom.png?v=1785743796",
-      "preview": [
-        {
-          "name": "Lancome La Vie Est Belle Vanille Nude Eau De Parfum For Women-Oriental Floral  Perfume 50ml",
-          "handle": "lancome-la-vie-est-belle-vanille-nude-eau-de-parfum-for-women-oriental-floral-perfume-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/53847_NA_1__12493-Photoroom.png?v=1785743796",
-          "price": 396,
-          "badge": ""
-        },
-        {
-          "name": "Lancome Idole L'EAU De Parfum Travel For Women- Chypre Floral Perfume 10ml",
-          "handle": "lancome-idole-leau-de-parfum-travel-for-women-chypre-floral-perfume-10ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ALT0-3614273549745-PACKSHOT-Photoroom.png?v=1785742380",
-          "price": 64,
-          "badge": ""
-        },
-        {
-          "name": "Lancôme Idôle L'Eau de Parfum, Chypre Floral Fragrance For Women 100ml - Refill",
-          "handle": "lancome-idole-leau-de-parfum-for-women-floral-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lanc_me_Id_le_L_Eau_de_Parfum_Chypre_Floral_Fragrance_For_Women_100ml_-_Refill-Photoroom.png?v=1786608416",
-          "price": 379,
-          "badge": ""
-        },
-        {
-          "name": "Lancôme Trésor La Nuit Vanille Noire Eau de Parfum Pour Femme, Oriental Vanillé Fragrance For Women 50ml",
-          "handle": "lancome-tresor-la-nuit-vanille-noire-eau-de-parfum-for-women-amber-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/brown-removebg-preview.png?v=1784894804",
-          "price": 389,
-          "badge": ""
-        },
-        {
-          "name": "Lancôme Absolue Rose or Die Eau de Parfum, Floral Fragrance For Women 100ml",
-          "handle": "lancome-absolue-rose-or-die-eau-de-parfum-for-women-floral-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rose-removebg-preview.png?v=1784894441",
-          "price": 678,
-          "badge": ""
-        },
-        {
-          "name": "Lancôme Absolue Not Your Rose Eau de Parfum, Floral Fragrance For Women 100ml",
-          "handle": "lancome-absolue-not-your-rose-eau-de-parfum-for-women-floral-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/lancomee-removebg-preview.png?v=1784894098",
-          "price": 678,
           "badge": ""
         }
       ]
@@ -4955,7 +4955,7 @@
     {
       "name": "Estee Lauder",
       "slug": "estee-lauder",
-      "count": 63,
+      "count": 62,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/beautiful-removebg-preview.png?v=1783541453",
       "preview": [
         {
@@ -6353,56 +6353,6 @@
       ]
     },
     {
-      "name": "Escada",
-      "slug": "escada",
-      "count": 43,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616304203626.jpg?v=1767608544",
-      "preview": [
-        {
-          "name": "Escada Chiffon Sorbet Limited Edition Eau De Toilette For Women - Fruity‑floral Perfume 100ml",
-          "handle": "escada-chiffon-sorbet-limited-edition-eau-de-toilette-for-women-fruity-floral-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616304203626.jpg?v=1767608544",
-          "price": 136,
-          "badge": ""
-        },
-        {
-          "name": "Escada Brisa Cubana Limited Edition Perfume For Women EDT 100ml",
-          "handle": "escada-brisa-cubana-limited-edition-perfume-for-women-edt-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616304203572_20240126093719.jpg?v=1751651809",
-          "price": 140,
-          "badge": ""
-        },
-        {
-          "name": "Escada Santorini Sunrise Limited Edition Perfume For Women EDT 100ml",
-          "handle": "escada-santorini-sunrise-limited-edition-perfume-for-women-edt-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616303456313.jpg?v=1746356793",
-          "price": 145,
-          "badge": ""
-        },
-        {
-          "name": "Escada Sorbetto Rosso Limited Edition Perfume For Women EDT 100ml",
-          "handle": "escada-sorbetto-rosso-limited-edition-perfume-for-women-edt-100ml-1",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/a832fc065d44d64f9dc957814c0774fe.webp?v=1746356197",
-          "price": 144,
-          "badge": ""
-        },
-        {
-          "name": "Escada Especially Escada Delicate Notes Perfume For Women EDT 50ml",
-          "handle": "escada-especially-escada-delicate-notes-perfume-for-women-edt-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/EscadaEspeciallyEscadaDelicateNotes_W_Edt50Ml.jpg?v=1698397823",
-          "price": 174,
-          "badge": ""
-        },
-        {
-          "name": "Escada Born In Paradise Perfume For Women EDT 50ml",
-          "handle": "escada-born-in-paradise-perfume-for-women-edt-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/EscadaBornInParadise_W_Edt50Ml.jpg?v=1698397238",
-          "price": 117,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Fragrance World",
       "slug": "fragrance-world",
       "count": 42,
@@ -6848,6 +6798,56 @@
           "handle": "tommy-hilfiger-tommy-vibrant-summer-eau-de-toilette-for-men-aromatic-perfume-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/TommyHilfigerTommyVibrantSummerEauDeToiletteForMen.jpg?v=1768402222",
           "price": 146,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Escada",
+      "slug": "escada",
+      "count": 41,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616304203626.jpg?v=1767608544",
+      "preview": [
+        {
+          "name": "Escada Chiffon Sorbet Limited Edition Eau De Toilette For Women - Fruity‑floral Perfume 100ml",
+          "handle": "escada-chiffon-sorbet-limited-edition-eau-de-toilette-for-women-fruity-floral-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616304203626.jpg?v=1767608544",
+          "price": 136,
+          "badge": ""
+        },
+        {
+          "name": "Escada Brisa Cubana Limited Edition Perfume For Women EDT 100ml",
+          "handle": "escada-brisa-cubana-limited-edition-perfume-for-women-edt-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616304203572_20240126093719.jpg?v=1751651809",
+          "price": 140,
+          "badge": ""
+        },
+        {
+          "name": "Escada Santorini Sunrise Limited Edition Perfume For Women EDT 100ml",
+          "handle": "escada-santorini-sunrise-limited-edition-perfume-for-women-edt-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616303456313.jpg?v=1746356793",
+          "price": 145,
+          "badge": ""
+        },
+        {
+          "name": "Escada Sorbetto Rosso Limited Edition Perfume For Women EDT 100ml",
+          "handle": "escada-sorbetto-rosso-limited-edition-perfume-for-women-edt-100ml-1",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/a832fc065d44d64f9dc957814c0774fe.webp?v=1746356197",
+          "price": 144,
+          "badge": ""
+        },
+        {
+          "name": "Escada Especially Escada Delicate Notes Perfume For Women EDT 50ml",
+          "handle": "escada-especially-escada-delicate-notes-perfume-for-women-edt-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/EscadaEspeciallyEscadaDelicateNotes_W_Edt50Ml.jpg?v=1698397823",
+          "price": 174,
+          "badge": ""
+        },
+        {
+          "name": "Escada Born In Paradise Perfume For Women EDT 50ml",
+          "handle": "escada-born-in-paradise-perfume-for-women-edt-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/EscadaBornInParadise_W_Edt50Ml.jpg?v=1698397238",
+          "price": 117,
           "badge": ""
         }
       ]

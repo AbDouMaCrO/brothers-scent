@@ -1,8 +1,101 @@
 {
-  "scraped_at": "2026-08-22T20:22:41.423Z",
+  "scraped_at": "2026-08-22T20:52:05.057Z",
   "source": "https://samawa.ae",
   "count": 25021,
   "products": [
+    {
+      "name": "Lancôme O Oui Eau de Toilette, Citrus Fragrance For Women And Men 100ml",
+      "brand": "Lancome",
+      "category_slug": "homme",
+      "size": "100ml",
+      "price_retail": 370,
+      "price_gros": 370,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ooo-resized-Photoroom_029ab83c-5ae3-4f5d-b603-aec069b7b192.png?v=1787431370",
+      "active": true,
+      "_handle": "lancome-o-oui-eau-de-toilette-citrus-fragrance-for-women-and-men-100ml",
+      "_sku": "3614274518382",
+      "_tags": [
+        "100ml",
+        "Branded Perfumes",
+        "EDT",
+        "Fragrance",
+        "Men",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/lancome-o-oui-eau-de-toilette-citrus-fragrance-for-women-and-men-100ml"
+    },
+    {
+      "name": "Lancôme Idôle Power Eau de Parfum Intense, Floral Fruity Fragrance For Women 25ml",
+      "brand": "Lancome",
+      "category_slug": "homme",
+      "size": "25ml",
+      "price_retail": 278,
+      "price_gros": 278,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/lancome-resized-Photoroom.png?v=1787430786",
+      "active": true,
+      "_handle": "lancome-idole-power-eau-de-parfum-intense-floral-fruity-fragrance-for-women-25ml",
+      "_sku": "3614274299205",
+      "_tags": [
+        "25ml",
+        "Branded Perfumes",
+        "EDP",
+        "Fragrance",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/lancome-idole-power-eau-de-parfum-intense-floral-fruity-fragrance-for-women-25ml"
+    },
+    {
+      "name": "Giorgio Armani Sì Passione Red Musk Eau de Parfum, Floral Fruité Pour Femme For Women 50ml",
+      "brand": "Giorgio Armani",
+      "category_slug": "homme",
+      "size": "50ml",
+      "price_retail": 418,
+      "price_gros": 418,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/armani-resized-Photoroom.png?v=1787430406",
+      "active": true,
+      "_handle": "giorgio-armani-si-passione-red-musk-eau-de-parfum-floral-fruite-pour-femme-for-women-50ml",
+      "_sku": "3614274459708",
+      "_tags": [
+        "50ml",
+        "Branded Perfumes",
+        "EDP",
+        "Fragrance",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/giorgio-armani-si-passione-red-musk-eau-de-parfum-floral-fruite-pour-femme-for-women-50ml"
+    },
+    {
+      "name": "Giorgio Armani Sì Passione Red Bloom Eau de Parfum, Floral Fruité pour femme For Women 50ml",
+      "brand": "Giorgio Armani",
+      "category_slug": "homme",
+      "size": "50ml",
+      "price_retail": 455,
+      "price_gros": 455,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/red-resized-Photoroom_19261a2e-a22e-4291-a3db-b7a87c7fa073.png?v=1787429929",
+      "active": true,
+      "_handle": "giorgio-armani-si-passione-red-bloom-eau-de-parfum-floral-fruite-pour-femme-for-women-50ml",
+      "_sku": "3614274653335",
+      "_tags": [
+        "50ml",
+        "Branded Perfumes",
+        "EDP",
+        "Fragrance",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/giorgio-armani-si-passione-red-bloom-eau-de-parfum-floral-fruite-pour-femme-for-women-50ml"
+    },
     {
       "name": "Giorgio Armani Sì Passione Red Bloom Eau de Parfum, Floral Fruité Pour Femme For Women 100ml",
       "brand": "Giorgio Armani",
@@ -10418,7 +10511,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 156,
-      "price_gros": 71,
+      "price_gros": 70,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Mishlah_EDP_For_Unisex_100ml.webp?v=1782200858",
@@ -13196,8 +13289,8 @@
       "brand": "Lattafa",
       "category_slug": "homme",
       "size": "100ml",
-      "price_retail": 75,
-      "price_gros": 75,
+      "price_retail": 71,
+      "price_gros": 71,
       "stock": 999,
       "badge": "",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Habik_EDP_For_Women_100ml.jpg?v=1781075753",
@@ -576616,27 +576709,6 @@
       "_url": "https://samawa.ae/products/al-dur-al-maknoon-air-freshener-300ml"
     },
     {
-      "name": "Al Dur Al Maknoon Air Freshener 300ml",
-      "brand": "Lattafa",
-      "category_slug": "oriental",
-      "size": "300ml",
-      "price_retail": 15,
-      "price_gros": 9,
-      "stock": 999,
-      "badge": "SALE",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/al-dur-al-maknoon-air-frshner.jpg?v=1633601361",
-      "active": true,
-      "_handle": "al-dur-al-maknoon-air-freshener-300ml",
-      "_sku": "6291106069303",
-      "_tags": [
-        "300ml",
-        "Bakhoor",
-        "Home Fragrance"
-      ],
-      "_product_type": "Home Fragrance",
-      "_url": "https://samawa.ae/products/al-dur-al-maknoon-air-freshener-300ml"
-    },
-    {
       "name": "Lattafa Mahasin Crystal Violet Air Freshener 300ml",
       "brand": "Lattafa",
       "category_slug": "oriental",
@@ -581986,69 +582058,6 @@
       ],
       "_product_type": "Fragrance",
       "_url": "https://samawa.ae/products/fendi-fan-di-homme-100ml-eau-de-toilette-shower-gel"
-    },
-    {
-      "name": "Estee Lauder Knowing for Women - Eau de Parfum, 75ml",
-      "brand": "Estee Lauder",
-      "category_slug": "homme",
-      "size": "75ml",
-      "price_retail": 222,
-      "price_gros": 222,
-      "stock": 999,
-      "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/knowing_by_estee_lauder_for_women_-_eau_de_parfum_75ml.jpg?v=1624396676",
-      "active": true,
-      "_handle": "estee-lauder-knowing-for-women-eau-de-parfum-75ml",
-      "_sku": "27131006534",
-      "_tags": [
-        "75ml",
-        "Branded Perfumes",
-        "Fragrance"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/estee-lauder-knowing-for-women-eau-de-parfum-75ml"
-    },
-    {
-      "name": "Escada Rockin' Rio For Women Eau De Toillete, 100 ml",
-      "brand": "Escada",
-      "category_slug": "homme",
-      "size": "100ml",
-      "price_retail": 132,
-      "price_gros": 132,
-      "stock": 999,
-      "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/escada_rockin_rio_eau_de_toillete_100_ml_for_women.jpg?v=1624396666",
-      "active": true,
-      "_handle": "escada-rockin-rio-for-women-eau-de-toillete-100-ml",
-      "_sku": "8005610290010",
-      "_tags": [
-        "100ml",
-        "Branded Perfumes",
-        "Fragrance"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/escada-rockin-rio-for-women-eau-de-toillete-100-ml"
-    },
-    {
-      "name": "Escada Joyful for Women - Eau de Parfum, 75ml",
-      "brand": "Escada",
-      "category_slug": "homme",
-      "size": "75ml",
-      "price_retail": 138,
-      "price_gros": 138,
-      "stock": 999,
-      "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/joyful_by_escada_for_women_-_eau_de_parfum_75mls.jpg?v=1624396646",
-      "active": true,
-      "_handle": "escada-joyful-for-women-eau-de-parfum-75ml",
-      "_sku": "737052778341",
-      "_tags": [
-        "75ml",
-        "Branded Perfumes",
-        "Fragrance"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/escada-joyful-for-women-eau-de-parfum-75ml"
     }
   ]
 }
