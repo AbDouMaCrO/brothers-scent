@@ -1,8 +1,32 @@
 {
-  "scraped_at": "2026-08-22T10:51:55.334Z",
+  "scraped_at": "2026-08-22T11:21:51.258Z",
   "source": "https://samawa.ae",
   "count": 25021,
   "products": [
+    {
+      "name": "Etro Palais Jamais Eau de Toilette, Woody Aromatic Fragrance For Women And Men 100ml",
+      "brand": "ETRO",
+      "category_slug": "homme",
+      "size": "100ml",
+      "price_retail": 333,
+      "price_gros": 333,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/etro-resized-Photoroom.png?v=1787396017",
+      "active": true,
+      "_handle": "etro-palais-jamais-eau-de-toilette-woody-aromatic-fragrance-for-women-and-men-100ml",
+      "_sku": "8026247603103",
+      "_tags": [
+        "100ml",
+        "Branded Perfumes",
+        "EDP",
+        "EDT",
+        "Fragrance",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/etro-palais-jamais-eau-de-toilette-woody-aromatic-fragrance-for-women-and-men-100ml"
+    },
     {
       "name": "Amazing Creation Sindbad Perfume For Unisex EDP PFB-515",
       "brand": "Amazing Creation",
@@ -10301,7 +10325,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 156,
-      "price_gros": 71,
+      "price_gros": 75,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Mishlah_EDP_For_Unisex_100ml.webp?v=1782200858",
@@ -201340,7 +201364,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 67,
-      "price_gros": 40,
+      "price_gros": 41,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LattafaAmeerAlArabAsdaafEDPForMen100ml.webp?v=1696832314",
@@ -582018,25 +582042,6 @@
       ],
       "_product_type": "",
       "_url": "https://samawa.ae/products/lattafa-al-dur-al-maknoon-giftset-perfume-for-men-edp-100-ml-deo-200ml"
-    },
-    {
-      "name": "Lattafa Rouat Al Oud Giftset perfume for Men and Woman EDP 100 ml + Deo 200ml",
-      "brand": "Lattafa",
-      "category_slug": "homme",
-      "size": "100ml",
-      "price_retail": 53,
-      "price_gros": 53,
-      "stock": 999,
-      "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/lattafa_rouat_al_oud_gift_set.jpg?v=1624396557",
-      "active": true,
-      "_handle": "lattafa-rouat-al-oud-giftset-perfume-for-men-and-woman-edp-100-ml-deo-200ml",
-      "_sku": "6291107452944",
-      "_tags": [
-        "300ml"
-      ],
-      "_product_type": "",
-      "_url": "https://samawa.ae/products/lattafa-rouat-al-oud-giftset-perfume-for-men-and-woman-edp-100-ml-deo-200ml"
     }
   ]
 }

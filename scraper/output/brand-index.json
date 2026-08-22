@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T10:53:04.099Z",
+  "generated_at": "2026-08-22T11:23:00.067Z",
   "total_brands": 889,
   "brands": [
     {
@@ -605,7 +605,7 @@
     {
       "name": "Lattafa",
       "slug": "lattafa",
-      "count": 265,
+      "count": 264,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Maahir_Honor.png?v=1786522827",
       "preview": [
         {
@@ -22603,6 +22603,56 @@
       ]
     },
     {
+      "name": "ETRO",
+      "slug": "etro",
+      "count": 6,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/etro-resized-Photoroom.png?v=1787396017",
+      "preview": [
+        {
+          "name": "Etro Palais Jamais Eau de Toilette, Woody Aromatic Fragrance For Women And Men 100ml",
+          "handle": "etro-palais-jamais-eau-de-toilette-woody-aromatic-fragrance-for-women-and-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/etro-resized-Photoroom.png?v=1787396017",
+          "price": 333,
+          "badge": ""
+        },
+        {
+          "name": "ETRO PROFUMI MAGOTFOR UNISEX  EDT 100ML",
+          "handle": "etro-profumi-magotfor-unisex-edt-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/690ae3f837cf7edd5cb7d54893fa97e6afa3fe45_img_001-1.jpg?v=1624486849",
+          "price": 354,
+          "badge": ""
+        },
+        {
+          "name": "ETRO PEGASO EAU DE TOILETTE SPRAY FOR UNISEX 100 ML",
+          "handle": "etro-pegaso-eau-de-toilette-spray-for-unisex-100-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/91vlgtb2sul._sl1500.jpg?v=1624486833",
+          "price": 354,
+          "badge": ""
+        },
+        {
+          "name": "ETRO PROFUMI ROYAL PAVILLON EAU DE TOILETTE FOR WOMEN, 100 ML",
+          "handle": "etro-profumi-royal-pavillon-eau-de-toilette-for-women-100-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/07320199906.jpg?v=1624486792",
+          "price": 360,
+          "badge": ""
+        },
+        {
+          "name": "Etro Vicolo Fiori Perfume For Women, EDT, 100 ml",
+          "handle": "etro-vicolo-fiori-perfume-for-women-edt-100-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/8026247003132.jpg?v=1624925547",
+          "price": 355,
+          "badge": ""
+        },
+        {
+          "name": "ETRO Profumi Rajasthan Eau De Perfume For Women, 100 ml",
+          "handle": "etro-profumi-rajasthan-eau-de-perfume-for-women-100-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/etro_profumi_rajasthan_eau_de_perfume_for_women_100_ml.jpg?v=1624472695",
+          "price": 363,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Oriarome",
       "slug": "oriarome",
       "count": 6,
@@ -25510,49 +25560,6 @@
           "handle": "tommy-bahama-set-sail-st-barts-blue-body-spray-170g",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tommy-bahama-set-sail-st.barts-blue-body-spray-170g.jpg?v=1624466488",
           "price": 37,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "ETRO",
-      "slug": "etro",
-      "count": 5,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/690ae3f837cf7edd5cb7d54893fa97e6afa3fe45_img_001-1.jpg?v=1624486849",
-      "preview": [
-        {
-          "name": "ETRO PROFUMI MAGOTFOR UNISEX  EDT 100ML",
-          "handle": "etro-profumi-magotfor-unisex-edt-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/690ae3f837cf7edd5cb7d54893fa97e6afa3fe45_img_001-1.jpg?v=1624486849",
-          "price": 354,
-          "badge": ""
-        },
-        {
-          "name": "ETRO PEGASO EAU DE TOILETTE SPRAY FOR UNISEX 100 ML",
-          "handle": "etro-pegaso-eau-de-toilette-spray-for-unisex-100-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/91vlgtb2sul._sl1500.jpg?v=1624486833",
-          "price": 354,
-          "badge": ""
-        },
-        {
-          "name": "ETRO PROFUMI ROYAL PAVILLON EAU DE TOILETTE FOR WOMEN, 100 ML",
-          "handle": "etro-profumi-royal-pavillon-eau-de-toilette-for-women-100-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/07320199906.jpg?v=1624486792",
-          "price": 360,
-          "badge": ""
-        },
-        {
-          "name": "Etro Vicolo Fiori Perfume For Women, EDT, 100 ml",
-          "handle": "etro-vicolo-fiori-perfume-for-women-edt-100-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/8026247003132.jpg?v=1624925547",
-          "price": 355,
-          "badge": ""
-        },
-        {
-          "name": "ETRO Profumi Rajasthan Eau De Perfume For Women, 100 ml",
-          "handle": "etro-profumi-rajasthan-eau-de-perfume-for-women-100-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/etro_profumi_rajasthan_eau_de_perfume_for_women_100_ml.jpg?v=1624472695",
-          "price": 363,
           "badge": ""
         }
       ]
