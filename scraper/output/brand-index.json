@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T22:52:04.691Z",
+  "generated_at": "2026-08-22T23:22:57.668Z",
   "total_brands": 889,
   "brands": [
     {
@@ -7303,56 +7303,6 @@
       ]
     },
     {
-      "name": "Ferrari",
-      "slug": "ferrari",
-      "count": 37,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/FerrariScuderiaFerrariForte_M_SetEdp75Ml_Bath_ShowerGel200Ml.jpg?v=1659097420",
-      "preview": [
-        {
-          "name": "Ferrari Scuderia Ferrari Forte Gift Set For Men",
-          "handle": "ferrari-scuderia-ferrari-forte-gift-set-for-men",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/FerrariScuderiaFerrariForte_M_SetEdp75Ml_Bath_ShowerGel200Ml.jpg?v=1659097420",
-          "price": 75,
-          "badge": ""
-        },
-        {
-          "name": "Ferrari Uomo Perfume For Men EDT 30ml",
-          "handle": "ferrari-uomo-perfume-for-men-edt-30ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/FerrariUomo_M_Edt30Ml.jpg?v=1659097130",
-          "price": 41,
-          "badge": ""
-        },
-        {
-          "name": "Ferrari Scuderia Ferrari Red Perfume For Men EDT 40ml",
-          "handle": "ferrari-scuderia-ferrari-red-perfume-for-men-edt-40ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/FerrariScuderiaFerrariRed_M_Edt40Ml.jpg?v=1659084330",
-          "price": 46,
-          "badge": ""
-        },
-        {
-          "name": "Ferrari Scuderia Ferrari Racing Red Perfume For Men EDT 40ml",
-          "handle": "ferrari-scuderia-ferrari-racing-red-perfume-for-men-edt-40ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/FerrariScuderiaFerrariRacingRed_M_Edt40Ml.jpg?v=1659083138",
-          "price": 41,
-          "badge": ""
-        },
-        {
-          "name": "Ferrari Scuderia Ferrari Black Signature Perfume For Men EDT 40ml",
-          "handle": "ferrari-scuderia-ferrari-black-signature-perfume-for-men-edt-40ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/FerrariScuderiaFerrariBlackSignature_M_Edt40Ml.jpg?v=1659082802",
-          "price": 48,
-          "badge": ""
-        },
-        {
-          "name": "Ferrari Red Power Ice 3 Perfume For Men EDT 75ml",
-          "handle": "ferrari-red-power-ice-3-perfume-for-men-edt-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/FerrariRedPowerIce3_M_Edt75Ml.jpg?v=1659081522",
-          "price": 56,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Van Cleef & Arpels",
       "slug": "van-cleef-arpels",
       "count": 36,
@@ -7498,6 +7448,56 @@
           "handle": "basso-by-by-sospiro-perfume-for-men-and-women-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/basso___230516.webp?v=1752765853",
           "price": 772,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Ferrari",
+      "slug": "ferrari",
+      "count": 36,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/FerrariScuderiaFerrariForte_M_SetEdp75Ml_Bath_ShowerGel200Ml.jpg?v=1659097420",
+      "preview": [
+        {
+          "name": "Ferrari Scuderia Ferrari Forte Gift Set For Men",
+          "handle": "ferrari-scuderia-ferrari-forte-gift-set-for-men",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/FerrariScuderiaFerrariForte_M_SetEdp75Ml_Bath_ShowerGel200Ml.jpg?v=1659097420",
+          "price": 75,
+          "badge": ""
+        },
+        {
+          "name": "Ferrari Uomo Perfume For Men EDT 30ml",
+          "handle": "ferrari-uomo-perfume-for-men-edt-30ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/FerrariUomo_M_Edt30Ml.jpg?v=1659097130",
+          "price": 41,
+          "badge": ""
+        },
+        {
+          "name": "Ferrari Scuderia Ferrari Red Perfume For Men EDT 40ml",
+          "handle": "ferrari-scuderia-ferrari-red-perfume-for-men-edt-40ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/FerrariScuderiaFerrariRed_M_Edt40Ml.jpg?v=1659084330",
+          "price": 46,
+          "badge": ""
+        },
+        {
+          "name": "Ferrari Scuderia Ferrari Racing Red Perfume For Men EDT 40ml",
+          "handle": "ferrari-scuderia-ferrari-racing-red-perfume-for-men-edt-40ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/FerrariScuderiaFerrariRacingRed_M_Edt40Ml.jpg?v=1659083138",
+          "price": 41,
+          "badge": ""
+        },
+        {
+          "name": "Ferrari Scuderia Ferrari Black Signature Perfume For Men EDT 40ml",
+          "handle": "ferrari-scuderia-ferrari-black-signature-perfume-for-men-edt-40ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/FerrariScuderiaFerrariBlackSignature_M_Edt40Ml.jpg?v=1659082802",
+          "price": 48,
+          "badge": ""
+        },
+        {
+          "name": "Ferrari Red Power Ice 3 Perfume For Men EDT 75ml",
+          "handle": "ferrari-red-power-ice-3-perfume-for-men-edt-75ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/FerrariRedPowerIce3_M_Edt75Ml.jpg?v=1659081522",
+          "price": 56,
           "badge": ""
         }
       ]
@@ -16753,6 +16753,56 @@
       ]
     },
     {
+      "name": "OMANLUXURY",
+      "slug": "omanluxury",
+      "count": 12,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/serenity-resized-Photoroom.png?v=1787440446",
+      "preview": [
+        {
+          "name": "Omanluxury Serenity Eau de Parfum, Fragrance For Women And Men 100ml",
+          "handle": "omanluxury-serenity-eau-de-parfum-fragrance-for-women-and-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/serenity-resized-Photoroom.png?v=1787440446",
+          "price": 813,
+          "badge": ""
+        },
+        {
+          "name": "Omanluxury Nasaj Eau de Parfum, Oriental Floral Fragrance For Women And Men 100ml",
+          "handle": "omanluxury-nasaj-eau-de-parfum-oriental-floral-fragrance-for-women-and-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/nasaj-resized-Photoroom.png?v=1787439975",
+          "price": 1011,
+          "badge": ""
+        },
+        {
+          "name": "Omanluxury Khanjar Eau de Parfum, Fragrance For Women And Men 100ml",
+          "handle": "omanluxury-khanjar-eau-de-parfum-fragrance-for-women-and-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/kkhan-resized-Photoroom.png?v=1787439765",
+          "price": 1011,
+          "badge": ""
+        },
+        {
+          "name": "Omanluxury Hommage 1744 Eau de Parfum, Oriental Woody Fragrance For Women And Men 100ml",
+          "handle": "omanluxury-hommage-1744-eau-de-parfum-oriental-woody-fragrance-for-women-and-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/hommage-resized-Photoroom.png?v=1787439477",
+          "price": 831,
+          "badge": ""
+        },
+        {
+          "name": "Omanluxury  Flowerlush Eau de Parfum, Floral Woody Musk Fragrance For Women And Men 100ml",
+          "handle": "omanluxury-flowerlush-eau-de-parfum-floral-woody-musk-fragrance-for-women-and-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/FLOWWER-resized-Photoroom.png?v=1787439139",
+          "price": 831,
+          "badge": ""
+        },
+        {
+          "name": "Omanluxury Dejan Eau de Parfum, Fragrance For Women And Men 100ml",
+          "handle": "omanluxury-dejan-eau-de-parfum-fragrance-for-women-and-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/dej-resized-Photoroom.png?v=1787438639",
+          "price": 1338,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Ahmed Al Maghribi",
       "slug": "ahmed-al-maghribi",
       "count": 12,
@@ -17598,56 +17648,6 @@
           "handle": "mawaz-floral-fort-perfume-for-unisex-edp-50ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/whatsapp_image_2021-05-06_at_2.05.28_pm_2.jpg?v=1624548540",
           "price": 93,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Gianfranco Ferre",
-      "slug": "gianfranco-ferre",
-      "count": 12,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/gianfranco_ferre_camicia_113_eau_de_toilette_100_ml.jpg?v=1624474202",
-      "preview": [
-        {
-          "name": "Gianfranco Ferre Camicia 113 Eau De Toilette, 100 ml",
-          "handle": "gianfranco-ferre-camicia-113-eau-de-toilette-100-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/gianfranco_ferre_camicia_113_eau_de_toilette_100_ml.jpg?v=1624474202",
-          "price": 73,
-          "badge": ""
-        },
-        {
-          "name": "Ferre Camicia 113 by Gianfranco Ferre - perfumes for women - Eau de Toilette, 50 ml",
-          "handle": "ferre-camicia-113-by-gianfranco-ferre-perfumes-for-women-eau-de-toilette-50-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ferre_camicia_113_by_gianfranco_ferre_-_perfumes_for_women_-_eau_de_toilette_50_ml.jpg?v=1624474127",
-          "price": 50,
-          "badge": ""
-        },
-        {
-          "name": "Gianfranco Ferre L'Uomo Eau De Toilette Spray 50ml",
-          "handle": "gianfranco-ferre-luomo-eau-de-toilette-spray-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/gianfranco_ferre_l_uomo_eau_de_toilette_spray_50ml.jpg?v=1624467021",
-          "price": 56,
-          "badge": ""
-        },
-        {
-          "name": "GIANFRANCO FERRE BLOOMING ROSE FOR WOMEN EDT 100ML",
-          "handle": "gianfranco-ferre-blooming-rose-for-women-edt-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/0013502_ferre-rose-donna-edt-100-spr_600.jpg?v=1624457845",
-          "price": 130,
-          "badge": ""
-        },
-        {
-          "name": "GIANFRANCO FERRE IN THE MOOD FOR LOVE FOR WOMEN EDP 50ML",
-          "handle": "gianfranco-ferre-in-the-mood-for-love-for-women-edp-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/51skugn1ybl._sr600_315_sclzzzzzzz.jpg?v=1624457467",
-          "price": 88,
-          "badge": ""
-        },
-        {
-          "name": "GIANFRANCO FERRE GIEFFEFFE EDT 100ML",
-          "handle": "gianfranco-ferre-gieffeffe-edt-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/8011530041304_6ef65f57eb80ffac8707c16af362b525.jpg?v=1624457439",
-          "price": 86,
           "badge": ""
         }
       ]
@@ -21303,6 +21303,56 @@
       ]
     },
     {
+      "name": "Gianfranco Ferre",
+      "slug": "gianfranco-ferre",
+      "count": 8,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/gianfranco_ferre_camicia_113_eau_de_toilette_100_ml.jpg?v=1624474202",
+      "preview": [
+        {
+          "name": "Gianfranco Ferre Camicia 113 Eau De Toilette, 100 ml",
+          "handle": "gianfranco-ferre-camicia-113-eau-de-toilette-100-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/gianfranco_ferre_camicia_113_eau_de_toilette_100_ml.jpg?v=1624474202",
+          "price": 73,
+          "badge": ""
+        },
+        {
+          "name": "Ferre Camicia 113 by Gianfranco Ferre - perfumes for women - Eau de Toilette, 50 ml",
+          "handle": "ferre-camicia-113-by-gianfranco-ferre-perfumes-for-women-eau-de-toilette-50-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ferre_camicia_113_by_gianfranco_ferre_-_perfumes_for_women_-_eau_de_toilette_50_ml.jpg?v=1624474127",
+          "price": 50,
+          "badge": ""
+        },
+        {
+          "name": "Gianfranco Ferre L'Uomo Eau De Toilette Spray 50ml",
+          "handle": "gianfranco-ferre-luomo-eau-de-toilette-spray-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/gianfranco_ferre_l_uomo_eau_de_toilette_spray_50ml.jpg?v=1624467021",
+          "price": 56,
+          "badge": ""
+        },
+        {
+          "name": "GIANFRANCO FERRE BLOOMING ROSE FOR WOMEN EDT 100ML",
+          "handle": "gianfranco-ferre-blooming-rose-for-women-edt-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/0013502_ferre-rose-donna-edt-100-spr_600.jpg?v=1624457845",
+          "price": 130,
+          "badge": ""
+        },
+        {
+          "name": "GIANFRANCO FERRE IN THE MOOD FOR LOVE FOR WOMEN EDP 50ML",
+          "handle": "gianfranco-ferre-in-the-mood-for-love-for-women-edp-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/51skugn1ybl._sr600_315_sclzzzzzzz.jpg?v=1624457467",
+          "price": 88,
+          "badge": ""
+        },
+        {
+          "name": "GIANFRANCO FERRE GIEFFEFFE EDT 100ML",
+          "handle": "gianfranco-ferre-gieffeffe-edt-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/8011530041304_6ef65f57eb80ffac8707c16af362b525.jpg?v=1624457439",
+          "price": 86,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Nissan",
       "slug": "nissan",
       "count": 8,
@@ -21398,56 +21448,6 @@
           "handle": "beurer-digital-kitchen-scale-lemon-ks19",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ks19-lemon.jpg?v=1624401216",
           "price": 107,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "OMANLUXURY",
-      "slug": "omanluxury",
-      "count": 7,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/dej-resized-Photoroom.png?v=1787438639",
-      "preview": [
-        {
-          "name": "Omanluxury Dejan Eau de Parfum, Fragrance For Women And Men 100ml",
-          "handle": "omanluxury-dejan-eau-de-parfum-fragrance-for-women-and-men-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/dej-resized-Photoroom.png?v=1787438639",
-          "price": 1338,
-          "badge": ""
-        },
-        {
-          "name": "Omanluxury Caden Eau de Parfum, Fragrance For Women And Men 100ml",
-          "handle": "omanluxury-caden-eau-de-parfum-fragrance-for-women-and-men-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/caden-resized-Photoroom.png?v=1787438189",
-          "price": 859,
-          "badge": ""
-        },
-        {
-          "name": "Omanluxury Voyage Eau De Parfum For Unisex- Woody Spicy Perfume 100ml",
-          "handle": "omanluxury-voyage-eau-de-parfum-for-unisex-woody-spicy-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/6b51dd83-4ab5-4845-bba5-2f2c2726c04b.jpg?v=1781451201",
-          "price": 831,
-          "badge": ""
-        },
-        {
-          "name": "Omanluxury Royal Incense  Eau De Parfum For Unisex-  Oriental Woody Perfume 100ml",
-          "handle": "omanluxury-royal-incense-eau-de-parfum-for-unisex-oriental-woody-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/6797_04-parfemova-voda-royal-incense-od-oman-luxury-cena-kc-www-myskino-cz.jpg?v=1781449884",
-          "price": 831,
-          "badge": ""
-        },
-        {
-          "name": "Omanluxury Paramour Eau De Parfum For Unisex-Leather Gourmand Perfume 100ml",
-          "handle": "omanluxury-paramour-eau-de-parfum-for-unisex-leather-gourmand-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/791fd508-ac20-4b00-b694-a18efa153ac4.jpg?v=1781448320",
-          "price": 831,
-          "badge": ""
-        },
-        {
-          "name": "Omanluxury Overdose Eau De Parfum For Unisex-Citrus Aromatic Perfume 100ml",
-          "handle": "omanluxury-overdose-eau-de-parfum-for-unisex-citrus-aromatic-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Overdose_New-Website_Resized_1800x1800_4672bd65-915a-473d-89df-814a66274bcd.jpg?v=1781446953",
-          "price": 831,
           "badge": ""
         }
       ]
