@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T21:23:32.410Z",
+  "generated_at": "2026-08-22T21:50:46.164Z",
   "total_brands": 889,
   "brands": [
     {
@@ -12753,56 +12753,6 @@
       ]
     },
     {
-      "name": "Fendi",
-      "slug": "fendi",
-      "count": 19,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tb2z5qjqpxxxxbhxpxxxxxxxxxx__36597167.jpg?v=1624536823",
-      "preview": [
-        {
-          "name": "FENDI L'ACQUAROSSA FOR WOMEN MINI EDT 4 ml",
-          "handle": "fendi-lacquarossa-for-women-mini-edt-4-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tb2z5qjqpxxxxbhxpxxxxxxxxxx__36597167.jpg?v=1624536823",
-          "price": 15,
-          "badge": ""
-        },
-        {
-          "name": "Fendi Fan Di Fendi Acqua Pour Homme Mini Perfume For Men EDT 5 ml",
-          "handle": "fendi-fan-di-fendi-acqua-pour-homme-mini-perfume-for-men-edt-5-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/fendi_1.jpg?v=1624530490",
-          "price": 14,
-          "badge": ""
-        },
-        {
-          "name": "Fendi Fan Di Fendi Leather Essence by Fendi - Perfume For Women - EDP  75ml",
-          "handle": "fendi-fan-di-fendi-leather-essence-by-fendi-perfume-for-women-edp-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/fendi_fan_di_fendi_leather_essence_by_fendi_-_perfumes_for_women_-_eau_de_parfum_75ml.jpg?v=1624517696",
-          "price": 217,
-          "badge": ""
-        },
-        {
-          "name": "FENDI L'ACQUAROSSA ELIXIR, WOMEN ,MINI EDP, 4 ml",
-          "handle": "fendi-lacquarossa-elixir-women-mini-edp-4-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/35_fendi.jpg?v=1624509709",
-          "price": 13,
-          "badge": ""
-        },
-        {
-          "name": "Fendi Furiosa For Women Mini Spray Edp 7.5 ml",
-          "handle": "fendi-furiosa-for-women-mini-spray-edp-7-5-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/fendi_furiosa_for_women_mini_spray_edp_7.5_ml.jpg?v=1624495342",
-          "price": 17,
-          "badge": ""
-        },
-        {
-          "name": "Fendi Fan Di Fendi Pour Homme For Men Mini Spray Edt 7.5 ml",
-          "handle": "fendi-fan-di-fendi-pour-homme-for-men-mini-spray-edt-7-5-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/fendi_fan_di_fendi_pour_homme_for_men_mini_spray_edt_7.5_ml.jpg?v=1624495331",
-          "price": 14,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Matiere Premiere",
       "slug": "matiere-premiere",
       "count": 18,
@@ -13348,6 +13298,56 @@
           "handle": "spada-avant-guard-for-men-edp-100-ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/dyrey.jpg?v=1624544730",
           "price": 40,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Fendi",
+      "slug": "fendi",
+      "count": 18,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tb2z5qjqpxxxxbhxpxxxxxxxxxx__36597167.jpg?v=1624536823",
+      "preview": [
+        {
+          "name": "FENDI L'ACQUAROSSA FOR WOMEN MINI EDT 4 ml",
+          "handle": "fendi-lacquarossa-for-women-mini-edt-4-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tb2z5qjqpxxxxbhxpxxxxxxxxxx__36597167.jpg?v=1624536823",
+          "price": 15,
+          "badge": ""
+        },
+        {
+          "name": "Fendi Fan Di Fendi Acqua Pour Homme Mini Perfume For Men EDT 5 ml",
+          "handle": "fendi-fan-di-fendi-acqua-pour-homme-mini-perfume-for-men-edt-5-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/fendi_1.jpg?v=1624530490",
+          "price": 14,
+          "badge": ""
+        },
+        {
+          "name": "Fendi Fan Di Fendi Leather Essence by Fendi - Perfume For Women - EDP  75ml",
+          "handle": "fendi-fan-di-fendi-leather-essence-by-fendi-perfume-for-women-edp-75ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/fendi_fan_di_fendi_leather_essence_by_fendi_-_perfumes_for_women_-_eau_de_parfum_75ml.jpg?v=1624517696",
+          "price": 217,
+          "badge": ""
+        },
+        {
+          "name": "FENDI L'ACQUAROSSA ELIXIR, WOMEN ,MINI EDP, 4 ml",
+          "handle": "fendi-lacquarossa-elixir-women-mini-edp-4-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/35_fendi.jpg?v=1624509709",
+          "price": 13,
+          "badge": ""
+        },
+        {
+          "name": "Fendi Furiosa For Women Mini Spray Edp 7.5 ml",
+          "handle": "fendi-furiosa-for-women-mini-spray-edp-7-5-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/fendi_furiosa_for_women_mini_spray_edp_7.5_ml.jpg?v=1624495342",
+          "price": 17,
+          "badge": ""
+        },
+        {
+          "name": "Fendi Fan Di Fendi Pour Homme For Men Mini Spray Edt 7.5 ml",
+          "handle": "fendi-fan-di-fendi-pour-homme-for-men-mini-spray-edt-7-5-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/fendi_fan_di_fendi_pour_homme_for_men_mini_spray_edt_7.5_ml.jpg?v=1624495331",
+          "price": 14,
           "badge": ""
         }
       ]
@@ -25823,6 +25823,42 @@
       ]
     },
     {
+      "name": "MCM",
+      "slug": "mcm",
+      "count": 4,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/mcm-resized-Photoroom.png?v=1787433628",
+      "preview": [
+        {
+          "name": "MCM Onyx Eau de Parfum, For Men 50ml",
+          "handle": "mcm-onyx-eau-de-parfum-for-men-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/mcm-resized-Photoroom.png?v=1787433628",
+          "price": 177,
+          "badge": ""
+        },
+        {
+          "name": "MCM Perfume For Unisex EDP 30ml",
+          "handle": "mcm-perfume-for-unisex-edp-30ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/MCMEDP30ml.jpg?v=1677320114",
+          "price": 168,
+          "badge": ""
+        },
+        {
+          "name": "MCM Perfume For Women EDP 75ml",
+          "handle": "mcm-perfume-for-women-edp-75ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/Mcm_W_Edp75Ml.jpg?v=1654594371",
+          "price": 337,
+          "badge": ""
+        },
+        {
+          "name": "MCM Perfume For Women EDP 50ml",
+          "handle": "mcm-perfume-for-women-edp-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/Mcm_W_Edp50Ml.png?v=1654594008",
+          "price": 222,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Ramón Béjar",
       "slug": "ram-n-b-jar",
       "count": 4,
@@ -28450,35 +28486,6 @@
           "handle": "les-parfums-de-rosine-la-rose-de-rosine-perfume-for-women-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/LesParfumsDeRosineLaRoseDeRosine_W_Edp100MlFr.jpg?v=1638805410",
           "price": 387,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "MCM",
-      "slug": "mcm",
-      "count": 3,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/MCMEDP30ml.jpg?v=1677320114",
-      "preview": [
-        {
-          "name": "MCM Perfume For Unisex EDP 30ml",
-          "handle": "mcm-perfume-for-unisex-edp-30ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/MCMEDP30ml.jpg?v=1677320114",
-          "price": 168,
-          "badge": ""
-        },
-        {
-          "name": "MCM Perfume For Women EDP 75ml",
-          "handle": "mcm-perfume-for-women-edp-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/Mcm_W_Edp75Ml.jpg?v=1654594371",
-          "price": 337,
-          "badge": ""
-        },
-        {
-          "name": "MCM Perfume For Women EDP 50ml",
-          "handle": "mcm-perfume-for-women-edp-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/Mcm_W_Edp50Ml.png?v=1654594008",
-          "price": 222,
           "badge": ""
         }
       ]

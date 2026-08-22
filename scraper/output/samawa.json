@@ -1,8 +1,31 @@
 {
-  "scraped_at": "2026-08-22T21:22:25.847Z",
+  "scraped_at": "2026-08-22T21:49:02.687Z",
   "source": "https://samawa.ae",
   "count": 25021,
   "products": [
+    {
+      "name": "MCM Onyx Eau de Parfum, For Men 50ml",
+      "brand": "MCM",
+      "category_slug": "homme",
+      "size": "50ml",
+      "price_retail": 177,
+      "price_gros": 177,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/mcm-resized-Photoroom.png?v=1787433628",
+      "active": true,
+      "_handle": "mcm-onyx-eau-de-parfum-for-men-50ml",
+      "_sku": "85715151216",
+      "_tags": [
+        "50ml",
+        "Branded Perfumes",
+        "EDP",
+        "Fragrance",
+        "Men"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/mcm-onyx-eau-de-parfum-for-men-50ml"
+    },
     {
       "name": "Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum, Oriental Floral Fragrance For Women And Men 70ml",
       "brand": "Maison Francis Kurkdjian",
@@ -191433,7 +191456,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 83,
-      "price_gros": 62,
+      "price_gros": 61.88,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LattafaBadeeAlOudSublimeEdp100ml.jpg?v=1699864456",
@@ -582040,27 +582063,6 @@
       ],
       "_product_type": "Fragrance",
       "_url": "https://samawa.ae/products/ferrari-amber-essence-for-men-eau-de-parfum-100ml"
-    },
-    {
-      "name": "Fendi Spray Deodorant For Women - 100 ml",
-      "brand": "Fendi",
-      "category_slug": "homme",
-      "size": "100ml",
-      "price_retail": 64,
-      "price_gros": 64,
-      "stock": 999,
-      "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/fendi_spray_deodorant_for_women_-_100_ml.jpg?v=1624396700",
-      "active": true,
-      "_handle": "fendi-spray-deodorant-for-women-100-ml",
-      "_sku": "3274872272194",
-      "_tags": [
-        "100ml",
-        "Branded Perfumes",
-        "Fragrance"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/fendi-spray-deodorant-for-women-100-ml"
     }
   ]
 }
