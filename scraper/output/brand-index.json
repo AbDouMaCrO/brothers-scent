@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T23:49:56.965Z",
+  "generated_at": "2026-08-23T01:14:17.321Z",
   "total_brands": 889,
   "brands": [
     {
@@ -153,56 +153,6 @@
       ]
     },
     {
-      "name": "Giorgio Armani",
-      "slug": "giorgio-armani",
-      "count": 356,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/armani-resized-Photoroom.png?v=1787430406",
-      "preview": [
-        {
-          "name": "Giorgio Armani Sì Passione Red Musk Eau de Parfum, Floral Fruité Pour Femme For Women 50ml",
-          "handle": "giorgio-armani-si-passione-red-musk-eau-de-parfum-floral-fruite-pour-femme-for-women-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/armani-resized-Photoroom.png?v=1787430406",
-          "price": 418,
-          "badge": ""
-        },
-        {
-          "name": "Giorgio Armani Sì Passione Red Bloom Eau de Parfum, Floral Fruité pour femme For Women 50ml",
-          "handle": "giorgio-armani-si-passione-red-bloom-eau-de-parfum-floral-fruite-pour-femme-for-women-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/red-resized-Photoroom_19261a2e-a22e-4291-a3db-b7a87c7fa073.png?v=1787429929",
-          "price": 455,
-          "badge": ""
-        },
-        {
-          "name": "Giorgio Armani Sì Passione Red Bloom Eau de Parfum, Floral Fruité Pour Femme For Women 100ml",
-          "handle": "giorgio-armani-si-passione-red-bloom-eau-de-parfum-floral-fruite-pour-femme-for-women-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/red-resized-Photoroom.png?v=1787429652",
-          "price": 567,
-          "badge": ""
-        },
-        {
-          "name": "Giorgio Armani Sì Nüde Bloom Eau de Parfum, Chypre Fruity Fragrance For Women 50ml",
-          "handle": "giorgio-armani-si-nude-bloom-eau-de-parfum-chypre-fruity-fragrance-for-women-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/si-resized-Photoroom_d6a427e6-6cbb-4fa7-b3a0-98f58afe516c.png?v=1787428707",
-          "price": 455,
-          "badge": ""
-        },
-        {
-          "name": "Giorgio Armani Sì Nüde Bloom Eau de Parfum, Chypre Fruity Fragrance For Women 100ml",
-          "handle": "giorgio-armani-si-nude-bloom-eau-de-parfum-chypre-fruity-fragrance-for-women-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/si-resized-Photoroom.png?v=1787427303",
-          "price": 567,
-          "badge": ""
-        },
-        {
-          "name": "Giorgio Armani Armani Privé Cuir Doré Eau de Parfum Intense, Leather Fragrance For Women And Men 100ml",
-          "handle": "giorgio-armani-armani-prive-cuir-dore-eau-de-parfum-intense-leather-fragrance-for-women-and-men-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cuir-resized-Photoroom.png?v=1787402516",
-          "price": 1498,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Dolce & Gabbana",
       "slug": "dolce-gabbana",
       "count": 356,
@@ -253,11 +203,75 @@
       ]
     },
     {
+      "name": "Giorgio Armani",
+      "slug": "giorgio-armani",
+      "count": 355,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/armani-resized-Photoroom.png?v=1787430406",
+      "preview": [
+        {
+          "name": "Giorgio Armani Sì Passione Red Musk Eau de Parfum, Floral Fruité Pour Femme For Women 50ml",
+          "handle": "giorgio-armani-si-passione-red-musk-eau-de-parfum-floral-fruite-pour-femme-for-women-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/armani-resized-Photoroom.png?v=1787430406",
+          "price": 418,
+          "badge": ""
+        },
+        {
+          "name": "Giorgio Armani Sì Passione Red Bloom Eau de Parfum, Floral Fruité pour femme For Women 50ml",
+          "handle": "giorgio-armani-si-passione-red-bloom-eau-de-parfum-floral-fruite-pour-femme-for-women-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/red-resized-Photoroom_19261a2e-a22e-4291-a3db-b7a87c7fa073.png?v=1787429929",
+          "price": 455,
+          "badge": ""
+        },
+        {
+          "name": "Giorgio Armani Sì Passione Red Bloom Eau de Parfum, Floral Fruité Pour Femme For Women 100ml",
+          "handle": "giorgio-armani-si-passione-red-bloom-eau-de-parfum-floral-fruite-pour-femme-for-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/red-resized-Photoroom.png?v=1787429652",
+          "price": 567,
+          "badge": ""
+        },
+        {
+          "name": "Giorgio Armani Sì Nüde Bloom Eau de Parfum, Chypre Fruity Fragrance For Women 50ml",
+          "handle": "giorgio-armani-si-nude-bloom-eau-de-parfum-chypre-fruity-fragrance-for-women-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/si-resized-Photoroom_d6a427e6-6cbb-4fa7-b3a0-98f58afe516c.png?v=1787428707",
+          "price": 455,
+          "badge": ""
+        },
+        {
+          "name": "Giorgio Armani Sì Nüde Bloom Eau de Parfum, Chypre Fruity Fragrance For Women 100ml",
+          "handle": "giorgio-armani-si-nude-bloom-eau-de-parfum-chypre-fruity-fragrance-for-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/si-resized-Photoroom.png?v=1787427303",
+          "price": 567,
+          "badge": ""
+        },
+        {
+          "name": "Giorgio Armani Armani Privé Cuir Doré Eau de Parfum Intense, Leather Fragrance For Women And Men 100ml",
+          "handle": "giorgio-armani-armani-prive-cuir-dore-eau-de-parfum-intense-leather-fragrance-for-women-and-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cuir-resized-Photoroom.png?v=1787402516",
+          "price": 1498,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Christian Dior",
       "slug": "christian-dior",
-      "count": 345,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/dior-resized-Photoroom.png?v=1787398898",
+      "count": 347,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/suaa-resized-Photoroom.png?v=1787445790",
       "preview": [
+        {
+          "name": "Christian Dior Gift Set, For Men",
+          "handle": "christian-dior-gift-set-for-men",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/suaa-resized-Photoroom.png?v=1787445790",
+          "price": 841,
+          "badge": ""
+        },
+        {
+          "name": "Christian Dior Gift Set, For Women",
+          "handle": "christian-dior-gift-set-for-women",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/miss-resized-Photoroom.png?v=1787445202",
+          "price": 841,
+          "badge": ""
+        },
         {
           "name": "Christian Dior Miss Dior Parfum, Chypre Fruity Fragrance For Women 125ml",
           "handle": "christian-dior-miss-dior-parfum-chypre-fruity-fragrance-for-women-125ml",
@@ -283,20 +297,6 @@
           "name": "Christian Dior Addict Purple Glow Eau de Parfum, Floral Fruity Gourmand Fragrance For Women 50ml",
           "handle": "christian-dior-addict-purple-glow-eau-de-parfum-for-women-floral-50ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/purple-removebg_aae3b397-8439-470e-a52a-3b1ffd7a02c9.png?v=1784536008",
-          "price": 603,
-          "badge": ""
-        },
-        {
-          "name": "Christian Dior Addict Purple Glow Eau de Parfum, Floral Fruity Gourmand Fragrance For Women 100ml",
-          "handle": "christian-dior-addict-purple-glow-eau-de-parfum-for-women-floral-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/purple-removebg.png?v=1784491609",
-          "price": 939,
-          "badge": ""
-        },
-        {
-          "name": "Christian Dior Addict Peachy Glow Eau de Parfum, Floral Fruity Gourmand Fragrance For Women 50ml",
-          "handle": "christian-dior-addict-peachy-glow-eau-de-parfum-for-women-floral-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/50-removebg.png?v=1784489964",
           "price": 603,
           "badge": ""
         }
@@ -605,7 +605,7 @@
     {
       "name": "Lattafa",
       "slug": "lattafa",
-      "count": 262,
+      "count": 260,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Maahir_Honor.png?v=1786522827",
       "preview": [
         {
@@ -755,9 +755,16 @@
     {
       "name": "Yves Saint Laurent",
       "slug": "yves-saint-laurent",
-      "count": 253,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3614274479058-Photoroom.png?v=1785916106",
+      "count": 254,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/my-resized-Photoroom.png?v=1787444115",
       "preview": [
+        {
+          "name": "Yves Saint Laurent Myself Eau de Parfum Refillable, Aromatic Fragrance For Men 150ml",
+          "handle": "yves-saint-laurent-myself-eau-de-parfum-refillable-aromatic-fragrance-for-men-150ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/my-resized-Photoroom.png?v=1787444115",
+          "price": 696,
+          "badge": ""
+        },
         {
           "name": "Yves Saint Laurent Myslf Eau De Toilette Intense For Men-Woody Floral Musk Perfume 60ml",
           "handle": "ysl-myslf-eau-de-toilette-intense-for-men-woody-floral-musk-perfume-60ml",
@@ -791,13 +798,6 @@
           "handle": "yves-saint-laurent-muse-inspiring-ink-eau-de-parfum-for-unisex-woody-floral-musk-perfume-75ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3614274184983_1.jpg?v=1781586935",
           "price": 859,
-          "badge": ""
-        },
-        {
-          "name": "Yves Saint Laurent Capeline Alluring Lily Eau De Parfum For Unisex- Oriental Floral Perfume 75ml",
-          "handle": "yves-saint-laurent-capeline-alluring-lily-eau-de-parfum-for-unisex-oriental-floral-perfume-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/u_3614274185010_01.jpg?v=1781585358",
-          "price": 903,
           "badge": ""
         }
       ]
@@ -1205,9 +1205,16 @@
     {
       "name": "Tom Ford",
       "slug": "tom-ford",
-      "count": 209,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/OUD-resized-Photoroom.png?v=1787441337",
+      "count": 210,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/tomford-resized-Photoroom.png?v=1787442280",
       "preview": [
+        {
+          "name": "Tom Ford Oud Wood Eau de Parfum Miniature Refillable, Fragrance For Men And Women 10ml",
+          "handle": "tom-ford-oud-wood-eau-de-parfum-miniature-refillable-fragrance-for-men-and-women-10ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/tomford-resized-Photoroom.png?v=1787442280",
+          "price": 269,
+          "badge": ""
+        },
         {
           "name": "Tom Ford Oud Voyager Eau de Parfum, Oriental Woody Fragrance For Women And Men 30ml",
           "handle": "tom-ford-oud-voyager-eau-de-parfum-oriental-woody-fragrance-for-women-and-men-30ml",
@@ -1241,13 +1248,6 @@
           "handle": "tom-ford-soleil-de-feu-eau-de-parfum-for-women-oriental-woody-perfume-30ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/514qj5RT0H-000000000494273769_1.png?v=1781534061",
           "price": 595,
-          "badge": ""
-        },
-        {
-          "name": "Tom Ford Soleil Brulant Eau De Parfum For Unisex- Oriental Woody Perfume 30ml",
-          "handle": "tom-ford-soleil-brulant-eau-de-parfum-for-unisex-oriental-woody-perfume-30ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/888066131377_0.jpg?v=1781519977",
-          "price": 585,
           "badge": ""
         }
       ]
@@ -2053,6 +2053,56 @@
       ]
     },
     {
+      "name": "Azzaro",
+      "slug": "azzaro",
+      "count": 142,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/azzaro-resized-Photoroom.png?v=1787444622",
+      "preview": [
+        {
+          "name": "Azzaro Gift Set, For Men",
+          "handle": "azzaro-gift-set-for-men",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/azzaro-resized-Photoroom.png?v=1787444622",
+          "price": 370,
+          "badge": ""
+        },
+        {
+          "name": "Gift Set For Men-Azzaro",
+          "handle": "azzaro-gift-set-for-men-amber-2",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/wantedd-removebg-preview.png?v=1785266731",
+          "price": 343,
+          "badge": ""
+        },
+        {
+          "name": "Azzaro Gift Set For Men",
+          "handle": "azzaro-gift-set-for-men-amber-1",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/azzaro-removebg-preview.png?v=1785261828",
+          "price": 399,
+          "badge": ""
+        },
+        {
+          "name": "Azzaro Gift Set For Men",
+          "handle": "azzaro-gift-set-for-men-amber",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/azzaro-removebg.png?v=1784822151",
+          "price": 269,
+          "badge": ""
+        },
+        {
+          "name": "Azzaro The Most Wanted Deodorant Stick For Men 77g",
+          "handle": "azzaro-the-most-wanted-deodorant-stick-for-men-amber-77g",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/the_most-removebg.png?v=1784582273",
+          "price": 67,
+          "badge": ""
+        },
+        {
+          "name": "Azzaro Chrome Gift Set For Men",
+          "handle": "azzaro-chrome-gift-set-for-men-2",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Azzaro-Chrome-Gift-Set-Mens-3614274411133_57993__70331.1752248323.jpg?v=1767275706",
+          "price": 293,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Ralph Lauren",
       "slug": "ralph-lauren",
       "count": 142,
@@ -2099,56 +2149,6 @@
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/4874846301.jpg?v=1767804442",
           "price": 306,
           "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Azzaro",
-      "slug": "azzaro",
-      "count": 141,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/wantedd-removebg-preview.png?v=1785266731",
-      "preview": [
-        {
-          "name": "Gift Set For Men-Azzaro",
-          "handle": "azzaro-gift-set-for-men-amber-2",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/wantedd-removebg-preview.png?v=1785266731",
-          "price": 343,
-          "badge": ""
-        },
-        {
-          "name": "Azzaro Gift Set For Men",
-          "handle": "azzaro-gift-set-for-men-amber-1",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/azzaro-removebg-preview.png?v=1785261828",
-          "price": 399,
-          "badge": ""
-        },
-        {
-          "name": "Azzaro Gift Set For Men",
-          "handle": "azzaro-gift-set-for-men-amber",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/azzaro-removebg.png?v=1784822151",
-          "price": 269,
-          "badge": ""
-        },
-        {
-          "name": "Azzaro The Most Wanted Deodorant Stick For Men 77g",
-          "handle": "azzaro-the-most-wanted-deodorant-stick-for-men-amber-77g",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/the_most-removebg.png?v=1784582273",
-          "price": 67,
-          "badge": ""
-        },
-        {
-          "name": "Azzaro Chrome Gift Set For Men",
-          "handle": "azzaro-chrome-gift-set-for-men-2",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Azzaro-Chrome-Gift-Set-Mens-3614274411133_57993__70331.1752248323.jpg?v=1767275706",
-          "price": 293,
-          "badge": ""
-        },
-        {
-          "name": "Azzaro Forever Wanted Elixir Perfume For Men Parfum 50ml",
-          "handle": "azzaro-forever-wanted-elixir-perfume-for-men-parfum-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3614274258080.jpg?v=1751458009",
-          "price": 273,
-          "badge": "SALE"
         }
       ]
     },
@@ -2853,6 +2853,56 @@
       ]
     },
     {
+      "name": "Valentino",
+      "slug": "valentino",
+      "count": 118,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/valentino-resized-Photoroom.png?v=1787443633",
+      "preview": [
+        {
+          "name": "Valentino Valentina Eau de Parfum, Oriental Floral Fragrance For Women 50ml",
+          "handle": "valentino-valentina-eau-de-parfum-oriental-floral-fragrance-for-women-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/valentino-resized-Photoroom.png?v=1787443633",
+          "price": 278,
+          "badge": ""
+        },
+        {
+          "name": "Valentino Donna Born In Roma Purple Melancholia Eau De Parfum For Women- Floral Fruity Perfume 100ml",
+          "handle": "valentino-donna-born-in-roma-purple-melancholia-eau-de-parfum-for-women-floral-fruity-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Born-In-Roma-Purple-Melancholia-Eau-De-Parfum-100Ml-Photoroom.png?v=1785905466",
+          "price": 574,
+          "badge": ""
+        },
+        {
+          "name": "Valentino Uomo Born in Roma Intense Eau De Parfum For Men-Oriental Vanilla Perfume 50ml",
+          "handle": "valentino-uomo-born-in-roma-intense-eau-de-parfum-for-men-oriental-vanilla-perfume-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/R5kNXzS_ZR-1-Photoroom.png?v=1785215673",
+          "price": 379,
+          "badge": ""
+        },
+        {
+          "name": "Valentino Donna Born in Roma Green Stravaganza Edp For Women Floral 30ml",
+          "handle": "valentino-donna-born-in-roma-green-stravaganza-edp-for-women-floral-30ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/v_7d0619ef-873a-46db-b145-235567295e9a.png?v=1783505155",
+          "price": 315,
+          "badge": ""
+        },
+        {
+          "name": "Valentino Uomo Born In Roma Extradose Parfum For Men- Amber Woody Perfume 50ml",
+          "handle": "valentino-uomo-born-in-roma-extradose-parfum-for-men-amber-woody-perfume-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/it-mPrF2QI-1184823_1.jpg?v=1781540717",
+          "price": 325,
+          "badge": ""
+        },
+        {
+          "name": "Valentino Uomo Born In Roma Purple Melancholia Eau De Toilette For Men - Woody Aromatic Perfume 100ml",
+          "handle": "valentino-uomo-born-in-roma-purple-melancholia-eau-de-toilette-for-men-woody-aromatic-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/valentino-mens-uomo-born-in-roma-purple-melancholia-edt-spray-34-oz-fragrances-3614274626872_2.jpg?v=1777796035",
+          "price": 524,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Jimmy Choo",
       "slug": "jimmy-choo",
       "count": 118,
@@ -2998,56 +3048,6 @@
           "handle": "goutal-paris-gift-set-for-women",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/goutal.webp?v=1769359083",
           "price": 537,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Valentino",
-      "slug": "valentino",
-      "count": 117,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Born-In-Roma-Purple-Melancholia-Eau-De-Parfum-100Ml-Photoroom.png?v=1785905466",
-      "preview": [
-        {
-          "name": "Valentino Donna Born In Roma Purple Melancholia Eau De Parfum For Women- Floral Fruity Perfume 100ml",
-          "handle": "valentino-donna-born-in-roma-purple-melancholia-eau-de-parfum-for-women-floral-fruity-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Born-In-Roma-Purple-Melancholia-Eau-De-Parfum-100Ml-Photoroom.png?v=1785905466",
-          "price": 574,
-          "badge": ""
-        },
-        {
-          "name": "Valentino Uomo Born in Roma Intense Eau De Parfum For Men-Oriental Vanilla Perfume 50ml",
-          "handle": "valentino-uomo-born-in-roma-intense-eau-de-parfum-for-men-oriental-vanilla-perfume-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/R5kNXzS_ZR-1-Photoroom.png?v=1785215673",
-          "price": 379,
-          "badge": ""
-        },
-        {
-          "name": "Valentino Donna Born in Roma Green Stravaganza Edp For Women Floral 30ml",
-          "handle": "valentino-donna-born-in-roma-green-stravaganza-edp-for-women-floral-30ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/v_7d0619ef-873a-46db-b145-235567295e9a.png?v=1783505155",
-          "price": 315,
-          "badge": ""
-        },
-        {
-          "name": "Valentino Uomo Born In Roma Extradose Parfum For Men- Amber Woody Perfume 50ml",
-          "handle": "valentino-uomo-born-in-roma-extradose-parfum-for-men-amber-woody-perfume-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/it-mPrF2QI-1184823_1.jpg?v=1781540717",
-          "price": 325,
-          "badge": ""
-        },
-        {
-          "name": "Valentino Uomo Born In Roma Purple Melancholia Eau De Toilette For Men - Woody Aromatic Perfume 100ml",
-          "handle": "valentino-uomo-born-in-roma-purple-melancholia-eau-de-toilette-for-men-woody-aromatic-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/valentino-mens-uomo-born-in-roma-purple-melancholia-edt-spray-34-oz-fragrances-3614274626872_2.jpg?v=1777796035",
-          "price": 524,
-          "badge": ""
-        },
-        {
-          "name": "Valentino Uomo Born in Roma Green Stravaganza Eau de Toilette For Men Fou­gère 50 ml",
-          "handle": "valentino-uomo-born-in-roma-green-stravaganza-eau-de-toilette-for-men-fou-gere-50-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/valentino.avif?v=1772301379",
-          "price": 315,
           "badge": ""
         }
       ]
@@ -3353,56 +3353,6 @@
       ]
     },
     {
-      "name": "Ard Al Zafraan",
-      "slug": "ard-al-zafraan",
-      "count": 96,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/botllll-removebg.png?v=1785758622",
-      "preview": [
-        {
-          "name": "Ard Al Zaafaran Sheikh Shuyukh Eau de Parfum, Woody Spicy Fragrance For Men And Women 50ml",
-          "handle": "ard-al-zaafaran-sheikh-shuyukh-eau-de-parfum-for-men-and-women-woody-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/botllll-removebg.png?v=1785758622",
-          "price": 26,
-          "badge": ""
-        },
-        {
-          "name": "Rasasi Mousuf Wardi Eau de Parfum For Women Floral 100ml",
-          "handle": "rasasi-mousuf-wardi-eau-de-parfum-for-women-floral-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/mousuf.webp?v=1782571957",
-          "price": 54,
-          "badge": ""
-        },
-        {
-          "name": "Ard Al Zaafaran Qaed Al Fursan  Eau De Parfum For Men-Oriental Woody Perfume 50ml",
-          "handle": "ard-al-zaafaran-qaed-al-fursan-eau-de-parfum-for-men-oriental-woody-perfume-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/QAEDALFURSAN50ML_1.png?v=1782227346",
-          "price": 26,
-          "badge": ""
-        },
-        {
-          "name": "Ard Al Zaafaran  Rose Paris EDP For Women 100ml",
-          "handle": "ard-al-zaafaran-rose-paris-edp-for-women-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Ard_Al_Zaafaran_Rose_Paris.jpg?v=1773046114",
-          "price": 36,
-          "badge": ""
-        },
-        {
-          "name": "Ard Al Zaafaran Romancea For Unisex EDP 50ml",
-          "handle": "ard-al-zaafaran-romancea-for-unisex-edp50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Ard_Al_Zaafaran_Romancea_For_Unisex_EDP_50ml.jpg?v=1769677215",
-          "price": 12,
-          "badge": ""
-        },
-        {
-          "name": "Ard Al Zaafaran Oud Romancea Edp For Men And Women Oriental 50ml",
-          "handle": "ard-al-zaafaran-oud-romancea-edp-for-men-and-women-oriental-50ml-1",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/romancea.webp?v=1769177685",
-          "price": 26,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "AMD Perfumes",
       "slug": "amd-perfumes",
       "count": 96,
@@ -3449,6 +3399,56 @@
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/AMD_Perfumes_Ruaa_EDP_For_Unisex_100ml.jpg?v=1775548035",
           "price": 51,
           "badge": "SALE"
+        }
+      ]
+    },
+    {
+      "name": "Ard Al Zafraan",
+      "slug": "ard-al-zafraan",
+      "count": 95,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/botllll-removebg.png?v=1785758622",
+      "preview": [
+        {
+          "name": "Ard Al Zaafaran Sheikh Shuyukh Eau de Parfum, Woody Spicy Fragrance For Men And Women 50ml",
+          "handle": "ard-al-zaafaran-sheikh-shuyukh-eau-de-parfum-for-men-and-women-woody-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/botllll-removebg.png?v=1785758622",
+          "price": 26,
+          "badge": ""
+        },
+        {
+          "name": "Rasasi Mousuf Wardi Eau de Parfum For Women Floral 100ml",
+          "handle": "rasasi-mousuf-wardi-eau-de-parfum-for-women-floral-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/mousuf.webp?v=1782571957",
+          "price": 54,
+          "badge": ""
+        },
+        {
+          "name": "Ard Al Zaafaran Qaed Al Fursan  Eau De Parfum For Men-Oriental Woody Perfume 50ml",
+          "handle": "ard-al-zaafaran-qaed-al-fursan-eau-de-parfum-for-men-oriental-woody-perfume-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/QAEDALFURSAN50ML_1.png?v=1782227346",
+          "price": 26,
+          "badge": ""
+        },
+        {
+          "name": "Ard Al Zaafaran  Rose Paris EDP For Women 100ml",
+          "handle": "ard-al-zaafaran-rose-paris-edp-for-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Ard_Al_Zaafaran_Rose_Paris.jpg?v=1773046114",
+          "price": 36,
+          "badge": ""
+        },
+        {
+          "name": "Ard Al Zaafaran Romancea For Unisex EDP 50ml",
+          "handle": "ard-al-zaafaran-romancea-for-unisex-edp50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Ard_Al_Zaafaran_Romancea_For_Unisex_EDP_50ml.jpg?v=1769677215",
+          "price": 12,
+          "badge": ""
+        },
+        {
+          "name": "Ard Al Zaafaran Oud Romancea Edp For Men And Women Oriental 50ml",
+          "handle": "ard-al-zaafaran-oud-romancea-edp-for-men-and-women-oriental-50ml-1",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/romancea.webp?v=1769177685",
+          "price": 26,
+          "badge": ""
         }
       ]
     },
@@ -11453,56 +11453,6 @@
       ]
     },
     {
-      "name": "Vurv",
-      "slug": "vurv",
-      "count": 21,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tn2_0_07999500_1633406164.jpg?v=1661848280",
-      "preview": [
-        {
-          "name": "Vurv Rivage Femme EDP For Women 100ml",
-          "handle": "vurv-rivage-femme-edp-for-women-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tn2_0_07999500_1633406164.jpg?v=1661848280",
-          "price": 33,
-          "badge": ""
-        },
-        {
-          "name": "Vurv Octave Women - Deodorant Body Spray For Women - 200 ml",
-          "handle": "vurv-octave-women-deodorant-body-spray-for-women-200-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv_octave_woman_deo.jpg?v=1624521999",
-          "price": 8,
-          "badge": ""
-        },
-        {
-          "name": "Vurv Rivage Gift Set for Men (EDP 100ml & 200ml Deodorant)",
-          "handle": "vurv-rivage-gift-set-for-men-edp-100ml-200ml-deodorant",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/rivage-gift-set.jpg?v=1633422754",
-          "price": 52,
-          "badge": ""
-        },
-        {
-          "name": "Vurv Octave perfume for women, EDP 100ml",
-          "handle": "vurv-octave-perfume-for-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv-octave-woman-edp-100ml_1.jpg?v=1624444636",
-          "price": 39,
-          "badge": "SALE"
-        },
-        {
-          "name": "Vurv Prive club Homme for Men EDP 100ml",
-          "handle": "vurv-prive-club-homme-for-men-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/92706_01b12827ef7d386f09edf68d604bca08_prive_club_pour_homme.jpg?v=1633422763",
-          "price": 42,
-          "badge": ""
-        },
-        {
-          "name": "Vurv Waltz pour Homme Perfume For Men, Eau De Parfum,  100 ML",
-          "handle": "vurv-waltz-pour-homme-perfume-for-men-eau-de-parfum-100-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv-waltz.jpg?v=1624401524",
-          "price": 43,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Nuparfume",
       "slug": "nuparfume",
       "count": 21,
@@ -12098,6 +12048,56 @@
           "handle": "miss-kay-urban-love-perfume-for-women-edp-25ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/MissKayUrbanLove_W_Edp25Ml.png?v=1664538424",
           "price": 32,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Vurv",
+      "slug": "vurv",
+      "count": 20,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tn2_0_07999500_1633406164.jpg?v=1661848280",
+      "preview": [
+        {
+          "name": "Vurv Rivage Femme EDP For Women 100ml",
+          "handle": "vurv-rivage-femme-edp-for-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tn2_0_07999500_1633406164.jpg?v=1661848280",
+          "price": 33,
+          "badge": ""
+        },
+        {
+          "name": "Vurv Octave Women - Deodorant Body Spray For Women - 200 ml",
+          "handle": "vurv-octave-women-deodorant-body-spray-for-women-200-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv_octave_woman_deo.jpg?v=1624521999",
+          "price": 8,
+          "badge": ""
+        },
+        {
+          "name": "Vurv Rivage Gift Set for Men (EDP 100ml & 200ml Deodorant)",
+          "handle": "vurv-rivage-gift-set-for-men-edp-100ml-200ml-deodorant",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/rivage-gift-set.jpg?v=1633422754",
+          "price": 52,
+          "badge": ""
+        },
+        {
+          "name": "Vurv Octave perfume for women, EDP 100ml",
+          "handle": "vurv-octave-perfume-for-women-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv-octave-woman-edp-100ml_1.jpg?v=1624444636",
+          "price": 39,
+          "badge": "SALE"
+        },
+        {
+          "name": "Vurv Prive club Homme for Men EDP 100ml",
+          "handle": "vurv-prive-club-homme-for-men-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/92706_01b12827ef7d386f09edf68d604bca08_prive_club_pour_homme.jpg?v=1633422763",
+          "price": 42,
+          "badge": ""
+        },
+        {
+          "name": "Vurv Waltz pour Homme Perfume For Men, Eau De Parfum,  100 ML",
+          "handle": "vurv-waltz-pour-homme-perfume-for-men-eau-de-parfum-100-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv-waltz.jpg?v=1624401524",
+          "price": 43,
           "badge": ""
         }
       ]
@@ -16303,56 +16303,6 @@
       ]
     },
     {
-      "name": "Al Raheeb",
-      "slug": "al-raheeb",
-      "count": 13,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Spanish_Vanilla.jpg?v=1750054105",
-      "preview": [
-        {
-          "name": "Al Rehab Spanish Vanilla EDP For Women 100ml",
-          "handle": "al-rehab-spanish-vanilla-edp-for-unisex-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Spanish_Vanilla.jpg?v=1750054105",
-          "price": 46,
-          "badge": "SALE"
-        },
-        {
-          "name": "Al Rehab Zidan 35ml",
-          "handle": "al-rehab-zidan-35ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/oretwq.jpg?v=1624551789",
-          "price": 15,
-          "badge": ""
-        },
-        {
-          "name": "Al Rehab White Musk Edp 35ml",
-          "handle": "al-rehab-white-musk-edp-35ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/6a1304a6-3f0d-4530-99af-3d11b4fbd670_1.296f21435012169ec8b8ca8250acd662.jpg?v=1624551782",
-          "price": 13,
-          "badge": ""
-        },
-        {
-          "name": "Al Rehab Sultan Edp 35ml",
-          "handle": "al-rehab-sultan-edp-35ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/al-rehab-sultan-eau-de-parfum-35ml-by-al-rehab-vap.jpg?v=1633601547",
-          "price": 13,
-          "badge": ""
-        },
-        {
-          "name": "Al Rehab Secret Man Edp 100ml",
-          "handle": "al-rehab-secret-man-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/AlRehabSecretManEdp100ml.png?v=1639485397",
-          "price": 62,
-          "badge": ""
-        },
-        {
-          "name": "Al Rehab Officer Edp 100ml",
-          "handle": "al-rehab-officer-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/89b913cd34f9aed350075f1d9571a1ac-600x429.jpg?v=1624551749",
-          "price": 60,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Cupid",
       "slug": "cupid",
       "count": 13,
@@ -17198,6 +17148,56 @@
           "handle": "bait-al-bakhoor-alwaan-green-air-freshener-300ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/BaitAlBakhoorAlwaanGreenAirFreshner300ml.webp?v=1691568273",
           "price": 12,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Al Raheeb",
+      "slug": "al-raheeb",
+      "count": 12,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Spanish_Vanilla.jpg?v=1750054105",
+      "preview": [
+        {
+          "name": "Al Rehab Spanish Vanilla EDP For Women 100ml",
+          "handle": "al-rehab-spanish-vanilla-edp-for-unisex-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Spanish_Vanilla.jpg?v=1750054105",
+          "price": 46,
+          "badge": "SALE"
+        },
+        {
+          "name": "Al Rehab Zidan 35ml",
+          "handle": "al-rehab-zidan-35ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/oretwq.jpg?v=1624551789",
+          "price": 15,
+          "badge": ""
+        },
+        {
+          "name": "Al Rehab White Musk Edp 35ml",
+          "handle": "al-rehab-white-musk-edp-35ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/6a1304a6-3f0d-4530-99af-3d11b4fbd670_1.296f21435012169ec8b8ca8250acd662.jpg?v=1624551782",
+          "price": 13,
+          "badge": ""
+        },
+        {
+          "name": "Al Rehab Sultan Edp 35ml",
+          "handle": "al-rehab-sultan-edp-35ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/al-rehab-sultan-eau-de-parfum-35ml-by-al-rehab-vap.jpg?v=1633601547",
+          "price": 13,
+          "badge": ""
+        },
+        {
+          "name": "Al Rehab Secret Man Edp 100ml",
+          "handle": "al-rehab-secret-man-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/AlRehabSecretManEdp100ml.png?v=1639485397",
+          "price": 62,
+          "badge": ""
+        },
+        {
+          "name": "Al Rehab Officer Edp 100ml",
+          "handle": "al-rehab-officer-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/89b913cd34f9aed350075f1d9571a1ac-600x429.jpg?v=1624551749",
+          "price": 60,
           "badge": ""
         }
       ]
