@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T10:05:13.079Z",
+  "generated_at": "2026-08-25T10:46:20.481Z",
   "total_brands": 889,
   "brands": [
     {
@@ -205,7 +205,7 @@
     {
       "name": "Giorgio Armani",
       "slug": "giorgio-armani",
-      "count": 355,
+      "count": 354,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/armani-resized-Photoroom.png?v=1787430406",
       "preview": [
         {
@@ -1932,7 +1932,7 @@
         {
           "name": "Narciso Rodriguez Gift Set For Women Floral",
           "handle": "narciso-rodriguez-gift-set-for-women-floral-1",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/hh.png?v=1783969965",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/hh-resized-Photoroom.png?v=1787653355",
           "price": 343,
           "badge": ""
         },
@@ -4446,7 +4446,7 @@
         {
           "name": "Serge Lutens Le Perce Vent Edp For Men And Women Aromatic 50ml",
           "handle": "serge-lutens-le-perce-vent-edp-for-men-and-women-aromatic-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/serge.png?v=1783502733",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/serge-resized-Photoroom.png?v=1787653908",
           "price": 259,
           "badge": ""
         }
@@ -6903,6 +6903,56 @@
       ]
     },
     {
+      "name": "DONNA KARAN",
+      "slug": "donna-karan",
+      "count": 39,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/24021396-1200-auto.jpg?v=1773557213",
+      "preview": [
+        {
+          "name": "Donna Karan Be Delicious Eau De Parfum For Women - Floral Fruity Perfume 100ml",
+          "handle": "donna-karan-be-delicious-eau-de-parfum-for-women-floral-fruity-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/24021396-1200-auto.jpg?v=1773557213",
+          "price": 222,
+          "badge": ""
+        },
+        {
+          "name": "Dkny Be Delicious Fresh Blossom Eau De Parfum For Women - Floral Fruity Perfume 50ml",
+          "handle": "dkny-be-delicious-fresh-blossom-eau-de-parfum-for-women-floral-fruity-perfume-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/085715004239.jpg?v=1772522226",
+          "price": 107,
+          "badge": ""
+        },
+        {
+          "name": "Donna Karan Be Delicious Golden Edp For Women Floral 50ml",
+          "handle": "donna-karan-be-delicious-golden-edp-for-women-floral-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/deli.avif?v=1765036317",
+          "price": 101,
+          "badge": ""
+        },
+        {
+          "name": "Donna Karan Be Delicious Fresh Blossom Edp For Women Floral 30ml",
+          "handle": "donna-karan-be-delicious-fresh-blossom-edp-for-women-floral-30ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/be-delicious-fresh-blossom___130206.webp?v=1764972404",
+          "price": 88,
+          "badge": ""
+        },
+        {
+          "name": "Donna Karan DKNY Women Energizing Eau de Toilette For Women Citrus 100ml",
+          "handle": "donna-karan-dkny-women-energizing-eau-de-toilette-for-women-citrus-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/dk-resized-Photoroom.png?v=1787503504",
+          "price": 167,
+          "badge": ""
+        },
+        {
+          "name": "Donna Karan Be Delicious Eau De Parfum For Women -  Floral Fruity Perfume 30ml",
+          "handle": "donna-karan-be-delicious-eau-de-parfum-for-women-floral-fruity-perfume-30ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/81TG010000_1_1024x1024_6d69f9cc-5796-41e2-a8b2-55e4ad78f122.jpg?v=1763427877",
+          "price": 112,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Paris Hilton",
       "slug": "paris-hilton",
       "count": 39,
@@ -7148,56 +7198,6 @@
           "handle": "beverly-hills-polo-club-2-sport-gift-set-100ml-edt-175ml-deo-spy",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/BeverlyHillsPoloClub2SportGiftSet100mlEDT_175mlDeoSpy.jpg?v=1652344665",
           "price": 68,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "DONNA KARAN",
-      "slug": "donna-karan",
-      "count": 38,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/24021396-1200-auto.jpg?v=1773557213",
-      "preview": [
-        {
-          "name": "Donna Karan Be Delicious Eau De Parfum For Women - Floral Fruity Perfume 100ml",
-          "handle": "donna-karan-be-delicious-eau-de-parfum-for-women-floral-fruity-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/24021396-1200-auto.jpg?v=1773557213",
-          "price": 222,
-          "badge": ""
-        },
-        {
-          "name": "Dkny Be Delicious Fresh Blossom Eau De Parfum For Women - Floral Fruity Perfume 50ml",
-          "handle": "dkny-be-delicious-fresh-blossom-eau-de-parfum-for-women-floral-fruity-perfume-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/085715004239.jpg?v=1772522226",
-          "price": 107,
-          "badge": ""
-        },
-        {
-          "name": "Donna Karan Be Delicious Golden Edp For Women Floral 50ml",
-          "handle": "donna-karan-be-delicious-golden-edp-for-women-floral-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/deli.avif?v=1765036317",
-          "price": 101,
-          "badge": ""
-        },
-        {
-          "name": "Donna Karan Be Delicious Fresh Blossom Edp For Women Floral 30ml",
-          "handle": "donna-karan-be-delicious-fresh-blossom-edp-for-women-floral-30ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/be-delicious-fresh-blossom___130206.webp?v=1764972404",
-          "price": 88,
-          "badge": ""
-        },
-        {
-          "name": "Donna Karan DKNY Women Energizing Eau de Toilette For Women Citrus 100ml",
-          "handle": "donna-karan-dkny-women-energizing-eau-de-toilette-for-women-citrus-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/dk-resized-Photoroom.png?v=1787503504",
-          "price": 167,
-          "badge": ""
-        },
-        {
-          "name": "Donna Karan Be Delicious Eau De Parfum For Women -  Floral Fruity Perfume 30ml",
-          "handle": "donna-karan-be-delicious-eau-de-parfum-for-women-floral-fruity-perfume-30ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/81TG010000_1_1024x1024_6d69f9cc-5796-41e2-a8b2-55e4ad78f122.jpg?v=1763427877",
-          "price": 112,
           "badge": ""
         }
       ]
@@ -16818,7 +16818,7 @@
         {
           "name": "Kayali Gift Set For Women",
           "handle": "kayali-gift-set-for-women-fruity",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/lychee-removebg-preview.png?v=1784797553",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/lychee-removebg-preview-resized-Photoroom.png?v=1787654103",
           "price": 585,
           "badge": ""
         },
@@ -26566,7 +26566,7 @@
           "name": "Rave Now White Perfume For Unisex EDP 100ml",
           "handle": "rave-now-white-perfume-for-unisex-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/RaveNowWhite_U_Edp100Ml.webp?v=1695100624",
-          "price": 52,
+          "price": 47,
           "badge": "SALE"
         },
         {
