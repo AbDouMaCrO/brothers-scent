@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T10:46:20.481Z",
+  "generated_at": "2026-08-25T11:29:12.046Z",
   "total_brands": 889,
   "brands": [
     {
@@ -205,7 +205,7 @@
     {
       "name": "Giorgio Armani",
       "slug": "giorgio-armani",
-      "count": 354,
+      "count": 353,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/armani-resized-Photoroom.png?v=1787430406",
       "preview": [
         {
@@ -1555,9 +1555,23 @@
     {
       "name": "Acqua Di Parma",
       "slug": "acqua-di-parma",
-      "count": 190,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/acc-resized-Photoroom.png?v=1787402003",
+      "count": 192,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/mitro-resized_1_-Photoroom.png?v=1787654822",
       "preview": [
+        {
+          "name": "Acqua di Parma Blu Mediterraneo Mirto di Panarea La Riserva Eau de Parfum, Woody Aromatic Fragrance For Women And Men 100ml",
+          "handle": "acqua-di-parma-blu-mediterraneo-mirto-di-panarea-la-riserva-eau-de-parfum-woody-aromatic-fragrance-for-women-and-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/mitro-resized_1_-Photoroom.png?v=1787654822",
+          "price": 622,
+          "badge": ""
+        },
+        {
+          "name": "Acqua di Parma Blu Mediterraneo Arancia di Capri La Riserva Eau de Parfum, Aromatic Fragrance For Men And Women 100ml",
+          "handle": "acqua-di-parma-blu-mediterraneo-arancia-di-capri-la-riserva-eau-de-parfum-aromatic-fragrance-for-men-and-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/aqua-resized-Photoroom.png?v=1787654532",
+          "price": 622,
+          "badge": ""
+        },
         {
           "name": "Acqua di Parma Mandarino di Sicilia Edt, Aromatic Fragrance For Men And Women 50ml",
           "handle": "acqua-di-parma-mandarino-di-sicilia-edt-aromatic-fragrance-for-men-and-women-50ml",
@@ -1584,20 +1598,6 @@
           "handle": "acqua-di-parma-blu-mediterraneo-mandarino-di-sicilia-eau-de-toilette-for-unisex-citrus-aromatic-perfume-180ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/4775_NA_1__62450.1714720391.jpg?v=1774345085",
           "price": 567,
-          "badge": ""
-        },
-        {
-          "name": "Acqua di Parma Blu Mediterraneo Arancia di Capri Eau de Toilette For Men And Women Citrus 180ml",
-          "handle": "acqua-di-parma-blu-mediterraneo-arancia-di-capri-eau-de-toilette-for-men-and-women-citrus-180ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ADPADP082905-180ML.webp?v=1772291928",
-          "price": 527,
-          "badge": ""
-        },
-        {
-          "name": "Acqua Di Parma Blu Mediterraneo Arancia Di Capri Gift Set For Unisex",
-          "handle": "acqua-di-parma-blu-mediterraneo-arancia-di-capri-gift-set-for-unisex",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/13962_NA_2__27141.1727711350.jpg?v=1767871490",
-          "price": 522,
           "badge": ""
         }
       ]
@@ -6903,56 +6903,6 @@
       ]
     },
     {
-      "name": "DONNA KARAN",
-      "slug": "donna-karan",
-      "count": 39,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/24021396-1200-auto.jpg?v=1773557213",
-      "preview": [
-        {
-          "name": "Donna Karan Be Delicious Eau De Parfum For Women - Floral Fruity Perfume 100ml",
-          "handle": "donna-karan-be-delicious-eau-de-parfum-for-women-floral-fruity-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/24021396-1200-auto.jpg?v=1773557213",
-          "price": 222,
-          "badge": ""
-        },
-        {
-          "name": "Dkny Be Delicious Fresh Blossom Eau De Parfum For Women - Floral Fruity Perfume 50ml",
-          "handle": "dkny-be-delicious-fresh-blossom-eau-de-parfum-for-women-floral-fruity-perfume-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/085715004239.jpg?v=1772522226",
-          "price": 107,
-          "badge": ""
-        },
-        {
-          "name": "Donna Karan Be Delicious Golden Edp For Women Floral 50ml",
-          "handle": "donna-karan-be-delicious-golden-edp-for-women-floral-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/deli.avif?v=1765036317",
-          "price": 101,
-          "badge": ""
-        },
-        {
-          "name": "Donna Karan Be Delicious Fresh Blossom Edp For Women Floral 30ml",
-          "handle": "donna-karan-be-delicious-fresh-blossom-edp-for-women-floral-30ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/be-delicious-fresh-blossom___130206.webp?v=1764972404",
-          "price": 88,
-          "badge": ""
-        },
-        {
-          "name": "Donna Karan DKNY Women Energizing Eau de Toilette For Women Citrus 100ml",
-          "handle": "donna-karan-dkny-women-energizing-eau-de-toilette-for-women-citrus-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/dk-resized-Photoroom.png?v=1787503504",
-          "price": 167,
-          "badge": ""
-        },
-        {
-          "name": "Donna Karan Be Delicious Eau De Parfum For Women -  Floral Fruity Perfume 30ml",
-          "handle": "donna-karan-be-delicious-eau-de-parfum-for-women-floral-fruity-perfume-30ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/81TG010000_1_1024x1024_6d69f9cc-5796-41e2-a8b2-55e4ad78f122.jpg?v=1763427877",
-          "price": 112,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Paris Hilton",
       "slug": "paris-hilton",
       "count": 39,
@@ -7198,6 +7148,56 @@
           "handle": "beverly-hills-polo-club-2-sport-gift-set-100ml-edt-175ml-deo-spy",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/BeverlyHillsPoloClub2SportGiftSet100mlEDT_175mlDeoSpy.jpg?v=1652344665",
           "price": 68,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "DONNA KARAN",
+      "slug": "donna-karan",
+      "count": 38,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/24021396-1200-auto.jpg?v=1773557213",
+      "preview": [
+        {
+          "name": "Donna Karan Be Delicious Eau De Parfum For Women - Floral Fruity Perfume 100ml",
+          "handle": "donna-karan-be-delicious-eau-de-parfum-for-women-floral-fruity-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/24021396-1200-auto.jpg?v=1773557213",
+          "price": 222,
+          "badge": ""
+        },
+        {
+          "name": "Dkny Be Delicious Fresh Blossom Eau De Parfum For Women - Floral Fruity Perfume 50ml",
+          "handle": "dkny-be-delicious-fresh-blossom-eau-de-parfum-for-women-floral-fruity-perfume-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/085715004239.jpg?v=1772522226",
+          "price": 107,
+          "badge": ""
+        },
+        {
+          "name": "Donna Karan Be Delicious Golden Edp For Women Floral 50ml",
+          "handle": "donna-karan-be-delicious-golden-edp-for-women-floral-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/deli.avif?v=1765036317",
+          "price": 101,
+          "badge": ""
+        },
+        {
+          "name": "Donna Karan Be Delicious Fresh Blossom Edp For Women Floral 30ml",
+          "handle": "donna-karan-be-delicious-fresh-blossom-edp-for-women-floral-30ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/be-delicious-fresh-blossom___130206.webp?v=1764972404",
+          "price": 88,
+          "badge": ""
+        },
+        {
+          "name": "Donna Karan DKNY Women Energizing Eau de Toilette For Women Citrus 100ml",
+          "handle": "donna-karan-dkny-women-energizing-eau-de-toilette-for-women-citrus-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/dk-resized-Photoroom.png?v=1787503504",
+          "price": 167,
+          "badge": ""
+        },
+        {
+          "name": "Donna Karan Be Delicious Eau De Parfum For Women -  Floral Fruity Perfume 30ml",
+          "handle": "donna-karan-be-delicious-eau-de-parfum-for-women-floral-fruity-perfume-30ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/81TG010000_1_1024x1024_6d69f9cc-5796-41e2-a8b2-55e4ad78f122.jpg?v=1763427877",
+          "price": 112,
           "badge": ""
         }
       ]
