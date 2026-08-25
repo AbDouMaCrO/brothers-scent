@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T12:47:02.371Z",
+  "generated_at": "2026-08-25T13:52:15.627Z",
   "total_brands": 889,
   "brands": [
     {
@@ -205,7 +205,7 @@
     {
       "name": "Giorgio Armani",
       "slug": "giorgio-armani",
-      "count": 352,
+      "count": 351,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/armani-resized-Photoroom.png?v=1787430406",
       "preview": [
         {
@@ -505,9 +505,30 @@
     {
       "name": "Carolina Herrera",
       "slug": "carolina-herrera",
-      "count": 308,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rosee-removebg-preview.png?v=1785048190",
+      "count": 311,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/mee-resized-Photoroom.png?v=1787665014",
       "preview": [
+        {
+          "name": "Carolina Herrera Me First Eau de Parfum, Floral Fragrance For Women 100ml",
+          "handle": "carolina-herrera-me-first-eau-de-parfum-floral-fragrance-for-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/mee-resized-Photoroom.png?v=1787665014",
+          "price": 500,
+          "badge": ""
+        },
+        {
+          "name": "Carolina Herrera Mad World Eau de Parfum, Citrus Fragrance For Women 100ml",
+          "handle": "carolina-herrera-mad-world-eau-de-parfum-citrus-fragrance-for-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/madd-resized-Photoroom.png?v=1787664734",
+          "price": 500,
+          "badge": ""
+        },
+        {
+          "name": "Carolina Herrera  Bad Boy Cobalt Absolute Eau de Parfum Absolute, Woody Fragrance For Men 100ml",
+          "handle": "carolina-herrera-bad-boy-cobalt-absolute-eau-de-parfum-absolute-woody-fragrance-for-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/badd-resized-Photoroom.png?v=1787664411",
+          "price": 407,
+          "badge": ""
+        },
         {
           "name": "Carolina Herrera Gift Set For Women",
           "handle": "carolina-herrera-gift-set-for-women-floral-1",
@@ -527,27 +548,6 @@
           "handle": "carolina-herrera-bad-boy-elixir-for-men-50-ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bad_boy_bottle-removebg-preview_ca618958-6bda-41d5-a2a0-d139788d8c83.png?v=1785758080",
           "price": 306,
-          "badge": ""
-        },
-        {
-          "name": "Carolina Herrera Bad Boy Cobalt Eau de Parfum Electrique For Men And Women Woody 100ml",
-          "handle": "carolina-herrera-bad-boy-cobalt-eau-de-parfum-electrique-for-men-and-women-woody-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bad_boyy-removebg-preview.png?v=1783188341",
-          "price": 389,
-          "badge": ""
-        },
-        {
-          "name": "Carolina Herrera Good Girl Blush Gift Set For Women Floral",
-          "handle": "carolina-herrera-good-girl-blush-gift-set-for-women-floral",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3_32990a01-5a0b-4c2c-858c-dbc817342e0d.webp?v=1777382547",
-          "price": 549,
-          "badge": ""
-        },
-        {
-          "name": "Carolina Herrera Good Girl Gift Set For Women Amber",
-          "handle": "carolina-herrera-gift-set-for-women-amber",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/blue_fb73f556-5d0c-4987-872b-21235286bc72.webp?v=1777383014",
-          "price": 512,
           "badge": ""
         }
       ]
@@ -605,7 +605,7 @@
     {
       "name": "Lattafa",
       "slug": "lattafa",
-      "count": 260,
+      "count": 259,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Maahir_Honor.png?v=1786522827",
       "preview": [
         {
@@ -705,9 +705,16 @@
     {
       "name": "Givenchy",
       "slug": "givenchy",
-      "count": 255,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bodyy-removebg-preview.png?v=1784818966",
+      "count": 254,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/givenchy-mens-gentleman-boisee-gift--resized-Photoroom_05195a92-ec3f-4c2b-8b11-408b2cece64b.png?v=1787665457",
       "preview": [
+        {
+          "name": "Givenchy Gift Set, For Men",
+          "handle": "givenchy-gift-set-for-men",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/givenchy-mens-gentleman-boisee-gift--resized-Photoroom_05195a92-ec3f-4c2b-8b11-408b2cece64b.png?v=1787665457",
+          "price": 418,
+          "badge": ""
+        },
         {
           "name": "Givenchy Gift Set For Women",
           "handle": "givenchy-gift-set-for-women-floral-1",
@@ -741,13 +748,6 @@
           "handle": "givenchy-pour-homme-eau-de-toilette-perfume-for-men-citrus-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Givenchy_Pour_Homme_Eau_de_Toilette_Perfume_For_Men_Citrus_100ml.webp?v=1779186385",
           "price": 204,
-          "badge": ""
-        },
-        {
-          "name": "Givenchy L’Interdit Parfum For Women Floral 50ml",
-          "handle": "givenchy-l-interdit-parfum-for-women-floral-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/50ml.webp?v=1771443168",
-          "price": 388,
           "badge": ""
         }
       ]
@@ -4253,6 +4253,56 @@
       ]
     },
     {
+      "name": "Benetton",
+      "slug": "benetton",
+      "count": 79,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/red-resized-Photoroom_90f3595a-3751-4de5-91ff-7ac8af1014eb.png?v=1787664077",
+      "preview": [
+        {
+          "name": "Benetton Sisterland Red Rose Eau de Toilette, Floral Fruity Fragrance For Women 80ml",
+          "handle": "benetton-sisterland-red-rose-eau-de-toilette-floral-fruity-fragrance-for-women-80ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/red-resized-Photoroom_90f3595a-3751-4de5-91ff-7ac8af1014eb.png?v=1787664077",
+          "price": 57,
+          "badge": ""
+        },
+        {
+          "name": "Benetton Sisterland Pink Raspberry Eau de Toilette, Floral Fragrance For Women 80ml",
+          "handle": "benetton-sisterland-pink-raspberry-eau-de-toilette-floral-fragrance-for-women-80ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/united-resized-Photoroom.png?v=1787663741",
+          "price": 57,
+          "badge": ""
+        },
+        {
+          "name": "Benetton  Sisterland Green Jasmine Eau de Toilette, Floral Fruity Fragrance For Women 80ml",
+          "handle": "benetton-sisterland-green-jasmine-eau-de-toilette-floral-fruity-fragrance-for-women-80ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/siss-Photoroom.png?v=1787663262",
+          "price": 57,
+          "badge": ""
+        },
+        {
+          "name": "Benetton Sisterland Blue Neroli Eau de Toilette, Citrus Fragrance For Women 80ml",
+          "handle": "benetton-sisterland-blue-neroli-eau-de-toilette-citrus-fragrance-for-women-80ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bentol-resized-Photoroom.png?v=1787662841",
+          "price": 57,
+          "badge": ""
+        },
+        {
+          "name": "Benetton We Are Tribe Deo Spray For Men 150ml",
+          "handle": "benetton-we-are-tribe-deo-spray-for-men-150ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Benetton-Unisex-Tribe-Deodorant-Body-Spray-Spray-5-oz-Fragrances-8433982022593_3641d669-6036-4f69-a080-c89b01d3962b.d5306ae4bee4691cbd5f7bfdc3cf7b17.jpg?v=1767375001",
+          "price": 16,
+          "badge": ""
+        },
+        {
+          "name": "Benetton United Dreams Aim High For Men Deo Body Spray 150ml",
+          "handle": "benetton-united-dreams-aim-high-for-men-deo-body-spray-150ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/s-l1600_84cce587-6231-4927-9fe5-0e58e22edf2f.webp?v=1767374490",
+          "price": 16,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Lalique",
       "slug": "lalique",
       "count": 77,
@@ -4448,56 +4498,6 @@
           "handle": "serge-lutens-le-perce-vent-edp-for-men-and-women-aromatic-50ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/serge-resized-Photoroom.png?v=1787653908",
           "price": 259,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Benetton",
-      "slug": "benetton",
-      "count": 75,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Benetton-Unisex-Tribe-Deodorant-Body-Spray-Spray-5-oz-Fragrances-8433982022593_3641d669-6036-4f69-a080-c89b01d3962b.d5306ae4bee4691cbd5f7bfdc3cf7b17.jpg?v=1767375001",
-      "preview": [
-        {
-          "name": "Benetton We Are Tribe Deo Spray For Men 150ml",
-          "handle": "benetton-we-are-tribe-deo-spray-for-men-150ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Benetton-Unisex-Tribe-Deodorant-Body-Spray-Spray-5-oz-Fragrances-8433982022593_3641d669-6036-4f69-a080-c89b01d3962b.d5306ae4bee4691cbd5f7bfdc3cf7b17.jpg?v=1767375001",
-          "price": 16,
-          "badge": ""
-        },
-        {
-          "name": "Benetton United Dreams Aim High For Men Deo Body Spray 150ml",
-          "handle": "benetton-united-dreams-aim-high-for-men-deo-body-spray-150ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/s-l1600_84cce587-6231-4927-9fe5-0e58e22edf2f.webp?v=1767374490",
-          "price": 16,
-          "badge": ""
-        },
-        {
-          "name": "Benetton We Are Tribe Play Eau De Toilette For Men - Aromatic Fougere Perfume 90ml",
-          "handle": "benetton-we-are-tribe-play-eau-de-toilette-for-men-aromatic-fougere-perfume-90ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/2907342_2.jpg?v=1766762493",
-          "price": 54,
-          "badge": ""
-        },
-        {
-          "name": "Benetton We Are Tribe Cool Eau De Toilette For Men -Woody Aromatic Perfume 90ml",
-          "handle": "benetton-we-are-tribe-cool-eau-de-toilette-for-men-woody-aromatic-perfume-90ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/190525-1200-auto.jpg?v=1766738407",
-          "price": 62,
-          "badge": ""
-        },
-        {
-          "name": "Benetton United Dreams Live Free For Her Eau De Toilette For Women - Floral Fruity Perfume 80ml",
-          "handle": "benetton-united-dreams-live-free-for-her-eau-de-toilette-for-women-floral-fruity-perfume-80ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/HCmNgY49_R-shJ7oiXB9H-957399_1-ezgif.com-webp-to-jpg-converter_1500x_102bb51e-c2b2-471b-af55-8bbd55c6f868.jpg?v=1766737615",
-          "price": 58,
-          "badge": ""
-        },
-        {
-          "name": "Benetton United Dreams Green Pop For Him Eau De Toilette For Men - Woody Aromatic Perfume 100ml",
-          "handle": "benetton-united-dreams-green-pop-for-him-eau-de-toilette-for-men-woody-aromatic-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/17615921865959.jpg?v=1766737100",
-          "price": 67,
           "badge": ""
         }
       ]
@@ -12053,56 +12053,6 @@
       ]
     },
     {
-      "name": "Vurv",
-      "slug": "vurv",
-      "count": 20,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tn2_0_07999500_1633406164.jpg?v=1661848280",
-      "preview": [
-        {
-          "name": "Vurv Rivage Femme EDP For Women 100ml",
-          "handle": "vurv-rivage-femme-edp-for-women-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tn2_0_07999500_1633406164.jpg?v=1661848280",
-          "price": 33,
-          "badge": ""
-        },
-        {
-          "name": "Vurv Octave Women - Deodorant Body Spray For Women - 200 ml",
-          "handle": "vurv-octave-women-deodorant-body-spray-for-women-200-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv_octave_woman_deo.jpg?v=1624521999",
-          "price": 8,
-          "badge": ""
-        },
-        {
-          "name": "Vurv Rivage Gift Set for Men (EDP 100ml & 200ml Deodorant)",
-          "handle": "vurv-rivage-gift-set-for-men-edp-100ml-200ml-deodorant",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/rivage-gift-set.jpg?v=1633422754",
-          "price": 52,
-          "badge": ""
-        },
-        {
-          "name": "Vurv Octave perfume for women, EDP 100ml",
-          "handle": "vurv-octave-perfume-for-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv-octave-woman-edp-100ml_1.jpg?v=1624444636",
-          "price": 39,
-          "badge": "SALE"
-        },
-        {
-          "name": "Vurv Prive club Homme for Men EDP 100ml",
-          "handle": "vurv-prive-club-homme-for-men-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/92706_01b12827ef7d386f09edf68d604bca08_prive_club_pour_homme.jpg?v=1633422763",
-          "price": 42,
-          "badge": ""
-        },
-        {
-          "name": "Vurv Waltz pour Homme Perfume For Men, Eau De Parfum,  100 ML",
-          "handle": "vurv-waltz-pour-homme-perfume-for-men-eau-de-parfum-100-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv-waltz.jpg?v=1624401524",
-          "price": 43,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "CHARRIER PARFUMS",
       "slug": "charrier-parfums",
       "count": 20,
@@ -14498,6 +14448,56 @@
           "handle": "titto-bluni-profvmo-seduzione-donna-perfume-for-women-edt-30ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/TittoBluniProfvmoSeduzioneDonna_W_Edt30Ml.jpg?v=1664255928",
           "price": 21,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Vurv",
+      "slug": "vurv",
+      "count": 16,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tn2_0_07999500_1633406164.jpg?v=1661848280",
+      "preview": [
+        {
+          "name": "Vurv Rivage Femme EDP For Women 100ml",
+          "handle": "vurv-rivage-femme-edp-for-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tn2_0_07999500_1633406164.jpg?v=1661848280",
+          "price": 33,
+          "badge": ""
+        },
+        {
+          "name": "Vurv Octave Women - Deodorant Body Spray For Women - 200 ml",
+          "handle": "vurv-octave-women-deodorant-body-spray-for-women-200-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv_octave_woman_deo.jpg?v=1624521999",
+          "price": 8,
+          "badge": ""
+        },
+        {
+          "name": "Vurv Rivage Gift Set for Men (EDP 100ml & 200ml Deodorant)",
+          "handle": "vurv-rivage-gift-set-for-men-edp-100ml-200ml-deodorant",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/rivage-gift-set.jpg?v=1633422754",
+          "price": 52,
+          "badge": ""
+        },
+        {
+          "name": "Vurv Octave perfume for women, EDP 100ml",
+          "handle": "vurv-octave-perfume-for-women-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv-octave-woman-edp-100ml_1.jpg?v=1624444636",
+          "price": 39,
+          "badge": "SALE"
+        },
+        {
+          "name": "Vurv Prive club Homme for Men EDP 100ml",
+          "handle": "vurv-prive-club-homme-for-men-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/92706_01b12827ef7d386f09edf68d604bca08_prive_club_pour_homme.jpg?v=1633422763",
+          "price": 42,
+          "badge": ""
+        },
+        {
+          "name": "Vurv Waltz pour Homme Perfume For Men, Eau De Parfum,  100 ML",
+          "handle": "vurv-waltz-pour-homme-perfume-for-men-eau-de-parfum-100-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv-waltz.jpg?v=1624401524",
+          "price": 43,
           "badge": ""
         }
       ]
