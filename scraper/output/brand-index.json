@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T11:59:33.209Z",
+  "generated_at": "2026-08-25T12:47:02.371Z",
   "total_brands": 889,
   "brands": [
     {
@@ -205,7 +205,7 @@
     {
       "name": "Giorgio Armani",
       "slug": "giorgio-armani",
-      "count": 353,
+      "count": 352,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/armani-resized-Photoroom.png?v=1787430406",
       "preview": [
         {
@@ -2003,6 +2003,56 @@
       ]
     },
     {
+      "name": "Azzaro",
+      "slug": "azzaro",
+      "count": 143,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/azzaro-028262aa_01-resized-Photoroom.png?v=1787661495",
+      "preview": [
+        {
+          "name": "Azzaro Forever Wanted Absolu Parfum, Oriental Woody Fragrance For Men 100ml",
+          "handle": "azzaro-forever-wanted-absolu-parfum-oriental-woody-fragrance-for-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/azzaro-028262aa_01-resized-Photoroom.png?v=1787661495",
+          "price": 370,
+          "badge": ""
+        },
+        {
+          "name": "Azzaro Gift Set, For Men",
+          "handle": "azzaro-gift-set-for-men",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/azzaro-resized-Photoroom.png?v=1787444622",
+          "price": 370,
+          "badge": ""
+        },
+        {
+          "name": "Gift Set For Men-Azzaro",
+          "handle": "azzaro-gift-set-for-men-amber-2",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/wantedd-removebg-preview.png?v=1785266731",
+          "price": 343,
+          "badge": ""
+        },
+        {
+          "name": "Azzaro Gift Set For Men",
+          "handle": "azzaro-gift-set-for-men-amber-1",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/azzaro-removebg-preview.png?v=1785261828",
+          "price": 399,
+          "badge": ""
+        },
+        {
+          "name": "Azzaro Gift Set For Men",
+          "handle": "azzaro-gift-set-for-men-amber",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/azzaro-removebg.png?v=1784822151",
+          "price": 269,
+          "badge": ""
+        },
+        {
+          "name": "Azzaro The Most Wanted Deodorant Stick For Men 77g",
+          "handle": "azzaro-the-most-wanted-deodorant-stick-for-men-amber-77g",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/the_most-removebg.png?v=1784582273",
+          "price": 67,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Victoria Secret",
       "slug": "victoria-secret",
       "count": 143,
@@ -2048,56 +2098,6 @@
           "handle": "victorias-secret-passion-struck-fragrance-mist-for-women-250-ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/victoria_secret_passion_struck.jpg?v=1633423998",
           "price": 44,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Azzaro",
-      "slug": "azzaro",
-      "count": 142,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/azzaro-resized-Photoroom.png?v=1787444622",
-      "preview": [
-        {
-          "name": "Azzaro Gift Set, For Men",
-          "handle": "azzaro-gift-set-for-men",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/azzaro-resized-Photoroom.png?v=1787444622",
-          "price": 370,
-          "badge": ""
-        },
-        {
-          "name": "Gift Set For Men-Azzaro",
-          "handle": "azzaro-gift-set-for-men-amber-2",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/wantedd-removebg-preview.png?v=1785266731",
-          "price": 343,
-          "badge": ""
-        },
-        {
-          "name": "Azzaro Gift Set For Men",
-          "handle": "azzaro-gift-set-for-men-amber-1",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/azzaro-removebg-preview.png?v=1785261828",
-          "price": 399,
-          "badge": ""
-        },
-        {
-          "name": "Azzaro Gift Set For Men",
-          "handle": "azzaro-gift-set-for-men-amber",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/azzaro-removebg.png?v=1784822151",
-          "price": 269,
-          "badge": ""
-        },
-        {
-          "name": "Azzaro The Most Wanted Deodorant Stick For Men 77g",
-          "handle": "azzaro-the-most-wanted-deodorant-stick-for-men-amber-77g",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/the_most-removebg.png?v=1784582273",
-          "price": 67,
-          "badge": ""
-        },
-        {
-          "name": "Azzaro Chrome Gift Set For Men",
-          "handle": "azzaro-chrome-gift-set-for-men-2",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Azzaro-Chrome-Gift-Set-Mens-3614274411133_57993__70331.1752248323.jpg?v=1767275706",
-          "price": 293,
           "badge": ""
         }
       ]

@@ -1,8 +1,31 @@
 {
-  "scraped_at": "2026-08-25T11:57:51.290Z",
+  "scraped_at": "2026-08-25T12:45:21.227Z",
   "source": "https://samawa.ae",
   "count": 25021,
   "products": [
+    {
+      "name": "Azzaro Forever Wanted Absolu Parfum, Oriental Woody Fragrance For Men 100ml",
+      "brand": "Azzaro",
+      "category_slug": "homme",
+      "size": "100ml",
+      "price_retail": 370,
+      "price_gros": 370,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/azzaro-028262aa_01-resized-Photoroom.png?v=1787661495",
+      "active": true,
+      "_handle": "azzaro-forever-wanted-absolu-parfum-oriental-woody-fragrance-for-men-100ml",
+      "_sku": "3614274490770",
+      "_tags": [
+        "100ml",
+        "Branded Perfumes",
+        "Fragrance",
+        "Men",
+        "Parfum"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/azzaro-forever-wanted-absolu-parfum-oriental-woody-fragrance-for-men-100ml"
+    },
     {
       "name": "Acqua di Parma Blu Mediterraneo Mirto di Panarea La Riserva Eau de Parfum, Woody Aromatic Fragrance For Women And Men 100ml",
       "brand": "Acqua Di Parma",
@@ -582086,32 +582109,6 @@
       ],
       "_product_type": "Fragrance",
       "_url": "https://samawa.ae/products/giorgio-armani-emporio-for-men-eau-de-toilette-100ml"
-    },
-    {
-      "name": "Giorgio Armani Emporio Armani Stronger with you for Men - Eau de Toilette, 100ml",
-      "brand": "Giorgio Armani",
-      "category_slug": "homme",
-      "size": "100ml",
-      "price_retail": 332,
-      "price_gros": 227,
-      "stock": 999,
-      "badge": "SALE",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Armani-Stronger-with-you-EDT-resized-Photoroom.png?v=1787652629",
-      "active": true,
-      "_handle": "giorgio-armani-emporio-armani-stronger-with-you-for-men-eau-de-toilette-100ml",
-      "_sku": "3605522040588",
-      "_tags": [
-        "100ml",
-        "autopostr_facebook_54732",
-        "badge_Best Seller",
-        "Best Seller",
-        "Branded Perfumes",
-        "Fragrance",
-        "Men",
-        "Women"
-      ],
-      "_product_type": "",
-      "_url": "https://samawa.ae/products/giorgio-armani-emporio-armani-stronger-with-you-for-men-eau-de-toilette-100ml"
     }
   ]
 }
