@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T13:52:15.627Z",
-  "total_brands": 889,
+  "generated_at": "2026-08-25T14:47:10.049Z",
+  "total_brands": 888,
   "brands": [
     {
       "name": "Amazing Creation",
@@ -553,15 +553,43 @@
       ]
     },
     {
-      "name": "Versace",
+      "name": "VERSACE",
       "slug": "versace",
-      "count": 284,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/versace.avif?v=1756480758",
+      "count": 288,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/crystal-resized-Photoroom_4a906fc2-cb2d-4402-a445-05cee74f102f.png?v=1787667039",
       "preview": [
+        {
+          "name": "Versace Crystal Emerald Pour Femme Eau de Parfum, Floral Fruity Fragrance For Women 50ml",
+          "handle": "versace-crystal-emerald-pour-femme-eau-de-parfum-floral-fruity-fragrance-for-women-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/crystal-resized-Photoroom_4a906fc2-cb2d-4402-a445-05cee74f102f.png?v=1787667039",
+          "price": 362,
+          "badge": ""
+        },
+        {
+          "name": "Versace Crystal Emerald Pour Femme Eau de Parfum, Floral Fruity Fragrance For Women 90ml",
+          "handle": "versace-crystal-emerald-pour-femme-eau-de-parfum-floral-fruity-fragrance-for-women-90ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/crystal-resized-Photoroom.png?v=1787666791",
+          "price": 455,
+          "badge": ""
+        },
+        {
+          "name": "Versace Dylan Blush Pour Femme Eau de Parfum, Floral Fruity Gourmand Fragrance For Women 100ml",
+          "handle": "versace-dylan-blush-pour-femme-eau-de-parfum-floral-fruity-gourmand-fragrance-for-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/dylaan-resized-Photoroom.png?v=1787666441",
+          "price": 455,
+          "badge": ""
+        },
+        {
+          "name": "Versace Dylan Blush Pour Femme Eau de Parfum, Floral Fruity Gourmand Fragrance For Women 50ml",
+          "handle": "versace-dylan-blush-pour-femme-eau-de-parfum-floral-fruity-gourmand-fragrance-for-women-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/versacee-resized-Photoroom.png?v=1787665774",
+          "price": 362,
+          "badge": ""
+        },
         {
           "name": "Eros Energy By Versace Perfume For Men Edp 100ml",
           "handle": "eros-energy-by-versace-perfume-for-men-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/versace.avif?v=1756480758",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Eros_Energy_By_Versace_Perfume_For_Men_Edp_100ml-Photoroom_1.png?v=1787666108",
           "price": 311,
           "badge": ""
         },
@@ -570,34 +598,6 @@
           "handle": "versace-gift-set-for-women-fresh",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/dylan.webp?v=1774698566",
           "price": 358,
-          "badge": ""
-        },
-        {
-          "name": "Versace Gift Set For Men Fresh",
-          "handle": "versace-gift-set-for-men-fresh",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/versace-man-eau-fraiche-gift-set-fragrances-8011003889174.jpg?v=1774698166",
-          "price": 219,
-          "badge": ""
-        },
-        {
-          "name": "Versace Atelier Vanille Rouge Eau De Parfum For Unisex - Oriental Vanilla Perfume 100ml",
-          "handle": "versace-atelier-vanille-rouge-eau-de-parfum-for-unisex-oriental-vanilla-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/912494_1__94694.1700158275.jpg?v=1774548073",
-          "price": 590,
-          "badge": ""
-        },
-        {
-          "name": "Versace Atelier Tabac Imperial Eau De Parfum For Unisex - Aromatic Perfume 100ml",
-          "handle": "versace-atelier-tabac-imperial-eau-de-parfum-for-unisex-aromatic-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/94104023_20250718124500.jpg?v=1774547728",
-          "price": 590,
-          "badge": ""
-        },
-        {
-          "name": "Versace Atelier Santal Boise Eau De Parfum For Unisex - Woody Spicy Perfume 100ml",
-          "handle": "versace-atelier-santal-boise-eau-de-parfum-for-unisex-woody-spicy-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/213954965_IN.jpg?v=1774517862",
-          "price": 706,
           "badge": ""
         }
       ]
@@ -703,56 +703,6 @@
       ]
     },
     {
-      "name": "Givenchy",
-      "slug": "givenchy",
-      "count": 254,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/givenchy-mens-gentleman-boisee-gift--resized-Photoroom_05195a92-ec3f-4c2b-8b11-408b2cece64b.png?v=1787665457",
-      "preview": [
-        {
-          "name": "Givenchy Gift Set, For Men",
-          "handle": "givenchy-gift-set-for-men",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/givenchy-mens-gentleman-boisee-gift--resized-Photoroom_05195a92-ec3f-4c2b-8b11-408b2cece64b.png?v=1787665457",
-          "price": 418,
-          "badge": ""
-        },
-        {
-          "name": "Givenchy Gift Set For Women",
-          "handle": "givenchy-gift-set-for-women-floral-1",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bodyy-removebg-preview.png?v=1784818966",
-          "price": 407,
-          "badge": ""
-        },
-        {
-          "name": "Givenchy Gift Set For Women",
-          "handle": "givenchy-gift-set-for-women-floral",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/l-resized-Photoroom.png?v=1787601878",
-          "price": 407,
-          "badge": ""
-        },
-        {
-          "name": "Givenchy  Eaudemoiselle Florale Eau de Toilette For Women Floral 100ml",
-          "handle": "givenchy-eaudemoiselle-florale-eau-de-toilette-for-women-floral-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/eaudi.avif?v=1779353628",
-          "price": 362,
-          "badge": ""
-        },
-        {
-          "name": "Givenchy Irresistible Nectar Edp For Women Floral 80ml",
-          "handle": "givenchy-irresistible-nectar-edp-for-women-floral-80ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/givenchy.avif?v=1776526497",
-          "price": 595,
-          "badge": ""
-        },
-        {
-          "name": "Givenchy Pour Homme Eau de Toilette Perfume For Men Citrus 100ml",
-          "handle": "givenchy-pour-homme-eau-de-toilette-perfume-for-men-citrus-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Givenchy_Pour_Homme_Eau_de_Toilette_Perfume_For_Men_Citrus_100ml.webp?v=1779186385",
-          "price": 204,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Yves Saint Laurent",
       "slug": "yves-saint-laurent",
       "count": 254,
@@ -798,6 +748,56 @@
           "handle": "yves-saint-laurent-muse-inspiring-ink-eau-de-parfum-for-unisex-woody-floral-musk-perfume-75ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3614274184983_1.jpg?v=1781586935",
           "price": 859,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Givenchy",
+      "slug": "givenchy",
+      "count": 252,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/givenchy-mens-gentleman-boisee-gift--resized-Photoroom_05195a92-ec3f-4c2b-8b11-408b2cece64b.png?v=1787665457",
+      "preview": [
+        {
+          "name": "Givenchy Gift Set, For Men",
+          "handle": "givenchy-gift-set-for-men",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/givenchy-mens-gentleman-boisee-gift--resized-Photoroom_05195a92-ec3f-4c2b-8b11-408b2cece64b.png?v=1787665457",
+          "price": 418,
+          "badge": ""
+        },
+        {
+          "name": "Givenchy Gift Set For Women",
+          "handle": "givenchy-gift-set-for-women-floral-1",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bodyy-removebg-preview.png?v=1784818966",
+          "price": 407,
+          "badge": ""
+        },
+        {
+          "name": "Givenchy Gift Set For Women",
+          "handle": "givenchy-gift-set-for-women-floral",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/l-resized-Photoroom.png?v=1787601878",
+          "price": 407,
+          "badge": ""
+        },
+        {
+          "name": "Givenchy  Eaudemoiselle Florale Eau de Toilette For Women Floral 100ml",
+          "handle": "givenchy-eaudemoiselle-florale-eau-de-toilette-for-women-floral-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/eaudi.avif?v=1779353628",
+          "price": 362,
+          "badge": ""
+        },
+        {
+          "name": "Givenchy Irresistible Nectar Edp For Women Floral 80ml",
+          "handle": "givenchy-irresistible-nectar-edp-for-women-floral-80ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/givenchy.avif?v=1776526497",
+          "price": 595,
+          "badge": ""
+        },
+        {
+          "name": "Givenchy Pour Homme Eau de Toilette Perfume For Men Citrus 100ml",
+          "handle": "givenchy-pour-homme-eau-de-toilette-perfume-for-men-citrus-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Givenchy_Pour_Homme_Eau_de_Toilette_Perfume_For_Men_Citrus_100ml.webp?v=1779186385",
+          "price": 204,
           "badge": ""
         }
       ]
@@ -1205,9 +1205,16 @@
     {
       "name": "Tom Ford",
       "slug": "tom-ford",
-      "count": 210,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/tomford-resized-Photoroom.png?v=1787442280",
+      "count": 211,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/vanilla-resized-Photoroom_d31b0392-f690-44e1-b7c4-71b98b06bda1.png?v=1787668135",
       "preview": [
+        {
+          "name": "Tom Ford Vanilla Body Spray, For Men And Women 150ml",
+          "handle": "tom-ford-vanilla-body-spray-for-men-and-women-150ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/vanilla-resized-Photoroom_d31b0392-f690-44e1-b7c4-71b98b06bda1.png?v=1787668135",
+          "price": 362,
+          "badge": ""
+        },
         {
           "name": "Tom Ford Oud Wood Eau de Parfum Miniature Refillable, Fragrance For Men And Women 10ml",
           "handle": "tom-ford-oud-wood-eau-de-parfum-miniature-refillable-fragrance-for-men-and-women-10ml",
@@ -1241,13 +1248,6 @@
           "handle": "tom-ford-gift-set-for-men-and-women-floral",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/tomm.png?v=1783976396",
           "price": 549,
-          "badge": ""
-        },
-        {
-          "name": "Tom Ford Soleil De Feu Eau De Parfum For Women-Oriental Woody Perfume 30ml",
-          "handle": "tom-ford-soleil-de-feu-eau-de-parfum-for-women-oriental-woody-perfume-30ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/514qj5RT0H-000000000494273769_1.png?v=1781534061",
-          "price": 595,
           "badge": ""
         }
       ]
@@ -1455,7 +1455,7 @@
     {
       "name": "Gucci",
       "slug": "gucci",
-      "count": 195,
+      "count": 194,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/flo.webp?v=1782035065",
       "preview": [
         {
@@ -2753,6 +2753,56 @@
       ]
     },
     {
+      "name": "Valentino",
+      "slug": "valentino",
+      "count": 119,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/valentino-resized-Photoroom_bbf194ff-493e-440a-94ef-7a13b4ed5b14.png?v=1787667591",
+      "preview": [
+        {
+          "name": "Valentino Donna Born in Roma Intense Eau de Parfum Intense, Oriental Floral Fragrance For Women 30ml",
+          "handle": "valentino-donna-born-in-roma-intense-eau-de-parfum-intense-oriental-floral-fragrance-for-women-30ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/valentino-resized-Photoroom_bbf194ff-493e-440a-94ef-7a13b4ed5b14.png?v=1787667591",
+          "price": 333,
+          "badge": ""
+        },
+        {
+          "name": "Valentino Valentina Eau de Parfum, Oriental Floral Fragrance For Women 50ml",
+          "handle": "valentino-valentina-eau-de-parfum-oriental-floral-fragrance-for-women-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/valentino-resized-Photoroom.png?v=1787443633",
+          "price": 278,
+          "badge": ""
+        },
+        {
+          "name": "Valentino Donna Born In Roma Purple Melancholia Eau De Parfum For Women- Floral Fruity Perfume 100ml",
+          "handle": "valentino-donna-born-in-roma-purple-melancholia-eau-de-parfum-for-women-floral-fruity-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Born-In-Roma-Purple-Melancholia-Eau-De-Parfum-100Ml-Photoroom.png?v=1785905466",
+          "price": 574,
+          "badge": ""
+        },
+        {
+          "name": "Valentino Uomo Born in Roma Intense Eau De Parfum For Men-Oriental Vanilla Perfume 50ml",
+          "handle": "valentino-uomo-born-in-roma-intense-eau-de-parfum-for-men-oriental-vanilla-perfume-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/R5kNXzS_ZR-1-Photoroom.png?v=1785215673",
+          "price": 379,
+          "badge": ""
+        },
+        {
+          "name": "Valentino Donna Born in Roma Green Stravaganza Edp For Women Floral 30ml",
+          "handle": "valentino-donna-born-in-roma-green-stravaganza-edp-for-women-floral-30ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/v_7d0619ef-873a-46db-b145-235567295e9a.png?v=1783505155",
+          "price": 315,
+          "badge": ""
+        },
+        {
+          "name": "Valentino Uomo Born In Roma Extradose Parfum For Men- Amber Woody Perfume 50ml",
+          "handle": "valentino-uomo-born-in-roma-extradose-parfum-for-men-amber-woody-perfume-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/it-mPrF2QI-1184823_1.jpg?v=1781540717",
+          "price": 325,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Cartier",
       "slug": "cartier",
       "count": 119,
@@ -2848,56 +2898,6 @@
           "handle": "roja-parfums-isola-verde-parfum-for-unisex-aromatic-fruity-perfume-50ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/5056663804146-0.png?v=1768391750",
           "price": 1120,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Valentino",
-      "slug": "valentino",
-      "count": 118,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/valentino-resized-Photoroom.png?v=1787443633",
-      "preview": [
-        {
-          "name": "Valentino Valentina Eau de Parfum, Oriental Floral Fragrance For Women 50ml",
-          "handle": "valentino-valentina-eau-de-parfum-oriental-floral-fragrance-for-women-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/valentino-resized-Photoroom.png?v=1787443633",
-          "price": 278,
-          "badge": ""
-        },
-        {
-          "name": "Valentino Donna Born In Roma Purple Melancholia Eau De Parfum For Women- Floral Fruity Perfume 100ml",
-          "handle": "valentino-donna-born-in-roma-purple-melancholia-eau-de-parfum-for-women-floral-fruity-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Born-In-Roma-Purple-Melancholia-Eau-De-Parfum-100Ml-Photoroom.png?v=1785905466",
-          "price": 574,
-          "badge": ""
-        },
-        {
-          "name": "Valentino Uomo Born in Roma Intense Eau De Parfum For Men-Oriental Vanilla Perfume 50ml",
-          "handle": "valentino-uomo-born-in-roma-intense-eau-de-parfum-for-men-oriental-vanilla-perfume-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/R5kNXzS_ZR-1-Photoroom.png?v=1785215673",
-          "price": 379,
-          "badge": ""
-        },
-        {
-          "name": "Valentino Donna Born in Roma Green Stravaganza Edp For Women Floral 30ml",
-          "handle": "valentino-donna-born-in-roma-green-stravaganza-edp-for-women-floral-30ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/v_7d0619ef-873a-46db-b145-235567295e9a.png?v=1783505155",
-          "price": 315,
-          "badge": ""
-        },
-        {
-          "name": "Valentino Uomo Born In Roma Extradose Parfum For Men- Amber Woody Perfume 50ml",
-          "handle": "valentino-uomo-born-in-roma-extradose-parfum-for-men-amber-woody-perfume-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/it-mPrF2QI-1184823_1.jpg?v=1781540717",
-          "price": 325,
-          "badge": ""
-        },
-        {
-          "name": "Valentino Uomo Born In Roma Purple Melancholia Eau De Toilette For Men - Woody Aromatic Perfume 100ml",
-          "handle": "valentino-uomo-born-in-roma-purple-melancholia-eau-de-toilette-for-men-woody-aromatic-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/valentino-mens-uomo-born-in-roma-purple-melancholia-edt-spray-34-oz-fragrances-3614274626872_2.jpg?v=1777796035",
-          "price": 524,
           "badge": ""
         }
       ]
@@ -5418,7 +5418,7 @@
         {
           "name": "French Avenue Safari Breeze Perfume For Unisex EDP 100ml",
           "handle": "french-avenue-safari-breeze-perfume-for-unisex-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Safari_Breeze_French_Avenue.jpg?v=1784178386",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/French_Avenue_Safari_Breeze_Perfume_For_Unisex_EDP_100ml-Photoroom.png?v=1787667881",
           "price": 126,
           "badge": "SALE"
         },
@@ -14453,56 +14453,6 @@
       ]
     },
     {
-      "name": "Vurv",
-      "slug": "vurv",
-      "count": 16,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tn2_0_07999500_1633406164.jpg?v=1661848280",
-      "preview": [
-        {
-          "name": "Vurv Rivage Femme EDP For Women 100ml",
-          "handle": "vurv-rivage-femme-edp-for-women-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tn2_0_07999500_1633406164.jpg?v=1661848280",
-          "price": 33,
-          "badge": ""
-        },
-        {
-          "name": "Vurv Octave Women - Deodorant Body Spray For Women - 200 ml",
-          "handle": "vurv-octave-women-deodorant-body-spray-for-women-200-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv_octave_woman_deo.jpg?v=1624521999",
-          "price": 8,
-          "badge": ""
-        },
-        {
-          "name": "Vurv Rivage Gift Set for Men (EDP 100ml & 200ml Deodorant)",
-          "handle": "vurv-rivage-gift-set-for-men-edp-100ml-200ml-deodorant",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/rivage-gift-set.jpg?v=1633422754",
-          "price": 52,
-          "badge": ""
-        },
-        {
-          "name": "Vurv Octave perfume for women, EDP 100ml",
-          "handle": "vurv-octave-perfume-for-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv-octave-woman-edp-100ml_1.jpg?v=1624444636",
-          "price": 39,
-          "badge": "SALE"
-        },
-        {
-          "name": "Vurv Prive club Homme for Men EDP 100ml",
-          "handle": "vurv-prive-club-homme-for-men-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/92706_01b12827ef7d386f09edf68d604bca08_prive_club_pour_homme.jpg?v=1633422763",
-          "price": 42,
-          "badge": ""
-        },
-        {
-          "name": "Vurv Waltz pour Homme Perfume For Men, Eau De Parfum,  100 ML",
-          "handle": "vurv-waltz-pour-homme-perfume-for-men-eau-de-parfum-100-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv-waltz.jpg?v=1624401524",
-          "price": 43,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Mandarina Duck",
       "slug": "mandarina-duck",
       "count": 16,
@@ -15748,6 +15698,56 @@
           "handle": "pierre-cardin-pour-monsieur-deodorant-for-men-200ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/PierreCardinPourMonsieurDeodorantForMen200ml-1.jpg?v=1644489797",
           "price": 14,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Vurv",
+      "slug": "vurv",
+      "count": 14,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tn2_0_07999500_1633406164.jpg?v=1661848280",
+      "preview": [
+        {
+          "name": "Vurv Rivage Femme EDP For Women 100ml",
+          "handle": "vurv-rivage-femme-edp-for-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tn2_0_07999500_1633406164.jpg?v=1661848280",
+          "price": 33,
+          "badge": ""
+        },
+        {
+          "name": "Vurv Octave Women - Deodorant Body Spray For Women - 200 ml",
+          "handle": "vurv-octave-women-deodorant-body-spray-for-women-200-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv_octave_woman_deo.jpg?v=1624521999",
+          "price": 8,
+          "badge": ""
+        },
+        {
+          "name": "Vurv Rivage Gift Set for Men (EDP 100ml & 200ml Deodorant)",
+          "handle": "vurv-rivage-gift-set-for-men-edp-100ml-200ml-deodorant",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/rivage-gift-set.jpg?v=1633422754",
+          "price": 52,
+          "badge": ""
+        },
+        {
+          "name": "Vurv Octave perfume for women, EDP 100ml",
+          "handle": "vurv-octave-perfume-for-women-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv-octave-woman-edp-100ml_1.jpg?v=1624444636",
+          "price": 39,
+          "badge": "SALE"
+        },
+        {
+          "name": "Vurv Prive club Homme for Men EDP 100ml",
+          "handle": "vurv-prive-club-homme-for-men-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/92706_01b12827ef7d386f09edf68d604bca08_prive_club_pour_homme.jpg?v=1633422763",
+          "price": 42,
+          "badge": ""
+        },
+        {
+          "name": "Vurv Waltz pour Homme Perfume For Men, Eau De Parfum,  100 ML",
+          "handle": "vurv-waltz-pour-homme-perfume-for-men-eau-de-parfum-100-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv-waltz.jpg?v=1624401524",
+          "price": 43,
           "badge": ""
         }
       ]
@@ -33843,21 +33843,6 @@
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/puccini_perfume_for_men_-_eau_de_toilette_100_ml.jpg?v=1624398781",
           "price": 53,
           "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Arqus Sorus",
-      "slug": "arqus-sorus",
-      "count": 1,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/sorus-supreme-600x800-0.jpg?v=1624397163",
-      "preview": [
-        {
-          "name": "Arqus Sorus Supreme For Men, Eau de Parfum, 100 ml",
-          "handle": "arqus-sorus-supreme-for-men-eau-de-parfum-100-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/sorus-supreme-600x800-0.jpg?v=1624397163",
-          "price": 10,
-          "badge": "SALE"
         }
       ]
     }
