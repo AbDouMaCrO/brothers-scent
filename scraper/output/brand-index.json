@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-27T10:12:50.616Z",
-  "total_brands": 888,
+  "generated_at": "2026-08-27T20:45:28.748Z",
+  "total_brands": 887,
   "brands": [
     {
       "name": "Amazing Creation",
@@ -155,9 +155,16 @@
     {
       "name": "Dolce & Gabbana",
       "slug": "dolce-gabbana",
-      "count": 356,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/dd-removebg-preview.png?v=1784819576",
+      "count": 357,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/lightt-resized-Photoroom.png?v=1787833012",
       "preview": [
+        {
+          "name": "Dolce & Gabbana Light Blue Eau de Toilette Refillable, Floral Fruity Fragrance For Women 200ml",
+          "handle": "dolce-gabbana-light-blue-eau-de-toilette-refillable-floral-fruity-fragrance-for-women-200ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/lightt-resized-Photoroom.png?v=1787833012",
+          "price": 426,
+          "badge": ""
+        },
         {
           "name": "Dolce And Gabbana Gift Set For Women",
           "handle": "dolce-and-gabbana-gift-set-for-women-floral",
@@ -191,13 +198,6 @@
           "handle": "dolce-and-gabbana-the-one-pour-femme-parfum-intense-for-women-floral-75ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/the_on_gold-removebg-preview_c30fda79-0050-4329-b3b2-5d89439d3406.png?v=1782569825",
           "price": 362,
-          "badge": ""
-        },
-        {
-          "name": "Dolce And Gabbana The One Parfum For Men Woody 100 ml",
-          "handle": "dolce-and-gabbana-the-one-parfum-for-men-woody-100-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/the_one_men-removebg-preview.png?v=1782567373",
-          "price": 473,
           "badge": ""
         }
       ]
@@ -255,7 +255,7 @@
     {
       "name": "Christian Dior",
       "slug": "christian-dior",
-      "count": 347,
+      "count": 348,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/suaa-resized-Photoroom.png?v=1787445790",
       "preview": [
         {
@@ -355,9 +355,23 @@
     {
       "name": "Paco Rabanne",
       "slug": "paco-rabanne",
-      "count": 332,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Paco_Rabanne_1_Million_Black_Eau_de_Parfum_Oriental_Vanilla_Fragrance_For_Men_100ml-Photoroom.png?v=1787807673",
+      "count": 334,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rabane-resized-Photoroom.png?v=1787858897",
       "preview": [
+        {
+          "name": "Paco Rabanne Phantom in Red Parfum Elixir, Oriental Woody Fragrance For Men 100ml",
+          "handle": "paco-rabanne-phantom-in-red-parfum-elixir-oriental-woody-fragrance-for-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rabane-resized-Photoroom.png?v=1787858897",
+          "price": 455,
+          "badge": ""
+        },
+        {
+          "name": "Paco Rabanne Fame The Couture Edition Limited Edition Eau de Parfum Refillable, Oriental Floral Fragrance For Women 80ml",
+          "handle": "paco-rabanne-fame-the-couture-edition-limited-edition-eau-de-parfum-refillable-oriental-floral-fragrance-for-women-80ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/UNI-resized-Photoroom_a778e639-d2fb-4e32-b9b8-4493ab54c75b.png?v=1787858176",
+          "price": 389,
+          "badge": ""
+        },
         {
           "name": "Paco Rabanne 1 Million Black Eau de Parfum, Oriental Vanilla Fragrance For Men 100ml",
           "handle": "paco-rabanne-1-million-black-eau-de-parfum-for-men-amber-100ml",
@@ -384,20 +398,6 @@
           "handle": "rabanne-invictus-elixir-edp-for-men-amber-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/0000.png?v=1784355013",
           "price": 567,
-          "badge": ""
-        },
-        {
-          "name": "Rabanne 1 Million Night Elixir  For Men 100ml",
-          "handle": "rabanne-1-million-night-elixir-edp-for-men-amber-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rabane-resized-Photoroom_1_-resized-Photoroom.png?v=1787592131",
-          "price": 582,
-          "badge": ""
-        },
-        {
-          "name": "Paco Rabanne Gift Set For Men Woody",
-          "handle": "paco-rabanne-gift-set-for-men-woody-2",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/p_425e584a-bd88-4866-a823-c5d5e61ba8d5.jpg?v=1782573607",
-          "price": 421,
           "badge": ""
         }
       ]
@@ -653,51 +653,51 @@
       ]
     },
     {
-      "name": "Guerlain",
-      "slug": "guerlain",
-      "count": 257,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bbaff643352c84f65c36edbdde41f5db.jpg?v=1781590252",
+      "name": "Givenchy",
+      "slug": "givenchy",
+      "count": 256,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/nectar-resized_1_-Photoroom_a742ef2b-2d54-4f68-8bdd-2ff435350d57.png?v=1787861425",
       "preview": [
         {
-          "name": "Guerlain Insolence Gift Set For Women",
-          "handle": "guerlain-insolence-gift-set-for-women",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bbaff643352c84f65c36edbdde41f5db.jpg?v=1781590252",
-          "price": 668,
+          "name": "Givenchy Irresistible Nectar Eau de Parfum, Floral Fruity Gourmand Fragrance For Women 50ml",
+          "handle": "givenchy-irresistible-nectar-eau-de-parfum-floral-fruity-gourmand-fragrance-for-women-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/nectar-resized_1_-Photoroom_a742ef2b-2d54-4f68-8bdd-2ff435350d57.png?v=1787861425",
+          "price": 343,
           "badge": ""
         },
         {
-          "name": "Guerlain Liu Eau De Parfum For Women - Floral – Aldehydic Perfume 75ml",
-          "handle": "guerlain-liu-eau-de-parfum-for-women-floral-aldehydic-perfume-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/www-001013512356513-00.jpg?v=1769532496",
-          "price": 444,
-          "badge": ""
-        },
-        {
-          "name": "Guerlain Gift Set For Women Oriental",
-          "handle": "guerlain-gift-set-for-women-oriental",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/shalimar___250919.webp?v=1769372224",
-          "price": 444,
-          "badge": ""
-        },
-        {
-          "name": "Guerlain La Petite Robe Noire Eau De Parfum Intense For Women - Floral Fruity Gourmand Perfume 75ml",
-          "handle": "guerlain-la-petite-robe-noire-eau-de-parfum-intense-for-women-floral-fruity-gourmand-perfume-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/la-petite-robe-noire-eau-de-parfum-intense-vaporisateur_d81e7541-994e-41f1-ad00-37a447c7b34f.webp?v=1767626618",
+          "name": "Givenchy Irresistible  Nectar Eau de Parfum, Floral Fruity Gourmand Fragrance For Women 35ml",
+          "handle": "givenchy-irresistible-nectar-eau-de-parfum-floral-fruity-gourmand-fragrance-for-women-35ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/nectar-resized_1_-Photoroom.png?v=1787842270",
           "price": 259,
           "badge": ""
         },
         {
-          "name": "Guerlain La Petite Robe Noire Eau De Parfum Intense For Women - Floral Fruity Gourmand Perfume 50ml",
-          "handle": "guerlain-la-petite-robe-noire-eau-de-parfum-intense-for-women-floral-fruity-gourmand-perfume-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/la-petite-robe-noire-eau-de-parfum-intense-vaporisateur_9aa309b8-863d-4d93-b7b2-fb3add04d2f1.webp?v=1767625951",
-          "price": 241,
+          "name": "Givenchy Irresistible Hair Mist, Floral Woody Musk Fragrance For Women 35ml",
+          "handle": "givenchy-irresistible-hair-mist-floral-woody-musk-fragrance-for-women-35ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/givenchy_irresistible_hair_mist_35ml-resized_1_-Photoroom.png?v=1787841458",
+          "price": 232,
           "badge": ""
         },
         {
-          "name": "Guerlain La Petite Robe Noire Eau De Parfum Intense For Women - Floral Fruity Gourmand Perfume 30ml",
-          "handle": "guerlain-la-petite-robe-noire-eau-de-parfum-intense-for-women-floral-fruity-gourmand-perfume-30ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/280927.jpg?v=1767625501",
-          "price": 158,
+          "name": "Givenchy Irresistible Eau de Parfum, Floral Fruity Fragrance For Women 80ml",
+          "handle": "givenchy-irresistible-eau-de-parfum-floral-fruity-fragrance-for-women-80ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/iress-resized-Photoroom.png?v=1787840729",
+          "price": 455,
+          "badge": ""
+        },
+        {
+          "name": "Givenchy Gift Set, For Men",
+          "handle": "givenchy-gift-set-for-men",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/givenchy-mens-gentleman-boisee-gift--resized-Photoroom_05195a92-ec3f-4c2b-8b11-408b2cece64b.png?v=1787665457",
+          "price": 418,
+          "badge": ""
+        },
+        {
+          "name": "Givenchy Gift Set For Women",
+          "handle": "givenchy-gift-set-for-women-floral-1",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bodyy-removebg-preview.png?v=1784818966",
+          "price": 407,
           "badge": ""
         }
       ]
@@ -753,51 +753,51 @@
       ]
     },
     {
-      "name": "Givenchy",
-      "slug": "givenchy",
-      "count": 252,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/givenchy-mens-gentleman-boisee-gift--resized-Photoroom_05195a92-ec3f-4c2b-8b11-408b2cece64b.png?v=1787665457",
+      "name": "Guerlain",
+      "slug": "guerlain",
+      "count": 254,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bbaff643352c84f65c36edbdde41f5db.jpg?v=1781590252",
       "preview": [
         {
-          "name": "Givenchy Gift Set, For Men",
-          "handle": "givenchy-gift-set-for-men",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/givenchy-mens-gentleman-boisee-gift--resized-Photoroom_05195a92-ec3f-4c2b-8b11-408b2cece64b.png?v=1787665457",
-          "price": 418,
+          "name": "Guerlain Insolence Gift Set For Women",
+          "handle": "guerlain-insolence-gift-set-for-women",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bbaff643352c84f65c36edbdde41f5db.jpg?v=1781590252",
+          "price": 668,
           "badge": ""
         },
         {
-          "name": "Givenchy Gift Set For Women",
-          "handle": "givenchy-gift-set-for-women-floral-1",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bodyy-removebg-preview.png?v=1784818966",
-          "price": 407,
+          "name": "Guerlain Liu Eau De Parfum For Women - Floral – Aldehydic Perfume 75ml",
+          "handle": "guerlain-liu-eau-de-parfum-for-women-floral-aldehydic-perfume-75ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/www-001013512356513-00.jpg?v=1769532496",
+          "price": 444,
           "badge": ""
         },
         {
-          "name": "Givenchy Gift Set For Women",
-          "handle": "givenchy-gift-set-for-women-floral",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/l-resized-Photoroom.png?v=1787601878",
-          "price": 407,
+          "name": "Guerlain Gift Set For Women Oriental",
+          "handle": "guerlain-gift-set-for-women-oriental",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/shalimar___250919.webp?v=1769372224",
+          "price": 444,
           "badge": ""
         },
         {
-          "name": "Givenchy  Eaudemoiselle Florale Eau de Toilette For Women Floral 100ml",
-          "handle": "givenchy-eaudemoiselle-florale-eau-de-toilette-for-women-floral-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/eaudi.avif?v=1779353628",
-          "price": 362,
+          "name": "Guerlain La Petite Robe Noire Eau De Parfum Intense For Women - Floral Fruity Gourmand Perfume 75ml",
+          "handle": "guerlain-la-petite-robe-noire-eau-de-parfum-intense-for-women-floral-fruity-gourmand-perfume-75ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/la-petite-robe-noire-eau-de-parfum-intense-vaporisateur_d81e7541-994e-41f1-ad00-37a447c7b34f.webp?v=1767626618",
+          "price": 259,
           "badge": ""
         },
         {
-          "name": "Givenchy Irresistible Nectar Edp For Women Floral 80ml",
-          "handle": "givenchy-irresistible-nectar-edp-for-women-floral-80ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/givenchy.avif?v=1776526497",
-          "price": 595,
+          "name": "Guerlain La Petite Robe Noire Eau De Parfum Intense For Women - Floral Fruity Gourmand Perfume 50ml",
+          "handle": "guerlain-la-petite-robe-noire-eau-de-parfum-intense-for-women-floral-fruity-gourmand-perfume-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/la-petite-robe-noire-eau-de-parfum-intense-vaporisateur_9aa309b8-863d-4d93-b7b2-fb3add04d2f1.webp?v=1767625951",
+          "price": 241,
           "badge": ""
         },
         {
-          "name": "Givenchy Pour Homme Eau de Toilette Perfume For Men Citrus 100ml",
-          "handle": "givenchy-pour-homme-eau-de-toilette-perfume-for-men-citrus-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Givenchy_Pour_Homme_Eau_de_Toilette_Perfume_For_Men_Citrus_100ml.webp?v=1779186385",
-          "price": 204,
+          "name": "Guerlain La Petite Robe Noire Eau De Parfum Intense For Women - Floral Fruity Gourmand Perfume 30ml",
+          "handle": "guerlain-la-petite-robe-noire-eau-de-parfum-intense-for-women-floral-fruity-gourmand-perfume-30ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/280927.jpg?v=1767625501",
+          "price": 158,
           "badge": ""
         }
       ]
@@ -1153,6 +1153,56 @@
       ]
     },
     {
+      "name": "Tom Ford",
+      "slug": "tom-ford",
+      "count": 213,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/electric-resized_1_-Photoroom.png?v=1787843203",
+      "preview": [
+        {
+          "name": "Tom Ford Electric Cherry All Over Body Spray, Floral Fruity Fragrance For Women And Men 150ml",
+          "handle": "tom-ford-electric-cherry-all-over-body-spray-floral-fruity-fragrance-for-women-and-men-150ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/electric-resized_1_-Photoroom.png?v=1787843203",
+          "price": 362,
+          "badge": ""
+        },
+        {
+          "name": "Tom Ford Rose Exposed Eau de Parfum, Floral Woody Musk Fragrance For Women And Men 100ml",
+          "handle": "tom-ford-rose-exposed-eau-de-parfum-floral-woody-musk-fragrance-for-women-and-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rose-resized-Photoroom_e1b2d79b-e046-4e43-a391-6156a29f1d93.png?v=1787842709",
+          "price": 1030,
+          "badge": ""
+        },
+        {
+          "name": "Tom Ford Vanilla Body Spray, For Men And Women 150ml",
+          "handle": "tom-ford-vanilla-body-spray-for-men-and-women-150ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/vanilla-resized-Photoroom_d31b0392-f690-44e1-b7c4-71b98b06bda1.png?v=1787668135",
+          "price": 362,
+          "badge": ""
+        },
+        {
+          "name": "Tom Ford Oud Wood Eau de Parfum Miniature Refillable, Fragrance For Men And Women 10ml",
+          "handle": "tom-ford-oud-wood-eau-de-parfum-miniature-refillable-fragrance-for-men-and-women-10ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/tomford-resized-Photoroom.png?v=1787442280",
+          "price": 269,
+          "badge": ""
+        },
+        {
+          "name": "Tom Ford Oud Voyager Eau de Parfum, Oriental Woody Fragrance For Women And Men 30ml",
+          "handle": "tom-ford-oud-voyager-eau-de-parfum-oriental-woody-fragrance-for-women-and-men-30ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/OUD-resized-Photoroom.png?v=1787441337",
+          "price": 678,
+          "badge": ""
+        },
+        {
+          "name": "Tom Ford Soleil Neige All Over Body Spray, For Men And Women 150ml",
+          "handle": "tom-ford-soleil-neige-all-over-body-spray-for-men-and-women-floral",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/sol-removebg-preview.png?v=1784839141",
+          "price": 325,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Hugo Boss",
       "slug": "hugo-boss",
       "count": 213,
@@ -1203,61 +1253,18 @@
       ]
     },
     {
-      "name": "Tom Ford",
-      "slug": "tom-ford",
-      "count": 211,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/vanilla-resized-Photoroom_d31b0392-f690-44e1-b7c4-71b98b06bda1.png?v=1787668135",
-      "preview": [
-        {
-          "name": "Tom Ford Vanilla Body Spray, For Men And Women 150ml",
-          "handle": "tom-ford-vanilla-body-spray-for-men-and-women-150ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/vanilla-resized-Photoroom_d31b0392-f690-44e1-b7c4-71b98b06bda1.png?v=1787668135",
-          "price": 362,
-          "badge": ""
-        },
-        {
-          "name": "Tom Ford Oud Wood Eau de Parfum Miniature Refillable, Fragrance For Men And Women 10ml",
-          "handle": "tom-ford-oud-wood-eau-de-parfum-miniature-refillable-fragrance-for-men-and-women-10ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/tomford-resized-Photoroom.png?v=1787442280",
-          "price": 269,
-          "badge": ""
-        },
-        {
-          "name": "Tom Ford Oud Voyager Eau de Parfum, Oriental Woody Fragrance For Women And Men 30ml",
-          "handle": "tom-ford-oud-voyager-eau-de-parfum-oriental-woody-fragrance-for-women-and-men-30ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/OUD-resized-Photoroom.png?v=1787441337",
-          "price": 678,
-          "badge": ""
-        },
-        {
-          "name": "Tom Ford Soleil Neige All Over Body Spray, For Men And Women 150ml",
-          "handle": "tom-ford-soleil-neige-all-over-body-spray-for-men-and-women-floral",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/sol-removebg-preview.png?v=1784839141",
-          "price": 325,
-          "badge": ""
-        },
-        {
-          "name": "Tom Ford Ombré Leather Edp, Leather Fragrance For Men And Women 150ml",
-          "handle": "tom-ford-ombre-leather-edp-for-men-and-women-leather-150ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ford-removebg-preview.png?v=1784838149",
-          "price": 1030,
-          "badge": ""
-        },
-        {
-          "name": "Tom Ford Gift Set For Men And Women Floral",
-          "handle": "tom-ford-gift-set-for-men-and-women-floral",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/tomm.png?v=1783976396",
-          "price": 549,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Rasasi",
       "slug": "rasasi",
-      "count": 201,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/1_1794b577-6144-4abd-aad6-2e871fa5f6e4-Photoroom.png?v=1786804621",
+      "count": 202,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/prin-resized-Photoroom.png?v=1787859283",
       "preview": [
+        {
+          "name": "Rasasi Princess Bleu Pour Femme Eau de Parfum, Floral Fruity Fragrance For Women 50ml",
+          "handle": "rasasi-princess-bleu-pour-femme-eau-de-parfum-floral-fruity-fragrance-for-women-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/prin-resized-Photoroom.png?v=1787859283",
+          "price": 45,
+          "badge": ""
+        },
         {
           "name": "Rasasi Hamasaat Musk Memoirs Eau De Parfum For Unisex-Musky Oriental Perfume 100ml",
           "handle": "rasasi-hamasaat-musk-memoirs-eau-de-parfum-for-unisex-musky-oriental-perfume-100ml",
@@ -1292,22 +1299,22 @@
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/NafaeisAlShaghaf_PourHomme_1-Photoroom.png?v=1785171853",
           "price": 118,
           "badge": ""
-        },
-        {
-          "name": "Rasasi Nafaeis Al Shaghaf Maraya Pour Femme Eau De Parfum For Women-Oriental Floral Perfume 100ml",
-          "handle": "rasasi-nafaeis-al-shaghaf-maraya-pour-femme-eau-de-parfum-for-women-oriental-floral-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/2_4b095379-889e-4eb7-ba50-a838ecc043eb-Photoroom.png?v=1785170362",
-          "price": 118,
-          "badge": ""
         }
       ]
     },
     {
       "name": "MUGLER",
       "slug": "mugler",
-      "count": 199,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/star-removebg-preview_c817bb1a-a84d-4dd2-9687-8bc50f01fca3-resized-Photoroom.png?v=1787739308",
+      "count": 200,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ALIEN-resized-Photoroom_62702296-d1c3-4e8d-aa58-4af0e258f2c4.png?v=1787859764",
       "preview": [
+        {
+          "name": "Mugler Alien Pulp Eau de Parfum Fruité Refillable, Floral Fruity Fragrance For Women 60ml",
+          "handle": "mugler-alien-pulp-eau-de-parfum-fruite-refillable-floral-fruity-fragrance-for-women-60ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ALIEN-resized-Photoroom_62702296-d1c3-4e8d-aa58-4af0e258f2c4.png?v=1787859764",
+          "price": 315,
+          "badge": ""
+        },
         {
           "name": "Mugler A*Men Fantasm Eau de Parfum, Oriental Vanilla Fragrance Sensuelle For Men 100ml",
           "handle": "mugler-a-men-fantasm-eau-de-parfum-sensuelle-for-men-amber-100ml",
@@ -1341,13 +1348,6 @@
           "handle": "mugler-angel-stellar-eau-de-parfum-for-women-lumineuse-amber-vanilla-perfume-50ml-refillable",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3614274292220_Front.png?v=1758034893",
           "price": 333,
-          "badge": ""
-        },
-        {
-          "name": "Mugler Angel Stellar Eau De Parfum For Women Lumineuse - Amber Vanilla Perfume 100ml Refillable",
-          "handle": "mugler-angel-stellar-eau-de-parfum-for-women-lumineuse-amber-vanilla-perfume-100ml-refillable",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3614274292237_Front.png?v=1758034372",
-          "price": 399,
           "badge": ""
         }
       ]
@@ -1453,56 +1453,6 @@
       ]
     },
     {
-      "name": "Gucci",
-      "slug": "gucci",
-      "count": 194,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/flo.webp?v=1782035065",
-      "preview": [
-        {
-          "name": "Gucci Flora Gorgeous Orchid Eau de Parfum For Women Floral 100ml",
-          "handle": "gucci-flora-gorgeous-orchid-eau-de-parfum-for-women-floral-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/flo.webp?v=1782035065",
-          "price": 446,
-          "badge": ""
-        },
-        {
-          "name": "Gucci Bloom Ambrosia di Fiori Eau de Parfum For Women Floral 100ml",
-          "handle": "gucci-bloom-ambrosia-di-fiori-eau-de-parfum-for-women-floral-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/guccci.avif?v=1782034207",
-          "price": 488,
-          "badge": ""
-        },
-        {
-          "name": "Gucci Guilty Love Edition Pour Homme Eau De Parfum For Men- Oriental Fougere Perfume 90ml",
-          "handle": "gucci-guilty-love-edition-pour-homme-eau-de-parfum-for-men-oriental-fougere-perfume-90ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ku_PrmCsoo-1165555_1.jpg?v=1781699663",
-          "price": 492,
-          "badge": ""
-        },
-        {
-          "name": "Gucci Bloom Ambrosia d’Oro  Eau de Parfum For Women Floral 50ml",
-          "handle": "gucci-bloom-ambrosia-d-oro-eau-de-parfum-for-women-floral-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bloom.avif?v=1779354505",
-          "price": 306,
-          "badge": ""
-        },
-        {
-          "name": "Gucci Flora Gorgeous Magnolia Eau De Parfum For Women - Floral fruity 150ml Refill",
-          "handle": "gucci-flora-gorgeous-magnolia-eau-de-parfum-for-women-floral-fruity-150ml-refill",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616303470852_c.jpg?v=1775998094",
-          "price": 343,
-          "badge": ""
-        },
-        {
-          "name": "Gucci Bloom Parfum For Women - Oriental Floral Perfume 50ml",
-          "handle": "gucci-bloom-parfum-for-women-oriental-floral-perfume-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616306115927_20251106111800.jpg?v=1775994656",
-          "price": 295,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Salvatore Ferragamo",
       "slug": "salvatore-ferragamo",
       "count": 194,
@@ -1598,6 +1548,56 @@
           "handle": "acqua-di-parma-blu-mediterraneo-mandarino-di-sicilia-eau-de-toilette-for-unisex-citrus-aromatic-perfume-180ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/4775_NA_1__62450.1714720391.jpg?v=1774345085",
           "price": 567,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Gucci",
+      "slug": "gucci",
+      "count": 187,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/flo.webp?v=1782035065",
+      "preview": [
+        {
+          "name": "Gucci Flora Gorgeous Orchid Eau de Parfum For Women Floral 100ml",
+          "handle": "gucci-flora-gorgeous-orchid-eau-de-parfum-for-women-floral-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/flo.webp?v=1782035065",
+          "price": 446,
+          "badge": ""
+        },
+        {
+          "name": "Gucci Bloom Ambrosia di Fiori Eau de Parfum For Women Floral 100ml",
+          "handle": "gucci-bloom-ambrosia-di-fiori-eau-de-parfum-for-women-floral-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/guccci.avif?v=1782034207",
+          "price": 488,
+          "badge": ""
+        },
+        {
+          "name": "Gucci Guilty Love Edition Pour Homme Eau De Parfum For Men- Oriental Fougere Perfume 90ml",
+          "handle": "gucci-guilty-love-edition-pour-homme-eau-de-parfum-for-men-oriental-fougere-perfume-90ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ku_PrmCsoo-1165555_1.jpg?v=1781699663",
+          "price": 492,
+          "badge": ""
+        },
+        {
+          "name": "Gucci Bloom Ambrosia d’Oro  Eau de Parfum For Women Floral 50ml",
+          "handle": "gucci-bloom-ambrosia-d-oro-eau-de-parfum-for-women-floral-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bloom.avif?v=1779354505",
+          "price": 306,
+          "badge": ""
+        },
+        {
+          "name": "Gucci Flora Gorgeous Magnolia Eau De Parfum For Women - Floral fruity 150ml Refill",
+          "handle": "gucci-flora-gorgeous-magnolia-eau-de-parfum-for-women-floral-fruity-150ml-refill",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616303470852_c.jpg?v=1775998094",
+          "price": 343,
+          "badge": ""
+        },
+        {
+          "name": "Gucci Bloom Parfum For Women - Oriental Floral Perfume 50ml",
+          "handle": "gucci-bloom-parfum-for-women-oriental-floral-perfume-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616306115927_20251106111800.jpg?v=1775994656",
+          "price": 295,
           "badge": ""
         }
       ]
@@ -2303,6 +2303,56 @@
       ]
     },
     {
+      "name": "Creed",
+      "slug": "creed",
+      "count": 129,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/royal-Photoroom.png?v=1787832415",
+      "preview": [
+        {
+          "name": "Creed Royal Princess Oud Millésime Eau de Parfum, Oriental Floral Fragrance For Women 30ml",
+          "handle": "creed-royal-princess-oud-millesime-eau-de-parfum-oriental-floral-fragrance-for-women-30ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/royal-Photoroom.png?v=1787832415",
+          "price": 567,
+          "badge": ""
+        },
+        {
+          "name": "Creed Wild Vetiver Eau De Parfum For Unisex-Citrus Aromatic Perfume 100ml",
+          "handle": "creed-wild-vetiver-eau-de-parfum-for-unisex-citrus-aromatic-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Creed_Wild_Vetiver_Eau_De_Parfum_For_Unisex-Citrus_Aromatic_Perfume_100ml..jpg?v=1787123512",
+          "price": 1549,
+          "badge": "SALE"
+        },
+        {
+          "name": "Creed Vanisia Scented Candle Amber 220 g",
+          "handle": "creed-vanisia-scented-candle-amber-220g",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/toscana_box_fe7db876-603a-4419-ad92-6bbde0343df6.png?v=1783981527",
+          "price": 296,
+          "badge": ""
+        },
+        {
+          "name": "Creed Toscana Scented Candle Aromatic 220g",
+          "handle": "creed-toscana-scented-candle-aromatic-220g",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/toscana_box.png?v=1783981173",
+          "price": 296,
+          "badge": ""
+        },
+        {
+          "name": "Creed Sea Island Scented Candle Fresh 220g",
+          "handle": "creed-sea-island-scented-candle-fresh-220g",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/island-remove.png?v=1783980558",
+          "price": 296,
+          "badge": ""
+        },
+        {
+          "name": "Creed Cananga Scented Candle Floral 220g",
+          "handle": "creed-cananga-scented-candle-floral-220g",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/changa.png?v=1783980020",
+          "price": 296,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Mercedes- Benz",
       "slug": "mercedes-benz",
       "count": 129,
@@ -2398,56 +2448,6 @@
           "handle": "maison-francis-kurkdjian-paris-aqua-celestia-cologne-forte-eau-de-parfum-for-unisex-citrus-perfume-70ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/maison_francis_kurkdjian_aqua_celestia_cologne_forte_70ml_3700559611050_1.jpg?v=1773079592",
           "price": 885,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Creed",
-      "slug": "creed",
-      "count": 128,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Creed_Wild_Vetiver_Eau_De_Parfum_For_Unisex-Citrus_Aromatic_Perfume_100ml..jpg?v=1787123512",
-      "preview": [
-        {
-          "name": "Creed Wild Vetiver Eau De Parfum For Unisex-Citrus Aromatic Perfume 100ml",
-          "handle": "creed-wild-vetiver-eau-de-parfum-for-unisex-citrus-aromatic-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Creed_Wild_Vetiver_Eau_De_Parfum_For_Unisex-Citrus_Aromatic_Perfume_100ml..jpg?v=1787123512",
-          "price": 1549,
-          "badge": "SALE"
-        },
-        {
-          "name": "Creed Vanisia Scented Candle Amber 220 g",
-          "handle": "creed-vanisia-scented-candle-amber-220g",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/toscana_box_fe7db876-603a-4419-ad92-6bbde0343df6.png?v=1783981527",
-          "price": 296,
-          "badge": ""
-        },
-        {
-          "name": "Creed Toscana Scented Candle Aromatic 220g",
-          "handle": "creed-toscana-scented-candle-aromatic-220g",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/toscana_box.png?v=1783981173",
-          "price": 296,
-          "badge": ""
-        },
-        {
-          "name": "Creed Sea Island Scented Candle Fresh 220g",
-          "handle": "creed-sea-island-scented-candle-fresh-220g",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/island-remove.png?v=1783980558",
-          "price": 296,
-          "badge": ""
-        },
-        {
-          "name": "Creed Cananga Scented Candle Floral 220g",
-          "handle": "creed-cananga-scented-candle-floral-220g",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/changa.png?v=1783980020",
-          "price": 296,
-          "badge": ""
-        },
-        {
-          "name": "Creed Birmanie Oud Scented Candle Woody 220g",
-          "handle": "creed-birmanie-oud-scented-candle-woody-220-g",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bbbbbbb.png?v=1783977749",
-          "price": 296,
           "badge": ""
         }
       ]
@@ -3305,9 +3305,16 @@
     {
       "name": "CLIVE CHRISTIAN",
       "slug": "clive-christian",
-      "count": 97,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/original-resized-Photoroom.png?v=1787397980",
+      "count": 98,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/private-resized_1_-Photoroom.png?v=1787831829",
       "preview": [
+        {
+          "name": "Clive Christian Private Collection C Woody Leather Perfume Spray, Oriental Woody Fragrance For Men 50ml",
+          "handle": "clive-christian-private-collection-c-woody-leather-perfume-spray-oriental-woody-fragrance-for-men-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/private-resized_1_-Photoroom.png?v=1787831829",
+          "price": 1039,
+          "badge": ""
+        },
         {
           "name": "Clive Christian Original Collection 1872 Masculine Perfume Spray, Citrus Aromatic Fragrance For Men 50ml",
           "handle": "clive-christian-original-collection-1872-masculine-perfume-spray-citrus-aromatic-fragrance-for-men-50ml",
@@ -3341,13 +3348,6 @@
           "handle": "clive-christian-private-collection-l-red-tea-vetiver-edp-for-men-and-women-woody-50ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/reddddddd.webp?v=1769274807",
           "price": 1130,
-          "badge": ""
-        },
-        {
-          "name": "Clive Christian Crown Collection Crab Apple Blossom Perfume Spray For Men And Women Floral 50ml",
-          "handle": "clive-christian-crown-collection-crab-apple-blossom-perfume-spray-for-men-and-women-floral-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/crab-apple-blossom___250128.webp?v=1764961738",
-          "price": 1219,
           "badge": ""
         }
       ]
@@ -3555,7 +3555,7 @@
     {
       "name": "Other",
       "slug": "other",
-      "count": 92,
+      "count": 91,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/FutureMusiumBurnerTopGoldblack2.jpg?v=1711795532",
       "preview": [
         {
@@ -4612,7 +4612,7 @@
           "name": "Ahmed Al Maghribi Black Fumes For Unisex EDP 100ml",
           "handle": "ahmed-al-maghribi-black-fumes-for-unisex-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Ahmed_Al_Maghribi_Black_Fumes_For_Unisex_EDP_100ml-Photoroom.png?v=1787670265",
-          "price": 62,
+          "price": 69,
           "badge": "SALE"
         },
         {
@@ -31178,50 +31178,6 @@
       ]
     },
     {
-      "name": "Taqaseem",
-      "slug": "taqaseem",
-      "count": 2,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/taqseem_prince_al_oud_1.jpg?v=1624397558",
-      "preview": [
-        {
-          "name": "Taqaseem Prince Al Oud for unisex, EDP,  100ml",
-          "handle": "taqaseem-prince-al-oud-for-unisex-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/taqseem_prince_al_oud_1.jpg?v=1624397558",
-          "price": 32,
-          "badge": ""
-        },
-        {
-          "name": "Taqaseem barez for women,edp,100ml",
-          "handle": "taqaseem-barez-for-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/barez.jpg?v=1624397263",
-          "price": 22,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Arqus",
-      "slug": "arqus",
-      "count": 2,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/arqus_mon_coeur_1.jpg?v=1624397316",
-      "preview": [
-        {
-          "name": "Arqus MON COEUR For Women, EDP, 80ml",
-          "handle": "arqus-mon-coeur-for-women-edp-80ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/arqus_mon_coeur_1.jpg?v=1624397316",
-          "price": 10,
-          "badge": "SALE"
-        },
-        {
-          "name": "Arqus Roulette Uomo For Men 100 ml EDP",
-          "handle": "arqus-roulette-uomo-for-men-100-ml-edp",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/arqus_roulette_uomo.jpg?v=1624397277",
-          "price": 10,
-          "badge": "SALE"
-        }
-      ]
-    },
-    {
       "name": "kajal",
       "slug": "kajal",
       "count": 1,
@@ -33842,6 +33798,21 @@
           "handle": "puccini-perfume-for-men-eau-de-toilette-100-ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/puccini_perfume_for_men_-_eau_de_toilette_100_ml.jpg?v=1624398781",
           "price": 53,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Taqaseem",
+      "slug": "taqaseem",
+      "count": 1,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/taqseem_prince_al_oud_1.jpg?v=1624397558",
+      "preview": [
+        {
+          "name": "Taqaseem Prince Al Oud for unisex, EDP,  100ml",
+          "handle": "taqaseem-prince-al-oud-for-unisex-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/taqseem_prince_al_oud_1.jpg?v=1624397558",
+          "price": 32,
           "badge": ""
         }
       ]
