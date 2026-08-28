@@ -1,8 +1,54 @@
 {
-  "scraped_at": "2026-08-27T20:43:39.113Z",
+  "scraped_at": "2026-08-28T05:09:12.713Z",
   "source": "https://samawa.ae",
   "count": 25021,
   "products": [
+    {
+      "name": "Jean Paul Gaultier Scandal Absolu Parfum Concentré, Fragrance For Women 50ml",
+      "brand": "Jean Paul Gaultier",
+      "category_slug": "homme",
+      "size": "50ml",
+      "price_retail": 352,
+      "price_gros": 352,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/sacndal-resized-Photoroom.png?v=1787863632",
+      "active": true,
+      "_handle": "jean-paul-gaultier-scandal-absolu-parfum-concentre-fragrance-for-women-50ml",
+      "_sku": "8435415080415",
+      "_tags": [
+        "50ml",
+        "Branded Perfumes",
+        "Fragrance",
+        "Parfum Concentré",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/jean-paul-gaultier-scandal-absolu-parfum-concentre-fragrance-for-women-50ml"
+    },
+    {
+      "name": "Givenchy Irresistible Rose Velvet Eau de Parfum, Fragrance For Women 50ml",
+      "brand": "Givenchy",
+      "category_slug": "homme",
+      "size": "50ml",
+      "price_retail": 333,
+      "price_gros": 333,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rosee-resized-Photoroom_1.png?v=1787862838",
+      "active": true,
+      "_handle": "givenchy-irresistible-rose-velvet-eau-de-parfum-fragrance-for-women-50ml",
+      "_sku": "3274872447554",
+      "_tags": [
+        "50ml",
+        "Branded Perfumes",
+        "EDP",
+        "Fragrance",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/givenchy-irresistible-rose-velvet-eau-de-parfum-fragrance-for-women-50ml"
+    },
     {
       "name": "Givenchy Irresistible Nectar Eau de Parfum, Floral Fruity Gourmand Fragrance For Women 50ml",
       "brand": "Givenchy",
@@ -14423,8 +14469,8 @@
       "brand": "Lattafa",
       "category_slug": "homme",
       "size": "100ml",
-      "price_retail": 82,
-      "price_gros": 82,
+      "price_retail": 71,
+      "price_gros": 71,
       "stock": 999,
       "badge": "",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Habik_EDP_For_Women_100ml.jpg?v=1781075753",
@@ -65123,7 +65169,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 175,
-      "price_gros": 83,
+      "price_gros": 80,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Hawas_Malibu_By_Rasasi_Perfume_For_Men_EDP_100ml_a4f4f478-b373-4315-baee-7d0b75b962d4.png?v=1787126165",
@@ -77684,7 +77730,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 109,
-      "price_gros": 74,
+      "price_gros": 73.75,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Khamrah_Dukhan_Perfume_For_Unisex_EDP_100ml-Photoroom.png?v=1787585240",
@@ -173720,7 +173766,7 @@
       "category_slug": "homme",
       "size": "90ml",
       "price_retail": 117,
-      "price_gros": 37,
+      "price_gros": 35,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Qaed_Al_Fursan_Unlimited_Eau_de_Parfum_For_Unisex_90ml-Photoroom.png?v=1787641801",
@@ -190033,7 +190079,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 199,
-      "price_gros": 90,
+      "price_gros": 87.5,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Musamam_White_Intense_Perfume_For_Unisex_EDP_100ml-Photoroom.png?v=1787483729",
@@ -443784,29 +443830,6 @@
       "_url": "https://samawa.ae/products/christian-dior-jadore-in-joy-for-women-edt-75-ml"
     },
     {
-      "name": "Christian Dior J'Adore In Joy For Women EDT 75 ml",
-      "brand": "Christian Dior",
-      "category_slug": "homme",
-      "size": "75ml",
-      "price_retail": 298,
-      "price_gros": 298,
-      "stock": 999,
-      "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/christian_dior_j_adore_in_joy_for_women_edt_75_ml.jpg?v=1624505610",
-      "active": true,
-      "_handle": "christian-dior-jadore-in-joy-for-women-edt-75-ml",
-      "_sku": "3348901346122",
-      "_tags": [
-        "75ml",
-        "Branded Perfumes",
-        "EDT",
-        "Fragrance",
-        "Women"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/christian-dior-jadore-in-joy-for-women-edt-75-ml"
-    },
-    {
       "name": "Christian Dior J'Adore For Women EDT 75 ml",
       "brand": "Christian Dior",
       "category_slug": "homme",
@@ -524156,7 +524179,7 @@
       "category_slug": "homme",
       "size": "75ml",
       "price_retail": 185,
-      "price_gros": 124,
+      "price_gros": 133,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/hugo098_1.jpg?v=1628655907",
@@ -582137,27 +582160,6 @@
       ],
       "_product_type": "Fragrance",
       "_url": "https://samawa.ae/products/vurv-bal-dor-for-unisex-edp-100ml"
-    },
-    {
-      "name": "Guerlain L'Heure Bleue for Women - Eau de Parfum, 75ml",
-      "brand": "Guerlain",
-      "category_slug": "homme",
-      "size": "75ml",
-      "price_retail": 201,
-      "price_gros": 201,
-      "stock": 999,
-      "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/l_heure_bleue_by_guerlain_for_women_-_eau_de_parfum_75ml.jpg?v=1624397435",
-      "active": true,
-      "_handle": "guerlain-lheure-bleue-for-women-eau-de-parfum-75ml",
-      "_sku": "3346470260542",
-      "_tags": [
-        "75ml",
-        "Branded Perfumes",
-        "Fragrance"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/guerlain-lheure-bleue-for-women-eau-de-parfum-75ml"
     }
   ]
 }

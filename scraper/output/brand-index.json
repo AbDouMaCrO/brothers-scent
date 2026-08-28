@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T20:45:28.748Z",
+  "generated_at": "2026-08-28T05:10:53.197Z",
   "total_brands": 887,
   "brands": [
     {
@@ -255,7 +255,7 @@
     {
       "name": "Christian Dior",
       "slug": "christian-dior",
-      "count": 348,
+      "count": 347,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/suaa-resized-Photoroom.png?v=1787445790",
       "preview": [
         {
@@ -655,9 +655,16 @@
     {
       "name": "Givenchy",
       "slug": "givenchy",
-      "count": 256,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/nectar-resized_1_-Photoroom_a742ef2b-2d54-4f68-8bdd-2ff435350d57.png?v=1787861425",
+      "count": 257,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rosee-resized-Photoroom_1.png?v=1787862838",
       "preview": [
+        {
+          "name": "Givenchy Irresistible Rose Velvet Eau de Parfum, Fragrance For Women 50ml",
+          "handle": "givenchy-irresistible-rose-velvet-eau-de-parfum-fragrance-for-women-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rosee-resized-Photoroom_1.png?v=1787862838",
+          "price": 333,
+          "badge": ""
+        },
         {
           "name": "Givenchy Irresistible Nectar Eau de Parfum, Floral Fruity Gourmand Fragrance For Women 50ml",
           "handle": "givenchy-irresistible-nectar-eau-de-parfum-floral-fruity-gourmand-fragrance-for-women-50ml",
@@ -691,13 +698,6 @@
           "handle": "givenchy-gift-set-for-men",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/givenchy-mens-gentleman-boisee-gift--resized-Photoroom_05195a92-ec3f-4c2b-8b11-408b2cece64b.png?v=1787665457",
           "price": 418,
-          "badge": ""
-        },
-        {
-          "name": "Givenchy Gift Set For Women",
-          "handle": "givenchy-gift-set-for-women-floral-1",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bodyy-removebg-preview.png?v=1784818966",
-          "price": 407,
           "badge": ""
         }
       ]
@@ -755,7 +755,7 @@
     {
       "name": "Guerlain",
       "slug": "guerlain",
-      "count": 254,
+      "count": 253,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bbaff643352c84f65c36edbdde41f5db.jpg?v=1781590252",
       "preview": [
         {
@@ -1755,9 +1755,16 @@
     {
       "name": "Jean Paul Gaultier",
       "slug": "jean-paul-gaultier",
-      "count": 171,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/8435415115209_1-Photoroom.png?v=1785166073",
+      "count": 172,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/sacndal-resized-Photoroom.png?v=1787863632",
       "preview": [
+        {
+          "name": "Jean Paul Gaultier Scandal Absolu Parfum Concentré, Fragrance For Women 50ml",
+          "handle": "jean-paul-gaultier-scandal-absolu-parfum-concentre-fragrance-for-women-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/sacndal-resized-Photoroom.png?v=1787863632",
+          "price": 352,
+          "badge": ""
+        },
         {
           "name": "Jean Paul Gaultier Le Beau Narcisse Eau De Parfum For Men-Floral Woody Musk Perfume 75ml",
           "handle": "jean-paul-gaultier-le-beau-narcisse-eau-de-parfum-for-men-floral-woody-musk-perfume-75ml",
@@ -1791,13 +1798,6 @@
           "handle": "jean-paul-gaultier-gift-set-for-women-floral",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Jean_Paul_Gaultier_Divine_Gift_Set_For_Women-resized-Photoroom.png?v=1787735708",
           "price": 492,
-          "badge": ""
-        },
-        {
-          "name": "Jean Paul Gaultier Gift Set For Men",
-          "handle": "jean-paul-gaultier-gift-set-for-men-amber-1",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/g-removebg-preview_1.png?v=1784798276",
-          "price": 362,
           "badge": ""
         }
       ]
