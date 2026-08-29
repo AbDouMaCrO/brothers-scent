@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-29T08:15:10.977Z",
+  "generated_at": "2026-08-29T14:01:15.682Z",
   "total_brands": 886,
   "brands": [
     {
       "name": "Amazing Creation",
       "slug": "amazing-creation",
-      "count": 1119,
+      "count": 1117,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Sindbad_Perfume_For_Unisex_EDP_100ml_PFB-515.png?v=1787394011",
       "preview": [
         {
@@ -662,7 +662,7 @@
           "name": "Lattafa Maahir Honor For Unisex EDP 100ml",
           "handle": "lattafa-maahir-honor-for-unisex-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Maahir_Honor.png?v=1786522827",
-          "price": 88,
+          "price": 69,
           "badge": "SALE"
         },
         {
@@ -1953,6 +1953,56 @@
       ]
     },
     {
+      "name": "Mancera",
+      "slug": "mancera",
+      "count": 152,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/vetiver-sensuel-resized-Photoroom.png?v=1788009111",
+      "preview": [
+        {
+          "name": "Mancera Vetiver Sensuel Eau de Parfum, Woody Floral Musk Fragrance For Women And Men 60ml",
+          "handle": "mancera-vetiver-sensuel-eau-de-parfum-woody-floral-musk-fragrance-for-women-and-men-60ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/vetiver-sensuel-resized-Photoroom.png?v=1788009111",
+          "price": 269,
+          "badge": ""
+        },
+        {
+          "name": "Mancera Silver Blue Eau de Parfum, Oriental Woody Fragrance For Women And Men 60ml",
+          "handle": "mancera-silver-blue-eau-de-parfum-oriental-woody-fragrance-for-women-and-men-60ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/silver-blue-resized-Photoroom.png?v=1788008817",
+          "price": 296,
+          "badge": ""
+        },
+        {
+          "name": "Mancera Sand Aoud Eau de Parfum, Oriental Woody Fragrance For Women And Men 60ml",
+          "handle": "mancera-sand-aoud-eau-de-parfum-oriental-woody-fragrance-for-women-and-men-60ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/sand-aoud-resized-Photoroom.png?v=1788008480",
+          "price": 259,
+          "badge": ""
+        },
+        {
+          "name": "Mancera Red Tobacco Intense Extrait de Parfum, Fragrance For Men And Women 60ml",
+          "handle": "mancera-red-tobacco-intense-extrait-de-parfum-fragrance-for-men-and-women-60ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/intense-red-tobacco-resized-Photoroom.png?v=1788008279",
+          "price": 343,
+          "badge": ""
+        },
+        {
+          "name": "Mancera Precious Oud Eau de Parfum, Oriental Vanilla Fragrance For Women And Men 60ml",
+          "handle": "mancera-precious-oud-eau-de-parfum-oriental-vanilla-fragrance-for-women-and-men-60ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/precious-oud-resized-Photoroom.png?v=1788006065",
+          "price": 259,
+          "badge": ""
+        },
+        {
+          "name": "Mancera Pearl Eau de Parfum, Floral Fragrance For Women 60ml",
+          "handle": "mancera-pearl-eau-de-parfum-floral-fragrance-for-women-60ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/PEARL-resized-Photoroom.png?v=1788005906",
+          "price": 306,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Afnan",
       "slug": "afnan",
       "count": 152,
@@ -2248,56 +2298,6 @@
           "handle": "byredo-gypsy-water-perfume-for-unisex-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/UK300026787_BYREDO.jpg?v=1746629086",
           "price": 1011,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Mancera",
-      "slug": "mancera",
-      "count": 136,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/holidays-resized-Photoroom.png?v=1787927761",
-      "preview": [
-        {
-          "name": "Mancera Holidays Eau de Parfum, Floral Woody Musk Fragrance For Women And Men 120ml",
-          "handle": "mancera-holidays-eau-de-parfum-floral-woody-musk-fragrance-for-women-and-men-120ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/holidays-resized-Photoroom.png?v=1787927761",
-          "price": 370,
-          "badge": ""
-        },
-        {
-          "name": "Mancera Cherry Cherry Eau de Parfum, Oriental Floral Fragrance For Women And Men 60ml",
-          "handle": "mancera-cherry-cherry-eau-de-parfum-oriental-floral-fragrance-for-women-and-men-60ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cherry-cherry-edp-20-oz-fragrances-3760265194858-resized-Photoroom.png?v=1787915397",
-          "price": 296,
-          "badge": ""
-        },
-        {
-          "name": "Mancera Aoud Violet Eau de Parfum, Chypre Floral Fragrance For Women 60ml",
-          "handle": "mancera-aoud-violet-eau-de-parfum-chypre-floral-fragrance-for-women-60ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Aoud-Violet-Edp-60-Ml--550x550h-resized-Photoroom.png?v=1787910498",
-          "price": 251,
-          "badge": ""
-        },
-        {
-          "name": "Mancera Aoud Line Eau de Parfum, Oriental Woody Fragrance For Women And Men 60ml",
-          "handle": "mancera-aoud-line-eau-de-parfum-oriental-woody-fragrance-for-women-and-men-60ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/mancera-unisex-aoud-line-edp-21-oz-fragrances-3760265190218-resized-Photoroom.png?v=1787910084",
-          "price": 288,
-          "badge": ""
-        },
-        {
-          "name": "Mancera Aoud Café Eau de Parfum, Oriental Vanilla Fragrance For Women And Men 60ml",
-          "handle": "mancera-aoud-cafe-eau-de-parfum-oriental-vanilla-fragrance-for-women-and-men-60ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/aoudcafe-resized-Photoroom.png?v=1787909831",
-          "price": 259,
-          "badge": ""
-        },
-        {
-          "name": "Mancera Aoud Blue Notes Eau de Parfum, Oriental Floral Fragrance For Women And Men 60ml",
-          "handle": "mancera-aoud-blue-notes-eau-de-parfum-oriental-floral-fragrance-for-women-and-men-60ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/AOUD-BLUE-NOTES-60-ML-resized-Photoroom.png?v=1787909289",
-          "price": 259,
           "badge": ""
         }
       ]
@@ -2903,56 +2903,6 @@
       ]
     },
     {
-      "name": "Jimmy Choo",
-      "slug": "jimmy-choo",
-      "count": 118,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/manextreme.png?v=1783963184",
-      "preview": [
-        {
-          "name": "Jimmy Choo Gift Set For Men Woody",
-          "handle": "jimmy-choo-gift-set-for-men-woody",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/manextreme.png?v=1783963184",
-          "price": 259,
-          "badge": ""
-        },
-        {
-          "name": "Jimmy Choo Gift Set For Men Aromatic",
-          "handle": "jimmy-choo-gift-set-for-men-aromatic-1",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/jimmy.png?v=1783957356",
-          "price": 251,
-          "badge": ""
-        },
-        {
-          "name": "Jimmy Choo Gift Set For Men Aromatic",
-          "handle": "jimmy-choo-gift-set-for-men-aromatic",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/jimmy.jpg?v=1772557666",
-          "price": 251,
-          "badge": ""
-        },
-        {
-          "name": "Jimmy Choo I Want Choo With Love Edp Miniature For Women Floral 10ml",
-          "handle": "jimmy-choo-i-want-choo-with-love-edp-miniature-for-women-floral-10ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/jimmy-choo-i-want-choo-with-love-edp-for-women-10ml-mini.webp?v=1767800976",
-          "price": 44,
-          "badge": ""
-        },
-        {
-          "name": "Jimmy Choo I Want Choo With Love Edp For Women Floral 100ml",
-          "handle": "jimmy-choo-i-want-choo-with-love-edp-for-women-floral-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/jimmy_6f3e1ea2-7f22-4075-8286-502fed16090c.webp?v=1767800188",
-          "price": 345,
-          "badge": ""
-        },
-        {
-          "name": "Jimmy Choo Man Gift Set For Men",
-          "handle": "jimmy-choo-man-gift-set-for-men-3",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/jimmy_b3a2d788-5039-44bb-a6b4-153b8fef5530.webp?v=1766262730",
-          "price": 232,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Samawa",
       "slug": "samawa",
       "count": 118,
@@ -3053,6 +3003,56 @@
       ]
     },
     {
+      "name": "Jimmy Choo",
+      "slug": "jimmy-choo",
+      "count": 114,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/manextreme.png?v=1783963184",
+      "preview": [
+        {
+          "name": "Jimmy Choo Gift Set For Men Woody",
+          "handle": "jimmy-choo-gift-set-for-men-woody",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/manextreme.png?v=1783963184",
+          "price": 259,
+          "badge": ""
+        },
+        {
+          "name": "Jimmy Choo Gift Set For Men Aromatic",
+          "handle": "jimmy-choo-gift-set-for-men-aromatic-1",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/jimmy.png?v=1783957356",
+          "price": 251,
+          "badge": ""
+        },
+        {
+          "name": "Jimmy Choo Gift Set For Men Aromatic",
+          "handle": "jimmy-choo-gift-set-for-men-aromatic",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/jimmy.jpg?v=1772557666",
+          "price": 251,
+          "badge": ""
+        },
+        {
+          "name": "Jimmy Choo I Want Choo With Love Edp Miniature For Women Floral 10ml",
+          "handle": "jimmy-choo-i-want-choo-with-love-edp-miniature-for-women-floral-10ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/jimmy-choo-i-want-choo-with-love-edp-for-women-10ml-mini.webp?v=1767800976",
+          "price": 44,
+          "badge": ""
+        },
+        {
+          "name": "Jimmy Choo I Want Choo With Love Edp For Women Floral 100ml",
+          "handle": "jimmy-choo-i-want-choo-with-love-edp-for-women-floral-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/jimmy_6f3e1ea2-7f22-4075-8286-502fed16090c.webp?v=1767800188",
+          "price": 345,
+          "badge": ""
+        },
+        {
+          "name": "Jimmy Choo Man Gift Set For Men",
+          "handle": "jimmy-choo-man-gift-set-for-men-3",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/jimmy_b3a2d788-5039-44bb-a6b4-153b8fef5530.webp?v=1766262730",
+          "price": 232,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Maison AlHambra",
       "slug": "maison-alhambra",
       "count": 110,
@@ -3083,7 +3083,7 @@
           "name": "Maison Alhambra Jean Lowe Fantasme EDP For Unisex 100ml",
           "handle": "maison-alhambra-jean-lowe-fantasme-edp-for-unisex-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Maison_Alhambra_Jean_Lowe_Fantasme_EDP_For_Unisex_100ml-Photoroom_1.png?v=1787641215",
-          "price": 75,
+          "price": 63,
           "badge": "SALE"
         },
         {
@@ -4297,8 +4297,8 @@
           "name": "Benetton United Dreams Aim High For Men Deo Body Spray 150ml",
           "handle": "benetton-united-dreams-aim-high-for-men-deo-body-spray-150ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/s-l1600_84cce587-6231-4927-9fe5-0e58e22edf2f.webp?v=1767374490",
-          "price": 16,
-          "badge": ""
+          "price": 14,
+          "badge": "SALE"
         }
       ]
     },
@@ -5426,7 +5426,7 @@
           "name": "French Avenue Marmara Perfume For Unisex EDP 100ml",
           "handle": "french-avenue-marmara-perfume-for-unisex-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/French_Avenue_Marmara_Perfume_For_Unisex_EDP_100ml..jpg?v=1787123123",
-          "price": 126,
+          "price": 99,
           "badge": "SALE"
         },
         {
@@ -7903,56 +7903,6 @@
       ]
     },
     {
-      "name": "John Varvatos",
-      "slug": "john-varvatos",
-      "count": 34,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/artism-resized-Photoroom_8fa6de12-af50-47e2-b261-33b11ff01347.png?v=1787905587",
-      "preview": [
-        {
-          "name": "John Varvatos Artisan Forest Eau de Parfum, Woody Aromatic Fragrance For Men 75ml",
-          "handle": "john-varvatos-artisan-forest-eau-de-parfum-woody-aromatic-fragrance-for-men-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/artism-resized-Photoroom_8fa6de12-af50-47e2-b261-33b11ff01347.png?v=1787905587",
-          "price": 130,
-          "badge": ""
-        },
-        {
-          "name": "John Varvatos Artisan Forest Eau de Parfum, Woody Aromatic Fragrance For Men 125ml",
-          "handle": "john-varvatos-artisan-forest-eau-de-parfum-woody-aromatic-fragrance-for-men-125ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/artism-resized-Photoroom_2b744405-48ff-48c2-ba3d-ba20b567e1e3.png?v=1787905211",
-          "price": 177,
-          "badge": ""
-        },
-        {
-          "name": "John Varvatos Xx Intense For Men EDP 75ml",
-          "handle": "john-varvatos-xx-intense-for-men-edp-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/719346262217.jpg?v=1740164695",
-          "price": 134,
-          "badge": ""
-        },
-        {
-          "name": "John Varvatos XX Intense For Men EDP 125ml",
-          "handle": "john-varvatos-xx-intense-for-men-edp-125ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/719346262200.jpg?v=1740164001",
-          "price": 146,
-          "badge": ""
-        },
-        {
-          "name": "John Varvatos XX Artisan Teal For Men EDT 125ml",
-          "handle": "john-varvatos-xx-artisan-teal-for-men-edt-125ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/719346253260.jpg?v=1740162910",
-          "price": 163,
-          "badge": ""
-        },
-        {
-          "name": "John Varvatos XX Artisan Teal For Men EDT 75ml",
-          "handle": "john-varvatos-xx-artisan-teal-for-men-edt-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/719346253277_1.jpg?v=1740161789",
-          "price": 121,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Thomas Kosmala",
       "slug": "thomas-kosmala",
       "count": 34,
@@ -9648,6 +9598,56 @@
           "handle": "moresque-the-secret-collection-soul-batik-perfume-for-unisex-edp-75ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/MoresqueTheSecretCollectionSoulBatik_U_Edp75Ml.jpg?v=1650266546",
           "price": 309,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "John Varvatos",
+      "slug": "john-varvatos",
+      "count": 24,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/artism-resized-Photoroom_8fa6de12-af50-47e2-b261-33b11ff01347.png?v=1787905587",
+      "preview": [
+        {
+          "name": "John Varvatos Artisan Forest Eau de Parfum, Woody Aromatic Fragrance For Men 75ml",
+          "handle": "john-varvatos-artisan-forest-eau-de-parfum-woody-aromatic-fragrance-for-men-75ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/artism-resized-Photoroom_8fa6de12-af50-47e2-b261-33b11ff01347.png?v=1787905587",
+          "price": 130,
+          "badge": ""
+        },
+        {
+          "name": "John Varvatos Artisan Forest Eau de Parfum, Woody Aromatic Fragrance For Men 125ml",
+          "handle": "john-varvatos-artisan-forest-eau-de-parfum-woody-aromatic-fragrance-for-men-125ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/artism-resized-Photoroom_2b744405-48ff-48c2-ba3d-ba20b567e1e3.png?v=1787905211",
+          "price": 177,
+          "badge": ""
+        },
+        {
+          "name": "John Varvatos Xx Intense For Men EDP 75ml",
+          "handle": "john-varvatos-xx-intense-for-men-edp-75ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/719346262217.jpg?v=1740164695",
+          "price": 134,
+          "badge": ""
+        },
+        {
+          "name": "John Varvatos XX Intense For Men EDP 125ml",
+          "handle": "john-varvatos-xx-intense-for-men-edp-125ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/719346262200.jpg?v=1740164001",
+          "price": 146,
+          "badge": ""
+        },
+        {
+          "name": "John Varvatos XX Artisan Teal For Men EDT 125ml",
+          "handle": "john-varvatos-xx-artisan-teal-for-men-edt-125ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/719346253260.jpg?v=1740162910",
+          "price": 163,
+          "badge": ""
+        },
+        {
+          "name": "John Varvatos XX Artisan Teal For Men EDT 75ml",
+          "handle": "john-varvatos-xx-artisan-teal-for-men-edt-75ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/719346253277_1.jpg?v=1740161789",
+          "price": 121,
           "badge": ""
         }
       ]
@@ -31270,8 +31270,8 @@
           "name": "Hersh Lahab Eau De Parfum For Unisex - Aromatic Perfume 100ml",
           "handle": "hersh-lahab-eau-de-parfum-for-unisex-aromatic-perfume-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/hersh-resized-Photoroom.png?v=1787740549",
-          "price": 169,
-          "badge": ""
+          "price": 144,
+          "badge": "SALE"
         }
       ]
     },
