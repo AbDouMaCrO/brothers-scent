@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-01T10:27:02.213Z",
+  "generated_at": "2026-09-01T15:09:21.529Z",
   "total_brands": 886,
   "brands": [
     {
       "name": "Amazing Creation",
       "slug": "amazing-creation",
-      "count": 1117,
+      "count": 1115,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Sindbad_Perfume_For_Unisex_EDP_100ml_PFB-515.png?v=1787394011",
       "preview": [
         {
@@ -2653,6 +2653,56 @@
       ]
     },
     {
+      "name": "Loewe",
+      "slug": "loewe",
+      "count": 123,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LW75671_1.webp?v=1781703360",
+      "preview": [
+        {
+          "name": "Loewe Earth Eau De Parfum For Unisex-Chypre Floral Perfume 100ml",
+          "handle": "loewe-earth-eau-de-parfum-for-unisex-chypre-floral-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LW75671_1.webp?v=1781703360",
+          "price": 473,
+          "badge": ""
+        },
+        {
+          "name": "Loewe Solo Vulcan Pour Homme Edp For Men Woody 100ml",
+          "handle": "loewe-solo-vulcan-pour-homme-edp-for-men-woody-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/vulc.jpg?v=1765302245",
+          "price": 455,
+          "badge": ""
+        },
+        {
+          "name": "Loewe Solo Mercurio Pour Homme Edp For Men Aromatic 50ml",
+          "handle": "loewe-solo-mercurio-pour-homme-edp-for-men-aromatic-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/meri.png?v=1765301696",
+          "price": 273,
+          "badge": ""
+        },
+        {
+          "name": "Loewe Solo Esencial Eau de Toilette For Men Woody 100 ml",
+          "handle": "loewe-solo-esencial-eau-de-toilette-for-men-woody-100-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/loe.avif?v=1765104387",
+          "price": 355,
+          "badge": ""
+        },
+        {
+          "name": "Mini Loewe Aura For Women EDP 5ml",
+          "handle": "mini-loewe-aura-for-women-edp-5ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/8426017039598_1.jpg?v=1742152865",
+          "price": 44,
+          "badge": ""
+        },
+        {
+          "name": "Loewe Un Paseo Por Madrid Primavera En El Mercado De San Miguel For Unisex EDP 100ml",
+          "handle": "loewe-un-paseo-por-madrid-primavera-en-el-mercado-de-san-miguel-for-unisex-edp-100ml-1",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/8426017072779_1.jpg?v=1740551306",
+          "price": 595,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Mercedes- Benz",
       "slug": "mercedes-benz",
       "count": 122,
@@ -2698,56 +2748,6 @@
           "handle": "mercedes-benz-club-black-for-men-gift-set-for-men",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/MERCEDESBENZBLACKSET.webp?v=1766316165",
           "price": 200,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Loewe",
-      "slug": "loewe",
-      "count": 122,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LW75671_1.webp?v=1781703360",
-      "preview": [
-        {
-          "name": "Loewe Earth Eau De Parfum For Unisex-Chypre Floral Perfume 100ml",
-          "handle": "loewe-earth-eau-de-parfum-for-unisex-chypre-floral-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LW75671_1.webp?v=1781703360",
-          "price": 473,
-          "badge": ""
-        },
-        {
-          "name": "Loewe Solo Vulcan Pour Homme Edp For Men Woody 100ml",
-          "handle": "loewe-solo-vulcan-pour-homme-edp-for-men-woody-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/vulc.jpg?v=1765302245",
-          "price": 455,
-          "badge": ""
-        },
-        {
-          "name": "Loewe Solo Mercurio Pour Homme Edp For Men Aromatic 50ml",
-          "handle": "loewe-solo-mercurio-pour-homme-edp-for-men-aromatic-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/meri.png?v=1765301696",
-          "price": 273,
-          "badge": ""
-        },
-        {
-          "name": "Loewe Solo Esencial Eau de Toilette For Men Woody 100 ml",
-          "handle": "loewe-solo-esencial-eau-de-toilette-for-men-woody-100-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/loe.avif?v=1765104387",
-          "price": 355,
-          "badge": ""
-        },
-        {
-          "name": "Mini Loewe Aura For Women EDP 5ml",
-          "handle": "mini-loewe-aura-for-women-edp-5ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/8426017039598_1.jpg?v=1742152865",
-          "price": 44,
-          "badge": ""
-        },
-        {
-          "name": "Loewe Un Paseo Por Madrid Primavera En El Mercado De San Miguel For Unisex EDP 100ml",
-          "handle": "loewe-un-paseo-por-madrid-primavera-en-el-mercado-de-san-miguel-for-unisex-edp-100ml-1",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/8426017072779_1.jpg?v=1740551306",
-          "price": 595,
           "badge": ""
         }
       ]
@@ -4768,7 +4768,7 @@
         {
           "name": "Swiss Arabian Shaghaf Nectar Blush Eau De Parfum For Unisex - Floral Fruity Perfume 75ml",
           "handle": "swiss-arabian-shaghaf-nectar-blush-eau-de-parfum-for-unisex-floral-fruity-perfume-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/o.125828.jpg?v=1772605507",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/sh-resized-Photoroom.png?v=1788273932",
           "price": 245,
           "badge": ""
         },
@@ -4903,6 +4903,56 @@
       ]
     },
     {
+      "name": "Lanvin",
+      "slug": "lanvin",
+      "count": 63,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460151795_1.jpg?v=1732739513",
+      "preview": [
+        {
+          "name": "Lanvin Modern Princess In Jeans For Women EDP 90ml",
+          "handle": "lanvin-modern-princess-in-jeans-for-women-edp-90ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460151795_1.jpg?v=1732739513",
+          "price": 136,
+          "badge": ""
+        },
+        {
+          "name": "Lanvin Modern Princess In Jeans For Women EDP 60ml",
+          "handle": "lanvin-modern-princess-in-jeans-for-women-edp-60ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460151801_1.jpg?v=1732738401",
+          "price": 146,
+          "badge": ""
+        },
+        {
+          "name": "Lanvin Modern Princess In Jeans For Women EDP 30ml",
+          "handle": "lanvin-modern-princess-in-jeans-for-women-edp-30ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460151818.jpg?v=1732738124",
+          "price": 88,
+          "badge": ""
+        },
+        {
+          "name": "Lanvin A Girl In Capri For Women EDT 30ml",
+          "handle": "lanvin-a-girl-in-capri-for-women-edt-30ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460103671.jpg?v=1732375122",
+          "price": 59,
+          "badge": ""
+        },
+        {
+          "name": "Lanvin Les Fleurs De Sweet Jasmine For Women EDT 90ml",
+          "handle": "lanvin-les-fleurs-de-sweet-jasmine-for-women-edt-90ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460142915.jpg?v=1730138025",
+          "price": 103,
+          "badge": ""
+        },
+        {
+          "name": "Lanvin Les Fleurs De Sweet Jasmine For Women EDT 50ml",
+          "handle": "lanvin-les-fleurs-de-sweet-jasmine-for-women-edt-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460142922.jpg?v=1730137714",
+          "price": 79,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Estee Lauder",
       "slug": "estee-lauder",
       "count": 62,
@@ -4948,56 +4998,6 @@
           "handle": "estee-lauder-bronze-goddess-flora-verde-eau-de-parfum-for-women-floral-green-perfume-50ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/887167699762.jpg?v=1760537969",
           "price": 168,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Lanvin",
-      "slug": "lanvin",
-      "count": 62,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460151795_1.jpg?v=1732739513",
-      "preview": [
-        {
-          "name": "Lanvin Modern Princess In Jeans For Women EDP 90ml",
-          "handle": "lanvin-modern-princess-in-jeans-for-women-edp-90ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460151795_1.jpg?v=1732739513",
-          "price": 136,
-          "badge": ""
-        },
-        {
-          "name": "Lanvin Modern Princess In Jeans For Women EDP 60ml",
-          "handle": "lanvin-modern-princess-in-jeans-for-women-edp-60ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460151801_1.jpg?v=1732738401",
-          "price": 146,
-          "badge": ""
-        },
-        {
-          "name": "Lanvin Modern Princess In Jeans For Women EDP 30ml",
-          "handle": "lanvin-modern-princess-in-jeans-for-women-edp-30ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460151818.jpg?v=1732738124",
-          "price": 88,
-          "badge": ""
-        },
-        {
-          "name": "Lanvin A Girl In Capri For Women EDT 30ml",
-          "handle": "lanvin-a-girl-in-capri-for-women-edt-30ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460103671.jpg?v=1732375122",
-          "price": 59,
-          "badge": ""
-        },
-        {
-          "name": "Lanvin Les Fleurs De Sweet Jasmine For Women EDT 90ml",
-          "handle": "lanvin-les-fleurs-de-sweet-jasmine-for-women-edt-90ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460142915.jpg?v=1730138025",
-          "price": 103,
-          "badge": ""
-        },
-        {
-          "name": "Lanvin Les Fleurs De Sweet Jasmine For Women EDT 50ml",
-          "handle": "lanvin-les-fleurs-de-sweet-jasmine-for-women-edt-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460142922.jpg?v=1730137714",
-          "price": 79,
           "badge": ""
         }
       ]
@@ -19696,7 +19696,7 @@
         {
           "name": "REMY MARQUIS Shalis Cologne - perfume for men - Eau de Toilette, 100 ml",
           "handle": "remy-marquis-shalis-cologne-perfume-for-men-eau-de-toilette-100-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/REMY_MARQUIS_Shalis_Cologne_-_perfume_for_men_-_Eau_de_Toilette_100_ml.jpg?v=1765970981",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/REMY_MARQUIS_Shalis_Cologne_-_-resized-Photoroom.png?v=1788273150",
           "price": 74,
           "badge": "SALE"
         }
