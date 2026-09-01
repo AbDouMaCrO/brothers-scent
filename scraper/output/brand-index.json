@@ -1,53 +1,53 @@
 {
-  "generated_at": "2026-09-01T05:34:03.869Z",
-  "total_brands": 885,
+  "generated_at": "2026-09-01T10:27:02.213Z",
+  "total_brands": 886,
   "brands": [
     {
       "name": "Amazing Creation",
       "slug": "amazing-creation",
-      "count": 1124,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Hoor_Perfume_For_Women_EDP_100ml_1.jpg?v=1788172987",
+      "count": 1117,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Sindbad_Perfume_For_Unisex_EDP_100ml_PFB-515.png?v=1787394011",
       "preview": [
         {
-          "name": "Amazing Creation Hoor Perfume For Women EDP 100ml",
-          "handle": "amazing-creation-hoor-perfume-for-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Hoor_Perfume_For_Women_EDP_100ml_1.jpg?v=1788172987",
-          "price": 85,
+          "name": "Amazing Creation Sindbad Perfume For Unisex EDP PFB-515",
+          "handle": "amazing-creation-sindbad-perfume-for-unisex-edp-pfb-515",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Sindbad_Perfume_For_Unisex_EDP_100ml_PFB-515.png?v=1787394011",
+          "price": 55,
           "badge": ""
         },
         {
-          "name": "Amazing Creation Sidr Perfume For Men and Women EDP 100ml",
-          "handle": "amazing-creation-sidr-perfume-for-men-and-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Sidr_Perfume_For_Men_and_Women_EDP_100ml_1.jpg?v=1788172752",
-          "price": 85,
+          "name": "Amazing Creation Sindbad Perfume For Unisex EDP PFB-515",
+          "handle": "amazing-creation-sindbad-perfume-for-unisex-edp-pfb-515",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Sindbad_Perfume_For_Unisex_EDP_100ml_PFB-515.png?v=1787394011",
+          "price": 95,
           "badge": ""
         },
         {
-          "name": "Amazing Creation Luma Perfume For Men and Women EDP 100ml",
-          "handle": "amazing-creation-luma-perfume-for-men-and-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Luma_Perfume_For_Men_and_Women_EDP_100ml_1.jpg?v=1788172562",
-          "price": 85,
+          "name": "Amazing Creation Oud Save The King Perfume For Unisex EDP PFB-514",
+          "handle": "amazing-creation-oud-save-the-king-perfume-for-unisex-edp-pfb-514",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Oud_Save_The_King_Perfume_For_Unisex_EDP_100ml_PFB-514.png?v=1787393738",
+          "price": 55,
           "badge": ""
         },
         {
-          "name": "Amazing Creation Bali Perfume For Men and Women EDP 100ml",
-          "handle": "amazing-creation-bali-perfume-for-men-and-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Bali_Perfume_For_Men_and_Women_EDP_100ml_1.jpg?v=1788171779",
-          "price": 85,
+          "name": "Amazing Creation Oud Save The King Perfume For Unisex EDP PFB-514",
+          "handle": "amazing-creation-oud-save-the-king-perfume-for-unisex-edp-pfb-514",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Oud_Save_The_King_Perfume_For_Unisex_EDP_100ml_PFB-514.png?v=1787393738",
+          "price": 95,
           "badge": ""
         },
         {
-          "name": "Amazing Creation Malak Perfume For Men and Women EDP 100ml",
-          "handle": "amazing-creation-malak-perfume-for-men-and-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Malak_Perfume_For_Men_and_Women_EDP_100ml_1.jpg?v=1788171425",
-          "price": 85,
+          "name": "Amazing Creation Oud Royal Prive Perfume For Unisex EDP PFB-513",
+          "handle": "amazing-creation-oud-royal-prive-perfume-for-unisex-edp-pfb-513",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Oud_Royal_Prive_Perfume_For_Unisex_EDP_100ml_PFB-513.png?v=1787393034",
+          "price": 55,
           "badge": ""
         },
         {
-          "name": "Amazing Creation Malo Perfume For Women EDP 100ml",
-          "handle": "amazing-creation-malo-perfume-for-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Malo_Perfume_For_Women_EDP_100ml_1.1.png?v=1788191021",
-          "price": 85,
+          "name": "Amazing Creation Oud Royal Prive Perfume For Unisex EDP PFB-513",
+          "handle": "amazing-creation-oud-royal-prive-perfume-for-unisex-edp-pfb-513",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Oud_Royal_Prive_Perfume_For_Unisex_EDP_100ml_PFB-513.png?v=1787393034",
+          "price": 95,
           "badge": ""
         }
       ]
@@ -2655,7 +2655,7 @@
     {
       "name": "Mercedes- Benz",
       "slug": "mercedes-benz",
-      "count": 120,
+      "count": 122,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/pp.png?v=1783499416",
       "preview": [
         {
@@ -2698,6 +2698,56 @@
           "handle": "mercedes-benz-club-black-for-men-gift-set-for-men",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/MERCEDESBENZBLACKSET.webp?v=1766316165",
           "price": 200,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Loewe",
+      "slug": "loewe",
+      "count": 122,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LW75671_1.webp?v=1781703360",
+      "preview": [
+        {
+          "name": "Loewe Earth Eau De Parfum For Unisex-Chypre Floral Perfume 100ml",
+          "handle": "loewe-earth-eau-de-parfum-for-unisex-chypre-floral-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LW75671_1.webp?v=1781703360",
+          "price": 473,
+          "badge": ""
+        },
+        {
+          "name": "Loewe Solo Vulcan Pour Homme Edp For Men Woody 100ml",
+          "handle": "loewe-solo-vulcan-pour-homme-edp-for-men-woody-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/vulc.jpg?v=1765302245",
+          "price": 455,
+          "badge": ""
+        },
+        {
+          "name": "Loewe Solo Mercurio Pour Homme Edp For Men Aromatic 50ml",
+          "handle": "loewe-solo-mercurio-pour-homme-edp-for-men-aromatic-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/meri.png?v=1765301696",
+          "price": 273,
+          "badge": ""
+        },
+        {
+          "name": "Loewe Solo Esencial Eau de Toilette For Men Woody 100 ml",
+          "handle": "loewe-solo-esencial-eau-de-toilette-for-men-woody-100-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/loe.avif?v=1765104387",
+          "price": 355,
+          "badge": ""
+        },
+        {
+          "name": "Mini Loewe Aura For Women EDP 5ml",
+          "handle": "mini-loewe-aura-for-women-edp-5ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/8426017039598_1.jpg?v=1742152865",
+          "price": 44,
+          "badge": ""
+        },
+        {
+          "name": "Loewe Un Paseo Por Madrid Primavera En El Mercado De San Miguel For Unisex EDP 100ml",
+          "handle": "loewe-un-paseo-por-madrid-primavera-en-el-mercado-de-san-miguel-for-unisex-edp-100ml-1",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/8426017072779_1.jpg?v=1740551306",
+          "price": 595,
           "badge": ""
         }
       ]
@@ -2848,56 +2898,6 @@
           "handle": "roja-parfums-isola-verde-parfum-for-unisex-aromatic-fruity-perfume-50ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/5056663804146-0.png?v=1768391750",
           "price": 1120,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Loewe",
-      "slug": "loewe",
-      "count": 118,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LW75671_1.webp?v=1781703360",
-      "preview": [
-        {
-          "name": "Loewe Earth Eau De Parfum For Unisex-Chypre Floral Perfume 100ml",
-          "handle": "loewe-earth-eau-de-parfum-for-unisex-chypre-floral-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LW75671_1.webp?v=1781703360",
-          "price": 473,
-          "badge": ""
-        },
-        {
-          "name": "Loewe Solo Vulcan Pour Homme Edp For Men Woody 100ml",
-          "handle": "loewe-solo-vulcan-pour-homme-edp-for-men-woody-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/vulc.jpg?v=1765302245",
-          "price": 455,
-          "badge": ""
-        },
-        {
-          "name": "Loewe Solo Mercurio Pour Homme Edp For Men Aromatic 50ml",
-          "handle": "loewe-solo-mercurio-pour-homme-edp-for-men-aromatic-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/meri.png?v=1765301696",
-          "price": 273,
-          "badge": ""
-        },
-        {
-          "name": "Loewe Solo Esencial Eau de Toilette For Men Woody 100 ml",
-          "handle": "loewe-solo-esencial-eau-de-toilette-for-men-woody-100-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/loe.avif?v=1765104387",
-          "price": 355,
-          "badge": ""
-        },
-        {
-          "name": "Mini Loewe Aura For Women EDP 5ml",
-          "handle": "mini-loewe-aura-for-women-edp-5ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/8426017039598_1.jpg?v=1742152865",
-          "price": 44,
-          "badge": ""
-        },
-        {
-          "name": "Loewe Un Paseo Por Madrid Primavera En El Mercado De San Miguel For Unisex EDP 100ml",
-          "handle": "loewe-un-paseo-por-madrid-primavera-en-el-mercado-de-san-miguel-for-unisex-edp-100ml-1",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/8426017072779_1.jpg?v=1740551306",
-          "price": 595,
           "badge": ""
         }
       ]
@@ -20762,7 +20762,7 @@
           "name": "Asdaaf Ameer Al Arab Imperium EDP For Unisex 100ml",
           "handle": "asdaaf-ameer-al-arab-imperium-edp-for-unisex-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Asdaaf_Ameer_Al_Arab_Imperium_EDP_For_Unisex_100ml-Photoroom.png?v=1787493298",
-          "price": 34.13,
+          "price": 39,
           "badge": "SALE"
         },
         {
@@ -33777,6 +33777,21 @@
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/whatever-1.jpg?v=1624400426",
           "price": 17,
           "badge": "SALE"
+        }
+      ]
+    },
+    {
+      "name": "Puccini",
+      "slug": "puccini",
+      "count": 1,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/puccini_perfume_for_men_-_eau_de_toilette_100_ml.jpg?v=1624398781",
+      "preview": [
+        {
+          "name": "Puccini Perfume for Men - Eau de Toilette, 100 ml",
+          "handle": "puccini-perfume-for-men-eau-de-toilette-100-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/puccini_perfume_for_men_-_eau_de_toilette_100_ml.jpg?v=1624398781",
+          "price": 53,
+          "badge": ""
         }
       ]
     }
