@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T07:42:18.395Z",
+  "generated_at": "2026-09-02T12:36:42.904Z",
   "total_brands": 886,
   "brands": [
     {
@@ -603,6 +603,56 @@
       ]
     },
     {
+      "name": "Lattafa",
+      "slug": "lattafa",
+      "count": 257,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Najdia_Intense_Perfumes_for_Men_EDP_100ml_1.1.png?v=1788337594",
+      "preview": [
+        {
+          "name": "Lattafa Najdia Intense Perfumes for Men EDP 100ml",
+          "handle": "lattafa-najdia-intense-perfumes-for-men-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Najdia_Intense_Perfumes_for_Men_EDP_100ml_1.1.png?v=1788337594",
+          "price": 44,
+          "badge": ""
+        },
+        {
+          "name": "Lattafa Maahir Honor For Unisex EDP 100ml",
+          "handle": "lattafa-maahir-honor-for-unisex-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Maahir_Honor.png?v=1786522827",
+          "price": 69,
+          "badge": "SALE"
+        },
+        {
+          "name": "Lattafa Pride Love In Paris EDP For Unisex 100ml",
+          "handle": "lattafa-pride-love-in-paris-edp-for-unisex-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Pride_Love_In_Paris_EDP_For_Unisex_100ml.png?v=1786520694",
+          "price": 130,
+          "badge": "SALE"
+        },
+        {
+          "name": "Lattafa Angham Second Song Eau De Parfum For Women- Floral Fruity Gourmand Perfume 100ml",
+          "handle": "lattafa-angham-second-song-eau-de-parfum-for-women-floral-fruity-gourmand-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/second-Photoroom.png?v=1785744907",
+          "price": 162,
+          "badge": ""
+        },
+        {
+          "name": "Lattafa Fire On Ice  EDP For Unisex 110ml",
+          "handle": "lattafa-fire-on-ice-edp-for-unisex-110ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/fire-resized-Photoroom.png?v=1787739930",
+          "price": 97,
+          "badge": "SALE"
+        },
+        {
+          "name": "Lattafa Pride Raghad EDP For Men 100ml",
+          "handle": "lattafa-pride-raghad-edp-for-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Raghad-resized-Photoroom.png?v=1787751946",
+          "price": 130,
+          "badge": "SALE"
+        }
+      ]
+    },
+    {
       "name": "Givenchy",
       "slug": "givenchy",
       "count": 257,
@@ -649,56 +699,6 @@
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/givenchy-mens-gentleman-boisee-gift--resized-Photoroom_05195a92-ec3f-4c2b-8b11-408b2cece64b.png?v=1787665457",
           "price": 418,
           "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Lattafa",
-      "slug": "lattafa",
-      "count": 256,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Maahir_Honor.png?v=1786522827",
-      "preview": [
-        {
-          "name": "Lattafa Maahir Honor For Unisex EDP 100ml",
-          "handle": "lattafa-maahir-honor-for-unisex-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Maahir_Honor.png?v=1786522827",
-          "price": 69,
-          "badge": "SALE"
-        },
-        {
-          "name": "Lattafa Pride Love In Paris EDP For Unisex 100ml",
-          "handle": "lattafa-pride-love-in-paris-edp-for-unisex-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Pride_Love_In_Paris_EDP_For_Unisex_100ml.png?v=1786520694",
-          "price": 130,
-          "badge": "SALE"
-        },
-        {
-          "name": "Lattafa Angham Second Song Eau De Parfum For Women- Floral Fruity Gourmand Perfume 100ml",
-          "handle": "lattafa-angham-second-song-eau-de-parfum-for-women-floral-fruity-gourmand-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/second-Photoroom.png?v=1785744907",
-          "price": 162,
-          "badge": ""
-        },
-        {
-          "name": "Lattafa Fire On Ice  EDP For Unisex 110ml",
-          "handle": "lattafa-fire-on-ice-edp-for-unisex-110ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/fire-resized-Photoroom.png?v=1787739930",
-          "price": 97,
-          "badge": "SALE"
-        },
-        {
-          "name": "Lattafa Pride Raghad EDP For Men 100ml",
-          "handle": "lattafa-pride-raghad-edp-for-men-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Raghad-resized-Photoroom.png?v=1787751946",
-          "price": 130,
-          "badge": "SALE"
-        },
-        {
-          "name": "Lattafa Sherif For Men EDP 100ml",
-          "handle": "lattafa-sherif-for-men-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Sherif.png?v=1785306560",
-          "price": 93,
-          "badge": "SALE"
         }
       ]
     },
@@ -2653,56 +2653,6 @@
       ]
     },
     {
-      "name": "Loewe",
-      "slug": "loewe",
-      "count": 123,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LW75671_1.webp?v=1781703360",
-      "preview": [
-        {
-          "name": "Loewe Earth Eau De Parfum For Unisex-Chypre Floral Perfume 100ml",
-          "handle": "loewe-earth-eau-de-parfum-for-unisex-chypre-floral-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LW75671_1.webp?v=1781703360",
-          "price": 473,
-          "badge": ""
-        },
-        {
-          "name": "Loewe Solo Vulcan Pour Homme Edp For Men Woody 100ml",
-          "handle": "loewe-solo-vulcan-pour-homme-edp-for-men-woody-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/vulc.jpg?v=1765302245",
-          "price": 455,
-          "badge": ""
-        },
-        {
-          "name": "Loewe Solo Mercurio Pour Homme Edp For Men Aromatic 50ml",
-          "handle": "loewe-solo-mercurio-pour-homme-edp-for-men-aromatic-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/meri.png?v=1765301696",
-          "price": 273,
-          "badge": ""
-        },
-        {
-          "name": "Loewe Solo Esencial Eau de Toilette For Men Woody 100 ml",
-          "handle": "loewe-solo-esencial-eau-de-toilette-for-men-woody-100-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/loe.avif?v=1765104387",
-          "price": 355,
-          "badge": ""
-        },
-        {
-          "name": "Mini Loewe Aura For Women EDP 5ml",
-          "handle": "mini-loewe-aura-for-women-edp-5ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/8426017039598_1.jpg?v=1742152865",
-          "price": 44,
-          "badge": ""
-        },
-        {
-          "name": "Loewe Un Paseo Por Madrid Primavera En El Mercado De San Miguel For Unisex EDP 100ml",
-          "handle": "loewe-un-paseo-por-madrid-primavera-en-el-mercado-de-san-miguel-for-unisex-edp-100ml-1",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/8426017072779_1.jpg?v=1740551306",
-          "price": 595,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Mercedes- Benz",
       "slug": "mercedes-benz",
       "count": 122,
@@ -2748,6 +2698,56 @@
           "handle": "mercedes-benz-club-black-for-men-gift-set-for-men",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/MERCEDESBENZBLACKSET.webp?v=1766316165",
           "price": 200,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Loewe",
+      "slug": "loewe",
+      "count": 122,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LW75671_1.webp?v=1781703360",
+      "preview": [
+        {
+          "name": "Loewe Earth Eau De Parfum For Unisex-Chypre Floral Perfume 100ml",
+          "handle": "loewe-earth-eau-de-parfum-for-unisex-chypre-floral-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LW75671_1.webp?v=1781703360",
+          "price": 473,
+          "badge": ""
+        },
+        {
+          "name": "Loewe Solo Vulcan Pour Homme Edp For Men Woody 100ml",
+          "handle": "loewe-solo-vulcan-pour-homme-edp-for-men-woody-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/vulc.jpg?v=1765302245",
+          "price": 455,
+          "badge": ""
+        },
+        {
+          "name": "Loewe Solo Mercurio Pour Homme Edp For Men Aromatic 50ml",
+          "handle": "loewe-solo-mercurio-pour-homme-edp-for-men-aromatic-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/meri.png?v=1765301696",
+          "price": 273,
+          "badge": ""
+        },
+        {
+          "name": "Loewe Solo Esencial Eau de Toilette For Men Woody 100 ml",
+          "handle": "loewe-solo-esencial-eau-de-toilette-for-men-woody-100-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/loe.avif?v=1765104387",
+          "price": 355,
+          "badge": ""
+        },
+        {
+          "name": "Mini Loewe Aura For Women EDP 5ml",
+          "handle": "mini-loewe-aura-for-women-edp-5ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/8426017039598_1.jpg?v=1742152865",
+          "price": 44,
+          "badge": ""
+        },
+        {
+          "name": "Loewe Un Paseo Por Madrid Primavera En El Mercado De San Miguel For Unisex EDP 100ml",
+          "handle": "loewe-un-paseo-por-madrid-primavera-en-el-mercado-de-san-miguel-for-unisex-edp-100ml-1",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/8426017072779_1.jpg?v=1740551306",
+          "price": 595,
           "badge": ""
         }
       ]
@@ -26559,7 +26559,7 @@
           "name": "Rave Now White Perfume For Unisex EDP 100ml",
           "handle": "rave-now-white-perfume-for-unisex-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/RaveNowWhite_U_Edp100Ml.webp?v=1695100624",
-          "price": 52,
+          "price": 58,
           "badge": "SALE"
         },
         {
