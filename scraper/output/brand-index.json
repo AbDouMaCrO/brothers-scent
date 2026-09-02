@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T02:54:40.561Z",
+  "generated_at": "2026-09-02T07:42:18.395Z",
   "total_brands": 886,
   "brands": [
     {
@@ -4903,56 +4903,6 @@
       ]
     },
     {
-      "name": "Lanvin",
-      "slug": "lanvin",
-      "count": 63,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460151795_1.jpg?v=1732739513",
-      "preview": [
-        {
-          "name": "Lanvin Modern Princess In Jeans For Women EDP 90ml",
-          "handle": "lanvin-modern-princess-in-jeans-for-women-edp-90ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460151795_1.jpg?v=1732739513",
-          "price": 136,
-          "badge": ""
-        },
-        {
-          "name": "Lanvin Modern Princess In Jeans For Women EDP 60ml",
-          "handle": "lanvin-modern-princess-in-jeans-for-women-edp-60ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460151801_1.jpg?v=1732738401",
-          "price": 146,
-          "badge": ""
-        },
-        {
-          "name": "Lanvin Modern Princess In Jeans For Women EDP 30ml",
-          "handle": "lanvin-modern-princess-in-jeans-for-women-edp-30ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460151818.jpg?v=1732738124",
-          "price": 88,
-          "badge": ""
-        },
-        {
-          "name": "Lanvin A Girl In Capri For Women EDT 30ml",
-          "handle": "lanvin-a-girl-in-capri-for-women-edt-30ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460103671.jpg?v=1732375122",
-          "price": 59,
-          "badge": ""
-        },
-        {
-          "name": "Lanvin Les Fleurs De Sweet Jasmine For Women EDT 90ml",
-          "handle": "lanvin-les-fleurs-de-sweet-jasmine-for-women-edt-90ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460142915.jpg?v=1730138025",
-          "price": 103,
-          "badge": ""
-        },
-        {
-          "name": "Lanvin Les Fleurs De Sweet Jasmine For Women EDT 50ml",
-          "handle": "lanvin-les-fleurs-de-sweet-jasmine-for-women-edt-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460142922.jpg?v=1730137714",
-          "price": 79,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Estee Lauder",
       "slug": "estee-lauder",
       "count": 62,
@@ -4998,6 +4948,56 @@
           "handle": "estee-lauder-bronze-goddess-flora-verde-eau-de-parfum-for-women-floral-green-perfume-50ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/887167699762.jpg?v=1760537969",
           "price": 168,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Lanvin",
+      "slug": "lanvin",
+      "count": 62,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460151795_1.jpg?v=1732739513",
+      "preview": [
+        {
+          "name": "Lanvin Modern Princess In Jeans For Women EDP 90ml",
+          "handle": "lanvin-modern-princess-in-jeans-for-women-edp-90ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460151795_1.jpg?v=1732739513",
+          "price": 136,
+          "badge": ""
+        },
+        {
+          "name": "Lanvin Modern Princess In Jeans For Women EDP 60ml",
+          "handle": "lanvin-modern-princess-in-jeans-for-women-edp-60ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460151801_1.jpg?v=1732738401",
+          "price": 146,
+          "badge": ""
+        },
+        {
+          "name": "Lanvin Modern Princess In Jeans For Women EDP 30ml",
+          "handle": "lanvin-modern-princess-in-jeans-for-women-edp-30ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460151818.jpg?v=1732738124",
+          "price": 88,
+          "badge": ""
+        },
+        {
+          "name": "Lanvin A Girl In Capri For Women EDT 30ml",
+          "handle": "lanvin-a-girl-in-capri-for-women-edt-30ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460103671.jpg?v=1732375122",
+          "price": 59,
+          "badge": ""
+        },
+        {
+          "name": "Lanvin Les Fleurs De Sweet Jasmine For Women EDT 90ml",
+          "handle": "lanvin-les-fleurs-de-sweet-jasmine-for-women-edt-90ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460142915.jpg?v=1730138025",
+          "price": 103,
+          "badge": ""
+        },
+        {
+          "name": "Lanvin Les Fleurs De Sweet Jasmine For Women EDT 50ml",
+          "handle": "lanvin-les-fleurs-de-sweet-jasmine-for-women-edt-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460142922.jpg?v=1730137714",
+          "price": 79,
           "badge": ""
         }
       ]
@@ -19353,6 +19353,56 @@
       ]
     },
     {
+      "name": "Asdaaf",
+      "slug": "asdaaf",
+      "count": 9,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Asdaaf_Ameerat_Al_Arab_Prive_Rose_Perfume_For_Women_EDP_100ml-Photoroom.png?v=1787755673",
+      "preview": [
+        {
+          "name": "Asdaaf Ameerat Al Arab Prive Rose Perfume For Women EDP 100ml",
+          "handle": "asdaaf-ameerat-al-arab-prive-rose-perfume-for-women-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Asdaaf_Ameerat_Al_Arab_Prive_Rose_Perfume_For_Women_EDP_100ml-Photoroom.png?v=1787755673",
+          "price": 47,
+          "badge": "SALE"
+        },
+        {
+          "name": "Asdaaf Ameer Al Arab Imperium EDP For Unisex 100ml",
+          "handle": "asdaaf-ameer-al-arab-imperium-edp-for-unisex-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Asdaaf_Ameer_Al_Arab_Imperium_EDP_For_Unisex_100ml-Photoroom.png?v=1787493298",
+          "price": 39,
+          "badge": "SALE"
+        },
+        {
+          "name": "Asdaaf Ameerat Al Arab (Red) Hair Mist 50ml Spray For Unisex",
+          "handle": "asdaaf-ameerat-al-arab-red-hair-mist-50ml-spray-for-unisex",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/30Ameerat-Al-Arab-Parfum-Cheveux-Asdaaf-2.jpg?v=1711942031",
+          "price": 32,
+          "badge": "SALE"
+        },
+        {
+          "name": "Asdaaf Ameerat Al Arab (Red) 250ml Perfume Deo Spray For Women",
+          "handle": "asdaaf-ameerat-al-arab-red-250ml-perfume-deo-spray-for-women",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/29Asdaaf-Ameerat-al-Arab-250ml-600x772.jpg?v=1711940742",
+          "price": 19,
+          "badge": ""
+        },
+        {
+          "name": "Asdaaf Ameerat Al Arab Air Freshener 300ml",
+          "handle": "asdaaf-ameerat-al-arab-air-freshener-300ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/6291108733929.jpg?v=1719309863",
+          "price": 12,
+          "badge": ""
+        },
+        {
+          "name": "Asdaaf Ameerat Al Arab Perfumed Spray For Women 200ml",
+          "handle": "asdaaf-ameerat-al-arab-perfumed-spray-for-women-200ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/asaddfg-resized-Photoroom.png?v=1787747786",
+          "price": 12,
+          "badge": "SALE"
+        }
+      ]
+    },
+    {
       "name": "BYREDO",
       "slug": "byredo",
       "count": 9,
@@ -20749,56 +20799,6 @@
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/il_fullxfull.6184732719_gmsr.jpg?v=1746888817",
           "price": 283,
           "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Asdaaf",
-      "slug": "asdaaf",
-      "count": 8,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Asdaaf_Ameer_Al_Arab_Imperium_EDP_For_Unisex_100ml-Photoroom.png?v=1787493298",
-      "preview": [
-        {
-          "name": "Asdaaf Ameer Al Arab Imperium EDP For Unisex 100ml",
-          "handle": "asdaaf-ameer-al-arab-imperium-edp-for-unisex-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Asdaaf_Ameer_Al_Arab_Imperium_EDP_For_Unisex_100ml-Photoroom.png?v=1787493298",
-          "price": 39,
-          "badge": "SALE"
-        },
-        {
-          "name": "Asdaaf Ameerat Al Arab (Red) Hair Mist 50ml Spray For Unisex",
-          "handle": "asdaaf-ameerat-al-arab-red-hair-mist-50ml-spray-for-unisex",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/30Ameerat-Al-Arab-Parfum-Cheveux-Asdaaf-2.jpg?v=1711942031",
-          "price": 32,
-          "badge": "SALE"
-        },
-        {
-          "name": "Asdaaf Ameerat Al Arab (Red) 250ml Perfume Deo Spray For Women",
-          "handle": "asdaaf-ameerat-al-arab-red-250ml-perfume-deo-spray-for-women",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/29Asdaaf-Ameerat-al-Arab-250ml-600x772.jpg?v=1711940742",
-          "price": 19,
-          "badge": ""
-        },
-        {
-          "name": "Asdaaf Ameerat Al Arab Air Freshener 300ml",
-          "handle": "asdaaf-ameerat-al-arab-air-freshener-300ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/6291108733929.jpg?v=1719309863",
-          "price": 12,
-          "badge": ""
-        },
-        {
-          "name": "Asdaaf Ameerat Al Arab Perfumed Spray For Women 200ml",
-          "handle": "asdaaf-ameerat-al-arab-perfumed-spray-for-women-200ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/asaddfg-resized-Photoroom.png?v=1787747786",
-          "price": 12,
-          "badge": "SALE"
-        },
-        {
-          "name": "Asdaaf Ameerat Al Arab Perfume For Women (Red) EDP 100ml",
-          "handle": "asdaaf-ameerat-al-arab-perfume-for-red-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Asdaaf_Ameerat_Al_Arab_Perfume_For_Women_Red_EDP_100ml-Photoroom.png?v=1787582078",
-          "price": 41,
-          "badge": "SALE"
         }
       ]
     },
@@ -26559,7 +26559,7 @@
           "name": "Rave Now White Perfume For Unisex EDP 100ml",
           "handle": "rave-now-white-perfume-for-unisex-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/RaveNowWhite_U_Edp100Ml.webp?v=1695100624",
-          "price": 48,
+          "price": 52,
           "badge": "SALE"
         },
         {
