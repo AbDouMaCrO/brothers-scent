@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T04:53:06.301Z",
+  "generated_at": "2026-09-05T08:52:39.098Z",
   "total_brands": 886,
   "brands": [
     {
@@ -2705,7 +2705,7 @@
     {
       "name": "Loewe",
       "slug": "loewe",
-      "count": 122,
+      "count": 121,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LW75671_1.webp?v=1781703360",
       "preview": [
         {
@@ -4503,6 +4503,56 @@
       ]
     },
     {
+      "name": "Ahmed Perfumes",
+      "slug": "ahmed-perfumes",
+      "count": 74,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Ahmed_Al_Magribi_Mosaic_Perfume_For_Unisex_EDP_100ml_1.png?v=1788594573",
+      "preview": [
+        {
+          "name": "Ahmed Al Magribi Mosaic Perfume For Unisex EDP 100ml",
+          "handle": "ahmed-al-magribi-mosaic-perfume-for-unisex-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Ahmed_Al_Magribi_Mosaic_Perfume_For_Unisex_EDP_100ml_1.png?v=1788594573",
+          "price": 65,
+          "badge": ""
+        },
+        {
+          "name": "Ahmed Al Maghribi Black Fumes For Unisex EDP 100ml",
+          "handle": "ahmed-al-maghribi-black-fumes-for-unisex-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Ahmed_Al_Maghribi_Black_Fumes_For_Unisex_EDP_100ml-Photoroom.png?v=1787670265",
+          "price": 69,
+          "badge": "SALE"
+        },
+        {
+          "name": "Ahmed Al Maghribi Niswah Eau de Parfum for Women 75ml",
+          "handle": "ahmed-al-maghribi-niswah-eau-de-parfum-for-women-75ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Ahmed_Al_Maghribi_Niswah_Eau_de_Parfum_for_Women_75ml.webp?v=1758534033",
+          "price": 194,
+          "badge": "SALE"
+        },
+        {
+          "name": "Ahmed Al Maghribi Kawkab Extrait de Parfum For Men And Women Oriental Woody 75ml",
+          "handle": "ahmed-al-maghribi-kawkab-extrait-de-parfum-for-men-and-women-oriental-woody-75ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/kawkab_bottle-Photoroom.png?v=1787696315",
+          "price": 236,
+          "badge": ""
+        },
+        {
+          "name": "Ahmed Al Maghribi Kaaf Noir Perfume For Unisex EDP 100ml",
+          "handle": "ahmed-al-maghribi-kaaf-noir-perfume-for-unisex-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Ahmed_Al_Maghribi_Kaaf_Noir_Perfume_For_Unisex_EDP_100ml-Photoroom.png?v=1787489811",
+          "price": 99,
+          "badge": "SALE"
+        },
+        {
+          "name": "Is It Me By Ahmed Al Maghribi Perfume For Men And Women Edp 90ml",
+          "handle": "is-it-me-by-ahmed-al-maghribi-perfume-for-men-and-women-edp-90ml-1",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/itsme.webp?v=1756471694",
+          "price": 91,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Frederic Malle",
       "slug": "frederic-malle",
       "count": 73,
@@ -4548,56 +4598,6 @@
           "handle": "frederic-malle-leau-dhiver-eau-de-toilette-for-unisex-floral-woody-musk-perfume-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/254163-1000961686-1.jpg?v=1763477402",
           "price": 971,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Ahmed Perfumes",
-      "slug": "ahmed-perfumes",
-      "count": 73,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Ahmed_Al_Maghribi_Black_Fumes_For_Unisex_EDP_100ml-Photoroom.png?v=1787670265",
-      "preview": [
-        {
-          "name": "Ahmed Al Maghribi Black Fumes For Unisex EDP 100ml",
-          "handle": "ahmed-al-maghribi-black-fumes-for-unisex-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Ahmed_Al_Maghribi_Black_Fumes_For_Unisex_EDP_100ml-Photoroom.png?v=1787670265",
-          "price": 69,
-          "badge": "SALE"
-        },
-        {
-          "name": "Ahmed Al Maghribi Niswah Eau de Parfum for Women 75ml",
-          "handle": "ahmed-al-maghribi-niswah-eau-de-parfum-for-women-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Ahmed_Al_Maghribi_Niswah_Eau_de_Parfum_for_Women_75ml.webp?v=1758534033",
-          "price": 194,
-          "badge": "SALE"
-        },
-        {
-          "name": "Ahmed Al Maghribi Kawkab Extrait de Parfum For Men And Women Oriental Woody 75ml",
-          "handle": "ahmed-al-maghribi-kawkab-extrait-de-parfum-for-men-and-women-oriental-woody-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/kawkab_bottle-Photoroom.png?v=1787696315",
-          "price": 236,
-          "badge": ""
-        },
-        {
-          "name": "Ahmed Al Maghribi Kaaf Noir Perfume For Unisex EDP 100ml",
-          "handle": "ahmed-al-maghribi-kaaf-noir-perfume-for-unisex-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Ahmed_Al_Maghribi_Kaaf_Noir_Perfume_For_Unisex_EDP_100ml-Photoroom.png?v=1787489811",
-          "price": 99,
-          "badge": "SALE"
-        },
-        {
-          "name": "Is It Me By Ahmed Al Maghribi Perfume For Men And Women Edp 90ml",
-          "handle": "is-it-me-by-ahmed-al-maghribi-perfume-for-men-and-women-edp-90ml-1",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/itsme.webp?v=1756471694",
-          "price": 91,
-          "badge": ""
-        },
-        {
-          "name": "Azure Royal By Ahmed Al Maghribi Perfume For Men And Women Edp 100ml",
-          "handle": "azure-royal-by-ahmed-al-maghribi-perfume-for-men-and-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/azure-resized-Photoroom.png?v=1787735455",
-          "price": 91,
           "badge": ""
         }
       ]
