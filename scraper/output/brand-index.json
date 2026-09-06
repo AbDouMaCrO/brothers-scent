@@ -1,14 +1,21 @@
 {
-  "generated_at": "2026-09-06T06:22:48.798Z",
+  "generated_at": "2026-09-06T11:17:32.004Z",
   "total_brands": 886,
   "brands": [
     {
       "name": "Amazing Creation",
       "slug": "amazing-creation",
-      "count": 1115,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Sindbad_Perfume_For_Unisex_EDP_100ml_PFB-515.png?v=1787394011",
+      "count": 1116,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/Insolence-Amazing-Creation_496e580b-84d9-4602-8161-b6c934e0ed4e.jpg?v=1658412376",
       "preview": [
         {
+          "name": "Amazing Creation Insolence Perfume For Women EDP PFB-110 100ml",
+          "handle": "amazing-creation-insolence-perfume-for-women-edp-pfb00110-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/Insolence-Amazing-Creation_496e580b-84d9-4602-8161-b6c934e0ed4e.jpg?v=1658412376",
+          "price": 95,
+          "badge": ""
+        },
+        {
           "name": "Amazing Creation Sindbad Perfume For Unisex EDP PFB-515",
           "handle": "amazing-creation-sindbad-perfume-for-unisex-edp-pfb-515",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Sindbad_Perfume_For_Unisex_EDP_100ml_PFB-515.png?v=1787394011",
@@ -41,13 +48,6 @@
           "handle": "amazing-creation-oud-royal-prive-perfume-for-unisex-edp-pfb-513",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Oud_Royal_Prive_Perfume_For_Unisex_EDP_100ml_PFB-513.png?v=1787393034",
           "price": 55,
-          "badge": ""
-        },
-        {
-          "name": "Amazing Creation Oud Royal Prive Perfume For Unisex EDP PFB-513",
-          "handle": "amazing-creation-oud-royal-prive-perfume-for-unisex-edp-pfb-513",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Oud_Royal_Prive_Perfume_For_Unisex_EDP_100ml_PFB-513.png?v=1787393034",
-          "price": 95,
           "badge": ""
         }
       ]
@@ -2705,7 +2705,7 @@
     {
       "name": "Loewe",
       "slug": "loewe",
-      "count": 121,
+      "count": 120,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LW75671_1.webp?v=1781703360",
       "preview": [
         {
