@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T04:59:22.711Z",
+  "generated_at": "2026-09-12T13:05:25.994Z",
   "total_brands": 885,
   "brands": [
     {
@@ -1255,9 +1255,16 @@
     {
       "name": "Rasasi",
       "slug": "rasasi",
-      "count": 203,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rasasi_Hawas_Nautilus_For_Men_EDP_100ml_1.png?v=1789035706",
+      "count": 204,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rasasi_Hawas_Addiction_For_Unisex_100ml.png?v=1789217141",
       "preview": [
+        {
+          "name": "Rasasi Hawas Addiction For Unisex 100ml",
+          "handle": "rasasi-hawas-addiction-for-unisex-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rasasi_Hawas_Addiction_For_Unisex_100ml.png?v=1789217141",
+          "price": 143,
+          "badge": ""
+        },
         {
           "name": "Rasasi Hawas Nautilus For Men EDP 100ml",
           "handle": "rasasi-hawas-nautilus-for-men-edp-100ml",
@@ -1290,13 +1297,6 @@
           "name": "Rasasi Rafan Pour Homme Eau De Parfum For Men-Woody Aromatic Perfume 100ml",
           "handle": "rasasi-rafan-pour-homme-eau-de-parfum-for-men-woody-aromatic-perfume-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/NewProject_12-Photoroom.png?v=1785212184",
-          "price": 98,
-          "badge": ""
-        },
-        {
-          "name": "Rasasi Rafan Pour Femme Eau De Parfum For Women-Floral Fruity Perfume 100ml",
-          "handle": "rasasi-rafan-pour-femme-eau-de-parfum-for-women-floral-fruity-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/XEdxLdINl3O3aZNIKaJ60azQlbsjMN7H6B77h_1CVRocEqfeTFVQnF-dA6-dWfuUyQKPkr_KTcIR-kkl6WAR9LoIt-tHcp9jrENg20fo3wdyvy_og-4xzctvkUhM-Ga7kjxQK2zLHP0hlZuZo7LH6FCVuCgPLsxWVujtR1nxr1G5yh7K2A_c8GS.png?v=1785210601",
           "price": 98,
           "badge": ""
         }
@@ -1405,7 +1405,7 @@
     {
       "name": "Mont Blanc",
       "slug": "mont-blanc",
-      "count": 194,
+      "count": 193,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/star-resized-Photoroom.png?v=1787567980",
       "preview": [
         {
@@ -9475,7 +9475,7 @@
         {
           "name": "Arabiyat Prestige Nyla Vani Elle Edp For Men And Women Gourmand 80ml",
           "handle": "arabiyat-prestige-nyla-vani-elle-edp-for-men-and-women-gourmand-80ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/vani.webp?v=1767102917",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Arabiyat_Prestige_Nyla_Vani_Elle_Edp_For_Men_And_Women_Gourmand_80ml-Photoroom.png?v=1789197765",
           "price": 99,
           "badge": ""
         },
@@ -26205,7 +26205,7 @@
         {
           "name": "Khalis Zeena Sharqiyat EDP For Women 100ml",
           "handle": "khalis-zeena-sharqiyat-edp-for-women-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Khalis_Zeena_Sharqiyat_EDP_For_Women_100ml.webp?v=1735116154",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Khalis_Zeena_Sharqiyat_EDP_For_Women_100ml-Photoroom.png?v=1789197941",
           "price": 52,
           "badge": ""
         },
