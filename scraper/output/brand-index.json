@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T06:22:20.096Z",
+  "generated_at": "2026-09-18T11:41:25.928Z",
   "total_brands": 885,
   "brands": [
     {
@@ -10906,12 +10906,12 @@
       "name": "Tiffany & Co",
       "slug": "tiffany-co",
       "count": 22,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3614227728547_1-1.jpg?v=1753791784",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/co-resized-Photoroom_f3af2941-cff1-476f-9363-30337c32f22f.png?v=1789720079",
       "preview": [
         {
           "name": "Tiffany & Co. Love For Her Perfume For Women EDP 90ml",
           "handle": "tiffany-co-love-for-her-perfume-for-women-edp-90ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3614227728547_1-1.jpg?v=1753791784",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/co-resized-Photoroom_f3af2941-cff1-476f-9363-30337c32f22f.png?v=1789720079",
           "price": 473,
           "badge": ""
         },
@@ -17068,7 +17068,7 @@
         {
           "name": "Bait Al Bakhoor Alwaan Purple Air Freshner 300ml Spray",
           "handle": "bait-al-bakhoor-alwaan-purple-air-freshner-300ml-spray",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/30img_1613481782206483353_Alwaan-Purple-Air-Freshener-300ml-RIOS-337_L.jpg?v=1711943145",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/alwan-resized-Photoroom.png?v=1789721374",
           "price": 12,
           "badge": ""
         },
@@ -17082,7 +17082,7 @@
         {
           "name": "Bait Al Bakhoor Awwal Mowaad Air Freshener 300ml",
           "handle": "bait-al-bakhoor-awwal-mowaad-air-freshener-300ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/BaitAlBakhoorAwwalMowaadAirFreshner300ml.webp?v=1691568995",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/alll-Photoroom.png?v=1789721504",
           "price": 12,
           "badge": ""
         },
@@ -24140,7 +24140,7 @@
           "name": "Rave Now Perfume For Men EDP 100ml",
           "handle": "rave-now-perfume-for-men-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rave_Now_Perfume_For_Men_EDP_100ml-Photoroom.png?v=1788169777",
-          "price": 40,
+          "price": 52,
           "badge": "SALE"
         }
       ]
