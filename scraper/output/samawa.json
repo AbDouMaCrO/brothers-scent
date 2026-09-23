@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-23T01:46:53.661Z",
+  "scraped_at": "2026-09-23T07:23:42.000Z",
   "source": "https://samawa.ae",
   "count": 25021,
   "products": [
@@ -53192,8 +53192,8 @@
       "brand": "Arabiyat",
       "category_slug": "homme",
       "size": "100ml",
-      "price_retail": 131,
-      "price_gros": 131,
+      "price_retail": 133,
+      "price_gros": 133,
       "stock": 999,
       "badge": "",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Arabiyat_Prestige_Marwa_Edp_For_Men_And_Women_Woody_Amber_100ml-Photoroom.png?v=1787482983",
@@ -65706,7 +65706,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 146,
-      "price_gros": 107,
+      "price_gros": 108,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Ahmed_Al_Maghribi_Kaaf_Noir_Perfume_For_Unisex_EDP_100ml-Photoroom.png?v=1787489811",
@@ -77711,8 +77711,8 @@
       "brand": "Ahmed Perfumes",
       "category_slug": "homme",
       "size": "100ml",
-      "price_retail": 58,
-      "price_gros": 58,
+      "price_retail": 69,
+      "price_gros": 69,
       "stock": 999,
       "badge": "",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rn-image_picker_lib_temp_600x_d1eac290-241e-4379-bca0-560186925fdd.webp?v=1752313210",
@@ -159827,7 +159827,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 119,
-      "price_gros": 57.5,
+      "price_gros": 64,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Asad_Zanzibar_EDP_For_Men_100ml-Photoroom.png?v=1787808887",
@@ -235317,32 +235317,6 @@
       "_url": "https://samawa.ae/products/nishane-pachuli-kozha-perfume-for-unisex-extrait-de-parfum-50ml"
     },
     {
-      "name": "Maison Alhambra Bright Peach Perfume For Unisex EDP 80ml",
-      "brand": "Maison AlHambra",
-      "category_slug": "homme",
-      "size": "80ml",
-      "price_retail": 0,
-      "price_gros": 69,
-      "stock": 999,
-      "badge": "SALE",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/MaisonAlhambraBrightPeachEdp80mlSpy.jpg?v=1684494670",
-      "active": true,
-      "_handle": "maison-alhambra-bright-peach-perfume-for-unisex-edp-80ml",
-      "_sku": "6291108735787",
-      "_tags": [
-        "80ml",
-        "badge_Best Seller",
-        "Best Seller",
-        "Branded Perfumes",
-        "EDP",
-        "Fragrance",
-        "Men",
-        "Women"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/maison-alhambra-bright-peach-perfume-for-unisex-edp-80ml"
-    },
-    {
       "name": "Lattafa Ma'ani Perfume For Unisex EDP 100ml",
       "brand": "Lattafa",
       "category_slug": "homme",
@@ -253638,7 +253612,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 78,
-      "price_gros": 50,
+      "price_gros": 48,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Afnan_Zimaya_Fatima_Perfume_For_Women_Extrait_De_Parfum_100ml-Photoroom.png?v=1787808731",
@@ -262217,7 +262191,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 150,
-      "price_gros": 77,
+      "price_gros": 73.5,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Asad_Perfume_For_Unisex_EDP_100ml-Photoroom.png?v=1787582416",
@@ -303659,30 +303633,6 @@
       ],
       "_product_type": "Fragrance",
       "_url": "https://samawa.ae/products/panouge-feronia-perfume-for-women-parfum-100ml"
-    },
-    {
-      "name": "Pana Dora Velvet Iris Perfume For Unisex EDP 100ml",
-      "brand": "PANA DORA",
-      "category_slug": "homme",
-      "size": "100ml",
-      "price_retail": 939,
-      "price_gros": 939,
-      "stock": 999,
-      "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/PanaDoraVelvetIris_U_Edp100Ml.jpg?v=1648229073",
-      "active": true,
-      "_handle": "pana-dora-velvet-iris-perfume-for-unisex-edp-100ml",
-      "_sku": "7350123230017",
-      "_tags": [
-        "100ml",
-        "Branded Perfumes",
-        "EDP",
-        "Fragrance",
-        "Men",
-        "Women"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/pana-dora-velvet-iris-perfume-for-unisex-edp-100ml"
     },
     {
       "name": "Pana Dora Kropp & Sjal Perfume For Unisex EDP 100ml",
@@ -582225,6 +582175,51 @@
       ],
       "_product_type": "Fragrance",
       "_url": "https://samawa.ae/products/mont-blanc-legend-for-men-eau-de-toilette-50-ml"
+    },
+    {
+      "name": "Mont blanc Legend Intense Eau De Toilette Spray 100ml Set 3 Pieces",
+      "brand": "Mont Blanc",
+      "category_slug": "oriental",
+      "size": "100ml",
+      "price_retail": 171,
+      "price_gros": 171,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/mont_blanc_legend_intense_eau_de_toilette_spray_100ml_set_3_pieces.jpg?v=1624398864",
+      "active": true,
+      "_handle": "mont-blanc-legend-intense-eau-de-toilette-spray-100ml-set-3-pieces",
+      "_sku": "3386460068208",
+      "_tags": [
+        "100ml",
+        "Branded Perfumes",
+        "Fragrance"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/mont-blanc-legend-intense-eau-de-toilette-spray-100ml-set-3-pieces"
+    },
+    {
+      "name": "Mont Blanc Lady Emblem for Women - Eau de Parfum, 75 ml",
+      "brand": "Mont Blanc",
+      "category_slug": "homme",
+      "size": "75ml",
+      "price_retail": 205,
+      "price_gros": 163,
+      "stock": 999,
+      "badge": "SALE",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ladyy-resized-Photoroom.png?v=1788178492",
+      "active": true,
+      "_handle": "mont-blanc-lady-emblem-for-women-eau-de-parfum-75-ml",
+      "_sku": "3386460066181",
+      "_tags": [
+        "75ml",
+        "Branded Perfumes",
+        "EDP",
+        "Fragrance",
+        "Men",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/mont-blanc-lady-emblem-for-women-eau-de-parfum-75-ml"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T01:48:45.234Z",
+  "generated_at": "2026-09-23T07:24:51.577Z",
   "total_brands": 885,
   "brands": [
     {
@@ -1353,6 +1353,56 @@
       ]
     },
     {
+      "name": "Mont Blanc",
+      "slug": "mont-blanc",
+      "count": 195,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/star-resized-Photoroom.png?v=1787567980",
+      "preview": [
+        {
+          "name": "Montblanc Star Oud Eau de Parfum, Oriental Woody Fragrance For Men And Women 125ml",
+          "handle": "montblanc-star-oud-eau-de-parfum-for-men-and-women-woody-125ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/star-resized-Photoroom.png?v=1787567980",
+          "price": 407,
+          "badge": ""
+        },
+        {
+          "name": "Montblanc Gift Set For Men Woody",
+          "handle": "montblanc-gift-set-for-men-woody",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/mont.png?v=1783967214",
+          "price": 352,
+          "badge": ""
+        },
+        {
+          "name": "Mont Blanc Legend Shower Gel For Men 100ml",
+          "handle": "mont-blanc-legend-shower-gel-for-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/51Um9OiBWDL.jpg?v=1778925835",
+          "price": 24,
+          "badge": ""
+        },
+        {
+          "name": "Mont Blanc Explorer Extreme Shower Gel For Men 100ml",
+          "handle": "mont-blanc-explorer-extreme-shower-gel-for-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/spAiAD1225431-0-global.jpg?v=1778925422",
+          "price": 24,
+          "badge": ""
+        },
+        {
+          "name": "Mont Blanc Neroli Letters Radiant Bergamot Eau De Parfum For Unisex - Citrus Aromatic Perfume 125ml",
+          "handle": "mont-blanc-neroli-letters-radiant-bergamot-eau-de-parfum-for-unisex-citrus-aromatic-perfume-125ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/P-198882.jpg?v=1778756336",
+          "price": 311,
+          "badge": ""
+        },
+        {
+          "name": "Mont Blanc Explorer Gift Set For Men",
+          "handle": "mont-blanc-explorer-gift-set-for-men-3",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460155687-1_1024x_32ab555c-b6a2-43c2-832d-eb4629d40e52.jpg?v=1773107638",
+          "price": 309,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Guess",
       "slug": "guess",
       "count": 195,
@@ -1398,56 +1448,6 @@
           "handle": "guess-gift-set-for-men-woody",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/19811.png?v=1783542601",
           "price": 140,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Mont Blanc",
-      "slug": "mont-blanc",
-      "count": 193,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/star-resized-Photoroom.png?v=1787567980",
-      "preview": [
-        {
-          "name": "Montblanc Star Oud Eau de Parfum, Oriental Woody Fragrance For Men And Women 125ml",
-          "handle": "montblanc-star-oud-eau-de-parfum-for-men-and-women-woody-125ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/star-resized-Photoroom.png?v=1787567980",
-          "price": 407,
-          "badge": ""
-        },
-        {
-          "name": "Montblanc Gift Set For Men Woody",
-          "handle": "montblanc-gift-set-for-men-woody",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/mont.png?v=1783967214",
-          "price": 352,
-          "badge": ""
-        },
-        {
-          "name": "Mont Blanc Legend Shower Gel For Men 100ml",
-          "handle": "mont-blanc-legend-shower-gel-for-men-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/51Um9OiBWDL.jpg?v=1778925835",
-          "price": 24,
-          "badge": ""
-        },
-        {
-          "name": "Mont Blanc Explorer Extreme Shower Gel For Men 100ml",
-          "handle": "mont-blanc-explorer-extreme-shower-gel-for-men-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/spAiAD1225431-0-global.jpg?v=1778925422",
-          "price": 24,
-          "badge": ""
-        },
-        {
-          "name": "Mont Blanc Neroli Letters Radiant Bergamot Eau De Parfum For Unisex - Citrus Aromatic Perfume 125ml",
-          "handle": "mont-blanc-neroli-letters-radiant-bergamot-eau-de-parfum-for-unisex-citrus-aromatic-perfume-125ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/P-198882.jpg?v=1778756336",
-          "price": 311,
-          "badge": ""
-        },
-        {
-          "name": "Mont Blanc Explorer Gift Set For Men",
-          "handle": "mont-blanc-explorer-gift-set-for-men-3",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460155687-1_1024x_32ab555c-b6a2-43c2-832d-eb4629d40e52.jpg?v=1773107638",
-          "price": 309,
           "badge": ""
         }
       ]
@@ -3005,7 +3005,7 @@
     {
       "name": "Maison AlHambra",
       "slug": "maison-alhambra",
-      "count": 115,
+      "count": 114,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Maison_Alhambra_Last_Night_in_Miami_For_Unisex_EDP_100ml.png?v=1789025716",
       "preview": [
         {
@@ -4540,7 +4540,7 @@
           "name": "Ahmed Al Maghribi Kaaf Noir Perfume For Unisex EDP 100ml",
           "handle": "ahmed-al-maghribi-kaaf-noir-perfume-for-unisex-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Ahmed_Al_Maghribi_Kaaf_Noir_Perfume_For_Unisex_EDP_100ml-Photoroom.png?v=1787489811",
-          "price": 107,
+          "price": 108,
           "badge": "SALE"
         },
         {
@@ -15853,56 +15853,6 @@
       ]
     },
     {
-      "name": "PANA DORA",
-      "slug": "pana-dora",
-      "count": 13,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/TBDPDOREP100.jpg?v=1781502374",
-      "preview": [
-        {
-          "name": "Pana Dora Oud Republic Extrait De Parfum For Unisex - Woody Perfume 100ml",
-          "handle": "pana-dora-oud-republic-extrait-de-parfum-for-unisex-woody-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/TBDPDOREP100.jpg?v=1781502374",
-          "price": 1066,
-          "badge": ""
-        },
-        {
-          "name": "Pana Dora Emanuele Eau De Parfum For Unisex-Floral Woody Musk  Perfume 100ml",
-          "handle": "pana-dora-emanuele-eau-de-parfum-for-unisex-floral-woody-musk-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Emanuele.jpg?v=1781500417",
-          "price": 885,
-          "badge": ""
-        },
-        {
-          "name": "Pana Dora Moonlight Edp For Men And Women Amber 100ml",
-          "handle": "pana-dora-moonlight-edp-for-men-and-women-amber-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/MoonLight.webp?v=1771669031",
-          "price": 895,
-          "badge": ""
-        },
-        {
-          "name": "Pana Dora Orchestra Eau De Parfum For Unisex - Oriental Woody Perfume 100ml",
-          "handle": "pana-dora-orchestra-eau-de-parfum-for-unisex-oriental-woody-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/OrchestraWebsiteBotel.png?v=1767095681",
-          "price": 1011,
-          "badge": ""
-        },
-        {
-          "name": "Pana Dora Patchouli Dust Extrait De Parfum For Unisex - Oriental  Perfume 100ml",
-          "handle": "pana-dora-patchouli-dust-extrait-de-parfum-for-unisex-oriental-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Pana_20Dora_20Patchouli_20Dust_20Eau_20de_20Parfum_1920x1920_0d6a3986-4883-4bca-b8eb-3682cb1b72e4.jpg?v=1767078888",
-          "price": 921,
-          "badge": ""
-        },
-        {
-          "name": "Pana Dora XVI Perfume For Unisex EDP 100ml",
-          "handle": "pana-dora-xvi-perfume-for-unisex-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/PanaDoraXvi_U_Edp100Ml.jpg?v=1669876377",
-          "price": 1039,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Sarah Jessica Parker",
       "slug": "sarah-jessica-parker",
       "count": 13,
@@ -16748,6 +16698,56 @@
           "handle": "kayali-yum-boujee-marshmallow-81-intense-edp-for-women-sweet-50ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/marsh-removebg-preview_077738b4-f471-4bc6-85c3-c0d6d1615b6c.png?v=1774691343",
           "price": 512,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "PANA DORA",
+      "slug": "pana-dora",
+      "count": 12,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/TBDPDOREP100.jpg?v=1781502374",
+      "preview": [
+        {
+          "name": "Pana Dora Oud Republic Extrait De Parfum For Unisex - Woody Perfume 100ml",
+          "handle": "pana-dora-oud-republic-extrait-de-parfum-for-unisex-woody-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/TBDPDOREP100.jpg?v=1781502374",
+          "price": 1066,
+          "badge": ""
+        },
+        {
+          "name": "Pana Dora Emanuele Eau De Parfum For Unisex-Floral Woody Musk  Perfume 100ml",
+          "handle": "pana-dora-emanuele-eau-de-parfum-for-unisex-floral-woody-musk-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Emanuele.jpg?v=1781500417",
+          "price": 885,
+          "badge": ""
+        },
+        {
+          "name": "Pana Dora Moonlight Edp For Men And Women Amber 100ml",
+          "handle": "pana-dora-moonlight-edp-for-men-and-women-amber-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/MoonLight.webp?v=1771669031",
+          "price": 895,
+          "badge": ""
+        },
+        {
+          "name": "Pana Dora Orchestra Eau De Parfum For Unisex - Oriental Woody Perfume 100ml",
+          "handle": "pana-dora-orchestra-eau-de-parfum-for-unisex-oriental-woody-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/OrchestraWebsiteBotel.png?v=1767095681",
+          "price": 1011,
+          "badge": ""
+        },
+        {
+          "name": "Pana Dora Patchouli Dust Extrait De Parfum For Unisex - Oriental  Perfume 100ml",
+          "handle": "pana-dora-patchouli-dust-extrait-de-parfum-for-unisex-oriental-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Pana_20Dora_20Patchouli_20Dust_20Eau_20de_20Parfum_1920x1920_0d6a3986-4883-4bca-b8eb-3682cb1b72e4.jpg?v=1767078888",
+          "price": 921,
+          "badge": ""
+        },
+        {
+          "name": "Pana Dora XVI Perfume For Unisex EDP 100ml",
+          "handle": "pana-dora-xvi-perfume-for-unisex-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/PanaDoraXvi_U_Edp100Ml.jpg?v=1669876377",
+          "price": 1039,
           "badge": ""
         }
       ]
