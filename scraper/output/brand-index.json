@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T06:28:58.849Z",
+  "generated_at": "2026-09-27T11:28:34.328Z",
   "total_brands": 887,
   "brands": [
     {
@@ -906,12 +906,12 @@
       "name": "Haramain",
       "slug": "haramain",
       "count": 248,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Al_Haramain_Farasha_Concentrated_Perfume_Oil_12ml.jpg?v=1784785725",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Farasha_Concentrated_Perfume_Oil_12ml-resized-Photoroom_9a321b7b-e1fc-4e26-bead-fcd66638e4d6.png?v=1790505386",
       "preview": [
         {
           "name": "Al Haramain Farasha Concentrated Perfume Oil 12ml",
           "handle": "al-haramain-farasha-concentrated-perfume-oil-12ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Al_Haramain_Farasha_Concentrated_Perfume_Oil_12ml.jpg?v=1784785725",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Farasha_Concentrated_Perfume_Oil_12ml-resized-Photoroom_9a321b7b-e1fc-4e26-bead-fcd66638e4d6.png?v=1790505386",
           "price": 35,
           "badge": ""
         },
@@ -925,7 +925,7 @@
         {
           "name": "Al Haramain Detour Noir Intense EDP For Unisex 100ml",
           "handle": "al-haramain-detour-noir-intense-edp-for-unisex-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ahp1435_solo.jpg?v=1782210723",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/detouir-resized-Photoroom.png?v=1790423071",
           "price": 100,
           "badge": ""
         },
@@ -1055,9 +1055,16 @@
     {
       "name": "Armaf",
       "slug": "armaf",
-      "count": 227,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Armaf_Spartacus_Eau_De_Parfum_For_Men-Oriental_Vanilla_Perfume_100ml-Photoroom.png?v=1789653762",
+      "count": 228,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Armaf_Club_De_Nuit_Overdose_Intense_John_Abraham_Edition_Extrait_de_Parfum_For_Men_100ml_1.png?v=1790416215",
       "preview": [
+        {
+          "name": "Armaf Club De Nuit Overdose Intense John Abraham Edition Extrait de Parfum For Men 100ml",
+          "handle": "armaf-club-de-nuit-overdose-intense-john-abraham-edition-extrait-de-parfum-for-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Armaf_Club_De_Nuit_Overdose_Intense_John_Abraham_Edition_Extrait_de_Parfum_For_Men_100ml_1.png?v=1790416215",
+          "price": 230.25,
+          "badge": ""
+        },
         {
           "name": "Armaf Spartacus Eau De Parfum For Men-Oriental Vanilla Perfume 100ml",
           "handle": "armaf-spartacus-eau-de-parfum-for-men-oriental-vanilla-perfume-100ml",
@@ -1090,13 +1097,6 @@
           "name": "Armaf Club De Nuit Imperiale Deo Stick For Women 75 gm",
           "handle": "armaf-club-de-nuit-imperiale-deo-stick-for-women-75-gm",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/m6294015167924_white_xl.jpg?v=1775407086",
-          "price": 55,
-          "badge": ""
-        },
-        {
-          "name": "Armaf Club De Nuit Iconic Deo Stick For Men 75 gm",
-          "handle": "armaf-club-de-nuit-iconic-deo-stick-for-men-75-gm",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Armaf_Club_De_Nuit_Iconic_Deo_Stick_For_Men_75_gm-Photoroom.png?v=1789968364",
           "price": 55,
           "badge": ""
         }
@@ -1255,9 +1255,16 @@
     {
       "name": "Rasasi",
       "slug": "rasasi",
-      "count": 204,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rasasi_Hawas_Addiction_For_Unisex_100ml.png?v=1789217141",
+      "count": 205,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rasasi_Hawas_Gold_Digger_For_Men_EDP_100ml_1.png?v=1790434592",
       "preview": [
+        {
+          "name": "Rasasi Hawas Gold Digger For Men EDP 100ml",
+          "handle": "rasasi-hawas-gold-digger-for-men-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rasasi_Hawas_Gold_Digger_For_Men_EDP_100ml_1.png?v=1790434592",
+          "price": 121,
+          "badge": ""
+        },
         {
           "name": "Rasasi Hawas Addiction For Unisex 100ml",
           "handle": "rasasi-hawas-addiction-for-unisex-100ml",
@@ -1291,13 +1298,6 @@
           "handle": "rasasi-hamasaat-azafron-legacy-eau-de-parfum-for-unisex-oriental-spicy-perfume-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/1_62487cbe-f7f0-4f47-b84d-ec2b77d74d10-Photoroom.png?v=1786803110",
           "price": 202,
-          "badge": ""
-        },
-        {
-          "name": "Rasasi Rafan Pour Homme Eau De Parfum For Men-Woody Aromatic Perfume 100ml",
-          "handle": "rasasi-rafan-pour-homme-eau-de-parfum-for-men-woody-aromatic-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/NewProject_12-Photoroom.png?v=1785212184",
-          "price": 98,
           "badge": ""
         }
       ]
@@ -1496,7 +1496,7 @@
         {
           "name": "Acqua Di Parma Blu Mediterraneo Mandarino Di Sicilia Eau De Toilette For Unisex - Citrus Aromatic Perfume 180ml",
           "handle": "acqua-di-parma-blu-mediterraneo-mandarino-di-sicilia-eau-de-toilette-for-unisex-citrus-aromatic-perfume-180ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/4775_NA_1__62450.1714720391.jpg?v=1774345085",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/diii-resized-Photoroom.png?v=1790432288",
           "price": 567,
           "badge": ""
         }
@@ -2132,7 +2132,7 @@
         {
           "name": "Aqua Kiss By Victoria Secret Fragrance Mist For Women 250ml",
           "handle": "aqua-kiss-by-victoria-secret-fragrance-mist-for-women-250ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bbbbbbbbbbbbbbbbbbb.webp?v=1751031670",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/aqua-resized-Photoroom_746a1ff3-c295-46a3-98c3-683665bc413c.png?v=1790419478",
           "price": 67,
           "badge": ""
         },
@@ -2832,7 +2832,7 @@
         {
           "name": "Cartier Pasha de Cartier Edition Noire Eau De Toilette For Men - Woody Aromatic Perfume 100ml Refillable",
           "handle": "cartier-pasha-de-cartier-edition-noire-eau-de-toilette-for-men-woody-aromatic-perfume-100ml-refillable",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/u_3432240516626_01.jpg?v=1766421545",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/PASHA-resized-Photoroom.png?v=1790449591",
           "price": 337,
           "badge": ""
         },
@@ -3146,7 +3146,7 @@
         {
           "name": "Nishane Tunisian Fleur D'Oranger Home Diffuser 200ml Refill",
           "handle": "nishane-tunisian-fleur-doranger-home-diffuser-200ml-refill",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/8683608070853.jpg?v=1742271298",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/tui-Photoroom.png?v=1790421061",
           "price": 148,
           "badge": ""
         }
@@ -3256,12 +3256,12 @@
       "name": "Franck Olivier",
       "slug": "franck-olivier",
       "count": 100,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ab.webp?v=1772296406",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/absss-resized-Photoroom.png?v=1790425227",
       "preview": [
         {
           "name": "Franck Olivier Absolutely Musk Eau de Parfum For Women Musky 75 ml",
           "handle": "franck-olivier-absolutely-musk-eau-de-parfum-for-women-musky-75-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ab.webp?v=1772296406",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/absss-resized-Photoroom.png?v=1790425227",
           "price": 106,
           "badge": ""
         },
@@ -3856,12 +3856,12 @@
       "name": "Memo",
       "slug": "memo",
       "count": 88,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/1abfe7eefe8672b6fbb2ce679841ed51.jpg?v=1748948520",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ind-resized_1_-Photoroom.png?v=1790441827",
       "preview": [
         {
           "name": "Memo Cuirs Nomades Indian Leather Perfume For Unisex EDP 75ml",
           "handle": "memo-cuirs-nomades-indian-leather-perfume-for-unisex-edp-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/1abfe7eefe8672b6fbb2ce679841ed51.jpg?v=1748948520",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ind-resized_1_-Photoroom.png?v=1790441827",
           "price": 549,
           "badge": ""
         },
@@ -4540,7 +4540,7 @@
           "name": "Ahmed Al Maghribi Kaaf Noir Perfume For Unisex EDP 100ml",
           "handle": "ahmed-al-maghribi-kaaf-noir-perfume-for-unisex-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Ahmed_Al_Maghribi_Kaaf_Noir_Perfume_For_Unisex_EDP_100ml-Photoroom.png?v=1787489811",
-          "price": 108,
+          "price": 99,
           "badge": "SALE"
         },
         {
@@ -4789,7 +4789,7 @@
         {
           "name": "Swiss Arabian Shaghaf Oud Ahmar Edp For Men And Women Fruity 25ml",
           "handle": "swiss-arabian-shaghaf-oud-ahmar-edp-for-men-and-women-fruity-25ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/oud_9270c08b-df3a-4c90-b556-b55731ab1f91.avif?v=1771785954",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ahm-resized-Photoroom.png?v=1790418744",
           "price": 126,
           "badge": ""
         },
@@ -4853,56 +4853,6 @@
       ]
     },
     {
-      "name": "Lanvin",
-      "slug": "lanvin",
-      "count": 65,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460151795_1.jpg?v=1732739513",
-      "preview": [
-        {
-          "name": "Lanvin Modern Princess In Jeans For Women EDP 90ml",
-          "handle": "lanvin-modern-princess-in-jeans-for-women-edp-90ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460151795_1.jpg?v=1732739513",
-          "price": 136,
-          "badge": ""
-        },
-        {
-          "name": "Lanvin Modern Princess In Jeans For Women EDP 60ml",
-          "handle": "lanvin-modern-princess-in-jeans-for-women-edp-60ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460151801_1.jpg?v=1732738401",
-          "price": 146,
-          "badge": ""
-        },
-        {
-          "name": "Lanvin Modern Princess In Jeans For Women EDP 30ml",
-          "handle": "lanvin-modern-princess-in-jeans-for-women-edp-30ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460151818.jpg?v=1732738124",
-          "price": 88,
-          "badge": ""
-        },
-        {
-          "name": "Lanvin A Girl In Capri For Women EDT 30ml",
-          "handle": "lanvin-a-girl-in-capri-for-women-edt-30ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460103671.jpg?v=1732375122",
-          "price": 59,
-          "badge": ""
-        },
-        {
-          "name": "Lanvin Les Fleurs De Sweet Jasmine For Women EDT 90ml",
-          "handle": "lanvin-les-fleurs-de-sweet-jasmine-for-women-edt-90ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/les-resized-Photoroom_b4b4d3f6-e537-40d6-81c9-fb02dd39f18d.png?v=1789491973",
-          "price": 93,
-          "badge": ""
-        },
-        {
-          "name": "Lanvin Les Fleurs De Sweet Jasmine For Women EDT 50ml",
-          "handle": "lanvin-les-fleurs-de-sweet-jasmine-for-women-edt-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460142922.jpg?v=1730137714",
-          "price": 79,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Roberto Cavalli",
       "slug": "roberto-cavalli",
       "count": 64,
@@ -4932,7 +4882,7 @@
         {
           "name": "Roberto Cavalli Verde Assoluto Edp For Women Floral 75ml",
           "handle": "roberto-cavalli-verde-assoluto-edp-for-women-floral-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/robertoo-removebg-preview.png?v=1772553676",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/robertoo-removebg-preview-resized-Photoroom.png?v=1790418962",
           "price": 195,
           "badge": ""
         },
@@ -4998,6 +4948,56 @@
           "handle": "estee-lauder-bronze-goddess-flora-verde-eau-de-parfum-for-women-floral-green-perfume-50ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/887167699762.jpg?v=1760537969",
           "price": 168,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Lanvin",
+      "slug": "lanvin",
+      "count": 62,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460151795_1.jpg?v=1732739513",
+      "preview": [
+        {
+          "name": "Lanvin Modern Princess In Jeans For Women EDP 90ml",
+          "handle": "lanvin-modern-princess-in-jeans-for-women-edp-90ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460151795_1.jpg?v=1732739513",
+          "price": 136,
+          "badge": ""
+        },
+        {
+          "name": "Lanvin Modern Princess In Jeans For Women EDP 60ml",
+          "handle": "lanvin-modern-princess-in-jeans-for-women-edp-60ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460151801_1.jpg?v=1732738401",
+          "price": 146,
+          "badge": ""
+        },
+        {
+          "name": "Lanvin Modern Princess In Jeans For Women EDP 30ml",
+          "handle": "lanvin-modern-princess-in-jeans-for-women-edp-30ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460151818.jpg?v=1732738124",
+          "price": 88,
+          "badge": ""
+        },
+        {
+          "name": "Lanvin A Girl In Capri For Women EDT 30ml",
+          "handle": "lanvin-a-girl-in-capri-for-women-edt-30ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460103671.jpg?v=1732375122",
+          "price": 59,
+          "badge": ""
+        },
+        {
+          "name": "Lanvin Les Fleurs De Sweet Jasmine For Women EDT 90ml",
+          "handle": "lanvin-les-fleurs-de-sweet-jasmine-for-women-edt-90ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/les-resized-Photoroom_b4b4d3f6-e537-40d6-81c9-fb02dd39f18d.png?v=1789491973",
+          "price": 93,
+          "badge": ""
+        },
+        {
+          "name": "Lanvin Les Fleurs De Sweet Jasmine For Women EDT 50ml",
+          "handle": "lanvin-les-fleurs-de-sweet-jasmine-for-women-edt-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460142922.jpg?v=1730137714",
+          "price": 79,
           "badge": ""
         }
       ]
@@ -5275,7 +5275,7 @@
         {
           "name": "Boadicea The Victorious Defender Perfume For Unisex EDP 100ml",
           "handle": "boadicea-the-victorious-defender-perfume-for-unisex-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/e2d77e041e8be7fe50e348a869ea7501.jpg?v=1749562756",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/thee-resized_1_-Photoroom.png?v=1790441566",
           "price": 1427,
           "badge": ""
         },
@@ -6353,6 +6353,56 @@
       ]
     },
     {
+      "name": "RAYHAAN",
+      "slug": "rayhaan",
+      "count": 42,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rayhaan_Nava_Sol_EDP_For_Unisex_100ml.png?v=1790418268",
+      "preview": [
+        {
+          "name": "Rayhaan Nava Sol EDP For Unisex 100ml",
+          "handle": "rayhaan-nava-sol-edp-for-unisex-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rayhaan_Nava_Sol_EDP_For_Unisex_100ml.png?v=1790418268",
+          "price": 101,
+          "badge": ""
+        },
+        {
+          "name": "Rayhaan Pacific Aloha EDP For Unisex 100ml",
+          "handle": "rayhaan-pacific-aloha-edp-for-unisex-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rayhaan_Pacific_Aloha_EDP_For_Unisex_100ml-Photoroom.png?v=1787720638",
+          "price": 101,
+          "badge": ""
+        },
+        {
+          "name": "Rayhaan Azul Eau De Parfum For Men - Aromatic Aquatic Perfume 100ml",
+          "handle": "rayhaan-azul-eau-de-parfum-for-men-aromatic-aquatic-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rayhaan_Azul_Eau_De_Parfum_For_Men_-_Aromatic_Aquatic_Perfume_100ml-Photoroom.png?v=1787486416",
+          "price": 81,
+          "badge": "SALE"
+        },
+        {
+          "name": "Rayhaan Pharaoh EDP For Unisex 100ml",
+          "handle": "rayhaan-pharaoh-edp-for-unisex-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rayhaan_Pharaoh_EDP_For_Unisex_100ml-Photoroom.png?v=1787754647",
+          "price": 101,
+          "badge": ""
+        },
+        {
+          "name": "Rayhaan Wolf Eau De Parfum For Men - Oriental Woody Perfume 100ml",
+          "handle": "rayhaan-wolf-eau-de-parfum-for-men-oriental-woody-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rayhaan_Wolf_Eau_De_Parfum_For_Men_-_Oriental_Woody_Perfume_100ml-Photoroom.png?v=1787489040",
+          "price": 101,
+          "badge": "SALE"
+        },
+        {
+          "name": "Rayhaan Nocturno Elixir Pour Homme Eau De Parfum For Men - Woody Amber Perfume 100ml",
+          "handle": "rayhaan-nocturno-elixir-pour-homme-eau-de-parfum-for-men-woody-amber-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rayhaan_Nocturno_Elixir_Pour_Homme_Eau_De_Parfum_For_Men_-_Woody_Amber_Perfume_100ml.jpg?v=1789110539",
+          "price": 101,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Fragrance World",
       "slug": "fragrance-world",
       "count": 42,
@@ -6653,56 +6703,6 @@
       ]
     },
     {
-      "name": "RAYHAAN",
-      "slug": "rayhaan",
-      "count": 41,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rayhaan_Pacific_Aloha_EDP_For_Unisex_100ml-Photoroom.png?v=1787720638",
-      "preview": [
-        {
-          "name": "Rayhaan Pacific Aloha EDP For Unisex 100ml",
-          "handle": "rayhaan-pacific-aloha-edp-for-unisex-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rayhaan_Pacific_Aloha_EDP_For_Unisex_100ml-Photoroom.png?v=1787720638",
-          "price": 101,
-          "badge": ""
-        },
-        {
-          "name": "Rayhaan Azul Eau De Parfum For Men - Aromatic Aquatic Perfume 100ml",
-          "handle": "rayhaan-azul-eau-de-parfum-for-men-aromatic-aquatic-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rayhaan_Azul_Eau_De_Parfum_For_Men_-_Aromatic_Aquatic_Perfume_100ml-Photoroom.png?v=1787486416",
-          "price": 81,
-          "badge": "SALE"
-        },
-        {
-          "name": "Rayhaan Pharaoh EDP For Unisex 100ml",
-          "handle": "rayhaan-pharaoh-edp-for-unisex-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rayhaan_Pharaoh_EDP_For_Unisex_100ml-Photoroom.png?v=1787754647",
-          "price": 101,
-          "badge": ""
-        },
-        {
-          "name": "Rayhaan Wolf Eau De Parfum For Men - Oriental Woody Perfume 100ml",
-          "handle": "rayhaan-wolf-eau-de-parfum-for-men-oriental-woody-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rayhaan_Wolf_Eau_De_Parfum_For_Men_-_Oriental_Woody_Perfume_100ml-Photoroom.png?v=1787489040",
-          "price": 101,
-          "badge": "SALE"
-        },
-        {
-          "name": "Rayhaan Nocturno Elixir Pour Homme Eau De Parfum For Men - Woody Amber Perfume 100ml",
-          "handle": "rayhaan-nocturno-elixir-pour-homme-eau-de-parfum-for-men-woody-amber-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rayhaan_Nocturno_Elixir_Pour_Homme_Eau_De_Parfum_For_Men_-_Woody_Amber_Perfume_100ml.jpg?v=1789110539",
-          "price": 101,
-          "badge": ""
-        },
-        {
-          "name": "Rayhaan Tonquin Giza EDP For Unisex 100ml",
-          "handle": "rayhaan-tonquin-giza-edp-for-unisex-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rayhaan_Tonquin_Giza_EDP_For_Unisex_100ml-resized-Photoroom.png?v=1787681621",
-          "price": 88,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Histoires de Parfums",
       "slug": "histoires-de-parfums",
       "count": 41,
@@ -6918,7 +6918,7 @@
         {
           "name": "Ex Nihilo Vesper Glitz Eau De Parfum For Unisex - Floral Woody Musk Perfume 50ml",
           "handle": "ex-nihilo-vesper-glitz-eau-de-parfum-for-unisex-floral-woody-musk-perfume-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/947089_1__79702.1700157275.jpg?v=1773591744",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/exxx-resized-Photoroom.png?v=1790432029",
           "price": 463,
           "badge": ""
         },
@@ -8075,14 +8075,14 @@
         {
           "name": "Rouge Smoking By Bdk Parfums Hair Perfume For Men And Women 50ml",
           "handle": "rouge-smoking-by-bdk-parfums-hair-perfume-for-men-and-women-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rougesmoking_1-Packshot-Nom-removebg-preview.png?v=1752762487",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rougesmoking_1-Packshot-Nom-removebg-preview-resized-Photoroom.png?v=1790422873",
           "price": 210,
           "badge": ""
         },
         {
           "name": "Gris Charnel By Bdk Parfums Hair Perfume For Men And Women 50ml",
           "handle": "gris-charnel-by-bdk-parfums-hair-perfume-for-men-and-women-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/grischarnel_1-Packshot-Nom-removebg-preview.png?v=1752759712",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/grischarnel_1-Packshot-Nom-removebg-preview-resized-Photoroom.png?v=1790426772",
           "price": 210,
           "badge": ""
         },
@@ -8206,12 +8206,12 @@
       "name": "FRANCK BOCLET",
       "slug": "franck-boclet",
       "count": 34,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/FranckBocletLeatherEDP100ml_51ef5e61-2118-4144-9974-27215861b5bc.jpg?v=1676532426",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/FranckBocletLeatherEDP100ml-resized-Photoroom_e6fa6635-7db3-483f-8ff4-977f38862966.png?v=1790445689",
       "preview": [
         {
           "name": "Franck Boclet Leather Perfume For Men EDP 100ml",
           "handle": "franck-boclet-leather-perfume-for-men-edp-100ml-1",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/FranckBocletLeatherEDP100ml_51ef5e61-2118-4144-9974-27215861b5bc.jpg?v=1676532426",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/FranckBocletLeatherEDP100ml-resized-Photoroom_e6fa6635-7db3-483f-8ff4-977f38862966.png?v=1790445689",
           "price": 244,
           "badge": ""
         },
@@ -8296,7 +8296,7 @@
         {
           "name": "Moncler Pour Homme Sunrise Shower Gel For Men 100ml",
           "handle": "moncler-pour-homme-sunrise-shower-gel-for-men-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/moclear-removebg-preview.png?v=1769361613",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/moclear-removebg-preview-resized-Photoroom.png?v=1790422974",
           "price": 57,
           "badge": ""
         }
@@ -9146,7 +9146,7 @@
         {
           "name": "Essential Orange X Santal Eau De Parfum For Unisex - Woody Perfume 100ml",
           "handle": "essential-orange-x-santal-eau-de-parfum-for-unisex-woody-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/essential-parfums-orange-x-santal-eau-de-parfum-405960243.jpg?v=1772600302",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/essential-parfums-orange-x-santal-eau-de-parfum-405960243-resized-Photoroom.png?v=1790432160",
           "price": 302,
           "badge": ""
         }
@@ -12396,7 +12396,7 @@
         {
           "name": "Bois 1920 Fondentarancio Extrait For Unisex 50ml",
           "handle": "bois-1920-fondentarancio-edp-for-unisex-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/fondarancio-50ml-jpg.webp?v=1717229173",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/boiss-resized-Photoroom.png?v=1790439217",
           "price": 430,
           "badge": "SALE"
         }
@@ -12906,12 +12906,12 @@
       "name": "BON PARFUMEUR",
       "slug": "bon-parfumeur",
       "count": 18,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/802peonylotusbamboo100ml.jpg?v=1756542760",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/802peonylotusbamboo100ml-resized-Photoroom.png?v=1790429439",
       "preview": [
         {
           "name": "Bon Parfumeur 802 Pivoine Lotus Bambou Perfume For Unisex EDP 100ml",
           "handle": "bon-parfumeur-802-pivoine-lotus-bambou-perfume-for-unisex-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/802peonylotusbamboo100ml.jpg?v=1756542760",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/802peonylotusbamboo100ml-resized-Photoroom.png?v=1790429439",
           "price": 219,
           "badge": ""
         },
@@ -14546,7 +14546,7 @@
         {
           "name": "Argos Triumph Of Bacchus Perfume For Unisex EDP 100ml",
           "handle": "argos-triumph-of-bacchus-perfume-for-unisex-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ArgosTriumphOfBacchus_U_Edp100Ml.jpg?v=1701174257",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ArgosTriumphOfBacchus_U_Edp100Ml-resized-Photoroom.png?v=1790428171",
           "price": 1084,
           "badge": ""
         }
@@ -15946,7 +15946,7 @@
         {
           "name": "Oscar J Athena Coll Zahav Edp For Men And Women Oriental Spicy 100ml",
           "handle": "oscar-j-athena-coll-zahav-edp-for-men-and-women-oriental-spicy-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/zahav.jpg?v=1758558051",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/zahav-resized-Photoroom.png?v=1790437525",
           "price": 121,
           "badge": ""
         }
@@ -16006,12 +16006,12 @@
       "name": "ARD AL KHALEEJ",
       "slug": "ard-al-khaleej",
       "count": 13,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/blue1-removebg-preview.png?v=1752077493",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/blue1-removebg-preview-resized-Photoroom.png?v=1790507575",
       "preview": [
         {
           "name": "Sheikh Zayed Private Blue By Ard Al Khaleej Perfume For Men Edp 80ml",
           "handle": "sheikh-zayed-private-blue-by-ard-al-khaleej-perfume-for-menedp-80ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/blue1-removebg-preview.png?v=1752077493",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/blue1-removebg-preview-resized-Photoroom.png?v=1790507575",
           "price": 84,
           "badge": ""
         },
@@ -16718,7 +16718,7 @@
         {
           "name": "El Ganso Like Father Like Son Eau de Toilette For Men Citrus 125ml",
           "handle": "el-ganso-like-father-like-son-eau-de-toilette-for-men-citrus-125ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/like.jpg?v=1774689126",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/like-resized_1_-Photoroom.png?v=1790444771",
           "price": 103,
           "badge": ""
         },
@@ -17597,7 +17597,7 @@
           "name": "Riiffs Momento Edp For Men And Women Sweet 100ml",
           "handle": "riiffs-momento-edp-for-men-and-women-sweet-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Riiffs_Momento_Edp_For_Men_And_Women_Sweet_100ml-Photoroom.png?v=1787483971",
-          "price": 113,
+          "price": 117,
           "badge": ""
         }
       ]
@@ -18682,7 +18682,7 @@
         {
           "name": "Christian Louboutin Loubiraj For Women EDP 90ml",
           "handle": "christian-louboutin-loubiraj-for-women-edp-90ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/8435415034746_2.jpg?v=1728456295",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/sord-resized-Photoroom_b09440a2-7aea-463f-9585-ea8dbbfc9dac.png?v=1790427012",
           "price": 522,
           "badge": ""
         },
@@ -19312,7 +19312,7 @@
           "name": "Asdaaf Ameerat Al Arab Prive Rose Perfume For Women EDP 100ml",
           "handle": "asdaaf-ameerat-al-arab-prive-rose-perfume-for-women-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Asdaaf_Ameerat_Al_Arab_Prive_Rose_Perfume_For_Women_EDP_100ml-Photoroom.png?v=1787755673",
-          "price": 42.66,
+          "price": 48,
           "badge": "SALE"
         },
         {
@@ -20696,7 +20696,7 @@
         {
           "name": "Ceremonie By Anomalia Perfume For Men And Women Edp 70ml",
           "handle": "ceremonie-by-anomalia-perfume-for-men-and-women-edp-70ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Ceremonie-Eau-de-Parfum-70ml_720x_30aea847-bc74-447c-af1e-1771e4d4960a.webp?v=1751382446",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Ceremonie-Eau-de-Parfum-70ml_720x_30aea847-bc74-447c-af1e-1771e4d4960a-resized-Photoroom.png?v=1790502967",
           "price": 690,
           "badge": ""
         }
@@ -24321,12 +24321,12 @@
       "name": "BUGATTI",
       "slug": "bugatti",
       "count": 5,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/moveblue.jpg?v=1764956028",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/moveblue-resized-Photoroom.png?v=1790439541",
       "preview": [
         {
           "name": "Bugatti Dynamic Move Blue Eau de Toilette For Men Fresh 100ml",
           "handle": "bugatti-dynamic-move-blue-eau-de-toilette-for-men-fresh-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/moveblue.jpg?v=1764956028",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/moveblue-resized-Photoroom.png?v=1790439541",
           "price": 101,
           "badge": ""
         },
@@ -29509,12 +29509,12 @@
       "name": "dumont",
       "slug": "dumont",
       "count": 2,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/s-l1600_9135024c-c7da-4068-954c-33ce71b9a3df.webp?v=1777725524",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/int-resized-Photoroom.png?v=1790437225",
       "preview": [
         {
           "name": "Dumont Nitro White Pour Homme Eau De Parfum For Men - Leather Perfume 100ml",
           "handle": "dumont-nitro-white-pour-homme-eau-de-parfum-for-men-leather-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/s-l1600_9135024c-c7da-4068-954c-33ce71b9a3df.webp?v=1777725524",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/int-resized-Photoroom.png?v=1790437225",
           "price": 126,
           "badge": ""
         },
@@ -29531,12 +29531,12 @@
       "name": "Topman",
       "slug": "topman",
       "count": 2,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/purple_63b4b679-24db-431c-9b04-69a729f41a21.webp?v=1777548457",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/purple_63b4b679-24db-431c-9b04-69a729f41a21-Photoroom.png?v=1790429946",
       "preview": [
         {
           "name": "Topman Bergamot Edt For Men Citrus 100ml",
           "handle": "topman-bergamot-edt-for-men-citrus-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/purple_63b4b679-24db-431c-9b04-69a729f41a21.webp?v=1777548457",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/purple_63b4b679-24db-431c-9b04-69a729f41a21-Photoroom.png?v=1790429946",
           "price": 50,
           "badge": ""
         },
@@ -31226,12 +31226,12 @@
       "name": "Jacq's",
       "slug": "jacqs",
       "count": 1,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ecaqaa.avif?v=1777378670",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/jac-resized-Photoroom.png?v=1790429723",
       "preview": [
         {
           "name": "Jacq's Pour Homme Edc Splash For Men Aromatic 200ml",
           "handle": "jacqs-pour-homme-edc-splash-for-men-aromatic-200ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ecaqaa.avif?v=1777378670",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/jac-resized-Photoroom.png?v=1790429723",
           "price": 57,
           "badge": ""
         }
@@ -32696,12 +32696,12 @@
       "name": "Cigar Black",
       "slug": "cigar-black",
       "count": 1,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/cigar_black_wood_men_edt_100_ml.jpg?v=1624508419",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cigar_black_wood_men_edt_100_ml-resized-Photoroom.png?v=1790431867",
       "preview": [
         {
           "name": "Cigar Black Wood Men EDT 100 ml",
           "handle": "cigar-black-wood-men-edt-100-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/cigar_black_wood_men_edt_100_ml.jpg?v=1624508419",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cigar_black_wood_men_edt_100_ml-resized-Photoroom.png?v=1790431867",
           "price": 54,
           "badge": ""
         }
