@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-09-27T19:36:24.990Z",
+  "generated_at": "2026-09-28T07:23:43.239Z",
   "total_brands": 887,
   "brands": [
     {
       "name": "Amazing Creation",
       "slug": "amazing-creation",
-      "count": 1117,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Insolance_Perfume_For_Women_EDP_PFB-110_50ml_1.1.png?v=1789043114",
+      "count": 1119,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Grey_Vetiver_Perfume_For_Men_EDP_50ml_PFB-516_1.png?v=1788500758",
       "preview": [
+        {
+          "name": "Amazing Creation Grey Vetiver Perfume For Men EDP 50ml PFB-516",
+          "handle": "amazing-creation-grey-vetiver-perfume-for-men-edp-50ml-pfb-516",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Grey_Vetiver_Perfume_For_Men_EDP_50ml_PFB-516_1.png?v=1788500758",
+          "price": 55,
+          "badge": ""
+        },
+        {
+          "name": "Amazing Creation Grey Vetiver Perfume For Men EDP 50ml PFB-516",
+          "handle": "amazing-creation-grey-vetiver-perfume-for-men-edp-50ml-pfb-516",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Grey_Vetiver_Perfume_For_Men_EDP_50ml_PFB-516_1.png?v=1788500758",
+          "price": 95,
+          "badge": ""
+        },
         {
           "name": "Amazing Creation Insolance Perfume For Women EDP PFB-110 50ml",
           "handle": "amazing-creation-insolance-perfume-for-women-edp-pfb-110-50ml",
@@ -33,20 +47,6 @@
           "name": "Amazing Creation Sindbad Perfume For Unisex EDP PFB-515",
           "handle": "amazing-creation-sindbad-perfume-for-unisex-edp-pfb-515",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Sindbad_Perfume_For_Unisex_EDP_100ml_PFB-515.png?v=1787394011",
-          "price": 95,
-          "badge": ""
-        },
-        {
-          "name": "Amazing Creation Oud Save The King Perfume For Unisex EDP PFB-514",
-          "handle": "amazing-creation-oud-save-the-king-perfume-for-unisex-edp-pfb-514",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Oud_Save_The_King_Perfume_For_Unisex_EDP_100ml_PFB-514.png?v=1787393738",
-          "price": 55,
-          "badge": ""
-        },
-        {
-          "name": "Amazing Creation Oud Save The King Perfume For Unisex EDP PFB-514",
-          "handle": "amazing-creation-oud-save-the-king-perfume-for-unisex-edp-pfb-514",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Oud_Save_The_King_Perfume_For_Unisex_EDP_100ml_PFB-514.png?v=1787393738",
           "price": 95,
           "badge": ""
         }
@@ -2653,56 +2653,6 @@
       ]
     },
     {
-      "name": "Loewe",
-      "slug": "loewe",
-      "count": 123,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LW75671_1.webp?v=1781703360",
-      "preview": [
-        {
-          "name": "Loewe Earth Eau De Parfum For Unisex-Chypre Floral Perfume 100ml",
-          "handle": "loewe-earth-eau-de-parfum-for-unisex-chypre-floral-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LW75671_1.webp?v=1781703360",
-          "price": 473,
-          "badge": ""
-        },
-        {
-          "name": "Loewe Solo Vulcan Pour Homme Edp For Men Woody 100ml",
-          "handle": "loewe-solo-vulcan-pour-homme-edp-for-men-woody-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/vulc.jpg?v=1765302245",
-          "price": 455,
-          "badge": ""
-        },
-        {
-          "name": "Loewe Solo Mercurio Pour Homme Edp For Men Aromatic 50ml",
-          "handle": "loewe-solo-mercurio-pour-homme-edp-for-men-aromatic-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/meri.png?v=1765301696",
-          "price": 273,
-          "badge": ""
-        },
-        {
-          "name": "Loewe Solo Esencial Eau de Toilette For Men Woody 100 ml",
-          "handle": "loewe-solo-esencial-eau-de-toilette-for-men-woody-100-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/loe.avif?v=1765104387",
-          "price": 355,
-          "badge": ""
-        },
-        {
-          "name": "Mini Loewe Aura For Women EDP 5ml",
-          "handle": "mini-loewe-aura-for-women-edp-5ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/8426017039598_1.jpg?v=1742152865",
-          "price": 44,
-          "badge": ""
-        },
-        {
-          "name": "Loewe Un Paseo Por Madrid Primavera En El Mercado De San Miguel For Unisex EDP 100ml",
-          "handle": "loewe-un-paseo-por-madrid-primavera-en-el-mercado-de-san-miguel-for-unisex-edp-100ml-1",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/8426017072779_1.jpg?v=1740551306",
-          "price": 595,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Mercedes- Benz",
       "slug": "mercedes-benz",
       "count": 122,
@@ -2748,6 +2698,56 @@
           "handle": "mercedes-benz-club-black-for-men-gift-set-for-men",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/MERCEDESBENZBLACKSET-resized-Photoroom.png?v=1789548235",
           "price": 200,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Loewe",
+      "slug": "loewe",
+      "count": 122,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LW75671_1.webp?v=1781703360",
+      "preview": [
+        {
+          "name": "Loewe Earth Eau De Parfum For Unisex-Chypre Floral Perfume 100ml",
+          "handle": "loewe-earth-eau-de-parfum-for-unisex-chypre-floral-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LW75671_1.webp?v=1781703360",
+          "price": 473,
+          "badge": ""
+        },
+        {
+          "name": "Loewe Solo Vulcan Pour Homme Edp For Men Woody 100ml",
+          "handle": "loewe-solo-vulcan-pour-homme-edp-for-men-woody-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/vulc.jpg?v=1765302245",
+          "price": 455,
+          "badge": ""
+        },
+        {
+          "name": "Loewe Solo Mercurio Pour Homme Edp For Men Aromatic 50ml",
+          "handle": "loewe-solo-mercurio-pour-homme-edp-for-men-aromatic-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/meri.png?v=1765301696",
+          "price": 273,
+          "badge": ""
+        },
+        {
+          "name": "Loewe Solo Esencial Eau de Toilette For Men Woody 100 ml",
+          "handle": "loewe-solo-esencial-eau-de-toilette-for-men-woody-100-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/loe.avif?v=1765104387",
+          "price": 355,
+          "badge": ""
+        },
+        {
+          "name": "Mini Loewe Aura For Women EDP 5ml",
+          "handle": "mini-loewe-aura-for-women-edp-5ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/8426017039598_1.jpg?v=1742152865",
+          "price": 44,
+          "badge": ""
+        },
+        {
+          "name": "Loewe Un Paseo Por Madrid Primavera En El Mercado De San Miguel For Unisex EDP 100ml",
+          "handle": "loewe-un-paseo-por-madrid-primavera-en-el-mercado-de-san-miguel-for-unisex-edp-100ml-1",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/8426017072779_1.jpg?v=1740551306",
+          "price": 595,
           "badge": ""
         }
       ]
@@ -21289,7 +21289,7 @@
         {
           "name": "Nissan Patrol , Perfume for Men, EDP 100ml",
           "handle": "nissan-patrol-perfume-for-men-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/new_patrol_box_bottle.jpg?v=1633068110",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/patrol_box_bottle-resized-Photoroom.png?v=1790542868",
           "price": 43,
           "badge": "SALE"
         },
@@ -30093,7 +30093,7 @@
         {
           "name": "Christine Darvin Lexus Perfume For Men, EDT 100 ml",
           "handle": "christine-darvin-lexus-perfume-for-men-edt-100-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/3243653433093.jpg?v=1624516336",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/lex-resized-Photoroom.png?v=1790564196",
           "price": 49,
           "badge": "SALE"
         }
