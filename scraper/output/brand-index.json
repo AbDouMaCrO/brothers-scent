@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T08:56:50.497Z",
+  "generated_at": "2026-09-30T20:36:49.500Z",
   "total_brands": 887,
   "brands": [
     {
@@ -2125,7 +2125,7 @@
         {
           "name": "Gift Set By Victoria Secret For Women And Men",
           "handle": "gift-set-by-victoria-secret-for-women",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/victoriasecret.webp?v=1752413073",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/victoria-resized-Photoroom.png?v=1790793111",
           "price": 114,
           "badge": "SALE"
         },
@@ -2525,7 +2525,7 @@
         {
           "name": "Issey Miyake Noir Ambre Eau De Parfum For Men - Oriental Perfume 100ml",
           "handle": "issey-miyake-noir-ambre-eau-de-parfum-for-men-oriental-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/AC3423474884957-1.jpg?v=1766424301",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/poo-resized-Photoroom.png?v=1790795942",
           "price": 328,
           "badge": ""
         },
@@ -3668,7 +3668,7 @@
         {
           "name": "Khadlaj  Island Extrait de Parfum For Unisex 100ml",
           "handle": "khadlaj-island-extrait-de-parfum-for-unisex-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Khadlaj_Island_Extrait_de_Parfum_For_Unisex_100ml.jpg?v=1749805144",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Khadlaj_Island_Extrait_de_Parfum_For_Unisex_100ml-resized-Photoroom.png?v=1790791493",
           "price": 150,
           "badge": ""
         },
@@ -4540,7 +4540,7 @@
           "name": "Ahmed Al Maghribi Kaaf Noir Perfume For Unisex EDP 100ml",
           "handle": "ahmed-al-maghribi-kaaf-noir-perfume-for-unisex-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Ahmed_Al_Maghribi_Kaaf_Noir_Perfume_For_Unisex_EDP_100ml-Photoroom.png?v=1787489811",
-          "price": 99,
+          "price": 101,
           "badge": "SALE"
         },
         {
@@ -4853,56 +4853,6 @@
       ]
     },
     {
-      "name": "Lanvin",
-      "slug": "lanvin",
-      "count": 66,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460151795_1.jpg?v=1732739513",
-      "preview": [
-        {
-          "name": "Lanvin Modern Princess In Jeans For Women EDP 90ml",
-          "handle": "lanvin-modern-princess-in-jeans-for-women-edp-90ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460151795_1.jpg?v=1732739513",
-          "price": 126,
-          "badge": ""
-        },
-        {
-          "name": "Lanvin Modern Princess In Jeans For Women EDP 60ml",
-          "handle": "lanvin-modern-princess-in-jeans-for-women-edp-60ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460151801_1.jpg?v=1732738401",
-          "price": 146,
-          "badge": ""
-        },
-        {
-          "name": "Lanvin Modern Princess In Jeans For Women EDP 30ml",
-          "handle": "lanvin-modern-princess-in-jeans-for-women-edp-30ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460151818.jpg?v=1732738124",
-          "price": 81,
-          "badge": ""
-        },
-        {
-          "name": "Lanvin A Girl In Capri For Women EDT 30ml",
-          "handle": "lanvin-a-girl-in-capri-for-women-edt-30ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460103671.jpg?v=1732375122",
-          "price": 59,
-          "badge": ""
-        },
-        {
-          "name": "Lanvin Les Fleurs De Sweet Jasmine For Women EDT 90ml",
-          "handle": "lanvin-les-fleurs-de-sweet-jasmine-for-women-edt-90ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/les-resized-Photoroom_b4b4d3f6-e537-40d6-81c9-fb02dd39f18d.png?v=1789491973",
-          "price": 93,
-          "badge": ""
-        },
-        {
-          "name": "Lanvin Les Fleurs De Sweet Jasmine For Women EDT 50ml",
-          "handle": "lanvin-les-fleurs-de-sweet-jasmine-for-women-edt-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460142922.jpg?v=1730137714",
-          "price": 79,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Roberto Cavalli",
       "slug": "roberto-cavalli",
       "count": 64,
@@ -4948,6 +4898,56 @@
           "handle": "roberto-cavalli-paradiso-assoluto-eau-de-parfum-for-women-chypre-floral-perfume-75ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/roooo-resized-Photoroom.png?v=1790690738",
           "price": 136,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Lanvin",
+      "slug": "lanvin",
+      "count": 64,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460151795_1.jpg?v=1732739513",
+      "preview": [
+        {
+          "name": "Lanvin Modern Princess In Jeans For Women EDP 90ml",
+          "handle": "lanvin-modern-princess-in-jeans-for-women-edp-90ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460151795_1.jpg?v=1732739513",
+          "price": 126,
+          "badge": ""
+        },
+        {
+          "name": "Lanvin Modern Princess In Jeans For Women EDP 60ml",
+          "handle": "lanvin-modern-princess-in-jeans-for-women-edp-60ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460151801_1.jpg?v=1732738401",
+          "price": 146,
+          "badge": ""
+        },
+        {
+          "name": "Lanvin Modern Princess In Jeans For Women EDP 30ml",
+          "handle": "lanvin-modern-princess-in-jeans-for-women-edp-30ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460151818.jpg?v=1732738124",
+          "price": 81,
+          "badge": ""
+        },
+        {
+          "name": "Lanvin A Girl In Capri For Women EDT 30ml",
+          "handle": "lanvin-a-girl-in-capri-for-women-edt-30ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460103671.jpg?v=1732375122",
+          "price": 59,
+          "badge": ""
+        },
+        {
+          "name": "Lanvin Les Fleurs De Sweet Jasmine For Women EDT 90ml",
+          "handle": "lanvin-les-fleurs-de-sweet-jasmine-for-women-edt-90ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/les-resized-Photoroom_b4b4d3f6-e537-40d6-81c9-fb02dd39f18d.png?v=1789491973",
+          "price": 93,
+          "badge": ""
+        },
+        {
+          "name": "Lanvin Les Fleurs De Sweet Jasmine For Women EDT 50ml",
+          "handle": "lanvin-les-fleurs-de-sweet-jasmine-for-women-edt-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460142922.jpg?v=1730137714",
+          "price": 79,
           "badge": ""
         }
       ]
@@ -5568,7 +5568,7 @@
         {
           "name": "Sisley L'Eau Revee D'Ikar Eau De Toilette For Unisex - Woody Aromatic Perfume 100ml",
           "handle": "sisley-leau-revee-dikar-eau-de-toilette-for-unisex-woody-aromatic-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/5696df6b22de6b401e448bf57a59fff1.jpg?v=1758369247",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/DD-resized-Photoroom.png?v=1790768640",
           "price": 355,
           "badge": ""
         },
@@ -6818,7 +6818,7 @@
         {
           "name": "Escada Brisa Cubana Limited Edition Perfume For Women EDT 100ml",
           "handle": "escada-brisa-cubana-limited-edition-perfume-for-women-edt-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616304203572_20240126093719.jpg?v=1751651809",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/caa-resized_1_-Photoroom.png?v=1790763327",
           "price": 140,
           "badge": ""
         },
@@ -8832,14 +8832,14 @@
         {
           "name": "Al Rehab Caramello EDP For Unisex 50ml",
           "handle": "al-rehab-caramello-edp-for-unisex-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Al_Rehab_Caramello_EDP_For_Unisex_50ml.jpg?v=1763197552",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/CAR-resized-Photoroom_30038bfd-2895-4168-b550-80b1ea9463e7.png?v=1790773844",
           "price": 13,
           "badge": "SALE"
         },
         {
           "name": "Al Rehab Choco Musk Pistachio EDP For Unisex 50ml",
           "handle": "al-rehab-choco-musk-pistachio-edp-for-unisex-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Al_Rehab_Choco_Musk_Pistachio_EDP_For_Unisex_50ml.jpg?v=1763197225",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Al_Rehab_Choco_Musk_Marshmallow_Perfume_For_Unisex_EDP_50ml-Photoroom-resized-Photoroom.png?v=1790780657",
           "price": 15,
           "badge": "SALE"
         },
@@ -10782,7 +10782,7 @@
         {
           "name": "Mizensir Coeur De Cologne Eau De Parfum For Unisex - Citrus Perfume 100ml",
           "handle": "mizensir-coeur-de-cologne-eau-de-parfum-for-unisex-citrus-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/2048x2048_0000s_0002s_0018_CoeurdeCologne2_davidriss_png_2048x_e4a1e4ab-bc0d-4eee-834d-1984a8707109.jpg?v=1757928470",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/MIZE-resized-Photoroom.png?v=1790766766",
           "price": 418,
           "badge": ""
         },
@@ -10918,7 +10918,7 @@
         {
           "name": "Misnad Dukhoon Oud Al Yas 70g",
           "handle": "misnad-dukhoon-oud-al-yas-70g",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Misnad_Dukhoon_Oud_Al_Yas_70g.webp?v=1750059496",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Misnad_Dukhoon_Oud_Al_Yas_70g-resized-Photoroom.png?v=1790785164",
           "price": 40,
           "badge": ""
         },
@@ -10939,7 +10939,7 @@
         {
           "name": "Misnad Bakhoor Amna 55g",
           "handle": "misnad-bakhoor-amna-55g",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Misnad_Bakhoor_Amna...jpg?v=1750426882",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Misnad_Bakhoor_Amna-resized-Photoroom.png?v=1790796759",
           "price": 30,
           "badge": ""
         },
@@ -13556,12 +13556,12 @@
       "name": "Surrati",
       "slug": "surrati",
       "count": 17,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Surrati_Al_Ward_Al_Taifi_Eau_De_Cologne_For_Unisex_250ml.jpg?v=1760700798",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Surrati_Al_Ward_Al_Taifi_Eau_De_Cologne_For_Unisex_250ml-Photoroom.png?v=1790796171",
       "preview": [
         {
           "name": "Surrati Al Ward Al Taifi Eau De Cologne For Unisex 250ml",
           "handle": "surrati-al-ward-al-taifi-eau-de-cologne-for-unisex-250ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Surrati_Al_Ward_Al_Taifi_Eau_De_Cologne_For_Unisex_250ml.jpg?v=1760700798",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Surrati_Al_Ward_Al_Taifi_Eau_De_Cologne_For_Unisex_250ml-Photoroom.png?v=1790796171",
           "price": 17,
           "badge": ""
         },
@@ -13656,12 +13656,12 @@
       "name": "Kate Spade",
       "slug": "kate-spade",
       "count": 17,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bL0IwGY9tk--1139739_1.jpg?v=1748350772",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/KATE-resized-Photoroom.png?v=1790768518",
       "preview": [
         {
           "name": "Kate Spade Bloom Perfume For Women EDT 60ml",
           "handle": "kate-spade-bloom-perfume-for-women-edt-60ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bL0IwGY9tk--1139739_1.jpg?v=1748350772",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/KATE-resized-Photoroom.png?v=1790768518",
           "price": 116,
           "badge": ""
         },
@@ -15875,7 +15875,7 @@
         {
           "name": "Akro Breathe Eau De Parfum For Unisex - Aromatic Aquatic Perfume 100ml",
           "handle": "akro-breathe-eau-de-parfum-for-unisex-aromatic-aquatic-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/AK-OVERLAY-TEXTURE-WEBSITE-BREATHE_2048x_661dacc5-90e9-4407-87e0-66fd0943bf57.jpg?v=1766597996",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/AK-OVERLAY-TEXTURE-WEBSITE-BREATHE_2048x_661dacc5-90e9-4407-87e0-66fd0943bf57-resized-Photoroom.png?v=1790766885",
           "price": 426,
           "badge": ""
         },
@@ -19325,7 +19325,7 @@
         {
           "name": "Asdaaf Ameerat Al Arab (Red) Hair Mist 50ml Spray For Unisex",
           "handle": "asdaaf-ameerat-al-arab-red-hair-mist-50ml-spray-for-unisex",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/30Ameerat-Al-Arab-Parfum-Cheveux-Asdaaf-2.jpg?v=1711942031",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/30Ameerat-Al-Arab-Parfum-Cheveux-Asdaaf-1-resized-Photoroom.png?v=1790787668",
           "price": 32,
           "badge": "SALE"
         },
@@ -19339,7 +19339,7 @@
         {
           "name": "Asdaaf Ameerat Al Arab Air Freshener 300ml",
           "handle": "asdaaf-ameerat-al-arab-air-freshener-300ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/6291108733929.jpg?v=1719309863",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/AIR-resized-Photoroom_75f23af7-426b-4ef6-8d45-aa57a37879ac.png?v=1790772033",
           "price": 12,
           "badge": ""
         },
@@ -20625,7 +20625,7 @@
         {
           "name": "Lovers In Pink By Cherigan Perfume For Men And Women Edp 100ml",
           "handle": "lovers-in-pink-by-cherigan-perfume-for-men-and-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/pink.webp?v=1752856333",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/pink-resized-Photoroom_94807078-fe2a-4f87-9b6b-3fe3d0335cdf.png?v=1790774714",
           "price": 355,
           "badge": ""
         },
@@ -21539,7 +21539,7 @@
         {
           "name": "Gisada Ambassador Intense Eau De Parfum For Men -Aromatic Fougere Perfume 100ml",
           "handle": "gisada-ambassador-intense-eau-de-parfum-for-men-aromatic-fougere-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/shop-pf-03599-02-ambassador-intense-edp---100ml--1.jpg?v=1766843496",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/GIS-resized-Photoroom.png?v=1790767934",
           "price": 396,
           "badge": ""
         },
@@ -22896,7 +22896,7 @@
         {
           "name": "Nikos Sculpture Perfume For Men Parfum 100ml",
           "handle": "nikos-sculpture-perfume-for-men-parfum-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/NikosSculpture_M_Parfum100Ml.webp?v=1682520630",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/NikosSculpture_M_Parfum100Ml-resized-Photoroom.png?v=1790779105",
           "price": 236,
           "badge": "SALE"
         }
@@ -23156,12 +23156,12 @@
       "name": "Philipp Plein",
       "slug": "philipp-plein",
       "count": 6,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/PhilippPleinPleinFataleRoseEdp90ml_b0458dd4-839f-465c-ab23-7cb0fee53b33.jpg?v=1717658440",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/PhilippPleinPleinFataleRoseEdp90ml_b0458dd4-839f-465c-ab23-7cb0fee53b33-resized-Photoroom.png?v=1790763078",
       "preview": [
         {
           "name": "Philipp Plein Plein Fatale Rose Perfume For Women EDP 90ml",
           "handle": "philipp-plein-plein-fatale-rose-perfume-for-women-edp-90ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/PhilippPleinPleinFataleRoseEdp90ml_b0458dd4-839f-465c-ab23-7cb0fee53b33.jpg?v=1717658440",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/PhilippPleinPleinFataleRoseEdp90ml_b0458dd4-839f-465c-ab23-7cb0fee53b33-resized-Photoroom.png?v=1790763078",
           "price": 278,
           "badge": ""
         },
@@ -26378,7 +26378,7 @@
         {
           "name": "Remy Latour Cigar EDT 100 ml",
           "handle": "remy-latour-cigar-edt-100-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/cigar_edt_100_ml.jpg?v=1633067094",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cigar-resized-Photoroom.png?v=1790771569",
           "price": 84,
           "badge": "SALE"
         },
@@ -27868,6 +27868,35 @@
       ]
     },
     {
+      "name": "Maison Asrar",
+      "slug": "maison-asrar",
+      "count": 3,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/maison-asrar-majesty-eau-de-parfum-100ml-spray-p83994-38837_zoom-resized-Photoroom.png?v=1790791087",
+      "preview": [
+        {
+          "name": "Maison Asrar Majesty Eau De Parfum For unisex -  Citrus Aromatic Perfume 100ml",
+          "handle": "maison-asrar-majesty-eau-de-parfum-for-unisex-citrus-aromatic-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/maison-asrar-majesty-eau-de-parfum-100ml-spray-p83994-38837_zoom-resized-Photoroom.png?v=1790791087",
+          "price": 145,
+          "badge": ""
+        },
+        {
+          "name": "Maison Asrar Wadi Eau De Parfum For Unisex - Oriental Fougere Perfume 100ml",
+          "handle": "maison-asrar-wadi-eau-de-parfum-for-unisex-oriental-fougere-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Wadi_Maison_Asrar_Perfumes_White_Backgroud_Picture-resized-Photoroom.png?v=1790784722",
+          "price": 84,
+          "badge": ""
+        },
+        {
+          "name": "Maison Asrar Vision Eau De Parfum For Unisex  - Citrus Aromatic Perfume 100ml",
+          "handle": "maison-asrar-vision-eau-de-parfum-for-unisex-citrus-aromatic-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/vision-eau-de-parfum-100ml-by-maison-asrar-unisex-perfume-edp-100ml-maison-asrar-310380-1208304966-resized-Photoroom.png?v=1790696060",
+          "price": 182,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "killian",
       "slug": "killian",
       "count": 3,
@@ -28248,26 +28277,26 @@
       "name": "Luisa",
       "slug": "luisa",
       "count": 3,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LuisaYaAmarEDPForUnisex50ml-1.jpg?v=1731395562",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/AMAR-resized-Photoroom.png?v=1790769070",
       "preview": [
         {
           "name": "Luisa Ya Amar EDP For Unisex 50ml",
           "handle": "luisa-ya-amar-edp-for-unisex-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LuisaYaAmarEDPForUnisex50ml-1.jpg?v=1731395562",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/AMAR-resized-Photoroom.png?v=1790769070",
           "price": 275,
           "badge": "SALE"
         },
         {
           "name": "Luisa Vanilla Arabia EDP For Unisex 50ml",
           "handle": "luisa-vanilla-arabia-edp-for-unisex-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LuisaVanillaArabiaEDPForUnisex50ml-1.jpg?v=1731395006",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/222-resized-Photoroom.png?v=1790769198",
           "price": 275,
           "badge": "SALE"
         },
         {
           "name": "Luisa Ayuni EDP For Unisex 50ml",
           "handle": "luisa-ayuni-edp-for-unisex-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LuisaAyuniEDPForUnisex50ml-3.jpg?v=1731393789",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/AY-resized-Photoroom.png?v=1790769312",
           "price": 275,
           "badge": "SALE"
         }
@@ -31123,21 +31152,6 @@
           "handle": "fleur-de-grasse-baccarat-perfume-for-unisex-edp-50ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/fleur-dg-baccart-1.jpg?v=1624400134",
           "price": 46,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Maison Asrar",
-      "slug": "maison-asrar",
-      "count": 1,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/vision-eau-de-parfum-100ml-by-maison-asrar-unisex-perfume-edp-100ml-maison-asrar-310380-1208304966-resized-Photoroom.png?v=1790696060",
-      "preview": [
-        {
-          "name": "Maison Asrar Vision Eau De Parfum For Unisex  - Citrus Aromatic Perfume 100ml",
-          "handle": "maison-asrar-vision-eau-de-parfum-for-unisex-citrus-aromatic-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/vision-eau-de-parfum-100ml-by-maison-asrar-unisex-perfume-edp-100ml-maison-asrar-310380-1208304966-resized-Photoroom.png?v=1790696060",
-          "price": 182,
           "badge": ""
         }
       ]
