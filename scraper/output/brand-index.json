@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T20:36:49.500Z",
+  "generated_at": "2026-10-01T13:48:20.032Z",
   "total_brands": 887,
   "brands": [
     {
@@ -1205,16 +1205,9 @@
     {
       "name": "Hugo Boss",
       "slug": "hugo-boss",
-      "count": 207,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/boss-removebg-preview.png?v=1785049324",
+      "count": 206,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/boss-bottled-edt-200ml-deo-stick-75ml-36993.jpg?v=1782453053",
       "preview": [
-        {
-          "name": "Hugo Boss Bottled Beyond Shower Gel, Leather Fragrance For Men 50ml",
-          "handle": "hugo-boss-bottled-beyond-shower-gel-for-men-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/boss-removebg-preview.png?v=1785049324",
-          "price": 16,
-          "badge": ""
-        },
         {
           "name": "Hugo Boss Bottled Gift Set For Men",
           "handle": "hugo-boss-bottled-gift-set-for-men-4",
@@ -1247,6 +1240,13 @@
           "name": "Hugo Boss The Scent Eau De Toilette For Men-Aromatic Spicy  Perfume 200ml Refill",
           "handle": "hugo-boss-the-scent-eau-de-toilette-for-men-aromatic-spicy-perfume-200ml-refill",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616305040824.jpg?v=1782387239",
+          "price": 222,
+          "badge": ""
+        },
+        {
+          "name": "Hugo Boss Superman X Hugo Eau De Parfum For Men-Citrus Aromatic Perfume 125ml",
+          "handle": "hugo-boss-superman-x-hugo-eau-de-parfum-for-men-citrus-aromatic-perfume-125ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/sss-resized-Photoroom.png?v=1787608473",
           "price": 222,
           "badge": ""
         }
@@ -3696,7 +3696,7 @@
         {
           "name": "Khadlaj Gaith EDP For Men 100ml",
           "handle": "khadlaj-gaith-edp-for-men-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Khadlaj_Gaith_EDP_For_Men_100ml.jpg?v=1749801844",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Khadlaj_Gaith_EDP_For_Men_100ml-resized-Photoroom.png?v=1790853394",
           "price": 85,
           "badge": ""
         }
@@ -4540,7 +4540,7 @@
           "name": "Ahmed Al Maghribi Kaaf Noir Perfume For Unisex EDP 100ml",
           "handle": "ahmed-al-maghribi-kaaf-noir-perfume-for-unisex-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Ahmed_Al_Maghribi_Kaaf_Noir_Perfume_For_Unisex_EDP_100ml-Photoroom.png?v=1787489811",
-          "price": 101,
+          "price": 107,
           "badge": "SALE"
         },
         {
@@ -9496,7 +9496,7 @@
         {
           "name": "Arabiyat Prestige Safa Eau De Parfum For Women - Floral Fruity Gourmand Perfume 100ml",
           "handle": "arabiyat-prestige-safa-eau-de-parfum-for-women-floral-fruity-gourmand-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Arabiyat_Prestige_Safa.avif?v=1769588256",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/safa-resized-Photoroom.png?v=1790856145",
           "price": 155,
           "badge": ""
         }
@@ -14846,7 +14846,7 @@
         {
           "name": "Guy laroche Drakkar Noir Deo For Men 150ml",
           "handle": "guy-laroche-drakkar-noir-deo-for-men-150ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/GuylarocheDrakkarNoirMDeo150ml.jpg?v=1648978291",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/GuylarocheDrakkarNoirMDeo150ml-resized-Photoroom.png?v=1790856986",
           "price": 32,
           "badge": ""
         }
@@ -20668,7 +20668,7 @@
         {
           "name": "Sahara 4800 By Anomalia Perfume For Men And Women EDP 70ml",
           "handle": "sahara-4800-by-anomalia-perfume-for-men-and-women-edp-70ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/SaharaAngle.webp?v=1751387513",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/SaharaAngle-resized-Photoroom.png?v=1790850462",
           "price": 690,
           "badge": ""
         },
@@ -21296,7 +21296,7 @@
         {
           "name": "Nissan GTR , Perfume for Men, EDP 100ML",
           "handle": "nissan-gtr-perfume-for-men-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/new_gtr_box_bottle.jpg?v=1624405375",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/new_gtr_box_bottle-resized-Photoroom.png?v=1790859326",
           "price": 43,
           "badge": "SALE"
         }
@@ -21718,7 +21718,7 @@
         {
           "name": "Just Jack 1 Superiore For Unisex EDP 100ml",
           "handle": "just-jack-1-superiore-for-unisex-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/6294015139891_1.jpg?v=1740549589",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/superr-Photoroom.png?v=1790852863",
           "price": 57,
           "badge": ""
         },
@@ -22868,7 +22868,7 @@
         {
           "name": "Voyage en Orient Sculpture By Nikos Perfume For Women Edp 100ml",
           "handle": "sculpture-voyage-en-orient-by-nikos-perfume-for-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Voyage_en_Orient_Sculpture_By_Nikos_Perfume_For_Women_Edp_100ml.jpg?v=1754130181",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/1111111-resized-Photoroom.png?v=1790805466",
           "price": 257,
           "badge": "SALE"
         },
@@ -25816,6 +25816,42 @@
       ]
     },
     {
+      "name": "Maison Asrar",
+      "slug": "maison-asrar",
+      "count": 4,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/legacy-resized_1_-Photoroom.png?v=1790803637",
+      "preview": [
+        {
+          "name": "Maison Asrar Royal Collection Legacy Edp For Men And Women Aromatic 100ml",
+          "handle": "maison-asrar-royal-collection-legacy-edp-for-men-and-women-aromatic-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/legacy-resized_1_-Photoroom.png?v=1790803637",
+          "price": 145,
+          "badge": ""
+        },
+        {
+          "name": "Maison Asrar Majesty Eau De Parfum For unisex -  Citrus Aromatic Perfume 100ml",
+          "handle": "maison-asrar-majesty-eau-de-parfum-for-unisex-citrus-aromatic-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/maison-asrar-majesty-eau-de-parfum-100ml-spray-p83994-38837_zoom-resized-Photoroom.png?v=1790791087",
+          "price": 145,
+          "badge": ""
+        },
+        {
+          "name": "Maison Asrar Wadi Eau De Parfum For Unisex - Oriental Fougere Perfume 100ml",
+          "handle": "maison-asrar-wadi-eau-de-parfum-for-unisex-oriental-fougere-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Wadi_Maison_Asrar_Perfumes_White_Backgroud_Picture-resized-Photoroom.png?v=1790784722",
+          "price": 84,
+          "badge": ""
+        },
+        {
+          "name": "Maison Asrar Vision Eau De Parfum For Unisex  - Citrus Aromatic Perfume 100ml",
+          "handle": "maison-asrar-vision-eau-de-parfum-for-unisex-citrus-aromatic-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/vision-eau-de-parfum-100ml-by-maison-asrar-unisex-perfume-edp-100ml-maison-asrar-310380-1208304966-resized-Photoroom.png?v=1790696060",
+          "price": 182,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "MCM",
       "slug": "mcm",
       "count": 4,
@@ -27868,35 +27904,6 @@
       ]
     },
     {
-      "name": "Maison Asrar",
-      "slug": "maison-asrar",
-      "count": 3,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/maison-asrar-majesty-eau-de-parfum-100ml-spray-p83994-38837_zoom-resized-Photoroom.png?v=1790791087",
-      "preview": [
-        {
-          "name": "Maison Asrar Majesty Eau De Parfum For unisex -  Citrus Aromatic Perfume 100ml",
-          "handle": "maison-asrar-majesty-eau-de-parfum-for-unisex-citrus-aromatic-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/maison-asrar-majesty-eau-de-parfum-100ml-spray-p83994-38837_zoom-resized-Photoroom.png?v=1790791087",
-          "price": 145,
-          "badge": ""
-        },
-        {
-          "name": "Maison Asrar Wadi Eau De Parfum For Unisex - Oriental Fougere Perfume 100ml",
-          "handle": "maison-asrar-wadi-eau-de-parfum-for-unisex-oriental-fougere-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Wadi_Maison_Asrar_Perfumes_White_Backgroud_Picture-resized-Photoroom.png?v=1790784722",
-          "price": 84,
-          "badge": ""
-        },
-        {
-          "name": "Maison Asrar Vision Eau De Parfum For Unisex  - Citrus Aromatic Perfume 100ml",
-          "handle": "maison-asrar-vision-eau-de-parfum-for-unisex-citrus-aromatic-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/vision-eau-de-parfum-100ml-by-maison-asrar-unisex-perfume-edp-100ml-maison-asrar-310380-1208304966-resized-Photoroom.png?v=1790696060",
-          "price": 182,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "killian",
       "slug": "killian",
       "count": 3,
@@ -29808,7 +29815,7 @@
         {
           "name": "Hamidi Addicted Intense Perfume For Men Parfum 120ml",
           "handle": "hamidi-addicted-intense-perfume-for-men-parfum-120ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/WhatsApp_Image_2024-10-18_at_5.51.22_PM.jpg?v=1729259616",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/addicted-resized-Photoroom.png?v=1790855887",
           "price": 80,
           "badge": ""
         }
