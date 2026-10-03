@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T04:12:48.104Z",
+  "generated_at": "2026-10-03T10:03:56.226Z",
   "total_brands": 887,
   "brands": [
     {
@@ -1203,6 +1203,56 @@
       ]
     },
     {
+      "name": "Rasasi",
+      "slug": "rasasi",
+      "count": 206,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rasasi_Hawas_Ice_Freeze_For_Him_EDP_100ml.png?v=1791012351",
+      "preview": [
+        {
+          "name": "Rasasi Hawas Ice Freeze For Him EDP 100ml",
+          "handle": "rasasi-hawas-ice-freeze-for-him-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rasasi_Hawas_Ice_Freeze_For_Him_EDP_100ml.png?v=1791012351",
+          "price": 126,
+          "badge": "SALE"
+        },
+        {
+          "name": "Rasasi Hawas Gold Digger For Men EDP 100ml",
+          "handle": "rasasi-hawas-gold-digger-for-men-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rasasi_Hawas_Gold_Digger_For_Men_EDP_100ml_1.png?v=1790949546",
+          "price": 121,
+          "badge": ""
+        },
+        {
+          "name": "Rasasi Hawas Addiction For Unisex 100ml",
+          "handle": "rasasi-hawas-addiction-for-unisex-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rasasi_Hawas_Addiction_For_Unisex_100ml.png?v=1789217141",
+          "price": 143,
+          "badge": ""
+        },
+        {
+          "name": "Rasasi Hawas Nautilus For Men EDP 100ml",
+          "handle": "rasasi-hawas-nautilus-for-men-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rasasi_Hawas_Nautilus_For_Men_EDP_100ml_1.png?v=1789035706",
+          "price": 121,
+          "badge": ""
+        },
+        {
+          "name": "Rasasi Princess Bleu Pour Femme Eau de Parfum, Floral Fruity Fragrance For Women 50ml",
+          "handle": "rasasi-princess-bleu-pour-femme-eau-de-parfum-floral-fruity-fragrance-for-women-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/prin-resized-Photoroom.png?v=1787859283",
+          "price": 45,
+          "badge": ""
+        },
+        {
+          "name": "Rasasi Hamasaat Musk Memoirs Eau De Parfum For Unisex-Musky Oriental Perfume 100ml",
+          "handle": "rasasi-hamasaat-musk-memoirs-eau-de-parfum-for-unisex-musky-oriental-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/1_1794b577-6144-4abd-aad6-2e871fa5f6e4-Photoroom.png?v=1786804621",
+          "price": 202,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Hugo Boss",
       "slug": "hugo-boss",
       "count": 206,
@@ -1248,56 +1298,6 @@
           "handle": "hugo-boss-superman-x-hugo-eau-de-parfum-for-men-citrus-aromatic-perfume-125ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/sss-resized-Photoroom.png?v=1787608473",
           "price": 222,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Rasasi",
-      "slug": "rasasi",
-      "count": 205,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rasasi_Hawas_Gold_Digger_For_Men_EDP_100ml_1.png?v=1790949546",
-      "preview": [
-        {
-          "name": "Rasasi Hawas Gold Digger For Men EDP 100ml",
-          "handle": "rasasi-hawas-gold-digger-for-men-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rasasi_Hawas_Gold_Digger_For_Men_EDP_100ml_1.png?v=1790949546",
-          "price": 121,
-          "badge": ""
-        },
-        {
-          "name": "Rasasi Hawas Addiction For Unisex 100ml",
-          "handle": "rasasi-hawas-addiction-for-unisex-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rasasi_Hawas_Addiction_For_Unisex_100ml.png?v=1789217141",
-          "price": 143,
-          "badge": ""
-        },
-        {
-          "name": "Rasasi Hawas Nautilus For Men EDP 100ml",
-          "handle": "rasasi-hawas-nautilus-for-men-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rasasi_Hawas_Nautilus_For_Men_EDP_100ml_1.png?v=1789035706",
-          "price": 121,
-          "badge": ""
-        },
-        {
-          "name": "Rasasi Princess Bleu Pour Femme Eau de Parfum, Floral Fruity Fragrance For Women 50ml",
-          "handle": "rasasi-princess-bleu-pour-femme-eau-de-parfum-floral-fruity-fragrance-for-women-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/prin-resized-Photoroom.png?v=1787859283",
-          "price": 45,
-          "badge": ""
-        },
-        {
-          "name": "Rasasi Hamasaat Musk Memoirs Eau De Parfum For Unisex-Musky Oriental Perfume 100ml",
-          "handle": "rasasi-hamasaat-musk-memoirs-eau-de-parfum-for-unisex-musky-oriental-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/1_1794b577-6144-4abd-aad6-2e871fa5f6e4-Photoroom.png?v=1786804621",
-          "price": 202,
-          "badge": ""
-        },
-        {
-          "name": "Rasasi Hamasaat Azafron Legacy Eau De Parfum For Unisex- Oriental Spicy Perfume 100ml",
-          "handle": "rasasi-hamasaat-azafron-legacy-eau-de-parfum-for-unisex-oriental-spicy-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/1_62487cbe-f7f0-4f47-b84d-ec2b77d74d10-Photoroom.png?v=1786803110",
-          "price": 202,
           "badge": ""
         }
       ]
@@ -4018,7 +4018,7 @@
         {
           "name": "Dunhill Desire Platinum Perfume For Men EDT 100ml",
           "handle": "dunhill-desire-platinum-perfume-for-men-edt-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Dunhill_Desire_Platinum_For_Men_M_Edt_100_Ml.jpg?v=1751651259",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Dunhill_Desire_Platinum_Perfume_For_Men_EDT_100ml-Photoroom.png?v=1791009115",
           "price": 121,
           "badge": ""
         },
@@ -4540,7 +4540,7 @@
           "name": "Ahmed Al Maghribi Kaaf Noir Perfume For Unisex EDP 100ml",
           "handle": "ahmed-al-maghribi-kaaf-noir-perfume-for-unisex-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Ahmed_Al_Maghribi_Kaaf_Noir_Perfume_For_Unisex_EDP_100ml-Photoroom.png?v=1787489811",
-          "price": 107,
+          "price": 101,
           "badge": "SALE"
         },
         {
@@ -4903,56 +4903,6 @@
       ]
     },
     {
-      "name": "Lanvin",
-      "slug": "lanvin",
-      "count": 63,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460151795_1.jpg?v=1732739513",
-      "preview": [
-        {
-          "name": "Lanvin Modern Princess In Jeans For Women EDP 90ml",
-          "handle": "lanvin-modern-princess-in-jeans-for-women-edp-90ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460151795_1.jpg?v=1732739513",
-          "price": 126,
-          "badge": ""
-        },
-        {
-          "name": "Lanvin Modern Princess In Jeans For Women EDP 60ml",
-          "handle": "lanvin-modern-princess-in-jeans-for-women-edp-60ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460151801_1.jpg?v=1732738401",
-          "price": 146,
-          "badge": ""
-        },
-        {
-          "name": "Lanvin Modern Princess In Jeans For Women EDP 30ml",
-          "handle": "lanvin-modern-princess-in-jeans-for-women-edp-30ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460151818.jpg?v=1732738124",
-          "price": 81,
-          "badge": ""
-        },
-        {
-          "name": "Lanvin A Girl In Capri For Women EDT 30ml",
-          "handle": "lanvin-a-girl-in-capri-for-women-edt-30ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460103671.jpg?v=1732375122",
-          "price": 59,
-          "badge": ""
-        },
-        {
-          "name": "Lanvin Les Fleurs De Sweet Jasmine For Women EDT 90ml",
-          "handle": "lanvin-les-fleurs-de-sweet-jasmine-for-women-edt-90ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/les-resized-Photoroom_b4b4d3f6-e537-40d6-81c9-fb02dd39f18d.png?v=1789491973",
-          "price": 93,
-          "badge": ""
-        },
-        {
-          "name": "Lanvin Les Fleurs De Sweet Jasmine For Women EDT 50ml",
-          "handle": "lanvin-les-fleurs-de-sweet-jasmine-for-women-edt-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460142922.jpg?v=1730137714",
-          "price": 79,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Estee Lauder",
       "slug": "estee-lauder",
       "count": 62,
@@ -4998,6 +4948,56 @@
           "handle": "estee-lauder-bronze-goddess-flora-verde-eau-de-parfum-for-women-floral-green-perfume-50ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/887167699762.jpg?v=1760537969",
           "price": 168,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Lanvin",
+      "slug": "lanvin",
+      "count": 62,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460151795_1.jpg?v=1732739513",
+      "preview": [
+        {
+          "name": "Lanvin Modern Princess In Jeans For Women EDP 90ml",
+          "handle": "lanvin-modern-princess-in-jeans-for-women-edp-90ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460151795_1.jpg?v=1732739513",
+          "price": 126,
+          "badge": ""
+        },
+        {
+          "name": "Lanvin Modern Princess In Jeans For Women EDP 60ml",
+          "handle": "lanvin-modern-princess-in-jeans-for-women-edp-60ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460151801_1.jpg?v=1732738401",
+          "price": 146,
+          "badge": ""
+        },
+        {
+          "name": "Lanvin Modern Princess In Jeans For Women EDP 30ml",
+          "handle": "lanvin-modern-princess-in-jeans-for-women-edp-30ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460151818.jpg?v=1732738124",
+          "price": 81,
+          "badge": ""
+        },
+        {
+          "name": "Lanvin A Girl In Capri For Women EDT 30ml",
+          "handle": "lanvin-a-girl-in-capri-for-women-edt-30ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460103671.jpg?v=1732375122",
+          "price": 59,
+          "badge": ""
+        },
+        {
+          "name": "Lanvin Les Fleurs De Sweet Jasmine For Women EDT 90ml",
+          "handle": "lanvin-les-fleurs-de-sweet-jasmine-for-women-edt-90ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/les-resized-Photoroom_b4b4d3f6-e537-40d6-81c9-fb02dd39f18d.png?v=1789491973",
+          "price": 93,
+          "badge": ""
+        },
+        {
+          "name": "Lanvin Les Fleurs De Sweet Jasmine For Women EDT 50ml",
+          "handle": "lanvin-les-fleurs-de-sweet-jasmine-for-women-edt-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460142922.jpg?v=1730137714",
+          "price": 79,
           "badge": ""
         }
       ]
@@ -6632,7 +6632,7 @@
         {
           "name": "Tumi Renaissance Experience Collector For Women Extrait De Parfum 100ml",
           "handle": "tumi-renaissance-experience-collector-for-women-extrait-de-parfum-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/850051731220.webp?v=1742574214",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Tumi_Renaissance_Experience_Collector_For_Women_Extrait_De_Parfum_100ml-Photoroom.png?v=1791007972",
           "price": 236,
           "badge": ""
         },
@@ -8889,7 +8889,7 @@
         {
           "name": "Signature Onyx Gift Set For Unisex",
           "handle": "signature-onyx-gift-set-for-unisex",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/SignatureOnyx100Ml_15MlFunnelEdp_8e8b1eed-81c0-44be-8cb1-138f1bc05779.webp?v=1733305251",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Signature_Onyx_Gift_Set_For_Unisex-Photoroom.png?v=1791007186",
           "price": 318,
           "badge": ""
         },
@@ -11256,12 +11256,12 @@
       "name": "Reyane Tradition",
       "slug": "reyane-tradition",
       "count": 21,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ReyaneTraditionElsatysGentleEdp100ml.jpg?v=1707313654",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Reyane_Tradition_Elsatys_Gentle_Perfume_For_Men_EDP_100ml-Photoroom.png?v=1791009225",
       "preview": [
         {
           "name": "Reyane Tradition Elsatys Gentle Perfume For Men EDP 100ml",
           "handle": "reyane-tradition-elsatys-gentle-perfume-for-men-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ReyaneTraditionElsatysGentleEdp100ml.jpg?v=1707313654",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Reyane_Tradition_Elsatys_Gentle_Perfume_For_Men_EDP_100ml-Photoroom.png?v=1791009225",
           "price": 73,
           "badge": ""
         },
@@ -17597,7 +17597,7 @@
           "name": "Riiffs Momento Edp For Men And Women Sweet 100ml",
           "handle": "riiffs-momento-edp-for-men-and-women-sweet-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Riiffs_Momento_Edp_For_Men_And_Women_Sweet_100ml-Photoroom.png?v=1787483971",
-          "price": 117,
+          "price": 98,
           "badge": ""
         }
       ]
@@ -21382,7 +21382,7 @@
         {
           "name": "Ibraq Tobacco Coll. Cuban Tobacco Extrait De Parfum For Unisex - Oriental Perfume 100ml",
           "handle": "ibraq-tobacco-coll-cuban-tobacco-extrait-de-parfum-for-unisex-oriental-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cuban_20white-1000x1000.jpg?v=1777795110",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Ibraq_Tobacco_Coll._Cuban_Tobacco_Extrait_De_Parfum_For_Unisex_-_Oriental_Perfume_100ml-Photoroom_2.png?v=1791008089",
           "price": 210,
           "badge": ""
         },
@@ -21575,7 +21575,7 @@
         {
           "name": "Hackett Bespoke Perfume For Men EDP 50ml",
           "handle": "hackett-bespoke-perfume-for-men-edp-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/HackettBespokeEdp50Ml_6b6074b1-9989-48e8-a390-2090599ba729.jpg?v=1731414936",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Hackett_Bespoke_Perfume_For_Men_EDP_50ml-Photoroom.png?v=1791008239",
           "price": 67,
           "badge": ""
         },
@@ -24648,7 +24648,7 @@
         {
           "name": "Atelier Bloem 1614 Perfume For Unisex EDP 100ml",
           "handle": "atelier-bloem-1614-perfume-for-unisex-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/AtelierBloem1614_U_Edp100Ml.jpg?v=1685370736",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Atelier_Bloem_1614_Perfume_For_Unisex_EDP_100ml-Photoroom.png?v=1791007594",
           "price": 185,
           "badge": ""
         }
@@ -27007,12 +27007,12 @@
       "name": "Real Techniques",
       "slug": "real-techniques",
       "count": 4,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/RealTichniquesFoundation-1745.png?v=1651217104",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Real_Techniques_Foundation_Makeup_Brush_-1745-Photoroom.png?v=1791009785",
       "preview": [
         {
           "name": "Real Techniques Foundation Makeup Brush -1745",
           "handle": "real-techniques-foundation-makeup-brush-1745",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/RealTichniquesFoundation-1745.png?v=1651217104",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Real_Techniques_Foundation_Makeup_Brush_-1745-Photoroom.png?v=1791009785",
           "price": 30,
           "badge": ""
         },
@@ -29803,12 +29803,12 @@
       "name": "Hamidi",
       "slug": "hamidi",
       "count": 2,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/17s-l1600.jpg?v=1721760945",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Hamidi_Addicted_Divine_Red_Parfum_120ml_Spray_For_Women-Photoroom.png?v=1791007756",
       "preview": [
         {
           "name": "Hamidi Addicted Divine Red Parfum 120ml Spray For Women",
           "handle": "hamidi-addicted-divine-red-parfum-120ml-spray-for-women",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/17s-l1600.jpg?v=1721760945",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Hamidi_Addicted_Divine_Red_Parfum_120ml_Spray_For_Women-Photoroom.png?v=1791007756",
           "price": 83,
           "badge": "SALE"
         },
