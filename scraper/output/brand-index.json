@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T07:15:07.555Z",
+  "generated_at": "2026-10-06T23:38:26.007Z",
   "total_brands": 887,
   "brands": [
     {
@@ -247,7 +247,7 @@
           "name": "Giorgio Armani Armani Privé Cuir Doré Eau de Parfum Intense, Leather Fragrance For Women And Men 100ml",
           "handle": "giorgio-armani-armani-prive-cuir-dore-eau-de-parfum-intense-leather-fragrance-for-women-and-men-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cuir-resized-Photoroom.png?v=1787402516",
-          "price": 1384,
+          "price": 1366,
           "badge": ""
         }
       ]
@@ -644,8 +644,8 @@
           "badge": "SALE"
         },
         {
-          "name": "Lattafa Pride Raghad EDP For Men 100ml",
-          "handle": "lattafa-pride-raghad-edp-for-men-100ml",
+          "name": "Lattafa Pride Raghad EDP For Women 100ml",
+          "handle": "lattafa-pride-raghad-edp-for-women-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Raghad-resized-Photoroom.png?v=1787751946",
           "price": 130,
           "badge": "SALE"
@@ -2903,56 +2903,6 @@
       ]
     },
     {
-      "name": "Samawa",
-      "slug": "samawa",
-      "count": 118,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Customized_-_Personalized_Perfume_Gift_50ml_x_2.jpg?v=1778245909",
-      "preview": [
-        {
-          "name": "Customized - Personalized Perfume Gift - High Quality Fragrance - For Wedding - Birthday - Valentine - Corporate Events - 2 x 50 ml",
-          "handle": "customized-personalized-perfume-gift-high-quality-fragrance-for-wedding-birthday-valentine-corporate-events-2x50-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Customized_-_Personalized_Perfume_Gift_50ml_x_2.jpg?v=1778245909",
-          "price": 140,
-          "badge": ""
-        },
-        {
-          "name": "Samawa Gift Card",
-          "handle": "samawa-perfumes-gift-card",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Samawa_Gift_Card.png?v=1765432873",
-          "price": 1000,
-          "badge": ""
-        },
-        {
-          "name": "Samawa Gift Card",
-          "handle": "samawa-perfumes-gift-card",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Samawa_Gift_Card.png?v=1765432873",
-          "price": 500,
-          "badge": ""
-        },
-        {
-          "name": "Samawa Gift Card",
-          "handle": "samawa-perfumes-gift-card",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Samawa_Gift_Card.png?v=1765432873",
-          "price": 300,
-          "badge": ""
-        },
-        {
-          "name": "Samawa Gift Card",
-          "handle": "samawa-perfumes-gift-card",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Samawa_Gift_Card.png?v=1765432873",
-          "price": 200,
-          "badge": ""
-        },
-        {
-          "name": "Samawa Gift Card",
-          "handle": "samawa-perfumes-gift-card",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Samawa_Gift_Card.png?v=1765432873",
-          "price": 100,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "ANNICK GOUTAL",
       "slug": "annick-goutal",
       "count": 118,
@@ -3103,6 +3053,56 @@
       ]
     },
     {
+      "name": "Samawa",
+      "slug": "samawa",
+      "count": 113,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Customized_-_Personalized_Perfume_Gift_50ml_x_2.jpg?v=1778245909",
+      "preview": [
+        {
+          "name": "Customized - Personalized Perfume Gift - High Quality Fragrance - For Wedding - Birthday - Valentine - Corporate Events - 2 x 50 ml",
+          "handle": "customized-personalized-perfume-gift-high-quality-fragrance-for-wedding-birthday-valentine-corporate-events-2x50-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Customized_-_Personalized_Perfume_Gift_50ml_x_2.jpg?v=1778245909",
+          "price": 140,
+          "badge": ""
+        },
+        {
+          "name": "Samawa Gift Card",
+          "handle": "samawa-perfumes-gift-card",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Samawa_Gift_Card.png?v=1765432873",
+          "price": 1000,
+          "badge": ""
+        },
+        {
+          "name": "Samawa Gift Card",
+          "handle": "samawa-perfumes-gift-card",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Samawa_Gift_Card.png?v=1765432873",
+          "price": 500,
+          "badge": ""
+        },
+        {
+          "name": "Samawa Gift Card",
+          "handle": "samawa-perfumes-gift-card",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Samawa_Gift_Card.png?v=1765432873",
+          "price": 300,
+          "badge": ""
+        },
+        {
+          "name": "Samawa Gift Card",
+          "handle": "samawa-perfumes-gift-card",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Samawa_Gift_Card.png?v=1765432873",
+          "price": 200,
+          "badge": ""
+        },
+        {
+          "name": "Samawa Gift Card",
+          "handle": "samawa-perfumes-gift-card",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Samawa_Gift_Card.png?v=1765432873",
+          "price": 100,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "NISHANE",
       "slug": "nishane",
       "count": 108,
@@ -3176,7 +3176,7 @@
           "name": "Tiziana Terenzi Foconero Scented Candle 170g",
           "handle": "tiziana-terenzi-foconero-scented-candle-170g",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/f-removebg-preview_1eeb891c-437d-42a9-9ea8-e3f1d80a12d2.png?v=1785057870",
-          "price": 158,
+          "price": 167,
           "badge": ""
         },
         {
@@ -3475,7 +3475,7 @@
         {
           "name": "Coach Floral Body Lotion For Women 100ml",
           "handle": "coach-floral-body-lotion-for-women-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/7a894647-7627-40f3-b4bd-b675d42c080c-1000x1000-7PREyoo9KblFbaAXpIQkNMgDM3IItBWitx6lxEJk.jpg?v=1775394898",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/co-Photoroom_1810cb3b-03af-465d-a8fc-682599ef682b.png?v=1791276931",
           "price": 24,
           "badge": ""
         },
@@ -3640,7 +3640,7 @@
           "name": "Nina Ricci Nina Fleur Eau De Toilette For Women - Floral Fruity Perfume 80ml",
           "handle": "nina-ricci-nina-fleur-eau-de-toilette-for-women-floral-fruity-perfume-80ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/375x500.75022.2x.avif?v=1761581495",
-          "price": 194,
+          "price": 190,
           "badge": ""
         },
         {
@@ -4540,7 +4540,7 @@
           "name": "Ahmed Al Maghribi Kaaf Noir Perfume For Unisex EDP 100ml",
           "handle": "ahmed-al-maghribi-kaaf-noir-perfume-for-unisex-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Ahmed_Al_Maghribi_Kaaf_Noir_Perfume_For_Unisex_EDP_100ml-Photoroom.png?v=1787489811",
-          "price": 104,
+          "price": 103,
           "badge": "SALE"
         },
         {
@@ -4853,6 +4853,56 @@
       ]
     },
     {
+      "name": "Lanvin",
+      "slug": "lanvin",
+      "count": 66,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460151795_1.jpg?v=1732739513",
+      "preview": [
+        {
+          "name": "Lanvin Modern Princess In Jeans For Women EDP 90ml",
+          "handle": "lanvin-modern-princess-in-jeans-for-women-edp-90ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460151795_1.jpg?v=1732739513",
+          "price": 126,
+          "badge": ""
+        },
+        {
+          "name": "Lanvin Modern Princess In Jeans For Women EDP 60ml",
+          "handle": "lanvin-modern-princess-in-jeans-for-women-edp-60ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460151801_1.jpg?v=1732738401",
+          "price": 146,
+          "badge": ""
+        },
+        {
+          "name": "Lanvin Modern Princess In Jeans For Women EDP 30ml",
+          "handle": "lanvin-modern-princess-in-jeans-for-women-edp-30ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460151818.jpg?v=1732738124",
+          "price": 81,
+          "badge": ""
+        },
+        {
+          "name": "Lanvin A Girl In Capri For Women EDT 30ml",
+          "handle": "lanvin-a-girl-in-capri-for-women-edt-30ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460103671.jpg?v=1732375122",
+          "price": 59,
+          "badge": ""
+        },
+        {
+          "name": "Lanvin Les Fleurs De Sweet Jasmine For Women EDT 90ml",
+          "handle": "lanvin-les-fleurs-de-sweet-jasmine-for-women-edt-90ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/les-resized-Photoroom_b4b4d3f6-e537-40d6-81c9-fb02dd39f18d.png?v=1789491973",
+          "price": 93,
+          "badge": ""
+        },
+        {
+          "name": "Lanvin Les Fleurs De Sweet Jasmine For Women EDT 50ml",
+          "handle": "lanvin-les-fleurs-de-sweet-jasmine-for-women-edt-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460142922.jpg?v=1730137714",
+          "price": 79,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Roberto Cavalli",
       "slug": "roberto-cavalli",
       "count": 64,
@@ -4948,56 +4998,6 @@
           "handle": "estee-lauder-bronze-goddess-flora-verde-eau-de-parfum-for-women-floral-green-perfume-50ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/887167699762.jpg?v=1760537969",
           "price": 168,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Lanvin",
-      "slug": "lanvin",
-      "count": 62,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460151795_1.jpg?v=1732739513",
-      "preview": [
-        {
-          "name": "Lanvin Modern Princess In Jeans For Women EDP 90ml",
-          "handle": "lanvin-modern-princess-in-jeans-for-women-edp-90ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460151795_1.jpg?v=1732739513",
-          "price": 126,
-          "badge": ""
-        },
-        {
-          "name": "Lanvin Modern Princess In Jeans For Women EDP 60ml",
-          "handle": "lanvin-modern-princess-in-jeans-for-women-edp-60ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460151801_1.jpg?v=1732738401",
-          "price": 146,
-          "badge": ""
-        },
-        {
-          "name": "Lanvin Modern Princess In Jeans For Women EDP 30ml",
-          "handle": "lanvin-modern-princess-in-jeans-for-women-edp-30ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460151818.jpg?v=1732738124",
-          "price": 81,
-          "badge": ""
-        },
-        {
-          "name": "Lanvin A Girl In Capri For Women EDT 30ml",
-          "handle": "lanvin-a-girl-in-capri-for-women-edt-30ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460103671.jpg?v=1732375122",
-          "price": 59,
-          "badge": ""
-        },
-        {
-          "name": "Lanvin Les Fleurs De Sweet Jasmine For Women EDT 90ml",
-          "handle": "lanvin-les-fleurs-de-sweet-jasmine-for-women-edt-90ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/les-resized-Photoroom_b4b4d3f6-e537-40d6-81c9-fb02dd39f18d.png?v=1789491973",
-          "price": 93,
-          "badge": ""
-        },
-        {
-          "name": "Lanvin Les Fleurs De Sweet Jasmine For Women EDT 50ml",
-          "handle": "lanvin-les-fleurs-de-sweet-jasmine-for-women-edt-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460142922.jpg?v=1730137714",
-          "price": 79,
           "badge": ""
         }
       ]
@@ -5996,7 +5996,7 @@
         {
           "name": "Maison Margiela Replica Lazy Sunday Morning  Perfumed Shower Gel For Women 400ml",
           "handle": "maison-margiela-replica-lazy-sunday-morning-perfumed-shower-gel-for-women-400ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/971521_NA_1__34119.1713480332.jpg?v=1762450528",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/la-resized_1_-Photoroom.png?v=1791272984",
           "price": 195,
           "badge": ""
         }
@@ -7068,7 +7068,7 @@
         {
           "name": "Lolita Lempicka Le Parfum For Women Set EDP 50ml + Moisturizing Perfumed Body Lotion 75ml",
           "handle": "lolita-lempicka-le-parfum-for-women-set-edp-50ml-moisturizing-perfumed-body-lotion-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3760269840850.jpg?v=1740626863",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/000-Photoroom_1.png?v=1791309048",
           "price": 150,
           "badge": "SALE"
         },
@@ -7389,7 +7389,7 @@
         {
           "name": "Van Cleef & Arpels Coll Extraordinaire Bois D'Amande For Unisex Mini EDP 7.5ml",
           "handle": "van-cleef-arpels-coll-extraordinaire-bois-damande-for-unisex-mini-edp-7-5ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3386460136594_1.jpg?v=1736404084",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/van-Photoroom_255fbd11-d8b2-42b2-aea3-8e7021b67df1.png?v=1791305753",
           "price": 40,
           "badge": ""
         },
@@ -7725,14 +7725,14 @@
         {
           "name": "Britney Spears Fantasy For Women Set EDP 100ml + Body Souffle 100ml + Shower Gel 100ml",
           "handle": "britney-spears-fantasy-for-women-set-edp-100ml-body-souffle-100ml-shower-gel-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/719346264501.jpg?v=1736330614",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/11111111111-resized_2_-Photoroom.png?v=1791308717",
           "price": 140,
           "badge": ""
         },
         {
           "name": "Britney Spears Midnight Fantasy For Women Fine Fragrance Mist 236ml",
           "handle": "britney-spears-midnight-fantasy-for-women-fine-fragrance-mist-236ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/719346635035.jpg?v=1734639831",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/fan-resized-Photoroom_86ca309c-e3a7-4f07-a302-a4398685342a.png?v=1791272229",
           "price": 44,
           "badge": ""
         },
@@ -9039,7 +9039,7 @@
         {
           "name": "Moudon Vevey Extrait De Parfum For Unisex 100ml",
           "handle": "moudon-vevey-extrait-de-parfum-for-unisex-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Vevey.png?v=1722608778",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/mouu-resized-Photoroom.png?v=1791305049",
           "price": 599,
           "badge": ""
         },
@@ -9425,7 +9425,7 @@
         {
           "name": "Korloff Addiction Petale Perfume For Unisex EDP 100ml",
           "handle": "korloff-addiction-petale-perfume-for-unisex-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/KorloffAddictionPetale100MlEdp_d306dc40-69c8-4f78-a5db-5b9233559f36.webp?v=1731673867",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/KorloffAddictionPetale100MlEdp_d306dc40-69c8-4f78-a5db-5b9233559f36-resized-Photoroom.png?v=1791304334",
           "price": 370,
           "badge": ""
         },
@@ -10356,12 +10356,12 @@
       "name": "Bentley",
       "slug": "bentley",
       "count": 23,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bentley-become-edp-60-ml-erkek-parfum-bentley-12074-18-B.jpg?v=1774157048",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bentley-become-edp-60-ml-erkek-parfum-bentley-12074-18-B-resized-Photoroom.png?v=1791293483",
       "preview": [
         {
           "name": "Bentley Become Eau De Parfum For Men - Woody Aromatic Perfume 60ml",
           "handle": "bentley-become-eau-de-parfum-for-men-woody-aromatic-perfume-60ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bentley-become-edp-60-ml-erkek-parfum-bentley-12074-18-B.jpg?v=1774157048",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bentley-become-edp-60-ml-erkek-parfum-bentley-12074-18-B-resized-Photoroom.png?v=1791293483",
           "price": 145,
           "badge": ""
         },
@@ -10796,7 +10796,7 @@
         {
           "name": "Vert Empire By Mizensir Perfume For Men And Women Edp 100ml",
           "handle": "vert-empire-by-mizensir-perfume-for-men-and-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Vert-Empire_flacon.webp?v=1752412041",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Vert-Empire_flacon-Photoroom.png?v=1791277737",
           "price": 482,
           "badge": ""
         }
@@ -11725,7 +11725,7 @@
         {
           "name": "Joop! Homme Edp For Men Oriental 125ml",
           "handle": "joop-homme-edp-for-men-oriental-125ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/joop-homme.jpg?v=1771444283",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/joop-homme-resized-Photoroom.png?v=1791291150",
           "price": 135,
           "badge": ""
         },
@@ -13518,7 +13518,7 @@
         {
           "name": "Tom Daxon Salvia Sclarea Eau De Parfum For Unisex - Aromatic Green Perfume 100ml",
           "handle": "tom-daxon-salvia-sclarea-eau-de-parfum-for-unisex-aromatic-green-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/213251027_nocolor_in.webp?v=1761808089",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/sal-resized_1_-Photoroom.png?v=1791270722",
           "price": 296,
           "badge": ""
         },
@@ -13533,7 +13533,7 @@
           "name": "Tom Daxon Iridium 71%  Extrait De Parfum For Unisex - Floral Perfume 50ml",
           "handle": "tom-daxon-iridium-71-extrait-de-parfum-for-unisex-floral-perfume-50ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/TD_IRIDUM71_050_01_new_1800x1800_adc0258c-e331-4feb-9428-2228f1c4d76c-resized-Photoroom.png?v=1789493885",
-          "price": 463,
+          "price": 418,
           "badge": ""
         },
         {
@@ -15769,7 +15769,7 @@
           "name": "Omanluxury Serenity Eau de Parfum, Fragrance For Women And Men 100ml",
           "handle": "omanluxury-serenity-eau-de-parfum-fragrance-for-women-and-men-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/serenity-resized-Photoroom.png?v=1787440446",
-          "price": 813,
+          "price": 795,
           "badge": ""
         },
         {
@@ -16918,7 +16918,7 @@
         {
           "name": "Houbigant Paris Petales De Magnolia Eau De Parfum For Women - Floral Perfume 100ml",
           "handle": "houbigant-paris-petales-de-magnolia-eau-de-parfum-for-women-floral-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/HoubigantParis-PetalesdeMagnoliaEDP_2048x_d33f4bad-cc0d-43ac-8443-00731bf11c54.jpg?v=1771082671",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/HoubigantParis-PetalesdeMagnoliaEDP-resized-Photoroom.png?v=1791292141",
           "price": 379,
           "badge": ""
         },
@@ -18596,7 +18596,7 @@
         {
           "name": "Aquolina Pink Sugar Perfume For Women EDT 30ml",
           "handle": "aquolina-pink-sugar-perfume-for-women-edt-30ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/AquolinaPinkSugar_W_Edt30Ml.jpg?v=1656504440",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/AquolinaPinkSugar_W_Edt30Ml-resized-Photoroom.png?v=1791276187",
           "price": 35,
           "badge": "SALE"
         }
@@ -18646,7 +18646,7 @@
         {
           "name": "Milton Lloyd Colour Me Pink Perfume For Women EDP 100ml",
           "handle": "milton-lloyd-colour-me-pink-perfume-for-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ColourMePinkWEdp100ml.jpg?v=1707319562",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ColourMePinkWEdp100ml-resized-Photoroom.png?v=1791274303",
           "price": 50,
           "badge": ""
         }
@@ -19412,7 +19412,7 @@
           "name": "Byredo Inflorescence Eau de Parfum, Floral Fragrance For Women 100ml",
           "handle": "byredo-inflorescence-eau-de-parfum-floral-fragrance-for-women-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/inffl-Photoroom.png?v=1787266268",
-          "price": 903,
+          "price": 921,
           "badge": ""
         },
         {
@@ -19639,7 +19639,7 @@
         {
           "name": "Tabac Original Aftershave Lotion For Men 300ml",
           "handle": "tabac-original-aftershave-lotion-for-men-300ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/TabacOriginal_M_AftershaveLotion300MlSplash.webp?v=1690528514",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/TabacOriginal_M_AftershaveLotion300MlSplash-resized-Photoroom.png?v=1791271390",
           "price": 73,
           "badge": ""
         },
@@ -20025,7 +20025,7 @@
         {
           "name": "Brummel Sport Perfume For Men EDC 30ml",
           "handle": "brummel-sport-perfume-for-men-edc-30ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/BrummelSport_M_Edc30Ml.jpg?v=1664439137",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/BrummelSport_M_Edc30Ml-resized_1_-Photoroom.png?v=1791309377",
           "price": 19,
           "badge": ""
         },
@@ -21497,7 +21497,7 @@
           "name": "Hormone This Is Not Dopamine Parfum For Unisex - Oriental Perfume 100ml",
           "handle": "hormone-this-is-not-dopamine-parfum-for-unisex-oriental-perfume-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/a93681_7086d6bf2c474e7190fbdb8bac2561af_mv2.png?v=1760972597",
-          "price": 622,
+          "price": 632,
           "badge": ""
         }
       ]
@@ -22889,7 +22889,7 @@
         {
           "name": "Sculpture Air de Lune By Nikos Perfume For Men And Women Edp 100ml",
           "handle": "sculpture-air-de-lune-by-nikos-perfume-for-men-and-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/air.webp?v=1752014495",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/air-resized-Photoroom_6abbb4f2-67fb-4b2c-b10f-bfe76cbe01f6.png?v=1791306833",
           "price": 257,
           "badge": ""
         },
@@ -23847,7 +23847,7 @@
           "name": "Puig Quorum Perfume for Men  Edt 100ml",
           "handle": "puig-quorum-perfume-for-men-edt-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/q-resized-Photoroom_c0dfb953-aa6b-43c8-881b-b4c4edb7a5b2.png?v=1788282353",
-          "price": 50,
+          "price": 55,
           "badge": "SALE"
         }
       ]
@@ -24048,6 +24048,49 @@
           "handle": "oscar-de-la-renta-ruby-velvet-edt-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/oscar_de_la_renta_ruby_velvet_edt_100ml..jpg?v=1633536439",
           "price": 142,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Maison Asrar",
+      "slug": "maison-asrar",
+      "count": 5,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Regent_Maison_Asrar_Pefume_White_Background_Bottle_1728x_-resized-Photoroom.png?v=1791296290",
+      "preview": [
+        {
+          "name": "Maison Asrar Regent Eau De Parfum For Unisex-Oriental Woody Perfume 100ml",
+          "handle": "maison-asrar-regent-eau-de-parfum-for-unisex-oriental-woody-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Regent_Maison_Asrar_Pefume_White_Background_Bottle_1728x_-resized-Photoroom.png?v=1791296290",
+          "price": 145,
+          "badge": ""
+        },
+        {
+          "name": "Maison Asrar Royal Collection Legacy Edp For Men And Women Aromatic 100ml",
+          "handle": "maison-asrar-royal-collection-legacy-edp-for-men-and-women-aromatic-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/legacy-resized_1_-Photoroom.png?v=1790803637",
+          "price": 145,
+          "badge": ""
+        },
+        {
+          "name": "Maison Asrar Majesty Eau De Parfum For unisex -  Citrus Aromatic Perfume 100ml",
+          "handle": "maison-asrar-majesty-eau-de-parfum-for-unisex-citrus-aromatic-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/maison-asrar-majesty-eau-de-parfum-100ml-spray-p83994-38837_zoom-resized-Photoroom.png?v=1790791087",
+          "price": 145,
+          "badge": ""
+        },
+        {
+          "name": "Maison Asrar Wadi Eau De Parfum For Unisex - Oriental Fougere Perfume 100ml",
+          "handle": "maison-asrar-wadi-eau-de-parfum-for-unisex-oriental-fougere-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Wadi_Maison_Asrar_Perfumes_White_Backgroud_Picture-resized-Photoroom.png?v=1790784722",
+          "price": 84,
+          "badge": ""
+        },
+        {
+          "name": "Maison Asrar Vision Eau De Parfum For Unisex  - Citrus Aromatic Perfume 100ml",
+          "handle": "maison-asrar-vision-eau-de-parfum-for-unisex-citrus-aromatic-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/vision-eau-de-parfum-100ml-by-maison-asrar-unisex-perfume-edp-100ml-maison-asrar-310380-1208304966-resized-Photoroom.png?v=1790696060",
+          "price": 182,
           "badge": ""
         }
       ]
@@ -25816,42 +25859,6 @@
       ]
     },
     {
-      "name": "Maison Asrar",
-      "slug": "maison-asrar",
-      "count": 4,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/legacy-resized_1_-Photoroom.png?v=1790803637",
-      "preview": [
-        {
-          "name": "Maison Asrar Royal Collection Legacy Edp For Men And Women Aromatic 100ml",
-          "handle": "maison-asrar-royal-collection-legacy-edp-for-men-and-women-aromatic-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/legacy-resized_1_-Photoroom.png?v=1790803637",
-          "price": 145,
-          "badge": ""
-        },
-        {
-          "name": "Maison Asrar Majesty Eau De Parfum For unisex -  Citrus Aromatic Perfume 100ml",
-          "handle": "maison-asrar-majesty-eau-de-parfum-for-unisex-citrus-aromatic-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/maison-asrar-majesty-eau-de-parfum-100ml-spray-p83994-38837_zoom-resized-Photoroom.png?v=1790791087",
-          "price": 145,
-          "badge": ""
-        },
-        {
-          "name": "Maison Asrar Wadi Eau De Parfum For Unisex - Oriental Fougere Perfume 100ml",
-          "handle": "maison-asrar-wadi-eau-de-parfum-for-unisex-oriental-fougere-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Wadi_Maison_Asrar_Perfumes_White_Backgroud_Picture-resized-Photoroom.png?v=1790784722",
-          "price": 84,
-          "badge": ""
-        },
-        {
-          "name": "Maison Asrar Vision Eau De Parfum For Unisex  - Citrus Aromatic Perfume 100ml",
-          "handle": "maison-asrar-vision-eau-de-parfum-for-unisex-citrus-aromatic-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/vision-eau-de-parfum-100ml-by-maison-asrar-unisex-perfume-edp-100ml-maison-asrar-310380-1208304966-resized-Photoroom.png?v=1790696060",
-          "price": 182,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "MCM",
       "slug": "mcm",
       "count": 4,
@@ -26133,7 +26140,7 @@
         {
           "name": "Sabrina Carpenter Sweet Tooth Caramel Dream EDP For Women 75ml",
           "handle": "sabrina-carpenter-sweet-tooth-caramel-dream-edp-for-women-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Sabrina_Carpenter_Sweet_Tooth_Caramel_Dream_EDP_For_Women_75ml.jpg?v=1752567686",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Sabrina_Carpenter_Sweet_Tooth_Carame-resized-Photoroom.png?v=1791308892",
           "price": 161,
           "badge": ""
         }
@@ -28216,7 +28223,7 @@
         {
           "name": "Second Wife By Saint Mario EDP Perfume For Women 100ml",
           "handle": "second-wife-by-saint-mario-edp-perfume-for-women-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/saint.jpg?v=1750956341",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/saint-resized-Photoroom.png?v=1791307240",
           "price": 29,
           "badge": ""
         }
@@ -28835,12 +28842,12 @@
       "name": "Biofriendly",
       "slug": "biofriendly",
       "count": 3,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/Comb-3.jpg?v=1629285871",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Comb-3-resized-Photoroom.png?v=1791279953",
       "preview": [
         {
           "name": "Biofriendly Hair Brush 5439, Assorted Colors",
           "handle": "biofriendly-hair-brush-5439-assorted-colors",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/Comb-3.jpg?v=1629285871",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Comb-3-resized-Photoroom.png?v=1791279953",
           "price": 29,
           "badge": "SALE"
         },
@@ -28876,7 +28883,7 @@
         {
           "name": "Active X Olives Hair Oil Serum 100ml Anti Hair Fall",
           "handle": "active-x-olives-hair-oil-serum-100ml-10-in1-anti-hair-fall",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/Anti-Hair-Fall-Serum-100MLOLIVES.jpg?v=1629178468",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Anti-Hair-Fall-Serum-100MLOLIVES-resized-Photoroom.png?v=1791275306",
           "price": 50,
           "badge": ""
         },
@@ -31857,12 +31864,12 @@
       "name": "Jully France",
       "slug": "jully-france",
       "count": 1,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/JFNailNipperJ-43.jpg?v=1652464856",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/0000000000000000-resized_1_-Photoroom.png?v=1791309716",
       "preview": [
         {
           "name": "JF Nail Nipper J-43",
           "handle": "jf-nail-nipper-j-43",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/JFNailNipperJ-43.jpg?v=1652464856",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/0000000000000000-resized_1_-Photoroom.png?v=1791309716",
           "price": 33,
           "badge": "SALE"
         }
