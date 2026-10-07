@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-07T04:19:52.991Z",
+  "scraped_at": "2026-10-07T11:18:33.414Z",
   "source": "https://samawa.ae",
   "count": 25022,
   "products": [
@@ -4577,10 +4577,10 @@
       "brand": "Al Majed Oud",
       "category_slug": "homme",
       "size": "100ml",
-      "price_retail": 125,
-      "price_gros": 125,
+      "price_retail": 199,
+      "price_gros": 119,
       "stock": 999,
-      "badge": "",
+      "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/6285091002216_-_Al_Majed_Oud_Rose_De_Mai_Eau_De_Parfum_For_Women_100ml_2.png?v=1787137930",
       "active": true,
       "_handle": "al-majed-oud-rose-de-mai-eau-de-parfum-for-women-100ml",
@@ -4603,10 +4603,10 @@
       "brand": "Al Majed Oud",
       "category_slug": "homme",
       "size": "150ml",
-      "price_retail": 125,
+      "price_retail": 199,
       "price_gros": 125,
       "stock": 999,
-      "badge": "",
+      "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/6285091002155_Al_Majed_Oud_Candy_Musk_Classic_Eau_De_Toilette_150ml.png?v=1787135934",
       "active": true,
       "_handle": "al-majed-oud-candy-musk-classic-eau-de-toilette-for-unisex-150ml",
@@ -4779,7 +4779,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 175,
-      "price_gros": 143.25,
+      "price_gros": 99,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Maahir_Honor.png?v=1786522827",
@@ -4793,6 +4793,7 @@
         "EDP",
         "Fragrance",
         "Men",
+        "Offer Product",
         "SCENT FEST",
         "summer collection",
         "Women"
@@ -11530,7 +11531,7 @@
       "price_gros": 145,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bluepouch.png?v=1783548594",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Guess_Gift_Set_For_Women_Floral-Photoroom.png?v=1791350033",
       "active": true,
       "_handle": "guess-gift-set-for-women-floral",
       "_sku": "85715349521",
@@ -20362,7 +20363,7 @@
       "price_gros": 444,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/CHLOEE.webp?v=1776844496",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Chloe_Le_Parfum_Edp_For_Women_Floral_100ml-Photoroom.png?v=1791352914",
       "active": true,
       "_handle": "chloe-le-parfum-edp-for-women-floral-100ml",
       "_sku": "3616306110885",
@@ -20581,6 +20582,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -20606,6 +20608,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -21925,6 +21928,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -21950,6 +21954,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -21976,6 +21981,7 @@
         "100ml",
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -22002,6 +22008,7 @@
         "100ml",
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -22027,6 +22034,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -22052,6 +22060,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -22140,7 +22149,7 @@
       "category_slug": "homme",
       "size": "90ml",
       "price_retail": 95,
-      "price_gros": 45,
+      "price_gros": 44,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Qaed_Al_Fursan_Untamed_Eau_de_Parfum_For_Unisex_90ml-resized-Photoroom.png?v=1787752453",
@@ -23229,7 +23238,7 @@
       "price_gros": 67,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bella.jpg?v=1774687071",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/El_Ganso_Ciao_Bella_Eau_de_Toilette_For_Women_Floral_75ml-Photoroom.png?v=1791368405",
       "active": true,
       "_handle": "el-ganso-ciao-bella-eau-de-toilette-for-women-floral-75ml",
       "_sku": "8434853000993",
@@ -25806,6 +25815,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -25831,6 +25841,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -25879,6 +25890,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -25904,6 +25916,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -30165,7 +30178,7 @@
       "price_gros": 204,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/patchouli-indonesia.jpg?v=1771688676",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/The_Merchant_of_Venice_Accordi_di_Profumo_Patchouli_Indonesia_Edp_For_Men_And_Women_Woody_30ml-Photoroom.png?v=1791367450",
       "active": true,
       "_handle": "the-merchant-of-venice-accordi-di-profumo-patchouli-indonesia-edp-for-men-and-women-woody-30ml",
       "_sku": "679602480772",
@@ -30763,7 +30776,7 @@
       "price_gros": 222,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/aoud-safran-marron.png?v=1771670565",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Montale_Aoud_Safran_Edp_For_Men_And_Women_Woody_50ml-Photoroom.png?v=1791368211",
       "active": true,
       "_handle": "montale-aoud-safran-edp-for-men-and-women-woody-50ml",
       "_sku": "3760260451109",
@@ -31073,6 +31086,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -31098,6 +31112,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -34049,6 +34064,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -34074,6 +34090,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -34810,6 +34827,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -36019,6 +36037,7 @@
         "50ml",
         "Amazing Creation",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -36046,6 +36065,7 @@
         "50ml",
         "Amazing Creation",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -36073,6 +36093,7 @@
         "50ml",
         "Amazing Creation",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -36099,6 +36120,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -36398,6 +36420,7 @@
         "100ml",
         "Amazing Creation",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -36518,6 +36541,7 @@
         "100ml",
         "Amazing Creation",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -36545,6 +36569,7 @@
         "100ml",
         "Amazing Creation",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -36571,6 +36596,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -36596,6 +36622,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -38241,6 +38268,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -38266,6 +38294,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -38646,6 +38675,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -38672,6 +38702,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -39906,10 +39937,10 @@
       "brand": "French Avenue",
       "category_slug": "homme",
       "size": "100ml",
-      "price_retail": 109,
+      "price_retail": 179,
       "price_gros": 109,
       "stock": 999,
-      "badge": "",
+      "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/French_Avenue_Eclair_Affair_Edp_For_Men_And_Women_Gourmand_100ml-Photoroom_1.png?v=1789879132",
       "active": true,
       "_handle": "french-avenue-eclair-affair-edp-for-men-and-women-gourmand-100ml",
@@ -40314,6 +40345,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -40340,6 +40372,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -40366,6 +40399,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -40392,6 +40426,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -43470,6 +43505,7 @@
         "50ml",
         "Amazing Creation",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -43520,6 +43556,7 @@
         "50ml",
         "Amazing Creation",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -43546,6 +43583,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -43595,6 +43633,7 @@
         "50ml",
         "Amazing Creation",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -43621,6 +43660,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -43831,6 +43871,7 @@
         "50ml",
         "Amazing Creation",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -43858,6 +43899,7 @@
         "50ml",
         "Amazing Creation",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -44603,6 +44645,7 @@
         "100ml",
         "Amazing Creation",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -44653,6 +44696,7 @@
         "100ml",
         "Amazing Creation",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -44680,6 +44724,7 @@
         "100ml",
         "Amazing Creation",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -44707,6 +44752,7 @@
         "100ml",
         "Amazing Creation",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -44802,6 +44848,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -44828,6 +44875,7 @@
         "100ml",
         "Amazing Creation",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -45178,6 +45226,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -45262,7 +45311,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 135,
-      "price_gros": 70,
+      "price_gros": 75,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/jasoor-resized_1.png?v=1787752177",
@@ -52454,7 +52503,7 @@
       "category_slug": "homme",
       "size": "75ml",
       "price_retail": 281,
-      "price_gros": 125,
+      "price_gros": 119,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Al_Majed_Oud_99_White_EDP_For_Unisex_75ml-Photoroom.png?v=1789793869",
@@ -53033,8 +53082,8 @@
       "brand": "Arabiyat",
       "category_slug": "homme",
       "size": "100ml",
-      "price_retail": 120,
-      "price_gros": 120,
+      "price_retail": 132,
+      "price_gros": 132,
       "stock": 999,
       "badge": "",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Arabiyat_Prestige_Marwa_Edp_For_Men_And_Women_Woody_Amber_100ml-Photoroom.png?v=1787482983",
@@ -54512,7 +54561,7 @@
       "price_gros": 315,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/2832786_23638890_19677684.jpg?v=1763305067",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Versace_Man_Eau_Fraiche_Extreme_Eau_De_Parfum_For_Men_-_Woody_Aromatic_Perfume_50ml-Photoroom_1.png?v=1791364624",
       "active": true,
       "_handle": "versace-man-eau-fraiche-extreme-eau-de-parfum-for-men-woody-aromatic-perfume-50ml",
       "_sku": "8011003890972",
@@ -61937,6 +61986,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -63714,7 +63764,7 @@
       "category_slug": "homme",
       "size": "75ml",
       "price_retail": 194,
-      "price_gros": 150,
+      "price_gros": 144,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Ahmed_Al_Maghribi_Niswah_Eau_de_Parfum_for_Women_75ml-Photoroom.png?v=1789652928",
@@ -68576,6 +68626,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -68602,6 +68653,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -68628,6 +68680,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -68679,6 +68732,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -68705,6 +68759,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -69865,6 +69920,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -69890,6 +69946,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -69916,6 +69973,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -69942,6 +70000,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -69967,6 +70026,7 @@
       "_sku": "6253488504728",
       "_tags": [
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -69995,6 +70055,7 @@
         "badge_ADD 3 PAY FOR 2",
         "badge_Best Seller",
         "Best Seller",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -70021,6 +70082,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -70046,6 +70108,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -70072,6 +70135,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -70099,6 +70163,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -70148,6 +70213,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -70173,6 +70239,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -70198,6 +70265,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -70225,6 +70293,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -70251,6 +70320,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -70277,6 +70347,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -70303,6 +70374,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -70328,6 +70400,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -70353,6 +70426,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -70379,6 +70453,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -70404,6 +70479,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -70428,6 +70504,7 @@
       "_sku": "6253488504520",
       "_tags": [
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -70478,6 +70555,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -70503,6 +70581,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -70553,6 +70632,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -70626,6 +70706,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -70652,6 +70733,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -70677,6 +70759,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -70703,6 +70786,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -70728,6 +70812,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -70754,6 +70839,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -70779,6 +70865,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -70804,6 +70891,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -70829,6 +70917,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -70854,6 +70943,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -70880,6 +70970,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -71027,6 +71118,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -71051,8 +71143,8 @@
       "_sku": "6253481502141",
       "_tags": [
         "50ml",
-        "Arabic Perfume",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "EDP",
         "Fragrance",
         "Men",
@@ -71143,6 +71235,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -71168,6 +71261,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -71194,6 +71288,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -71311,6 +71406,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -71337,6 +71433,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -71363,6 +71460,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -71389,6 +71487,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -71414,6 +71513,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -71640,6 +71740,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -71771,7 +71872,7 @@
       "price_gros": 69,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/uptown.webp?v=1754073680",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/5th_Avenue_Uptown_NYC_By_Elizabeth_Arden_Perfume_For_Women_Edp_75_ml-Photoroom.png?v=1791366635",
       "active": true,
       "_handle": "5th-avenue-uptown-nyc-by-elizabeth-arden-perfume-for-women-edp-75-ml",
       "_sku": "085805556877",
@@ -72697,7 +72798,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 168,
-      "price_gros": 72.19,
+      "price_gros": 76,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Maison_Alhambra_Jean_Lowe_Azure_EDP_For_Unisex_100ml-Photoroom.png?v=1787642004",
@@ -74175,7 +74276,7 @@
       "price_gros": 364,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/17.png?v=1752875755",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Precieuse_By_La_Manufacture_Perfume_For_Men_And_Women_Edp_100ml-Photoroom.png?v=1791352152",
       "active": true,
       "_handle": "precieuse-by-la-manufacture-perfume-for-men-and-women-edp-100ml",
       "_sku": "3700789700227",
@@ -77446,6 +77547,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -77591,6 +77693,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -77617,6 +77720,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -77642,6 +77746,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -77667,6 +77772,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -77694,6 +77800,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -77720,6 +77827,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -77746,6 +77854,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -77773,6 +77882,7 @@
         "badge_ADD 3 PAY FOR 2",
         "badge_Best Seller",
         "Best Seller",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -77798,6 +77908,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -77824,6 +77935,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -77849,6 +77961,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -77897,6 +78010,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -77922,6 +78036,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -77947,6 +78062,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -77972,6 +78088,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -77998,6 +78115,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -78306,6 +78424,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -78801,6 +78920,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -78874,6 +78994,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -78899,6 +79020,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -78925,6 +79047,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -78950,6 +79073,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -79396,6 +79520,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -79445,6 +79570,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -79470,6 +79596,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -79620,6 +79747,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -80479,6 +80607,7 @@
       "_tags": [
         "30ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -80506,6 +80635,7 @@
         "30ml",
         "badge_ADD 3 PAY FOR 2",
         "badge_Best Seller",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -80531,6 +80661,7 @@
       "_tags": [
         "30ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Men",
@@ -80556,6 +80687,7 @@
       "_tags": [
         "30ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -80581,6 +80713,7 @@
       "_tags": [
         "30ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -80638,6 +80771,7 @@
         "badge_ADD 3 PAY FOR 2",
         "badge_Best Seller",
         "Best Seller",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -80665,6 +80799,7 @@
       "_tags": [
         "30ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -80692,6 +80827,7 @@
       "_tags": [
         "30ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -80799,6 +80935,7 @@
       "_tags": [
         "30ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -80880,6 +81017,7 @@
       "_tags": [
         "30ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -80905,6 +81043,7 @@
       "_tags": [
         "30ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -80959,6 +81098,7 @@
         "30ml",
         "badge_ADD 3 PAY FOR 2",
         "badge_Best Seller",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -85816,6 +85956,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -97975,6 +98116,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -98001,6 +98143,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -98027,6 +98170,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -98052,6 +98196,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -98077,6 +98222,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -98103,6 +98249,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -98129,6 +98276,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -98154,6 +98302,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -98179,6 +98328,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -98205,6 +98355,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -98230,6 +98381,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -98256,6 +98408,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -98282,6 +98435,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -98308,6 +98462,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -98333,6 +98488,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -98358,6 +98514,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -98383,6 +98540,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -98408,6 +98566,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -98433,6 +98592,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -98459,6 +98619,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -98484,6 +98645,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -98510,6 +98672,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -98536,6 +98699,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -98561,6 +98725,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -98586,6 +98751,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -98612,6 +98778,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -98637,6 +98804,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -98662,6 +98830,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -98688,6 +98857,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -98714,6 +98884,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -98740,6 +98911,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -98765,6 +98937,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -98790,6 +98963,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -98816,6 +98990,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -98841,6 +99016,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -98866,6 +99042,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -98891,6 +99068,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -98916,6 +99094,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -98942,6 +99121,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -98968,6 +99148,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -104094,7 +104275,7 @@
       "price_gros": 148,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/8683608070846.jpg?v=1742267242",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Nishane_Mexican_Woods_Home_Diffuser_200ml_Refill-Photoroom.png?v=1791354186",
       "active": true,
       "_handle": "nishane-mexican-woods-home-diffuser-200ml-refill",
       "_sku": "8683608070846",
@@ -110429,6 +110610,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -110455,6 +110637,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -113223,6 +113406,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -121263,7 +121447,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 185,
-      "price_gros": 91,
+      "price_gros": 89,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Armaf_Uniq_Oud_Forever_Perfume_For_Unisex_EDP_100ml-Photoroom.png?v=1788797780",
@@ -121789,7 +121973,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 115,
-      "price_gros": 69.11,
+      "price_gros": 75,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Asad_Bourbon_Perfume_For_Unisex_EDP_100ml-Photoroom.png?v=1787588895",
@@ -130316,7 +130500,7 @@
       "category_slug": "homme",
       "size": "50ml",
       "price_retail": 123,
-      "price_gros": 72,
+      "price_gros": 69,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Ahmed_Al_Maghribi_Bidun_Esam_Perfume_For_Unisex_EDP_50ml-Photoroom.png?v=1788443548",
@@ -151639,6 +151823,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -155427,6 +155612,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -155453,6 +155639,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -155479,6 +155666,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -155505,6 +155693,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -155531,6 +155720,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -155556,6 +155746,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -155581,6 +155772,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -155607,6 +155799,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -155633,6 +155826,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -155658,6 +155852,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -155684,6 +155879,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -155710,6 +155906,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -155736,6 +155933,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -155762,6 +155960,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -155788,6 +155987,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -155813,6 +156013,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -155838,6 +156039,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -155864,6 +156066,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -155890,6 +156093,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -155916,6 +156120,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -155941,6 +156146,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -155967,6 +156173,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -155994,6 +156201,7 @@
         "badge_ADD 3 PAY FOR 2",
         "badge_Best Seller",
         "Best Seller",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -156020,6 +156228,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -156045,6 +156254,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -156070,6 +156280,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -156096,6 +156307,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -156122,6 +156334,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -156147,6 +156360,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -156173,6 +156387,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -156199,6 +156414,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -156225,6 +156441,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -156251,6 +156468,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -156277,6 +156495,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -156303,6 +156522,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -156328,6 +156548,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -156353,6 +156574,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -156379,6 +156601,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -156405,6 +156628,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -156431,6 +156655,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -156456,6 +156681,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -156482,6 +156708,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -156508,6 +156735,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -156533,6 +156761,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -156559,6 +156788,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -156586,6 +156816,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -156611,6 +156842,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -156637,6 +156869,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -156663,6 +156896,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -156689,6 +156923,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -156715,6 +156950,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -156740,6 +156976,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -156765,6 +157002,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -156790,6 +157028,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -156815,6 +157054,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -156840,6 +157080,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -156869,6 +157110,7 @@
         "badge_ADD 3 PAY FOR 2",
         "badge_Best Seller",
         "Best Seller",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -156895,6 +157137,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -156921,6 +157164,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -159404,10 +159648,10 @@
       "brand": "Armaf",
       "category_slug": "homme",
       "size": "250ml",
-      "price_retail": 16,
+      "price_retail": 34,
       "price_gros": 16,
       "stock": 999,
-      "badge": "",
+      "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Armaf_Club_De_Nuit_Imperiale_250ml_Body_Spray_For_Women-Photoroom.png?v=1789188738",
       "active": true,
       "_handle": "armaf-club-de-nuit-imperiale-250ml-body-spray-for-women",
@@ -159684,7 +159928,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 119,
-      "price_gros": 57.5,
+      "price_gros": 64,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Asad_Zanzibar_EDP_For_Men_100ml-Photoroom.png?v=1787808887",
@@ -163801,6 +164045,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -163826,6 +164071,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -163855,6 +164101,7 @@
         "badge_ADD 3 PAY FOR 2",
         "badge_Best Seller",
         "Best Seller",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -163881,6 +164128,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -163907,6 +164155,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -163933,6 +164182,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -163959,6 +164209,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -163984,6 +164235,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -164009,6 +164261,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -164034,6 +164287,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -164059,6 +164313,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -164084,6 +164339,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -164109,6 +164365,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -164136,6 +164393,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -164162,6 +164420,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -164794,6 +165053,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -167132,10 +167392,10 @@
       "brand": "Al Wataniah",
       "category_slug": "homme",
       "size": "100ml",
-      "price_retail": 33,
+      "price_retail": 79,
       "price_gros": 33,
       "stock": 999,
-      "badge": "",
+      "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Al_Wataniah_Shagaf_Al_Ward_EDP_100ml_Spray_For_Women-Photoroom.png?v=1788672509",
       "active": true,
       "_handle": "al-wataniah-shagaf-al-ward-edp-100ml-spray-for-women",
@@ -173618,6 +173878,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -173646,6 +173907,7 @@
         "100ml",
         "badge_ADD 3 PAY FOR 2",
         "badge_Best Seller",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -173673,6 +173935,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -173699,6 +173962,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -173725,6 +173989,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -173750,6 +174015,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -173844,6 +174110,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -173893,6 +174160,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -173943,6 +174211,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -173969,6 +174238,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -173996,6 +174266,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -174021,6 +174292,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -174046,6 +174318,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -174072,6 +174345,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -174098,6 +174372,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -174123,6 +174398,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -174148,6 +174424,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -174173,6 +174450,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -174198,6 +174476,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -174223,6 +174502,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -174248,6 +174528,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -174274,6 +174555,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -174371,6 +174653,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -174397,6 +174680,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -174448,6 +174732,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -174498,6 +174783,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -177990,6 +178276,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -179148,6 +179435,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -179173,6 +179461,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -179198,6 +179487,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -179224,6 +179514,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -179250,6 +179541,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -179275,6 +179567,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -179301,6 +179594,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -179327,6 +179621,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -179352,6 +179647,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -179378,6 +179674,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -179404,6 +179701,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -179430,6 +179728,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -179456,6 +179755,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -179482,6 +179782,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -179507,6 +179808,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -179532,6 +179834,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -179557,6 +179860,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -179583,6 +179887,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -179609,6 +179914,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -179634,6 +179940,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -179660,6 +179967,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -179801,6 +180109,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -179826,6 +180135,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -179852,6 +180162,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -179878,6 +180189,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -179904,6 +180216,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -179930,6 +180243,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -179980,6 +180294,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -180029,6 +180344,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -189925,10 +190241,10 @@
       "brand": "Afnan",
       "category_slug": "homme",
       "size": "100ml",
-      "price_retail": 48,
+      "price_retail": 83,
       "price_gros": 48,
       "stock": 999,
-      "badge": "",
+      "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Afnan_Zimaya_Magma_Love_EDP_For_Unisex_100ml-Photoroom.png?v=1789476203",
       "active": true,
       "_handle": "zimaya-magma-love-edp-for-unisex-100ml",
@@ -190971,6 +191287,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -190996,6 +191313,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -191021,6 +191339,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -191046,6 +191365,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -191072,6 +191392,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -191097,6 +191418,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -191122,6 +191444,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -191148,6 +191471,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -191174,6 +191498,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -191199,6 +191524,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -191225,6 +191551,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -191251,6 +191578,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -191276,6 +191604,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -191302,6 +191631,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -191327,6 +191657,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -191353,6 +191684,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -191378,6 +191710,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -191403,6 +191736,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -191428,6 +191762,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -191453,6 +191788,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -191479,6 +191815,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -191504,6 +191841,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -192899,6 +193237,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -192925,6 +193264,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -192951,6 +193291,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -192976,6 +193317,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -193002,6 +193344,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -193028,6 +193371,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -193053,6 +193397,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -194073,6 +194418,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -194098,6 +194444,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -194124,6 +194471,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -194545,7 +194893,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 83,
-      "price_gros": 67,
+      "price_gros": 66,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LattafaBadeeAlOudSublimeEdp100ml-resized-Photoroom.png?v=1787749878",
@@ -195245,7 +195593,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 115,
-      "price_gros": 80,
+      "price_gros": 81,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rasasi_Hawas_Ice_For_Him_EDP_100ml.png?v=1787126060",
@@ -197256,6 +197604,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -209272,7 +209621,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 93,
-      "price_gros": 55,
+      "price_gros": 63,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rave_Now_White_Perfume_For_Unisex_EDP_100ml-Photoroom.png?v=1788581830",
@@ -211934,6 +212283,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -211959,6 +212309,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -211984,6 +212335,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -212010,6 +212362,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -212035,6 +212388,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -212060,6 +212414,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -216650,6 +217005,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -216676,6 +217032,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -216725,6 +217082,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -216751,6 +217109,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -216777,6 +217136,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -216803,6 +217163,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -216829,6 +217190,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -216855,6 +217217,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -217425,6 +217788,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -217451,6 +217815,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -217476,6 +217841,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -217503,6 +217869,7 @@
         "100ml",
         "badge_ADD 3 PAY FOR 2",
         "badge_Best Seller",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -217529,6 +217896,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -217555,6 +217923,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -217581,6 +217950,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -217607,6 +217977,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -217686,6 +218057,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -217711,6 +218083,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -217804,6 +218177,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -217830,6 +218204,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -217856,6 +218231,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -217881,6 +218257,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -217906,6 +218283,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -217932,6 +218310,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -217958,6 +218337,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -217984,6 +218364,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -218010,6 +218391,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -218036,6 +218418,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -218062,6 +218445,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -218088,6 +218472,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -218114,6 +218499,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -218139,6 +218525,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -218212,6 +218599,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -218237,6 +218625,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -218285,6 +218674,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -218311,6 +218701,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -218337,6 +218728,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -218362,6 +218754,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -218387,6 +218780,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -218413,6 +218807,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -218439,6 +218834,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -218465,6 +218861,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -218491,6 +218888,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -218516,6 +218914,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -218566,8 +218965,8 @@
       "_sku": "6253481500086",
       "_tags": [
         "50ml",
-        "Arabic Perfume",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -218640,6 +219039,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -218666,6 +219066,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -218691,6 +219092,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -218785,6 +219187,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -218834,6 +219237,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -218883,6 +219287,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -218908,6 +219313,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -219167,6 +219573,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -219192,6 +219599,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -219217,6 +219625,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -219242,6 +219651,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -219267,6 +219677,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -219293,6 +219704,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -220030,6 +220442,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -225935,6 +226348,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -225960,6 +226374,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -225986,6 +226401,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -226012,6 +226428,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -226037,6 +226454,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -226063,6 +226481,7 @@
         "100ml",
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -226089,6 +226508,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -226115,6 +226535,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -226140,6 +226561,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -226165,6 +226587,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -226191,6 +226614,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -226219,6 +226643,7 @@
         "badge_ADD 3 PAY FOR 2",
         "badge_Best Seller",
         "Best Seller",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -226245,6 +226670,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -226271,6 +226697,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -226296,6 +226723,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -226321,6 +226749,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -226346,6 +226775,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -226372,6 +226802,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -226398,6 +226829,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -226424,6 +226856,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -226450,6 +226883,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -226476,6 +226910,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -226502,6 +226937,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -226527,6 +226963,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -226552,6 +226989,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -226578,6 +227016,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -226604,6 +227043,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -226630,6 +227070,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -226656,6 +227097,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -226681,6 +227123,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -226794,6 +227237,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -226820,6 +227264,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -226846,6 +227291,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -226871,6 +227317,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -226896,6 +227343,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -226921,6 +227369,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -226946,6 +227395,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -226972,6 +227422,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -226998,6 +227449,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -227024,6 +227476,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -227050,6 +227503,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -227075,6 +227529,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -227100,6 +227555,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -227125,6 +227581,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -227150,6 +227607,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -227176,6 +227634,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -227202,6 +227661,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -227227,6 +227687,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -227252,6 +227713,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -227278,6 +227740,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -227304,6 +227767,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -227329,6 +227793,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -227354,6 +227819,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -227379,6 +227845,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -227404,6 +227871,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -227429,6 +227897,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -227454,6 +227923,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -227480,6 +227950,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -227506,6 +227977,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "Fragrance",
         "Men",
@@ -227531,6 +228003,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "Fragrance",
         "Men",
@@ -227579,6 +228052,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -227604,6 +228078,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -227629,6 +228104,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -227655,6 +228131,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -227681,6 +228158,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -227706,6 +228184,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -227731,6 +228210,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -227756,6 +228236,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -234859,6 +235340,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -235370,6 +235852,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -235395,6 +235878,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -235597,6 +236081,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -235947,6 +236432,7 @@
         "badge_ADD 3 PAY FOR 2",
         "badge_Best Seller",
         "Best Seller",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -235977,6 +236463,7 @@
         "badge_Best Seller",
         "badge_SCENT FEST",
         "Best Seller",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -236005,6 +236492,7 @@
         "badge_ADD 3 PAY FOR 2",
         "badge_Best Seller",
         "Best Seller",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -236030,6 +236518,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -236056,6 +236545,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -236082,6 +236572,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -236107,6 +236598,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -236132,6 +236624,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -236159,6 +236652,7 @@
         "50ml",
         "autumn",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -236184,6 +236678,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -236210,6 +236705,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -236235,6 +236731,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -236262,6 +236759,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -236288,6 +236786,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -236313,6 +236812,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -236339,6 +236839,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -236365,6 +236866,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -236391,6 +236893,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -237359,6 +237862,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -237478,6 +237982,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -238968,7 +239473,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 81,
-      "price_gros": 47,
+      "price_gros": 57,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Maison_AlHambra_Delilah_Pour_Femme_Perfume_For_Women_EDP_100ml-Photoroom.png?v=1787649709",
@@ -241234,6 +241739,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -241260,6 +241766,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -241286,6 +241793,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -241311,6 +241819,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -241338,6 +241847,7 @@
         "badge_ADD 3 PAY FOR 2",
         "badge_Best Seller",
         "Best Seller",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -241366,6 +241876,7 @@
         "badge_ADD 3 PAY FOR 2",
         "badge_Best Seller",
         "Best Seller",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -241392,6 +241903,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -241417,6 +241929,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -241443,6 +241956,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -241469,6 +241983,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -241494,6 +242009,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -241519,6 +242035,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -241546,6 +242063,7 @@
         "100ml",
         "autumn",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -241572,6 +242090,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -241597,6 +242116,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -241623,6 +242143,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -241648,6 +242169,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -241675,6 +242197,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -241701,6 +242224,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -241727,6 +242251,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -241752,6 +242277,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -241778,6 +242304,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -241804,6 +242331,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -241830,6 +242358,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -241856,6 +242385,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -242508,6 +243038,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -243302,6 +243833,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -243797,6 +244329,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -243822,6 +244355,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -243848,6 +244382,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -250046,6 +250581,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -251306,7 +251842,7 @@
       "category_slug": "homme",
       "size": "75ml",
       "price_retail": 72,
-      "price_gros": 26.6,
+      "price_gros": 30,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/royale-Photoroom.png?v=1787748648",
@@ -254288,7 +254824,7 @@
       "price_gros": 362,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/MarcJacobsPerfectIntense_W_Edp100Ml.jpg?v=1664470577",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Marc_Jacobs_Perfect_Intense_Perfume_For_Women_EDP_100ml-Photoroom.png?v=1791353791",
       "active": true,
       "_handle": "marc-jacobs-perfect-intense-perfume-for-women-edp-100ml",
       "_sku": "3616302779994",
@@ -273718,6 +274254,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -275284,6 +275821,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -285776,6 +286314,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -285802,6 +286341,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -285828,6 +286368,7 @@
         "100ml",
         "badge_ADD 3 PAY FOR 2",
         "badge_Best Seller",
+        "Branded Perfumes",
         "Buy More Save More",
         "Fragrance",
         "Men",
@@ -288929,7 +289470,7 @@
       "price_gros": 246,
       "stock": 999,
       "badge": "SALE",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ElieSaabLeParfumLumiereEDPForWomen90ml.jpg?v=1652246060",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Elie_Saab_Le_Parfum_Lumiere_EDP_For_Women_90ml-Photoroom.png?v=1791350942",
       "active": true,
       "_handle": "elie-saab-le-parfum-lumiere-edp-for-women-90ml",
       "_sku": "7640233340721",
@@ -313327,7 +313868,7 @@
       "price_gros": 160,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/SalvatoreFerragamoSavaneDiSeta_U_Edp100Ml.jpg?v=1646393641",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Salvatore_Ferragamo_Savane_Di_Seta_Perfume_For_Unisex_EDP_100ml-Photoroom.png?v=1791367096",
       "active": true,
       "_handle": "salvatore-ferragamo-savane-di-seta-perfume-for-unisex-edp-100ml",
       "_sku": "8052464890354",
@@ -315164,8 +315705,8 @@
       "_sku": "6253481592142",
       "_tags": [
         "100ml",
-        "Arabic Perfume",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "EDP",
         "Fragrance",
         "Men",
@@ -315190,8 +315731,8 @@
       "_sku": "6253481590087 ",
       "_tags": [
         "100ml",
-        "Arabic Perfume",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -321308,8 +321849,8 @@
       "_sku": "6253481590407",
       "_tags": [
         "100ml",
-        "Arabic Perfume",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "EDP",
         "Fragrance",
         "Men",
@@ -321547,6 +322088,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -322764,7 +323306,7 @@
       "price_gros": 328,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/MontalePureLove_U_Edp100Ml_D.jpg?v=1643471812",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Montale_Pure_Love_Perfume_For_Unisex_EDP_100ml-Photoroom.png?v=1791354384",
       "active": true,
       "_handle": "montale-pure-love-perfume-for-unisex-edp-100ml",
       "_sku": "3760260457118",
@@ -322788,7 +323330,7 @@
       "price_gros": 343,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/MontalePatchouliLeaves_U_Edp100Ml.jpg?v=1643448010",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Montale_Patchouli_Leaves_Perfume_For_Unisex_EDP_100ml-Photoroom.png?v=1791367911",
       "active": true,
       "_handle": "montale-patchouli-leaves-perfume-for-unisex-edp-100ml",
       "_sku": "3760260452953",
@@ -322836,7 +323378,7 @@
       "price_gros": 352,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/MontaleNepalAoud_U_Edp100ml.jpg?v=1643398173",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Montale_Nepal_Aoud_Perfume_For_Unisex_EDP_100ml-Photoroom.png?v=1791352001",
       "active": true,
       "_handle": "montale-nepal-aoud-perfume-for-unisex-edp-100ml",
       "_sku": "3760260451949",
@@ -339854,7 +340396,7 @@
       "price_gros": 343,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/MontaleAoudForest_U_Edp100MlFr.jpg?v=1634451904",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Montale_Aoud_Forest_Perfume_For_Unisex_EDP_100ml-Photoroom.png?v=1791350251",
       "active": true,
       "_handle": "montale-aoud-forest-perfume-for-unisex-edp-100ml",
       "_sku": "3760260450157",
@@ -359618,7 +360160,7 @@
       "price_gros": 552,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/BDKPARFUMSBOUQUETDEHONGRIE_W_EDP100mlFR.jpg?v=1628936014",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/BDK_PARFUMS_BOUQUET_DE_HONGRIE_Perfume_for_women_EDP_100ml-Photoroom.png?v=1791349436",
       "active": true,
       "_handle": "bdk-parfums-bouquet-de-hongrie-w-edp-100-ml-fr",
       "_sku": "3760035450009",
@@ -361579,6 +362121,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -361659,6 +362202,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -362009,6 +362553,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -372280,7 +372825,7 @@
       "category_slug": "homme",
       "size": "20ml",
       "price_retail": 49,
-      "price_gros": 27.89,
+      "price_gros": 28.75,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Afnan_Dehn_al_Oudh_Abiyad_perfume_oil_Attar_for_men_and_women_20ML-Photoroom_93682ba7-ca8a-465a-a73c-3e05ef4523e5.png?v=1788765687",
@@ -374756,7 +375301,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 105,
-      "price_gros": 65,
+      "price_gros": 63,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/game-resized-Photoroom.png?v=1790369686",
@@ -376958,6 +377503,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Samawa Collection"
@@ -393679,6 +394225,7 @@
         "badge_ADD 3 PAY FOR 2",
         "badge_Best Seller",
         "Best Seller",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -393894,6 +394441,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Men",
@@ -410842,6 +411390,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -411469,6 +412018,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -411496,6 +412046,7 @@
         "badge_ADD 3 PAY FOR 2",
         "badge_Best Seller",
         "Best Seller",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -411523,6 +412074,7 @@
         "50ml",
         "badge_ADD 3 PAY FOR 2",
         "Best Seller",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Samawa Collection"
@@ -411547,6 +412099,7 @@
         "50ml",
         "badge_ADD 3 PAY FOR 2",
         "Best Seller",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Samawa Collection"
@@ -411594,6 +412147,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -411620,6 +412174,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Samawa Collection"
@@ -411643,6 +412198,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Samawa Collection"
@@ -411668,6 +412224,7 @@
         "badge_ADD 3 PAY FOR 2",
         "badge_Best Seller",
         "Best Seller",
+        "Branded Perfumes",
         "Buy More Save More",
         "Fragrance",
         "Men",
@@ -411692,6 +412249,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -411832,6 +412390,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Samawa Collection"
@@ -413597,7 +414156,7 @@
       "price_gros": 29,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/663350055788.jpg?v=1624527387",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Barbie_Edt_30ml-Photoroom.png?v=1791351370",
       "active": true,
       "_handle": "barbie-edt-30ml",
       "_sku": "663350055788",
@@ -426362,6 +426921,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -426844,6 +427404,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -428383,6 +428944,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -428435,6 +428997,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -430741,7 +431304,7 @@
       "price_gros": 192,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/love3.jpg?v=1624515682",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/CHLOE_LOVE_STORY_PERFUME_FOR_WOMEN_EDP_30_ml-Photoroom.png?v=1791368615",
       "active": true,
       "_handle": "chloe-love-story-perfume-for-women-edp-30-ml",
       "_sku": "3607342635791",
@@ -440005,6 +440568,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -440147,6 +440711,7 @@
         "badge_ADD 3 PAY FOR 2",
         "badge_Best Seller",
         "Best Seller",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -440175,6 +440740,7 @@
         "badge_ADD 3 PAY FOR 2",
         "badge_Best Seller",
         "Best Seller",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -440277,6 +440843,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Samawa Collection"
@@ -440489,6 +441056,7 @@
         "50ml",
         "badge_ADD 3 PAY FOR 2",
         "badge_Best Seller",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -440666,6 +441234,7 @@
       "_tags": [
         "100ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "EDP",
         "Men",
@@ -440741,6 +441310,7 @@
       "_tags": [
         "50ml",
         "badge_ADD 3 PAY FOR 2",
+        "Branded Perfumes",
         "Buy More Save More",
         "Fragrance",
         "Men",
@@ -471499,7 +472069,7 @@
       "price_gros": 111,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/banana_republic_90_pure_white_eau_de_parfum_spray_75_ml.jpg?v=1624488699",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/BANANA_REPUBLIC_90_Pure_White_Eau_De_Parfum_Spray_75_ml-Photoroom.png?v=1791349826",
       "active": true,
       "_handle": "banana-republic-90-pure-white-eau-de-parfum-spray-75-ml",
       "_sku": "840797116405",
@@ -505751,7 +506321,7 @@
       "price_gros": 296,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/s-l1600dqwas.jpg?v=1624466317",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/MONTALE_AOUD_AMBRE_EDP_100ML-Photoroom.png?v=1791350425",
       "active": true,
       "_handle": "montale-aoud-ambre-edp-100ml",
       "_sku": "3760260450539",
@@ -514536,7 +515106,7 @@
       "price_gros": 296,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/5060412110211.jpg?v=1624460352",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Thomas_No.2_Seve_Nouvelle_EDP_Perfume_For_Women_100ml-Photoroom.png?v=1791350645",
       "active": true,
       "_handle": "thomas-no-2-seve-nouvelle-edp-perfume-for-women-100ml",
       "_sku": "5060412110211",
@@ -528848,7 +529418,7 @@
       "price_gros": 153,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/667539831149.jpg?v=1633424224",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Victoria_s_Secret_Xo_Perfume_For_Women_EDP_50ml-Photoroom.png?v=1791354776",
       "active": true,
       "_handle": "victorias-secret-xo-perfume-for-women-edp-50ml",
       "_sku": "667539831149",
@@ -533713,7 +534283,7 @@
       "price_gros": 177,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/boubn006a01qq.jpg?v=1624448093",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Place_Vendome_by_Boucheron_for_Women_Eau_de_Parfum_100ml-Photoroom.png?v=1791349690",
       "active": true,
       "_handle": "place-vendome-by-boucheron-for-women-eau-de-parfum-100ml",
       "_sku": "3386460057059",
@@ -539780,7 +540350,7 @@
       "price_gros": 362,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/serge_lutens_la_fille_de_berlin_eau_de_parfum_spray_100ml.jpg?v=1624443494",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/fille-d-berlin-edp-3700358123587-1-Photoroom.png?v=1791353984",
       "active": true,
       "_handle": "serge-lutens-la-fille-de-berlin-eau-de-parfum-spray-100ml",
       "_sku": "3700358123587",
@@ -552573,7 +553143,7 @@
       "price_gros": 418,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/04175464_zi.jpg?v=1624433603",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/CHANEL_CHANCE_EAU_FRAICHE_PARFUM_HAIRMIST_FOR_WOMEN_35_ml-Photoroom.png?v=1791367245",
       "active": true,
       "_handle": "chanel-chance-eau-fraiche-parfum-hairmist-for-women-35-ml",
       "_sku": "3145891369908",
@@ -558697,7 +559267,7 @@
       "price_gros": 795,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/415o7mqaorl.jpg?v=1624429297",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/CHANEL_COCO_MADEMOISELLE_FOR_WOMEN_EDT_100_ml-Photoroom.png?v=1791351166",
       "active": true,
       "_handle": "chanel-coco-mademoiselle-for-women-edt-100-ml",
       "_sku": "3145891164602",
@@ -569589,7 +570159,7 @@
       "category_slug": "homme",
       "size": "75ml",
       "price_retail": 112,
-      "price_gros": 79,
+      "price_gros": 77,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/wish-resized-Photoroom.png?v=1789493483",
@@ -575936,7 +576506,7 @@
       "price_gros": 374,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/lillipur.jpg?v=1624404132",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lillipur_by_Tiziana_Terenzi_for_Men_-_Extrait_De_Parfum_100ml-Photoroom.png?v=1791352421",
       "active": true,
       "_handle": "lillipur-by-tiziana-terenzi-for-men-extrait-de-parfum-100ml",
       "_sku": "8016741122323",
@@ -581163,7 +581733,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 85,
-      "price_gros": 48,
+      "price_gros": 51,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Awraq_Al_Oud_Perfume_for_Unisex_EDP_100ml-Photoroom.png?v=1788274366",
