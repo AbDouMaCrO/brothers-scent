@@ -1,52 +1,52 @@
 {
-  "generated_at": "2026-10-09T01:49:51.104Z",
-  "total_brands": 887,
+  "generated_at": "2026-10-09T15:36:18.772Z",
+  "total_brands": 886,
   "brands": [
     {
       "name": "Amazing Creation",
       "slug": "amazing-creation",
-      "count": 1119,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Grey_Vetiver_Perfume_For_Men_EDP_50ml_PFB-516_1.png?v=1788500758",
+      "count": 1125,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Babe_Cat_Perfume_For_Unisex_EDP_100ml_1.png?v=1791547453",
       "preview": [
         {
-          "name": "Amazing Creation Grey Vetiver Perfume For Men EDP 50ml PFB-516",
-          "handle": "amazing-creation-grey-vetiver-perfume-for-men-edp-50ml-pfb-516",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Grey_Vetiver_Perfume_For_Men_EDP_50ml_PFB-516_1.png?v=1788500758",
+          "name": "Amazing Creation Babe Cat Perfume For Unisex EDP PFB-523",
+          "handle": "amazing-creation-babe-cat-perfume-for-unisex-edp-pfb-523",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Babe_Cat_Perfume_For_Unisex_EDP_100ml_1.png?v=1791547453",
           "price": 55,
           "badge": ""
         },
         {
-          "name": "Amazing Creation Grey Vetiver Perfume For Men EDP 50ml PFB-516",
-          "handle": "amazing-creation-grey-vetiver-perfume-for-men-edp-50ml-pfb-516",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Grey_Vetiver_Perfume_For_Men_EDP_50ml_PFB-516_1.png?v=1788500758",
+          "name": "Amazing Creation Babe Cat Perfume For Unisex EDP PFB-523",
+          "handle": "amazing-creation-babe-cat-perfume-for-unisex-edp-pfb-523",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Babe_Cat_Perfume_For_Unisex_EDP_100ml_1.png?v=1791547453",
           "price": 95,
           "badge": ""
         },
         {
-          "name": "Amazing Creation Insolance Perfume For Women EDP PFB-110 50ml",
-          "handle": "amazing-creation-insolance-perfume-for-women-edp-pfb-110-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Insolance_Perfume_For_Women_EDP_PFB-110_50ml_1.1.png?v=1789043114",
+          "name": "Amazing Creation Qulquas Flower Perfume For Women EDP PFB-522",
+          "handle": "amazing-creation-qulquas-flower-perfume-for-women-edp-pfb-522",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Qulquas_Flower_Perfume_For_Women_EDP_50ml.png?v=1791546514",
           "price": 55,
           "badge": ""
         },
         {
-          "name": "Amazing Creation Insolance Perfume For Women EDP PFB-110 100ml",
-          "handle": "amazing-creation-insolance-perfume-for-women-edp-pfb-110-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Insolance_Perfume_For_Women_EDP_PFB-110_100ml_1.png?v=1789115426",
+          "name": "Amazing Creation Qulquas Flower Perfume For Women EDP PFB-522",
+          "handle": "amazing-creation-qulquas-flower-perfume-for-women-edp-pfb-522",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Qulquas_Flower_Perfume_For_Women_EDP_50ml.png?v=1791546514",
           "price": 95,
           "badge": ""
         },
         {
-          "name": "Amazing Creation Sindbad Perfume For Unisex EDP PFB-515",
-          "handle": "amazing-creation-sindbad-perfume-for-unisex-edp-pfb-515",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Sindbad_Perfume_For_Unisex_EDP_100ml_PFB-515.png?v=1787394011",
+          "name": "Amazing Creation Cadan Perfume For Unisex EDP PFB-521",
+          "handle": "amazing-creation-cadan-perfume-for-unisex-edp-pfb-521",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Cadan_Perfume_For_Unisex_EDP_100ml_1.png?v=1791545701",
           "price": 55,
           "badge": ""
         },
         {
-          "name": "Amazing Creation Sindbad Perfume For Unisex EDP PFB-515",
-          "handle": "amazing-creation-sindbad-perfume-for-unisex-edp-pfb-515",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Sindbad_Perfume_For_Unisex_EDP_100ml_PFB-515.png?v=1787394011",
+          "name": "Amazing Creation Cadan Perfume For Unisex EDP PFB-521",
+          "handle": "amazing-creation-cadan-perfume-for-unisex-edp-pfb-521",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Cadan_Perfume_For_Unisex_EDP_100ml_1.png?v=1791545701",
           "price": 95,
           "badge": ""
         }
@@ -1603,6 +1603,56 @@
       ]
     },
     {
+      "name": "Lancome",
+      "slug": "lancome",
+      "count": 179,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ooo-resized-Photoroom_029ab83c-5ae3-4f5d-b603-aec069b7b192.png?v=1787431370",
+      "preview": [
+        {
+          "name": "Lancôme O Oui Eau de Toilette, Citrus Fragrance For Women And Men 100ml",
+          "handle": "lancome-o-oui-eau-de-toilette-citrus-fragrance-for-women-and-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ooo-resized-Photoroom_029ab83c-5ae3-4f5d-b603-aec069b7b192.png?v=1787431370",
+          "price": 370,
+          "badge": ""
+        },
+        {
+          "name": "Lancôme Idôle Power Eau de Parfum Intense, Floral Fruity Fragrance For Women 25ml",
+          "handle": "lancome-idole-power-eau-de-parfum-intense-floral-fruity-fragrance-for-women-25ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/lancome-resized-Photoroom.png?v=1787430786",
+          "price": 278,
+          "badge": ""
+        },
+        {
+          "name": "Lancome La Vie Est Belle Vanille Nude Eau De Parfum For Women-Oriental Floral  Perfume 50ml",
+          "handle": "lancome-la-vie-est-belle-vanille-nude-eau-de-parfum-for-women-oriental-floral-perfume-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/53847_NA_1__12493-Photoroom.png?v=1785743796",
+          "price": 396,
+          "badge": ""
+        },
+        {
+          "name": "Lancome Idole L'EAU De Parfum Travel For Women- Chypre Floral Perfume 10ml",
+          "handle": "lancome-idole-leau-de-parfum-travel-for-women-chypre-floral-perfume-10ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ALT0-3614273549745-PACKSHOT-Photoroom.png?v=1785742380",
+          "price": 64,
+          "badge": ""
+        },
+        {
+          "name": "Lancôme Idôle L'Eau de Parfum, Chypre Floral Fragrance For Women 100ml - Refill",
+          "handle": "lancome-idole-leau-de-parfum-for-women-floral-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lanc_me_Id_le_L_Eau_de_Parfum_Chypre_Floral_Fragrance_For_Women_100ml_-_Refill-Photoroom.png?v=1786608416",
+          "price": 379,
+          "badge": ""
+        },
+        {
+          "name": "Lancôme Trésor La Nuit Vanille Noire Eau de Parfum Pour Femme, Oriental Vanillé Fragrance For Women 50ml",
+          "handle": "lancome-tresor-la-nuit-vanille-noire-eau-de-parfum-for-women-amber-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/brown-removebg-preview.png?v=1784894804",
+          "price": 389,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Amouage",
       "slug": "amouage",
       "count": 179,
@@ -1648,56 +1698,6 @@
           "handle": "amouage-line-618-edp-for-men-and-women-woody-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/AmouageLine618Bottle.webp?v=1772292219",
           "price": 1745,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Lancome",
-      "slug": "lancome",
-      "count": 178,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ooo-resized-Photoroom_029ab83c-5ae3-4f5d-b603-aec069b7b192.png?v=1787431370",
-      "preview": [
-        {
-          "name": "Lancôme O Oui Eau de Toilette, Citrus Fragrance For Women And Men 100ml",
-          "handle": "lancome-o-oui-eau-de-toilette-citrus-fragrance-for-women-and-men-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ooo-resized-Photoroom_029ab83c-5ae3-4f5d-b603-aec069b7b192.png?v=1787431370",
-          "price": 370,
-          "badge": ""
-        },
-        {
-          "name": "Lancôme Idôle Power Eau de Parfum Intense, Floral Fruity Fragrance For Women 25ml",
-          "handle": "lancome-idole-power-eau-de-parfum-intense-floral-fruity-fragrance-for-women-25ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/lancome-resized-Photoroom.png?v=1787430786",
-          "price": 278,
-          "badge": ""
-        },
-        {
-          "name": "Lancome La Vie Est Belle Vanille Nude Eau De Parfum For Women-Oriental Floral  Perfume 50ml",
-          "handle": "lancome-la-vie-est-belle-vanille-nude-eau-de-parfum-for-women-oriental-floral-perfume-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/53847_NA_1__12493-Photoroom.png?v=1785743796",
-          "price": 396,
-          "badge": ""
-        },
-        {
-          "name": "Lancome Idole L'EAU De Parfum Travel For Women- Chypre Floral Perfume 10ml",
-          "handle": "lancome-idole-leau-de-parfum-travel-for-women-chypre-floral-perfume-10ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ALT0-3614273549745-PACKSHOT-Photoroom.png?v=1785742380",
-          "price": 64,
-          "badge": ""
-        },
-        {
-          "name": "Lancôme Idôle L'Eau de Parfum, Chypre Floral Fragrance For Women 100ml - Refill",
-          "handle": "lancome-idole-leau-de-parfum-for-women-floral-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lanc_me_Id_le_L_Eau_de_Parfum_Chypre_Floral_Fragrance_For_Women_100ml_-_Refill-Photoroom.png?v=1786608416",
-          "price": 379,
-          "badge": ""
-        },
-        {
-          "name": "Lancôme Trésor La Nuit Vanille Noire Eau de Parfum Pour Femme, Oriental Vanillé Fragrance For Women 50ml",
-          "handle": "lancome-tresor-la-nuit-vanille-noire-eau-de-parfum-for-women-amber-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/brown-removebg-preview.png?v=1784894804",
-          "price": 389,
           "badge": ""
         }
       ]
@@ -4425,7 +4425,7 @@
         {
           "name": "Serge Lutens At Home Mesk El Laïl Le Jardin Arabe Home Perfume Spray White Floral 100ml",
           "handle": "serge-lutens-at-home-mesk-el-lail-le-jardin-arabe-home-perfume-spray-white-floral-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/mesk.png?v=1783530756",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Serge_Lutens_At_Home_Mesk_El_Lail_Le_Jardin_Arabe_Home_Perfume_Spray_White_Floral_100ml-Photoroom.png?v=1791559015",
           "price": 111,
           "badge": ""
         },
@@ -4603,59 +4603,9 @@
       ]
     },
     {
-      "name": "Davidoff",
-      "slug": "davidoff",
-      "count": 71,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Davidoff_Cool_Elixir_Parfum_Intense_Oriental_Fougere_Fragrance_For_Women_50ml_1.jpg?v=1790332692",
-      "preview": [
-        {
-          "name": "Davidoff Cool Elixir Parfum Intense, Oriental Fougere Fragrance For Women 50ml",
-          "handle": "davidoff-cool-elixir-parfum-intense-for-women-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Davidoff_Cool_Elixir_Parfum_Intense_Oriental_Fougere_Fragrance_For_Women_50ml_1.jpg?v=1790332692",
-          "price": 158,
-          "badge": ""
-        },
-        {
-          "name": "Davidoff Cool Water Intense Eau De Parfum For Men - Amber Perfume 40ml",
-          "handle": "davidoff-cool-water-intense-eau-de-parfum-for-men-amber-perfume-40ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cool-resized-Photoroom_692e61c3-1c3a-48bb-bbbc-821ccf59cc9e.png?v=1790714209",
-          "price": 84,
-          "badge": ""
-        },
-        {
-          "name": "Davidoff Cool Water Parfum For Men - Earthy & Woody Perfume 50ml",
-          "handle": "davidoff-cool-water-parfum-for-men-earthy-woody-perfume-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/davidoff_cool_water_for_men_parfum_50ml_2_jpg.webp?v=1766826297",
-          "price": 111,
-          "badge": ""
-        },
-        {
-          "name": "Davidoff Cool Water Oceanic Edition For Her Eau De Toilette For Women - Floral Aquatic Perfume 100ml",
-          "handle": "davidoff-cool-water-oceanic-edition-for-her-eau-de-toilette-for-women-floral-aquatic-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616305009005.jpg?v=1760522201",
-          "price": 140,
-          "badge": ""
-        },
-        {
-          "name": "Davidoff Cool Water Oceanic Edition Eau De Toilette For Men - Aromatic Aquatic Perfume 125ml",
-          "handle": "davidoff-cool-water-oceanic-edition-eau-de-toilette-for-men-aromatic-aquatic-perfume-125ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616305008879.jpg?v=1760519415",
-          "price": 135,
-          "badge": ""
-        },
-        {
-          "name": "Davidoff Cool Elixir Oud Aromatique Parfum Intense For Men - Oriental Fougere Perfume 50ml",
-          "handle": "davidoff-cool-elixir-oud-aromatique-parfum-intense-for-men-oriental-fougere-perfume-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cool-resized-Photoroom_70c8c6e9-ad9a-45a1-8fb7-cab7a657a641.png?v=1787674702",
-          "price": 158,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Lalique",
       "slug": "lalique",
-      "count": 71,
+      "count": 72,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/7640171194837-_1__1.jpg?v=1757655157",
       "preview": [
         {
@@ -4698,6 +4648,56 @@
           "handle": "lalique-soleil-vibrant-perfume-for-women-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LaliqueSoleilVibrant100MlEdp.jpg?v=1731778634",
           "price": 303,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Davidoff",
+      "slug": "davidoff",
+      "count": 71,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Davidoff_Cool_Elixir_Parfum_Intense_Oriental_Fougere_Fragrance_For_Women_50ml-Photoroom.png?v=1791546983",
+      "preview": [
+        {
+          "name": "Davidoff Cool Elixir Parfum Intense, Oriental Fougere Fragrance For Women 50ml",
+          "handle": "davidoff-cool-elixir-parfum-intense-for-women-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Davidoff_Cool_Elixir_Parfum_Intense_Oriental_Fougere_Fragrance_For_Women_50ml-Photoroom.png?v=1791546983",
+          "price": 158,
+          "badge": ""
+        },
+        {
+          "name": "Davidoff Cool Water Intense Eau De Parfum For Men - Amber Perfume 40ml",
+          "handle": "davidoff-cool-water-intense-eau-de-parfum-for-men-amber-perfume-40ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cool-resized-Photoroom_692e61c3-1c3a-48bb-bbbc-821ccf59cc9e.png?v=1790714209",
+          "price": 84,
+          "badge": ""
+        },
+        {
+          "name": "Davidoff Cool Water Parfum For Men - Earthy & Woody Perfume 50ml",
+          "handle": "davidoff-cool-water-parfum-for-men-earthy-woody-perfume-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/davidoff_cool_water_for_men_parfum_50ml_2_jpg.webp?v=1766826297",
+          "price": 111,
+          "badge": ""
+        },
+        {
+          "name": "Davidoff Cool Water Oceanic Edition For Her Eau De Toilette For Women - Floral Aquatic Perfume 100ml",
+          "handle": "davidoff-cool-water-oceanic-edition-for-her-eau-de-toilette-for-women-floral-aquatic-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616305009005.jpg?v=1760522201",
+          "price": 140,
+          "badge": ""
+        },
+        {
+          "name": "Davidoff Cool Water Oceanic Edition Eau De Toilette For Men - Aromatic Aquatic Perfume 125ml",
+          "handle": "davidoff-cool-water-oceanic-edition-eau-de-toilette-for-men-aromatic-aquatic-perfume-125ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616305008879.jpg?v=1760519415",
+          "price": 135,
+          "badge": ""
+        },
+        {
+          "name": "Davidoff Cool Elixir Oud Aromatique Parfum Intense For Men - Oriental Fougere Perfume 50ml",
+          "handle": "davidoff-cool-elixir-oud-aromatique-parfum-intense-for-men-oriental-fougere-perfume-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cool-resized-Photoroom_70c8c6e9-ad9a-45a1-8fb7-cab7a657a641.png?v=1787674702",
+          "price": 158,
           "badge": ""
         }
       ]
@@ -24053,49 +24053,6 @@
       ]
     },
     {
-      "name": "Maison Asrar",
-      "slug": "maison-asrar",
-      "count": 5,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Regent_Maison_Asrar_Pefume_White_Background_Bottle_1728x_-resized-Photoroom.png?v=1791296290",
-      "preview": [
-        {
-          "name": "Maison Asrar Regent Eau De Parfum For Unisex-Oriental Woody Perfume 100ml",
-          "handle": "maison-asrar-regent-eau-de-parfum-for-unisex-oriental-woody-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Regent_Maison_Asrar_Pefume_White_Background_Bottle_1728x_-resized-Photoroom.png?v=1791296290",
-          "price": 145,
-          "badge": ""
-        },
-        {
-          "name": "Maison Asrar Royal Collection Legacy Edp For Men And Women Aromatic 100ml",
-          "handle": "maison-asrar-royal-collection-legacy-edp-for-men-and-women-aromatic-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/legacy-resized_1_-Photoroom.png?v=1790803637",
-          "price": 145,
-          "badge": ""
-        },
-        {
-          "name": "Maison Asrar Majesty Eau De Parfum For unisex -  Citrus Aromatic Perfume 100ml",
-          "handle": "maison-asrar-majesty-eau-de-parfum-for-unisex-citrus-aromatic-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/maison-asrar-majesty-eau-de-parfum-100ml-spray-p83994-38837_zoom-resized-Photoroom.png?v=1790791087",
-          "price": 145,
-          "badge": ""
-        },
-        {
-          "name": "Maison Asrar Wadi Eau De Parfum For Unisex - Oriental Fougere Perfume 100ml",
-          "handle": "maison-asrar-wadi-eau-de-parfum-for-unisex-oriental-fougere-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Wadi_Maison_Asrar_Perfumes_White_Backgroud_Picture-resized-Photoroom.png?v=1790784722",
-          "price": 84,
-          "badge": ""
-        },
-        {
-          "name": "Maison Asrar Vision Eau De Parfum For Unisex  - Citrus Aromatic Perfume 100ml",
-          "handle": "maison-asrar-vision-eau-de-parfum-for-unisex-citrus-aromatic-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/vision-eau-de-parfum-100ml-by-maison-asrar-unisex-perfume-edp-100ml-maison-asrar-310380-1208304966-resized-Photoroom.png?v=1790696060",
-          "price": 182,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "RAVE",
       "slug": "rave",
       "count": 5,
@@ -25924,7 +25881,7 @@
         {
           "name": "Ramón Béjar Luz Infinita Edp For Men And Women Woody 100ml",
           "handle": "ramon-bejar-luz-infinita-edp-for-men-and-women-woody-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ramon-removebg-preview.png?v=1783411502",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Ramon_Bejar_Luz_Infinita_Edp_For_Men_And_Women_Woody_100ml-Photoroom.png?v=1791558823",
           "price": 939,
           "badge": ""
         }
