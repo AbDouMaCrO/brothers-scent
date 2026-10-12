@@ -1,14 +1,28 @@
 {
-  "generated_at": "2026-10-12T01:37:12.503Z",
+  "generated_at": "2026-10-12T18:39:40.668Z",
   "total_brands": 886,
   "brands": [
     {
       "name": "Amazing Creation",
       "slug": "amazing-creation",
-      "count": 1125,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Babe_Cat_Perfume_For_Unisex_EDP_100ml_1.png?v=1791547453",
+      "count": 1127,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Mitsukita-Bottle_100ml.png?v=1791789417",
       "preview": [
         {
+          "name": "Amazing Creation Mitsukita Perfume For Unisex EDP PFB-517",
+          "handle": "amazing-creation-mitsukita-perfume-for-unisex-edp-pfb-517",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Mitsukita-Bottle_100ml.png?v=1791789417",
+          "price": 55,
+          "badge": ""
+        },
+        {
+          "name": "Amazing Creation Mitsukita Perfume For Unisex EDP PFB-517",
+          "handle": "amazing-creation-mitsukita-perfume-for-unisex-edp-pfb-517",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Mitsukita-Bottle_100ml.png?v=1791789417",
+          "price": 95,
+          "badge": ""
+        },
+        {
           "name": "Amazing Creation Babe Cat Perfume For Unisex EDP PFB-523",
           "handle": "amazing-creation-babe-cat-perfume-for-unisex-edp-pfb-523",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Babe_Cat_Perfume_For_Unisex_EDP_100ml_1.png?v=1791547453",
@@ -33,20 +47,6 @@
           "name": "Amazing Creation Qulquas Flower Perfume For Women EDP PFB-522",
           "handle": "amazing-creation-qulquas-flower-perfume-for-women-edp-pfb-522",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Qulquas_Flower_Perfume_For_Women_EDP_50ml.png?v=1791546514",
-          "price": 95,
-          "badge": ""
-        },
-        {
-          "name": "Amazing Creation Cadan Perfume For Unisex EDP PFB-521",
-          "handle": "amazing-creation-cadan-perfume-for-unisex-edp-pfb-521",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Cadan_Perfume_For_Unisex_EDP_100ml_1.png?v=1791545701",
-          "price": 55,
-          "badge": ""
-        },
-        {
-          "name": "Amazing Creation Cadan Perfume For Unisex EDP PFB-521",
-          "handle": "amazing-creation-cadan-perfume-for-unisex-edp-pfb-521",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Cadan_Perfume_For_Unisex_EDP_100ml_1.png?v=1791545701",
           "price": 95,
           "badge": ""
         }
@@ -619,7 +619,7 @@
           "name": "Lattafa Maahir Honor For Unisex EDP 100ml",
           "handle": "lattafa-maahir-honor-for-unisex-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Maahir_Honor.png?v=1786522827",
-          "price": 99,
+          "price": 136,
           "badge": "SALE"
         },
         {
@@ -1212,7 +1212,7 @@
           "name": "Rasasi Hawas Ice Freeze For Him EDP 100ml",
           "handle": "rasasi-hawas-ice-freeze-for-him-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rasasi_Hawas_Ice_Freeze_For_Him_EDP_100ml.png?v=1791012351",
-          "price": 110,
+          "price": 126,
           "badge": "SALE"
         },
         {
@@ -1312,7 +1312,7 @@
           "name": "Mugler Alien Pulp Eau de Parfum Fruité Refillable, Floral Fruity Fragrance For Women 60ml",
           "handle": "mugler-alien-pulp-eau-de-parfum-fruite-refillable-floral-fruity-fragrance-for-women-60ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ALIEN-resized-Photoroom_62702296-d1c3-4e8d-aa58-4af0e258f2c4.png?v=1787859764",
-          "price": 284,
+          "price": 315,
           "badge": "SALE"
         },
         {
@@ -1505,7 +1505,7 @@
     {
       "name": "Salvatore Ferragamo",
       "slug": "salvatore-ferragamo",
-      "count": 191,
+      "count": 192,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/uomo-signature-ferragam-flacon_2400x_c14c7688-7b3a-4dcb-a381-e216b0919456.jpg?v=1772094456",
       "preview": [
         {
@@ -2012,7 +2012,7 @@
           "name": "Afnan 9pm Night Out Extrait De Parfum For Unisex 100ml",
           "handle": "afnan-9pm-night-out-extrait-de-parfum-for-unisex-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Afnan_9pm_Night_Out_Extrait_De_Parfum_For_Unisex_100ml-Photoroom.png?v=1787720817",
-          "price": 176,
+          "price": 199,
           "badge": "SALE"
         },
         {
@@ -2646,7 +2646,7 @@
         {
           "name": "Elie Saab Le Parfum Lumiere Edp For Women Floral 90ml",
           "handle": "elie-saab-le-parfum-lumiere-edp-for-women-floral-90ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/eloeee.avif?v=1767799625",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Elie_Saab_Le_Parfum_Lumiere_Edp_For_Women_Floral_90ml-Photoroom.png?v=1791804199",
           "price": 202,
           "badge": ""
         }
@@ -3632,7 +3632,7 @@
         {
           "name": "Nina Ricci Nina Illusion Edp For Women Fruity 80ml",
           "handle": "nina-ricci-nina-illusion-edp-for-women-fruity-80ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/nina1.avif?v=1772023662",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Nina_Ricci_Nina_Illusion_Edp_For_Women_Fruity_80ml-Photoroom.png?v=1791804648",
           "price": 227,
           "badge": ""
         },
@@ -4303,6 +4303,56 @@
       ]
     },
     {
+      "name": "Lalique",
+      "slug": "lalique",
+      "count": 77,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/7640171194837-_1__1.jpg?v=1757655157",
+      "preview": [
+        {
+          "name": "Lalique Soleil Vibrant Perfumed Hair Mist For Women - 50ml",
+          "handle": "lalique-soleil-vibrant-perfumed-hair-mist-for-women-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/7640171194837-_1__1.jpg?v=1757655157",
+          "price": 84,
+          "badge": ""
+        },
+        {
+          "name": "Lalique Encre Noire Pour Homme For Men Mini EDT 4.5ml",
+          "handle": "lalique-encre-noire-pour-homme-for-men-mini-edt-4-5ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3454960022263_1.jpg?v=1737620217",
+          "price": 34,
+          "badge": ""
+        },
+        {
+          "name": "Lalique Soleil Hair Mist For Women 50ml",
+          "handle": "lalique-soleil-hair-mist-for-women-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LaliqueSoleil50MlHairMist_8ee52a15-d2b0-4f96-92fa-442beb50cd34.jpg?v=1734094169",
+          "price": 150,
+          "badge": ""
+        },
+        {
+          "name": "Lalique White In Black For Men EDP 125ml",
+          "handle": "lalique-white-in-black-for-men-edp-125ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lalique_White_In_Black_For_Men_EDP_125ml-Photoroom.png?v=1789801619",
+          "price": 162,
+          "badge": ""
+        },
+        {
+          "name": "Lalique Encre Indigo For Men EDP 100ml",
+          "handle": "lalique-encre-indigo-for-men-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lalique_Encre_Indigo_For_Men_EDP_100ml-Photoroom.png?v=1789657971",
+          "price": 204,
+          "badge": ""
+        },
+        {
+          "name": "Lalique Soleil Vibrant Perfume For Women EDP 100ml",
+          "handle": "lalique-soleil-vibrant-perfume-for-women-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LaliqueSoleilVibrant100MlEdp.jpg?v=1731778634",
+          "price": 303,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Disney",
       "slug": "disney",
       "count": 77,
@@ -4526,7 +4576,7 @@
           "name": "Ahmed Al Maghribi Niswah Eau de Parfum for Women 75ml",
           "handle": "ahmed-al-maghribi-niswah-eau-de-parfum-for-women-75ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Ahmed_Al_Maghribi_Niswah_Eau_de_Parfum_for_Women_75ml-Photoroom.png?v=1789652928",
-          "price": 144,
+          "price": 194,
           "badge": "SALE"
         },
         {
@@ -4540,7 +4590,7 @@
           "name": "Ahmed Al Maghribi Kaaf Noir Perfume For Unisex EDP 100ml",
           "handle": "ahmed-al-maghribi-kaaf-noir-perfume-for-unisex-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Ahmed_Al_Maghribi_Kaaf_Noir_Perfume_For_Unisex_EDP_100ml-Photoroom.png?v=1787489811",
-          "price": 101,
+          "price": 104,
           "badge": "SALE"
         },
         {
@@ -4648,56 +4698,6 @@
           "handle": "davidoff-cool-elixir-oud-aromatique-parfum-intense-for-men-oriental-fougere-perfume-50ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cool-resized-Photoroom_70c8c6e9-ad9a-45a1-8fb7-cab7a657a641.png?v=1787674702",
           "price": 158,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Lalique",
-      "slug": "lalique",
-      "count": 71,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/7640171194837-_1__1.jpg?v=1757655157",
-      "preview": [
-        {
-          "name": "Lalique Soleil Vibrant Perfumed Hair Mist For Women - 50ml",
-          "handle": "lalique-soleil-vibrant-perfumed-hair-mist-for-women-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/7640171194837-_1__1.jpg?v=1757655157",
-          "price": 84,
-          "badge": ""
-        },
-        {
-          "name": "Lalique Encre Noire Pour Homme For Men Mini EDT 4.5ml",
-          "handle": "lalique-encre-noire-pour-homme-for-men-mini-edt-4-5ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3454960022263_1.jpg?v=1737620217",
-          "price": 34,
-          "badge": ""
-        },
-        {
-          "name": "Lalique Soleil Hair Mist For Women 50ml",
-          "handle": "lalique-soleil-hair-mist-for-women-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LaliqueSoleil50MlHairMist_8ee52a15-d2b0-4f96-92fa-442beb50cd34.jpg?v=1734094169",
-          "price": 150,
-          "badge": ""
-        },
-        {
-          "name": "Lalique White In Black For Men EDP 125ml",
-          "handle": "lalique-white-in-black-for-men-edp-125ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lalique_White_In_Black_For_Men_EDP_125ml-Photoroom.png?v=1789801619",
-          "price": 162,
-          "badge": ""
-        },
-        {
-          "name": "Lalique Encre Indigo For Men EDP 100ml",
-          "handle": "lalique-encre-indigo-for-men-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lalique_Encre_Indigo_For_Men_EDP_100ml-Photoroom.png?v=1789657971",
-          "price": 204,
-          "badge": ""
-        },
-        {
-          "name": "Lalique Soleil Vibrant Perfume For Women EDP 100ml",
-          "handle": "lalique-soleil-vibrant-perfume-for-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LaliqueSoleilVibrant100MlEdp.jpg?v=1731778634",
-          "price": 303,
           "badge": ""
         }
       ]
@@ -5426,7 +5426,7 @@
           "name": "French Avenue Marmara Perfume For Unisex EDP 100ml",
           "handle": "french-avenue-marmara-perfume-for-unisex-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/French_Avenue_Marmara_Perfume_For_Unisex_EDP_100ml_1.png?v=1786632064",
-          "price": 98,
+          "price": 126,
           "badge": "SALE"
         },
         {
@@ -6362,7 +6362,7 @@
           "name": "Rayhaan Nava Sol EDP For Unisex 100ml",
           "handle": "rayhaan-nava-sol-edp-for-unisex-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rayhaan_Nava_Sol_EDP_For_Unisex_100ml.png?v=1791615161",
-          "price": 91,
+          "price": 108,
           "badge": "SALE"
         },
         {
@@ -6376,7 +6376,7 @@
           "name": "Rayhaan Azul Eau De Parfum For Men - Aromatic Aquatic Perfume 100ml",
           "handle": "rayhaan-azul-eau-de-parfum-for-men-aromatic-aquatic-perfume-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rayhaan_Azul_Eau_De_Parfum_For_Men_-_Aromatic_Aquatic_Perfume_100ml-Photoroom.png?v=1787486416",
-          "price": 81,
+          "price": 99,
           "badge": "SALE"
         },
         {
@@ -7783,7 +7783,7 @@
           "name": "Louis Cardin Original Oud EDP For Men 100ml",
           "handle": "louis-cardin-original-oud-edp-for-men-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Louis-Cardinoriginaloud-resized-Photoroom.png?v=1789290745",
-          "price": 43,
+          "price": 58,
           "badge": "SALE"
         },
         {
@@ -8826,7 +8826,7 @@
           "name": "Al Rehab Dark Leather EDP For Unisex 120ml",
           "handle": "al-rehab-dark-leather-edp-for-unisex-120ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Al_Rehab_Dark_Leather_EDP_For_Unisex_120ml-Photoroom.png?v=1789969114",
-          "price": 28,
+          "price": 42,
           "badge": "SALE"
         },
         {
@@ -13306,12 +13306,12 @@
       "name": "Roberta",
       "slug": "roberta",
       "count": 18,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/downloadaeti.jpg?v=1624483067",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/saaa-resized-Photoroom_f591ed38-1b89-4edc-af63-1eb94ae35144.png?v=1791812425",
       "preview": [
         {
           "name": "Roberta Solar Girl  95ml  Fresh Water Scent",
           "handle": "roberta-solar-girl-95ml-fresh-water-scent",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/downloadaeti.jpg?v=1624483067",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/saaa-resized-Photoroom_f591ed38-1b89-4edc-af63-1eb94ae35144.png?v=1791812425",
           "price": 17,
           "badge": ""
         },
@@ -13332,14 +13332,14 @@
         {
           "name": "Roberta Naughty Girl  95ml Fresh Water Scent",
           "handle": "roberta-naughty-girl-95ml-fresh-water-scent",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/13218foto.jpg?v=1624483035",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/girl-Photoroom.png?v=1791819454",
           "price": 17,
           "badge": ""
         },
         {
           "name": "Roberta Naughty Girl 400ml Body Lotion",
           "handle": "roberta-naughty-girl-400ml-body-lotion",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/image_2.jpg?v=1624483027",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/can-resized-Photoroom_e7c54968-fa49-4a65-9dbc-55c2b4571486.png?v=1791819578",
           "price": 30,
           "badge": ""
         },
@@ -17562,7 +17562,7 @@
           "name": "Riiffs Fareed Eau De Parfum For Men 100ml",
           "handle": "riiffs-fareed-eau-de-parfum-for-men-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Riiffs_Fareed_For_Men_Eau_De_Parfum_100ml_1.png?v=1791446224",
-          "price": 86,
+          "price": 103,
           "badge": "SALE"
         },
         {
@@ -19319,14 +19319,14 @@
           "name": "Al Majed Oud Rose De Mai Eau De Parfum For Women 100ml",
           "handle": "al-majed-oud-rose-de-mai-eau-de-parfum-for-women-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/6285091002216_-_Al_Majed_Oud_Rose_De_Mai_Eau_De_Parfum_For_Women_100ml_2.png?v=1787137930",
-          "price": 119,
+          "price": 162,
           "badge": "SALE"
         },
         {
           "name": "Al Majed Oud Candy Musk Classic Eau de Toilette For Unisex 150ml",
           "handle": "al-majed-oud-candy-musk-classic-eau-de-toilette-for-unisex-150ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/6285091002155_Al_Majed_Oud_Candy_Musk_Classic_Eau_De_Toilette_150ml.png?v=1787135934",
-          "price": 125,
+          "price": 162,
           "badge": "SALE"
         },
         {
@@ -19347,7 +19347,7 @@
           "name": "Al Majed Oud 99 White EDP For Unisex 75ml",
           "handle": "al-majed-oud-99-white-edp-for-unisex-75ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Al_Majed_Oud_99_White_EDP_For_Unisex_75ml-Photoroom.png?v=1789793869",
-          "price": 119,
+          "price": 162,
           "badge": "SALE"
         }
       ]
@@ -25207,7 +25207,7 @@
         {
           "name": "Shakespeare Dark Lady Edp 100ml",
           "handle": "shakespeare-dark-lady-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/n27599331a_1.jpg?v=1624483177",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/shak-resized-Photoroom.png?v=1791811991",
           "price": 194,
           "badge": ""
         }
@@ -26156,7 +26156,7 @@
           "name": "Khalis Zeena Sharqiyat EDP For Women 100ml",
           "handle": "khalis-zeena-sharqiyat-edp-for-women-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Khalis_Zeena_Sharqiyat_EDP_For_Women_100ml-Photoroom.png?v=1789197941",
-          "price": 39,
+          "price": 60,
           "badge": "SALE"
         },
         {
@@ -28122,7 +28122,7 @@
         {
           "name": "Pas de Velours By Les Néréides Perfume For Men And Women Edp 100ml",
           "handle": "pas-de-velours-by-les-nereides-perfume-for-men-and-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/paris_e49c3050-c642-44c2-b431-58bf889419ff.webp?v=1752849689",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Pas_de_Velours_By_Les_Nereides_Perfume_For_Men_And_Women_Edp_100ml-Photoroom.png?v=1791825547",
           "price": 225,
           "badge": ""
         }
@@ -29224,7 +29224,7 @@
         {
           "name": "Parfum Deluxe Bleu Deluxe for Men Edp 100ml",
           "handle": "parfum-deluxe-bleu-deluxe-for-men-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/my-perfumes-bleu-deluxe-eau-de-parfum-100-ml.jpg?v=1624484692",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/my-perfumes-bleu-deluxe-eau-de-parfum-100-ml-resized-Photoroom.png?v=1791811776",
           "price": 52,
           "badge": ""
         }
@@ -29263,26 +29263,26 @@
       "name": "Marina De Bourbon",
       "slug": "marina-de-bourbon",
       "count": 3,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/517bf2541eadcb293900b033.jpg?v=1624482273",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/pinkk-resized-Photoroom.png?v=1791821005",
       "preview": [
         {
           "name": "Marina De Bourbon Pink Princesse Edp 30ml",
           "handle": "marina-de-bourbon-pink-princesse-edp-30ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/517bf2541eadcb293900b033.jpg?v=1624482273",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/pinkk-resized-Photoroom.png?v=1791821005",
           "price": 52,
           "badge": ""
         },
         {
           "name": "Marina De Bourbon Paradise Lys Edp 30ml",
           "handle": "marina-de-bourbon-paradise-lys-edp-30ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/517bd31f1eadcb2939001d90.jpg?v=1624482252",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/lys-resized-Photoroom.png?v=1791820864",
           "price": 52,
           "badge": ""
         },
         {
           "name": "Marina De Bourbon Bleu Royal Edp 30ml",
           "handle": "marina-de-bourbon-bleu-royal-edp-30ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/1360959088_1234567__74511_big.jpg?v=1624482244",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/marina-resized-Photoroom.png?v=1791820752",
           "price": 52,
           "badge": ""
         }
@@ -30757,12 +30757,12 @@
       "name": "Morgan",
       "slug": "morgan",
       "count": 2,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/582871_800x600_b.jpg?v=1624482302",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/love-resized-Photoroom_37cde9b9-3e5e-43af-bf86-6c362ce38606.png?v=1791821108",
       "preview": [
         {
           "name": "Morgan Love Sun & Love Edt 35ml",
           "handle": "morgan-love-sun-love-edt-35ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/582871_800x600_b.jpg?v=1624482302",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/love-resized-Photoroom_37cde9b9-3e5e-43af-bf86-6c362ce38606.png?v=1791821108",
           "price": 44,
           "badge": ""
         },
@@ -33261,12 +33261,12 @@
       "name": "Asprey",
       "slug": "asprey",
       "count": 1,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/s-l2255367.jpg?v=1624481460",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/s-l2255367-resized-Photoroom.png?v=1791820643",
       "preview": [
         {
           "name": "Asprey Purple Water Edc 10ml Mini",
           "handle": "asprey-purple-water-edc-10ml-mini",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/s-l2255367.jpg?v=1624481460",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/s-l2255367-resized-Photoroom.png?v=1791820643",
           "price": 12,
           "badge": ""
         }
