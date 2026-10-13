@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T01:11:13.939Z",
+  "generated_at": "2026-10-13T08:10:20.473Z",
   "total_brands": 886,
   "brands": [
     {
@@ -856,12 +856,12 @@
       "name": "Haramain",
       "slug": "haramain",
       "count": 249,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Al_Haramain_Fawah_Concentrated_Perfume_Oil_for_Unisex_25ml.jpg?v=1791633800",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Al_Haramain_Fawah_Concentrated_Perfume_Oil_for_Unisex_25ml.png?v=1791878091",
       "preview": [
         {
           "name": "Al Haramain Fawah Concentrated Perfume Oil for Unisex 25ml",
           "handle": "al-haramain-fawah-concentrated-perfume-oil-for-unisex-25ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Al_Haramain_Fawah_Concentrated_Perfume_Oil_for_Unisex_25ml.jpg?v=1791633800",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Al_Haramain_Fawah_Concentrated_Perfume_Oil_for_Unisex_25ml.png?v=1791878091",
           "price": 55,
           "badge": ""
         },
@@ -2653,6 +2653,56 @@
       ]
     },
     {
+      "name": "Mercedes- Benz",
+      "slug": "mercedes-benz",
+      "count": 123,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/pp.png?v=1783499416",
+      "preview": [
+        {
+          "name": "Mercedes Benz Eau de Parfum For Women Floral 60ml",
+          "handle": "mercedes-benz-eau-de-parfum-for-women-floral-60ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/pp.png?v=1783499416",
+          "price": 93,
+          "badge": ""
+        },
+        {
+          "name": "Mercedes Benz Edt For Men Woody 75ml",
+          "handle": "mercedes-benz-edt-for-men-woody-75ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/m_en.png?v=1783499302",
+          "price": 121,
+          "badge": ""
+        },
+        {
+          "name": "Mercedes-Benz Floral Fantasy Edt For Women Floral 60ml",
+          "handle": "mercedes-benz-floral-fantasy-edt-for-women-floral-60ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/mercedesbenz-ladies-floral-fantasy-edt-spray-20-oz-fragrances-3595471028259.jpg?v=1776844787",
+          "price": 84,
+          "badge": ""
+        },
+        {
+          "name": "Mercedes-Benz Man Gift Set For Men",
+          "handle": "mercedes-benz-man-gift-set-for-men-2",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/man.jpg?v=1766334834",
+          "price": 173,
+          "badge": ""
+        },
+        {
+          "name": "Mercedes Benz Man Gift Set For Men",
+          "handle": "mercedes-benz-man-gift-set-for-men-1",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/benz_7aab29d9-754d-4608-bcf0-98224a6dd292.jpg?v=1766316600",
+          "price": 173,
+          "badge": ""
+        },
+        {
+          "name": "Mercedes Benz Club Black for Men Gift Set For Men",
+          "handle": "mercedes-benz-club-black-for-men-gift-set-for-men",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/MERCEDESBENZBLACKSET-resized-Photoroom.png?v=1789548235",
+          "price": 200,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Loewe",
       "slug": "loewe",
       "count": 123,
@@ -2698,56 +2748,6 @@
           "handle": "loewe-un-paseo-por-madrid-primavera-en-el-mercado-de-san-miguel-for-unisex-edp-100ml-1",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/8426017072779_1.jpg?v=1740551306",
           "price": 595,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Mercedes- Benz",
-      "slug": "mercedes-benz",
-      "count": 122,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/pp.png?v=1783499416",
-      "preview": [
-        {
-          "name": "Mercedes Benz Eau de Parfum For Women Floral 60ml",
-          "handle": "mercedes-benz-eau-de-parfum-for-women-floral-60ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/pp.png?v=1783499416",
-          "price": 93,
-          "badge": ""
-        },
-        {
-          "name": "Mercedes Benz Edt For Men Woody 75ml",
-          "handle": "mercedes-benz-edt-for-men-woody-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/m_en.png?v=1783499302",
-          "price": 121,
-          "badge": ""
-        },
-        {
-          "name": "Mercedes-Benz Floral Fantasy Edt For Women Floral 60ml",
-          "handle": "mercedes-benz-floral-fantasy-edt-for-women-floral-60ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/mercedesbenz-ladies-floral-fantasy-edt-spray-20-oz-fragrances-3595471028259.jpg?v=1776844787",
-          "price": 84,
-          "badge": ""
-        },
-        {
-          "name": "Mercedes-Benz Man Gift Set For Men",
-          "handle": "mercedes-benz-man-gift-set-for-men-2",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/man.jpg?v=1766334834",
-          "price": 173,
-          "badge": ""
-        },
-        {
-          "name": "Mercedes Benz Man Gift Set For Men",
-          "handle": "mercedes-benz-man-gift-set-for-men-1",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/benz_7aab29d9-754d-4608-bcf0-98224a6dd292.jpg?v=1766316600",
-          "price": 173,
-          "badge": ""
-        },
-        {
-          "name": "Mercedes Benz Club Black for Men Gift Set For Men",
-          "handle": "mercedes-benz-club-black-for-men-gift-set-for-men",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/MERCEDESBENZBLACKSET-resized-Photoroom.png?v=1789548235",
-          "price": 200,
           "badge": ""
         }
       ]
@@ -8503,6 +8503,56 @@
       ]
     },
     {
+      "name": "Al Rehab",
+      "slug": "al-rehab",
+      "count": 30,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Al_Rehab_Chelsea_Man_Concentrated_Oil_Perfume_6ml_Roll_on.png?v=1791871553",
+      "preview": [
+        {
+          "name": "Al Rehab Chelsea Man Concentrated Oil Perfume 6ml Roll on",
+          "handle": "al-rehab-chelsea-man-concentrated-oil-perfume-6ml-roll-on",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Al_Rehab_Chelsea_Man_Concentrated_Oil_Perfume_6ml_Roll_on.png?v=1791871553",
+          "price": 10,
+          "badge": "SALE"
+        },
+        {
+          "name": "Al Rehab Soft Concentrated Perfume Oil 6ml Roll",
+          "handle": "al-rehab-soft-concentrated-perfume-oil-6ml-roll",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Al_Rehab_Soft_Concentrated_Perfume_Oil_6ml_Roll-Photoroom.png?v=1789049080",
+          "price": 10,
+          "badge": ""
+        },
+        {
+          "name": "Al Rehab Dalia EDP For Women 120ml",
+          "handle": "al-rehab-dalia-edp-for-women-120ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Al_Rehab_Dalia_EDP_For_Women_120ml-Photoroom.png?v=1789653327",
+          "price": 44,
+          "badge": "SALE"
+        },
+        {
+          "name": "Al Rehab Dark Leather EDP For Unisex 120ml",
+          "handle": "al-rehab-dark-leather-edp-for-unisex-120ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Al_Rehab_Dark_Leather_EDP_For_Unisex_120ml-Photoroom.png?v=1789969114",
+          "price": 42,
+          "badge": "SALE"
+        },
+        {
+          "name": "Al Rehab Caramello EDP For Unisex 50ml",
+          "handle": "al-rehab-caramello-edp-for-unisex-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/CAR-resized-Photoroom_30038bfd-2895-4168-b550-80b1ea9463e7.png?v=1790773844",
+          "price": 13,
+          "badge": "SALE"
+        },
+        {
+          "name": "Al Rehab Choco Musk Pistachio EDP For Unisex 50ml",
+          "handle": "al-rehab-choco-musk-pistachio-edp-for-unisex-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Al_Rehab_Choco_Musk_Marshmallow_Perfume_For_Unisex_EDP_50ml-Photoroom-resized-Photoroom.png?v=1790780657",
+          "price": 15,
+          "badge": "SALE"
+        }
+      ]
+    },
+    {
       "name": "RAMON MONEGAL",
       "slug": "ramon-monegal",
       "count": 30,
@@ -8799,56 +8849,6 @@
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/850049716246_1.jpg?v=1741642426",
           "price": 20,
           "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Al Rehab",
-      "slug": "al-rehab",
-      "count": 29,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Al_Rehab_Soft_Concentrated_Perfume_Oil_6ml_Roll-Photoroom.png?v=1789049080",
-      "preview": [
-        {
-          "name": "Al Rehab Soft Concentrated Perfume Oil 6ml Roll",
-          "handle": "al-rehab-soft-concentrated-perfume-oil-6ml-roll",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Al_Rehab_Soft_Concentrated_Perfume_Oil_6ml_Roll-Photoroom.png?v=1789049080",
-          "price": 10,
-          "badge": ""
-        },
-        {
-          "name": "Al Rehab Dalia EDP For Women 120ml",
-          "handle": "al-rehab-dalia-edp-for-women-120ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Al_Rehab_Dalia_EDP_For_Women_120ml-Photoroom.png?v=1789653327",
-          "price": 44,
-          "badge": "SALE"
-        },
-        {
-          "name": "Al Rehab Dark Leather EDP For Unisex 120ml",
-          "handle": "al-rehab-dark-leather-edp-for-unisex-120ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Al_Rehab_Dark_Leather_EDP_For_Unisex_120ml-Photoroom.png?v=1789969114",
-          "price": 42,
-          "badge": "SALE"
-        },
-        {
-          "name": "Al Rehab Caramello EDP For Unisex 50ml",
-          "handle": "al-rehab-caramello-edp-for-unisex-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/CAR-resized-Photoroom_30038bfd-2895-4168-b550-80b1ea9463e7.png?v=1790773844",
-          "price": 13,
-          "badge": "SALE"
-        },
-        {
-          "name": "Al Rehab Choco Musk Pistachio EDP For Unisex 50ml",
-          "handle": "al-rehab-choco-musk-pistachio-edp-for-unisex-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Al_Rehab_Choco_Musk_Marshmallow_Perfume_For_Unisex_EDP_50ml-Photoroom-resized-Photoroom.png?v=1790780657",
-          "price": 15,
-          "badge": "SALE"
-        },
-        {
-          "name": "Al Rehab Choco Musk Pistachio EDP For Unisex 100ml",
-          "handle": "al-rehab-choco-musk-pistachio-edp-for-unisex-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Al_Rehab_Choco_Musk_Pistachio_EDP_For_Unisex_100ml-Photoroom.png?v=1788797962",
-          "price": 37,
-          "badge": "SALE"
         }
       ]
     },
@@ -9689,7 +9689,7 @@
         {
           "name": "John Varvatos XX Artisan Teal For Men EDT 125ml",
           "handle": "john-varvatos-xx-artisan-teal-for-men-edt-125ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/719346253260.jpg?v=1740162910",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/John_Varvatos_XX_Artisan_Teal_For_Men_EDT_125ml-Photoroom.png?v=1791868212",
           "price": 163,
           "badge": ""
         },
@@ -14032,7 +14032,7 @@
         {
           "name": "Admirabilis By La Manufacture Perfume For Men And Women Edp 100ml",
           "handle": "admirabilis-by-la-manufacture-perfume-for-men-and-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3_1_2097d02c-2624-4280-9919-00f0caa18a2d.png?v=1752877623",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Admirabilis_By_La_Manufacture_Perfume_For_Men_And_Women_Edp_100ml-Photoroom.png?v=1791865668",
           "price": 408,
           "badge": ""
         },
@@ -15175,7 +15175,7 @@
         {
           "name": "Montana Blu Eau de Toilette For Women Floral 100ml",
           "handle": "montana-blu-eau-de-toilette-for-women-floral-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bluuuuuu.webp?v=1769603724",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Montana_Blu_Eau_de_Toilette_For_Women_Floral_100ml-Photoroom.png?v=1791866901",
           "price": 167,
           "badge": ""
         },
