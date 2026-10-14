@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T10:31:26.434Z",
+  "generated_at": "2026-10-14T15:26:51.368Z",
   "total_brands": 886,
   "brands": [
     {
@@ -1455,7 +1455,7 @@
     {
       "name": "Salvatore Ferragamo",
       "slug": "salvatore-ferragamo",
-      "count": 193,
+      "count": 194,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/uomo-signature-ferragam-flacon_2400x_c14c7688-7b3a-4dcb-a381-e216b0919456.jpg?v=1772094456",
       "preview": [
         {
@@ -6303,6 +6303,56 @@
       ]
     },
     {
+      "name": "Juicy Couture",
+      "slug": "juicy-couture",
+      "count": 44,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rose_ed3b7be6-3713-44ac-9ded-e5d5919d8b7a.avif?v=1772297709",
+      "preview": [
+        {
+          "name": "Juicy Couture Viva La Juicy Rose Eau de Parfum For Women Floral 30 ml",
+          "handle": "juicy-couture-viva-la-juicy-rose-eau-de-parfum-for-women-floral-30-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rose_ed3b7be6-3713-44ac-9ded-e5d5919d8b7a.avif?v=1772297709",
+          "price": 93,
+          "badge": ""
+        },
+        {
+          "name": "Juicy Couture Viva La Juicy Gold Couture Eau de Parfum For Women Floral 30 ml",
+          "handle": "juicy-couture-viva-la-juicy-gold-couture-eau-de-parfum-for-women-floral-30-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/couture.avif?v=1772297543",
+          "price": 93,
+          "badge": ""
+        },
+        {
+          "name": "Juicy Couture Viva La Juicy Le Bubbly Eau De Parfum For Women - Floral Fruity Gourmand Perfume 100ml",
+          "handle": "juicy-couture-viva-la-juicy-le-bubbly-eau-de-parfum-for-women-floral-fruity-gourmand-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/jui-resized-Photoroom.png?v=1790711860",
+          "price": 173,
+          "badge": ""
+        },
+        {
+          "name": "Juicy Couture Viva La Juicy Rose For Women EDP 50ml",
+          "handle": "juicy-couture-viva-la-juicy-rose-for-women-edp-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/719346628372.jpg?v=1729942168",
+          "price": 125,
+          "badge": ""
+        },
+        {
+          "name": "Juicy Couture Viva La Juicy Noir For Women EDP 50ml",
+          "handle": "juicy-couture-viva-la-juicy-noir-for-women-edp-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/719346167079.jpg?v=1729941398",
+          "price": 125,
+          "badge": ""
+        },
+        {
+          "name": "Juicy Couture Viva La Juicy Neon For Women EDP 50ml",
+          "handle": "juicy-couture-viva-la-juicy-neon-for-women-edp-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/719346257107.jpg?v=1729940171",
+          "price": 132,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "LIQUIDES IMAGINAIRES",
       "slug": "liquides-imaginaires",
       "count": 43,
@@ -6448,56 +6498,6 @@
           "handle": "fragrance-world-scandant-by-night-perfume-for-unisex-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/FragranceWorldScandantByNight100ml.jpg?v=1738575807",
           "price": 57,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Juicy Couture",
-      "slug": "juicy-couture",
-      "count": 42,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rose_ed3b7be6-3713-44ac-9ded-e5d5919d8b7a.avif?v=1772297709",
-      "preview": [
-        {
-          "name": "Juicy Couture Viva La Juicy Rose Eau de Parfum For Women Floral 30 ml",
-          "handle": "juicy-couture-viva-la-juicy-rose-eau-de-parfum-for-women-floral-30-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rose_ed3b7be6-3713-44ac-9ded-e5d5919d8b7a.avif?v=1772297709",
-          "price": 93,
-          "badge": ""
-        },
-        {
-          "name": "Juicy Couture Viva La Juicy Gold Couture Eau de Parfum For Women Floral 30 ml",
-          "handle": "juicy-couture-viva-la-juicy-gold-couture-eau-de-parfum-for-women-floral-30-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/couture.avif?v=1772297543",
-          "price": 93,
-          "badge": ""
-        },
-        {
-          "name": "Juicy Couture Viva La Juicy Le Bubbly Eau De Parfum For Women - Floral Fruity Gourmand Perfume 100ml",
-          "handle": "juicy-couture-viva-la-juicy-le-bubbly-eau-de-parfum-for-women-floral-fruity-gourmand-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/jui-resized-Photoroom.png?v=1790711860",
-          "price": 173,
-          "badge": ""
-        },
-        {
-          "name": "Juicy Couture Viva La Juicy Rose For Women EDP 50ml",
-          "handle": "juicy-couture-viva-la-juicy-rose-for-women-edp-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/719346628372.jpg?v=1729942168",
-          "price": 125,
-          "badge": ""
-        },
-        {
-          "name": "Juicy Couture Viva La Juicy Noir For Women EDP 50ml",
-          "handle": "juicy-couture-viva-la-juicy-noir-for-women-edp-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/719346167079.jpg?v=1729941398",
-          "price": 125,
-          "badge": ""
-        },
-        {
-          "name": "Juicy Couture Viva La Juicy Neon For Women EDP 50ml",
-          "handle": "juicy-couture-viva-la-juicy-neon-for-women-edp-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/719346257107.jpg?v=1729940171",
-          "price": 132,
           "badge": ""
         }
       ]
@@ -10653,6 +10653,56 @@
       ]
     },
     {
+      "name": "Joop",
+      "slug": "joop",
+      "count": 22,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616305628060_1920x1920_8ddba170-45ab-4fec-8dfa-72fd764fd20f.webp?v=1776065164",
+      "preview": [
+        {
+          "name": "Joop Homme Eau De Parfum Intense For Men - Oriental Fougere Perfume 75ml",
+          "handle": "joop-homme-eau-de-parfum-intense-for-men-oriental-fougere-perfume-75ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616305628060_1920x1920_8ddba170-45ab-4fec-8dfa-72fd764fd20f.webp?v=1776065164",
+          "price": 111,
+          "badge": ""
+        },
+        {
+          "name": "Joop Homme Eau De Parfum Intense For Men - Oriental Fougere Perfume 125ml",
+          "handle": "joop-homme-eau-de-parfum-intense-for-men-oriental-fougere-perfume-125ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/61Em2hO2CQL._AC_SL1500.jpg?v=1776064821",
+          "price": 162,
+          "badge": ""
+        },
+        {
+          "name": "Joop! Homme Edp For Men Oriental 125ml",
+          "handle": "joop-homme-edp-for-men-oriental-125ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/joop-homme-resized-Photoroom.png?v=1791291150",
+          "price": 135,
+          "badge": ""
+        },
+        {
+          "name": "Joop All About Eve Eau De Parfum For Women - Floral Fruity Perfume 40ml",
+          "handle": "joop-all-about-eve-eau-de-parfum-for-women-floral-fruity-perfume-40ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/328944.jpg?v=1767775613",
+          "price": 78,
+          "badge": ""
+        },
+        {
+          "name": "Joop Wow! For Women Eau De Toilette For Women - Chypre Floral Perfume 60ml",
+          "handle": "joop-wow-for-women-eau-de-toilette-for-women-chypre-floral-perfume-60ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/71KR0ME2ePL.jpg?v=1763629381",
+          "price": 74,
+          "badge": ""
+        },
+        {
+          "name": "Joop Jump Eau De Toilette For Men -  Aromatic Fougere Perfume 200ml",
+          "handle": "joop-jump-eau-de-toilette-for-men-aromatic-fougere-perfume-200ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/61UalPiPU4L.jpg?v=1757503815",
+          "price": 121,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Clinique",
       "slug": "clinique",
       "count": 22,
@@ -11698,56 +11748,6 @@
           "handle": "rosendo-mateu-2010-perfume-for-unisex-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/RosendoMateu2010100Ml_39525257-8ae2-4438-9ff0-5cffd283f91f.jpg?v=1732885341",
           "price": 362,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Joop",
-      "slug": "joop",
-      "count": 20,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616305628060_1920x1920_8ddba170-45ab-4fec-8dfa-72fd764fd20f.webp?v=1776065164",
-      "preview": [
-        {
-          "name": "Joop Homme Eau De Parfum Intense For Men - Oriental Fougere Perfume 75ml",
-          "handle": "joop-homme-eau-de-parfum-intense-for-men-oriental-fougere-perfume-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616305628060_1920x1920_8ddba170-45ab-4fec-8dfa-72fd764fd20f.webp?v=1776065164",
-          "price": 111,
-          "badge": ""
-        },
-        {
-          "name": "Joop Homme Eau De Parfum Intense For Men - Oriental Fougere Perfume 125ml",
-          "handle": "joop-homme-eau-de-parfum-intense-for-men-oriental-fougere-perfume-125ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/61Em2hO2CQL._AC_SL1500.jpg?v=1776064821",
-          "price": 162,
-          "badge": ""
-        },
-        {
-          "name": "Joop! Homme Edp For Men Oriental 125ml",
-          "handle": "joop-homme-edp-for-men-oriental-125ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/joop-homme-resized-Photoroom.png?v=1791291150",
-          "price": 135,
-          "badge": ""
-        },
-        {
-          "name": "Joop All About Eve Eau De Parfum For Women - Floral Fruity Perfume 40ml",
-          "handle": "joop-all-about-eve-eau-de-parfum-for-women-floral-fruity-perfume-40ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/328944.jpg?v=1767775613",
-          "price": 78,
-          "badge": ""
-        },
-        {
-          "name": "Joop Wow! For Women Eau De Toilette For Women - Chypre Floral Perfume 60ml",
-          "handle": "joop-wow-for-women-eau-de-toilette-for-women-chypre-floral-perfume-60ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/71KR0ME2ePL.jpg?v=1763629381",
-          "price": 74,
-          "badge": ""
-        },
-        {
-          "name": "Joop Jump Eau De Toilette For Men -  Aromatic Fougere Perfume 200ml",
-          "handle": "joop-jump-eau-de-toilette-for-men-aromatic-fougere-perfume-200ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/61UalPiPU4L.jpg?v=1757503815",
-          "price": 121,
           "badge": ""
         }
       ]
@@ -19153,6 +19153,56 @@
       ]
     },
     {
+      "name": "Zarah",
+      "slug": "zarah",
+      "count": 10,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/xaswer.png?v=1624552002",
+      "preview": [
+        {
+          "name": "Zarah WHY Pour Homme Edp 80ml",
+          "handle": "zarah-why-pour-homme-edp-80ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/xaswer.png?v=1624552002",
+          "price": 69,
+          "badge": ""
+        },
+        {
+          "name": "Zarah Noble George Pour Homme Edp 80ml",
+          "handle": "zarah-noble-george-pour-homme-edp-80ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/screenshot2020-09-19at9.15.30pm_740x_c314cbfe-138c-4ab5-85b6-bccbd6ebcc9b.png?v=1633348234",
+          "price": 64,
+          "badge": ""
+        },
+        {
+          "name": "Zarah Luxury Series Ombre De Louis PH Edp 80ml",
+          "handle": "zarah-luxury-series-ombre-de-louis-ph-edp-80ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ombre_de_louis_by_prive_zarah__1605160782_954f6723_progressive.jpg?v=1633348237",
+          "price": 57,
+          "badge": ""
+        },
+        {
+          "name": "ZARAH BOIS DORES PRIVE COLLECTION IV EDP 80ML",
+          "handle": "zarah-bois-dores-prive-collection-iv-edp-80ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/zarah_bois_dores_prive_collection_iv_edp_80ml.jpg?v=1633348270",
+          "price": 75,
+          "badge": ""
+        },
+        {
+          "name": "ZARAH AXEND EDP 100ML",
+          "handle": "zarah-axend-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/54bf50091b0462d2c0b9c39717c605d589325366_dbb7fd0b9adff4732a1a8cc37e609186-1-600x514.jpg?v=1633348272",
+          "price": 75,
+          "badge": ""
+        },
+        {
+          "name": "Zarah Afgano Blend Edp 80Ml",
+          "handle": "zarah-afgano-blend-edp-80ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/zarah-afgano-blend-edp-80-ml_1.jpg?v=1633348279",
+          "price": 73,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Streax Professional",
       "slug": "streax-professional",
       "count": 10,
@@ -20248,56 +20298,6 @@
           "handle": "bella-bellissima-essence-of-oud-noble-incense-perfume-for-unisex-parfum-50ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/Noble-Incense-oud-parfum-Bella-Bellissima-web_1024x_fc868a88-184c-485d-be4e-d8acfa7a71cd.jpg?v=1638805464",
           "price": 622,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Zarah",
-      "slug": "zarah",
-      "count": 9,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/xaswer.png?v=1624552002",
-      "preview": [
-        {
-          "name": "Zarah WHY Pour Homme Edp 80ml",
-          "handle": "zarah-why-pour-homme-edp-80ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/xaswer.png?v=1624552002",
-          "price": 69,
-          "badge": ""
-        },
-        {
-          "name": "Zarah Noble George Pour Homme Edp 80ml",
-          "handle": "zarah-noble-george-pour-homme-edp-80ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/screenshot2020-09-19at9.15.30pm_740x_c314cbfe-138c-4ab5-85b6-bccbd6ebcc9b.png?v=1633348234",
-          "price": 64,
-          "badge": ""
-        },
-        {
-          "name": "Zarah Luxury Series Ombre De Louis PH Edp 80ml",
-          "handle": "zarah-luxury-series-ombre-de-louis-ph-edp-80ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ombre_de_louis_by_prive_zarah__1605160782_954f6723_progressive.jpg?v=1633348237",
-          "price": 57,
-          "badge": ""
-        },
-        {
-          "name": "ZARAH BOIS DORES PRIVE COLLECTION IV EDP 80ML",
-          "handle": "zarah-bois-dores-prive-collection-iv-edp-80ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/zarah_bois_dores_prive_collection_iv_edp_80ml.jpg?v=1633348270",
-          "price": 75,
-          "badge": ""
-        },
-        {
-          "name": "ZARAH AXEND EDP 100ML",
-          "handle": "zarah-axend-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/54bf50091b0462d2c0b9c39717c605d589325366_dbb7fd0b9adff4732a1a8cc37e609186-1-600x514.jpg?v=1633348272",
-          "price": 75,
-          "badge": ""
-        },
-        {
-          "name": "Zarah Afgano Blend Edp 80Ml",
-          "handle": "zarah-afgano-blend-edp-80ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/zarah-afgano-blend-edp-80-ml_1.jpg?v=1633348279",
-          "price": 73,
           "badge": ""
         }
       ]
