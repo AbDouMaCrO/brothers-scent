@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-16T11:48:25.913Z",
+  "scraped_at": "2026-10-16T16:07:33.092Z",
   "source": "https://samawa.ae",
   "count": 25076,
   "products": [
@@ -8075,6 +8075,7 @@
       "_sku": "690251180011",
       "_tags": [
         "50ml",
+        "badge_Global Hits",
         "cologne",
         "EDP",
         "Fragrance",
@@ -16754,6 +16755,7 @@
       "_sku": "8028713828218",
       "_tags": [
         "100ml",
+        "badge_Global Hits",
         "Branded Perfumes",
         "EDC",
         "Fragrance",
@@ -16772,7 +16774,7 @@
       "price_gros": 55,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Stallion_Leather_Perfume_For_Unisex_EDP_PFB-510-Photoroom_1.png?v=1789974919",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Stallion_Leather_Perfume_For_Unisex_EDP_50ml_PFB-510-Photoroom.png?v=1792157083",
       "active": true,
       "_handle": "amazing-creation-stallion-leather-perfume-for-unisex-edp-100ml-pfb-510",
       "_sku": "6253488505107",
@@ -16800,7 +16802,7 @@
       "price_gros": 95,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Stallion_Leather_Perfume_For_Unisex_EDP_PFB-510-Photoroom_1.png?v=1789974919",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Stallion_Leather_Perfume_For_Unisex_EDP_50ml_PFB-510-Photoroom.png?v=1792157083",
       "active": true,
       "_handle": "amazing-creation-stallion-leather-perfume-for-unisex-edp-100ml-pfb-510",
       "_sku": "6253488595108",
@@ -52889,8 +52891,8 @@
       "brand": "Arabiyat",
       "category_slug": "homme",
       "size": "100ml",
-      "price_retail": 120,
-      "price_gros": 120,
+      "price_retail": 122,
+      "price_gros": 122,
       "stock": 999,
       "badge": "",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Arabiyat_Prestige_Marwa_Edp_For_Men_And_Women_Woody_Amber_100ml-Photoroom.png?v=1787482983",
@@ -103325,7 +103327,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 143,
-      "price_gros": 80,
+      "price_gros": 81,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rasasi_Hawas_Elixir_For_Unisex_EDP_100ml.png?v=1787408572",
@@ -109063,6 +109065,7 @@
       "_handle": "tom-ford-oud-wood-for-unisex-parfum-50ml",
       "_sku": "888066130035",
       "_tags": [
+        "badge_Global Hits",
         "Branded Perfumes",
         "Fragrance",
         "Global Hits",
@@ -110279,7 +110282,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 128,
-      "price_gros": 83,
+      "price_gros": 84,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/02owut5kkt-resized-Photoroom.png?v=1787754146",
@@ -121106,7 +121109,7 @@
       "category_slug": "homme",
       "size": "75ml",
       "price_retail": 187,
-      "price_gros": 109,
+      "price_gros": 106.7,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Ahmed_Al_Maghribi_Rose_Noir_Perfume_For_Women_EDP_75ml-Photoroom.png?v=1788273276",
@@ -141606,6 +141609,7 @@
       "_tags": [
         "100ml",
         "badge_Best Seller",
+        "badge_Global Hits",
         "Best Seller",
         "Branded Perfumes",
         "Extrait De Parfum",
@@ -212404,7 +212408,7 @@
       "price_gros": 148,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/TrussardiDonnaPinkMarina_W_Edt50Ml.jpg?v=1692685989",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/TrussardiDonnaPinkMarina_W_Edt50Ml-resized-Photoroom.png?v=1792163272",
       "active": true,
       "_handle": "trussardi-donna-pink-marina-perfume-for-women-edt-50ml",
       "_sku": "8058045422907",
@@ -212427,7 +212431,7 @@
       "price_gros": 200,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/TrussardiDonnaPinkMarina_W_Edt100Ml.jpg?v=1692685656",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/PinkMarina_W_Edt100Ml-resized-Photoroom.png?v=1792163392",
       "active": true,
       "_handle": "trussardi-donna-pink-marina-perfume-for-women-edt-100ml",
       "_sku": "8058045422914",
@@ -213108,7 +213112,7 @@
       "price_gros": 622,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ElectimussCelestial_U_PureParfum100Ml.webp?v=1692458053",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ElectimussCelestial_U_PureParfum100Ml-Photoroom.png?v=1792163690",
       "active": true,
       "_handle": "electimuss-celestial-perfume-for-unisex-pure-parfum-100ml",
       "_sku": "5060485382317",
@@ -213247,7 +213251,7 @@
       "price_gros": 429,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/AtkinsonsOudSaveTheQueen_W_Edp100Ml.jpg?v=1692427789",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/AtkinsonsOudSaveTheQueen_W_Edp100Ml-resized-Photoroom.png?v=1792163801",
       "active": true,
       "_handle": "atkinsons-oud-save-the-queen-perfume-for-women-edp-100ml",
       "_sku": "8011003867196",
@@ -213452,7 +213456,7 @@
       "price_gros": 1084,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/CreedSpringFlowerEdp75ml.jpg?v=1692340901",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/CreedSpringFlowerEdp75ml-resized-Photoroom_cb1f927a-7d1d-4d3e-a126-b62e8d481517.png?v=1792163922",
       "active": true,
       "_handle": "creed-spring-flower-perfume-for-women-edp-75ml-1",
       "_sku": "3508440561800",
@@ -213718,7 +213722,7 @@
       "price_gros": 306,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/BvlgariManTerraeEssence_M_SetEdp100Ml_Edp15Ml.jpg?v=1692254072",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/BvlgariManTerraeEssence_M_SetEdp100Ml_Edp15Ml-resized-Photoroom.png?v=1792164004",
       "active": true,
       "_handle": "bvlgari-man-terrae-essence-gift-set-for-men-1",
       "_sku": "783320419317",
@@ -214341,7 +214345,7 @@
       "price_gros": 103,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/GiorgioArmaniEmporioArmaniStrongerWithYouOnlyPourHomme_M_Edt15Ml.jpg?v=1691853581",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/GiorgioArmaniEmporioArmaniStrongerWithYouOnlyPourHomme_M_Edt15Ml-resized-Photoroom.png?v=1792164107",
       "active": true,
       "_handle": "giorgio-armani-emporio-armani-stronger-with-you-only-pour-homme-perfume-for-men-edt-15ml",
       "_sku": "3614273628914",
@@ -214435,7 +214439,7 @@
       "price_gros": 343,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Eight_BobAnnicke6PourFemme_W_Edp100Ml.webp?v=1691820971",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Eight_BobAnnicke6PourFemme_W_Edp100Ml-resized-Photoroom.png?v=1792164223",
       "active": true,
       "_handle": "eight-bob-annicke-6-pour-femme-perfume-for-women-edp-100ml",
       "_sku": "8437018063413",
@@ -214550,7 +214554,7 @@
       "price_gros": 247,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ChloeRoseNaturelleIntense_W_EdpIntense50Ml.webp?v=1691770297",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ChloeRoseNaturelleIntense_W_EdpIntense50Ml-resized-Photoroom.png?v=1792164393",
       "active": true,
       "_handle": "chloe-rose-naturelle-intense-perfume-for-women-edp-intense-50ml",
       "_sku": "3616302038312",
@@ -214665,7 +214669,7 @@
       "price_gros": 328,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/PR.InvictusMEdt100ml_20mlTravelSet.jpg?v=1691653907",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/PR.InvictusMEdt100ml_20mlTravelSet-resized-Photoroom.png?v=1792164563",
       "active": true,
       "_handle": "paco-rabanne-invictus-gift-set-for-men-3",
       "_sku": "3349668597062",
@@ -216145,7 +216149,7 @@
       "price_gros": 540,
       "stock": 999,
       "badge": "SALE",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/GuerlainInsolence_W_Edp75Ml.jpg?v=1690871345",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/GuerlainInsolence_W_Edp75Ml-resized-Photoroom.png?v=1792164716",
       "active": true,
       "_handle": "guerlain-insolence-perfume-for-women-edp-75ml",
       "_sku": "3346470143234",
@@ -218912,7 +218916,7 @@
       "price_gros": 130,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ElieSaabLeParfumEssentiel_W_Edp30Ml.jpg?v=1690176672",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ElieSaabLeParfumEssentiel_W_Edp30Ml-resized-Photoroom.png?v=1792164896",
       "active": true,
       "_handle": "elie-saab-le-parfum-essentiel-perfume-for-women-edp-30ml-1",
       "_sku": "7640233340042",
@@ -219540,7 +219544,7 @@
       "price_gros": 379,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Goutal_AnnickGoutal_RosePomponEDT100ml.webp?v=1689678574",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Goutal_AnnickGoutal_RosePomponEDT100ml-resized-Photoroom.png?v=1792165045",
       "active": true,
       "_handle": "annick-goutal-rose-pompon-perfume-for-women-edt-100ml",
       "_sku": "711367109397",
@@ -219586,7 +219590,7 @@
       "price_gros": 236,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Dolce_GabbanaPourHommeEDTM125ml.jpg?v=1689661117",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Dolce_GabbanaPourHommeEDTM125ml-resized-Photoroom.png?v=1792165181",
       "active": true,
       "_handle": "dolce-gabbana-pour-homme-perfume-for-men-edt-125ml",
       "_sku": "8057971180424",
@@ -219881,7 +219885,7 @@
       "price_gros": 111,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/MontBlancLegendRed_M_Edp50Ml.webp?v=1689489150",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/MontBlancLegendRed_M_Edp50Ml-resized-Photoroom.png?v=1792165306",
       "active": true,
       "_handle": "mont-blanc-legend-red-perfume-for-men-edp-50ml",
       "_sku": "3386460127974",
@@ -220484,7 +220488,7 @@
       "price_gros": 54,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/MaisonAlHambraSalvoElixirEDP60ml.webp?v=1689075835",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/MaisonAlHambraSalvoElixirEDP60ml-resized-Photoroom.png?v=1792165520",
       "active": true,
       "_handle": "maison-alhambra-salvo-elixir-perfume-for-men-edp-60ml",
       "_sku": "6290360590776",
@@ -220993,7 +220997,7 @@
       "price_gros": 325,
       "stock": 999,
       "badge": "SALE",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Viktor_RolfSpicebombNightVisionPourHomme_M_Edt90Ml.jpg?v=1688795175",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Viktor_RolfSpicebombNightVisionPourHomme_M_Edt90Ml-resized-Photoroom.png?v=1792165682",
       "active": true,
       "_handle": "viktor-rolf-spicebomb-night-vision-pour-homme-perfume-for-men-edt-90ml",
       "_sku": "3614272191556",
@@ -221665,7 +221669,7 @@
       "price_gros": 167,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/JuicyCoutureVivaLaJuicyPetalsPleaseEDPW100ml.jpg?v=1688283437",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/JuicyCoutureVivaLaJuicyPetalsPleaseEDPW100ml-resized-Photoroom.png?v=1792165809",
       "active": true,
       "_handle": "juicy-couture-viva-la-juicy-petals-please-perfume-for-women-edp-100ml",
       "_sku": "719346260053",
@@ -222245,7 +222249,7 @@
       "price_gros": 65,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/KhadlajLaFedeBelleReveSegratoViolaEDPForUnisex100ml..jpg?v=1686991452",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LaFedeBelleReveSegratoViolaEDPForUnisex100ml-resized-Photoroom.png?v=1792165925",
       "active": true,
       "_handle": "khadlaj-la-fede-belle-reve-segrato-viola-edp-for-unisex-100ml",
       "_sku": "6291107975771",
@@ -223536,6 +223540,7 @@
         "Arabic Perfume",
         "autumn",
         "badge_Best Seller",
+        "badge_Global Hits",
         "Best Seller",
         "EDP",
         "Fragrance",
@@ -232363,7 +232368,7 @@
       "price_gros": 101,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ElizabethTaylorWhiteDiamondsEnRougeEDT100ml.jpg?v=1680058337",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ElizabethTaylorWhiteDiamondsEnRougeEDT100ml-resized-Photoroom.png?v=1792166552",
       "active": true,
       "_handle": "elizabeth-taylor-white-diamonds-en-rouge-perfume-for-women-edt-100ml",
       "_sku": "719346243636",
@@ -232594,7 +232599,7 @@
       "price_gros": 777,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/RojaParfumsApex_M_Edp100Ml.jpg?v=1679968593",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/RojaParfumsApex_M_Edp100Ml-resized-Photoroom.png?v=1792166434",
       "active": true,
       "_handle": "roja-parfums-apex-perfume-for-men-edp-100ml",
       "_sku": "5056002602068",
@@ -234094,7 +234099,7 @@
       "price_gros": 412,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/Goutal_AnnickGoutal_RosePomponEDP100ml.jpg?v=1679303961",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/RosePomponEDP100ml-Photoroom.png?v=1792166352",
       "active": true,
       "_handle": "annick-goutal-rose-pompon-perfume-for-women-edp-100ml",
       "_sku": "711367109519",
@@ -235061,7 +235066,7 @@
       "price_gros": 130,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/MercedesBenzClubExtremeForMen_M_Edt100Ml.jpg?v=1677747713",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ClubExtremeForMen_M_Edt100Ml-resized-Photoroom.png?v=1792166266",
       "active": true,
       "_handle": "mercedes-benz-club-extreme-perfume-for-men-edt-100ml",
       "_sku": "3595471101273",
@@ -235795,7 +235800,7 @@
       "price_gros": 131,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/Guess1981M3PieceSet_100mlEDT_200mlSG_226mlBodySpray_cb6a9643-3b0e-4658-9a87-57346888cbff.jpg?v=1677503470",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/guessssssssss-Photoroom.png?v=1792166074",
       "active": true,
       "_handle": "guess-1981-gift-set-for-men",
       "_sku": "085715329295",
@@ -280537,6 +280542,7 @@
         "100ml",
         "badge_ADD 3 PAY FOR 2",
         "badge_Best Seller",
+        "badge_Global Hits",
         "Best Seller",
         "DDF",
         "EDP",
@@ -363093,6 +363099,7 @@
       "_tags": [
         "100ml",
         "badge_Best Seller",
+        "badge_Global Hits",
         "Best Seller",
         "Branded Perfumes",
         "EDP",
@@ -372236,7 +372243,7 @@
       "_url": "https://samawa.ae/products/al-haramain-sheikh-oil-attar-perfume-oil-for-men-12ml"
     },
     {
-      "name": "Al Haramain Combodi Oudh Ma’al attar Bakhoor 50gms",
+      "name": "Al Haramain Combodi Oudh Maâ€™al attar Bakhoor 50gms",
       "brand": "Haramain",
       "category_slug": "oriental",
       "size": "50g",
@@ -373796,7 +373803,7 @@
       "_url": "https://samawa.ae/products/guerlain-samsara-perfume-for-women-edt-30-ml"
     },
     {
-      "name": "Victoria´s Secret Seduction 50ml  4 pieces Gift Set",
+      "name": "VictoriaÂ´s Secret Seduction 50ml  4 pieces Gift Set",
       "brand": "Victoria's Secret",
       "category_slug": "homme",
       "size": "50ml",
@@ -374787,7 +374794,7 @@
       "_url": "https://samawa.ae/products/elie-saab-girl-of-now-scented-body-lotion-for-women-200-ml"
     },
     {
-      "name": "Dsquared² Wood Pour Homme Set For Men EDT 50 ml + Perfumed After Shave Balm 50 ml + Perfumed Bath&Shower Gel 50 ml",
+      "name": "DsquaredÂ² Wood Pour Homme Set For Men EDT 50 ml + Perfumed After Shave Balm 50 ml + Perfumed Bath&Shower Gel 50 ml",
       "brand": "Dsquared2",
       "category_slug": "homme",
       "size": "50ml",
@@ -374810,7 +374817,7 @@
       "_url": "https://samawa.ae/products/dsquared-wood-pour-homme-set-for-men-edt-50-ml-perfumed-after-shave-balm-50-ml-perfumed-bath-shower-gel-50-ml"
     },
     {
-      "name": "Dsquared² Wood Pour Femme Set For Women EDT 50 ml + Charming Body Lotion 50 ml + Charming Bath&Shower Gel 50 ml",
+      "name": "DsquaredÂ² Wood Pour Femme Set For Women EDT 50 ml + Charming Body Lotion 50 ml + Charming Bath&Shower Gel 50 ml",
       "brand": "Dsquared2",
       "category_slug": "homme",
       "size": "50ml",
@@ -375213,7 +375220,7 @@
       "_url": "https://samawa.ae/products/victoria-secret-assorted-4-pieces-gift-set"
     },
     {
-      "name": "Victoria´s Secret Pure Seduction Body Spray Gift Set",
+      "name": "VictoriaÂ´s Secret Pure Seduction Body Spray Gift Set",
       "brand": "Victoria's Secret",
       "category_slug": "homme",
       "size": "100ml",
@@ -389350,7 +389357,7 @@
       "_url": "https://samawa.ae/products/paco-rabanne-pure-xs-pure-excess-pour-lui-for-men-edt-50-ml"
     },
     {
-      "name": "Chanel L’Eau Tan Refreshing Self-Tanning Body Mist For Women 75ml",
+      "name": "Chanel Lâ€™Eau Tan Refreshing Self-Tanning Body Mist For Women 75ml",
       "brand": "Chanel",
       "category_slug": "homme",
       "size": "75ml",
@@ -391143,7 +391150,7 @@
       "_url": "https://samawa.ae/products/goutal-sables-perfume-for-men-edp-100-ml"
     },
     {
-      "name": "100 Bon Néroli & Petit Grain Printanier Perfumes For Unisex EDP 50ml",
+      "name": "100 Bon NÃ©roli & Petit Grain Printanier Perfumes For Unisex EDP 50ml",
       "brand": "100 Bon",
       "category_slug": "homme",
       "size": "50ml",
@@ -391304,7 +391311,7 @@
       "_url": "https://samawa.ae/products/100-bon-mimosa-heliotrope-poudre-perfumes-for-unisex-eau-concentree-50ml"
     },
     {
-      "name": "100 Bon Gingembre & Vétiver Sensuel Perfumes For Unisex Eau Concentree 50ml",
+      "name": "100 Bon Gingembre & VÃ©tiver Sensuel Perfumes For Unisex Eau Concentree 50ml",
       "brand": "100 Bon",
       "category_slug": "homme",
       "size": "50ml",
@@ -392583,7 +392590,7 @@
       "_url": "https://samawa.ae/products/np-omarine-pour-homme-edt-100ml"
     },
     {
-      "name": "O’Marine by Parfums O’marine Eau De Parfum  for Women 100ml",
+      "name": "Oâ€™Marine by Parfums Oâ€™marine Eau De Parfum  for Women 100ml",
       "brand": "Parfums O’marine",
       "category_slug": "homme",
       "size": "100ml",
@@ -401612,7 +401619,7 @@
       "_url": "https://samawa.ae/products/armaf-odyssey-homme-perfume-for-men-edp-white-edition-100ml"
     },
     {
-      "name": "DSQUARED² WOOD POUR FEMME FOR WOMEN MINIATURE EDT 5 ml",
+      "name": "DSQUAREDÂ² WOOD POUR FEMME FOR WOMEN MINIATURE EDT 5 ml",
       "brand": "Dsquared2",
       "category_slug": "homme",
       "size": "5ml",
@@ -401635,7 +401642,7 @@
       "_url": "https://samawa.ae/products/dsquared-wood-pour-femme-for-women-miniature-edt-5-ml"
     },
     {
-      "name": "DSQUARED² WOOD GREEN POUR HOMME FOR MEN MINIATURE EDT 5 ml",
+      "name": "DSQUAREDÂ² WOOD GREEN POUR HOMME FOR MEN MINIATURE EDT 5 ml",
       "brand": "Dsquared2",
       "category_slug": "homme",
       "size": "5ml",
@@ -404643,7 +404650,7 @@
       "price_gros": 99,
       "stock": 999,
       "badge": "SALE",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/Amazing-Creation-Foresta-_-Seta-Gift-Set_closed.jpg?v=1626070514",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Collections_Gifts_Set_For_Men_and_Women-Photoroom.png?v=1792158451",
       "active": true,
       "_handle": "ramadan-eid-gift-set-by-amazing-creation-for-unisex",
       "_sku": "6253481650026",
@@ -412152,7 +412159,7 @@
       "_url": "https://samawa.ae/products/escada-joyful-moments-limited-edition-for-women-edp-30-ml"
     },
     {
-      "name": "DSQUARED² WOOD RED POUR FEMME FOR WOMEN MINI EDT 5 ml",
+      "name": "DSQUAREDÂ² WOOD RED POUR FEMME FOR WOMEN MINI EDT 5 ml",
       "brand": "Dsquared2",
       "category_slug": "homme",
       "size": "5ml",
@@ -412175,7 +412182,7 @@
       "_url": "https://samawa.ae/products/dsquared-wood-red-pour-femme-for-women-mini-edt-5-ml"
     },
     {
-      "name": "DSQUARED² WOOD GREEN POUR HOMME FOR MEN MINI EDT 5 ml",
+      "name": "DSQUAREDÂ² WOOD GREEN POUR HOMME FOR MEN MINI EDT 5 ml",
       "brand": "Dsquared2",
       "category_slug": "homme",
       "size": "5ml",
@@ -412394,7 +412401,7 @@
       "_url": "https://samawa.ae/products/amazing-creation-mademoiselle-perfume-for-women-edp-50ml-pfb0079"
     },
     {
-      "name": "Ard Al Zaafaran Oud Al Sayad Unisex Eau De Parfum, 100 ml…",
+      "name": "Ard Al Zaafaran Oud Al Sayad Unisex Eau De Parfum, 100 mlâ€¦",
       "brand": "Ard Al Zafraan",
       "category_slug": "homme",
       "size": "100ml",
@@ -412469,7 +412476,7 @@
       "_url": "https://samawa.ae/products/amazing-creation-hurmeez-perfume-for-men-edp-50ml-pfb0036"
     },
     {
-      "name": "Amazing Creation F’heit - Perfume For Men - EDP 50ml PFB-26",
+      "name": "Amazing Creation Fâ€™heit - Perfume For Men - EDP 50ml PFB-26",
       "brand": "Amazing Creation",
       "category_slug": "homme",
       "size": "50ml",
@@ -417198,7 +417205,7 @@
       "_url": "https://samawa.ae/products/dunhill-icon-racing-for-men-edp-30-ml"
     },
     {
-      "name": "DSQUARED² WOOD POUR HOMME FOR MEN SET EDT 100 ml + BATH & SHOWER GEL 100 ml + BLACK WALLET",
+      "name": "DSQUAREDÂ² WOOD POUR HOMME FOR MEN SET EDT 100 ml + BATH & SHOWER GEL 100 ml + BLACK WALLET",
       "brand": "Dsquared2",
       "category_slug": "homme",
       "size": "100ml",
@@ -417221,7 +417228,7 @@
       "_url": "https://samawa.ae/products/dsquared-wood-pour-homme-for-men-set-edt-100-ml-bath-shower-gel-100-ml-black-wallet"
     },
     {
-      "name": "DSQUARED² WOOD GREEN POUR HOMME FOR MEN SET EDT 100 ml + BATH & SHOWER GEL 100 ml + BLACK WALLET",
+      "name": "DSQUAREDÂ² WOOD GREEN POUR HOMME FOR MEN SET EDT 100 ml + BATH & SHOWER GEL 100 ml + BLACK WALLET",
       "brand": "Dsquared2",
       "category_slug": "homme",
       "size": "100ml",
@@ -419554,7 +419561,7 @@
       "_url": "https://samawa.ae/products/giorgio-armani-armani-eau-de-nuit-oud-tube-spray-for-men-edp-1-2-ml"
     },
     {
-      "name": "Giorgio Armani Armani Eau de Cèdre Pour Homme - Tube Spray For Men - EDT 1.2 ml",
+      "name": "Giorgio Armani Armani Eau de CÃ¨dre Pour Homme - Tube Spray For Men - EDT 1.2 ml",
       "brand": "Giorgio Armani",
       "category_slug": "homme",
       "size": "1.2ml",
@@ -422511,7 +422518,7 @@
       "_url": "https://samawa.ae/products/jo-malone-blackberry-bay-cologne-for-women-100-ml"
     },
     {
-      "name": "Victoria’s Secret Vanilla Remix Fragrance Mist Body Spray For Women -250 ml",
+      "name": "Victoriaâ€™s Secret Vanilla Remix Fragrance Mist Body Spray For Women -250 ml",
       "brand": "Victoria's Secret",
       "category_slug": "homme",
       "size": "250ml",
@@ -423410,10 +423417,10 @@
       "_url": "https://samawa.ae/products/100-bon-eau-de-the-gingembreeau-perfume-for-unisex-50-ml"
     },
     {
-      "name": "Memo Lalibela Femme - Perfume For Women - EDP 75 ml",
+      "name": "Memo Lalibela Femme - Perfume For Women - EDP 75Â ml",
       "brand": "Memo",
       "category_slug": "homme",
-      "size": "75ml",
+      "size": "100ml",
       "price_retail": 587,
       "price_gros": 587,
       "stock": 999,
@@ -425300,7 +425307,7 @@
       "_url": "https://samawa.ae/products/narciso-rodriguez-narciso-ambree-perfume-for-women-edp-90-ml"
     },
     {
-      "name": "Narciso Rodriguez Narciso Ambrée - Perfume For Women - EDP 50 ml",
+      "name": "Narciso Rodriguez Narciso AmbrÃ©e - Perfume For Women - EDP 50 ml",
       "brand": "Narciso Rodriguez",
       "category_slug": "homme",
       "size": "50ml",
@@ -426039,7 +426046,7 @@
       "_url": "https://samawa.ae/products/issey-miyake-fusion-dissey-set-for-men-edt-100-ml-shower-gel-2x50-ml"
     },
     {
-      "name": "Issey Miyake Nectar d'Issey Première Fleur - Perfume For Women - EDP 90 ml",
+      "name": "Issey Miyake Nectar d'Issey PremiÃ¨re Fleur - Perfume For Women - EDP 90 ml",
       "brand": "Issey Miyake",
       "category_slug": "homme",
       "size": "90ml",
@@ -426062,7 +426069,7 @@
       "_url": "https://samawa.ae/products/issey-miyake-nectar-dissey-premiere-fleur-perfume-for-women-edp-90-ml"
     },
     {
-      "name": "Issey Miyake Nectar d'Issey Première Fleur - Perfume For Women - EDP 50 ml",
+      "name": "Issey Miyake Nectar d'Issey PremiÃ¨re Fleur - Perfume For Women - EDP 50 ml",
       "brand": "Issey Miyake",
       "category_slug": "homme",
       "size": "50ml",
@@ -427675,7 +427682,7 @@
       "_url": "https://samawa.ae/products/afnan-violet-bouquet-perfume-for-women-edp-90-ml"
     },
     {
-      "name": "Amazing Creation F’heit Perfume For Men EDP  100ml PFB-26",
+      "name": "Amazing Creation Fâ€™heit Perfume For Men EDP  100ml PFB-26",
       "brand": "Amazing Creation",
       "category_slug": "homme",
       "size": "100ml",
@@ -439646,7 +439653,7 @@
       "_url": "https://samawa.ae/products/louis-cardin-musk-al-sabaya-women-edp-100-ml"
     },
     {
-      "name": "JUDITH LEIBER Leiber Minaudiã¨Re, Women, EDP, 100Ml",
+      "name": "JUDITH LEIBER Leiber MinaudiÃ£Â¨Re, Women, EDP, 100Ml",
       "brand": "Judith Leiber",
       "category_slug": "homme",
       "size": "100ml",
@@ -442300,7 +442307,7 @@
       "_url": "https://samawa.ae/products/britney-spears-curious-in-control-edp-women-100-ml"
     },
     {
-      "name": "Boucheron Place Vendôme Eau de Toilette EDT Women 100 ml",
+      "name": "Boucheron Place VendÃ´me Eau de Toilette EDT Women 100 ml",
       "brand": "Boucheron",
       "category_slug": "homme",
       "size": "100ml",
@@ -442756,7 +442763,7 @@
       "_url": "https://samawa.ae/products/mugler-les-exceptions-oriental-extreme-scented-candle-180-g"
     },
     {
-      "name": "Thierry Mugler Les Exceptions Fougère Furieuse Scented Candle 180 g",
+      "name": "Thierry Mugler Les Exceptions FougÃ¨re Furieuse Scented Candle 180 g",
       "brand": "MUGLER",
       "category_slug": "homme",
       "size": "180g",
@@ -442897,7 +442904,7 @@
       "_url": "https://samawa.ae/products/maison-francis-kurkdjian-amyris-femme-for-women-scented-body-oil-70ml"
     },
     {
-      "name": "Maison Francis Kurkdjian À La Rose For Women Scented Body Oil 70 ml",
+      "name": "Maison Francis Kurkdjian Ã€ La Rose For Women Scented Body Oil 70 ml",
       "brand": "Maison Francis Kurkdjian",
       "category_slug": "homme",
       "size": "70ml",
@@ -443112,7 +443119,7 @@
       "_url": "https://samawa.ae/products/thierry-mugler-les-exceptions-mystic-aromatic-unisex-edp-80-ml"
     },
     {
-      "name": "Thierry Mugler  Fougère Furieuse Unisex EDP 80 ml",
+      "name": "Thierry Mugler  FougÃ¨re Furieuse Unisex EDP 80 ml",
       "brand": "MUGLER",
       "category_slug": "homme",
       "size": "80ml",
@@ -443136,7 +443143,7 @@
       "_url": "https://samawa.ae/products/thierry-mugler-fougere-furieuse-unisex-edp-80-ml"
     },
     {
-      "name": "Thierry Mugler  Fougère Furieuse Unisex EDP 500 ml Refill",
+      "name": "Thierry Mugler  FougÃ¨re Furieuse Unisex EDP 500 ml Refill",
       "brand": "MUGLER",
       "category_slug": "homme",
       "size": "500ml",
@@ -443283,7 +443290,7 @@
       "_url": "https://samawa.ae/products/maison-francis-kurkdjian-aqua-universalis-unisex-scented-shower-cream-250-ml"
     },
     {
-      "name": "Maison Francis Kurkdjian À La Rose Scented Shower Cream For Women  250 ml",
+      "name": "Maison Francis Kurkdjian Ã€ La Rose Scented Shower Cream For Women  250 ml",
       "brand": "Maison Francis Kurkdjian",
       "category_slug": "homme",
       "size": "250ml",
@@ -443306,7 +443313,7 @@
       "_url": "https://samawa.ae/products/maison-francis-kurkdjian-a-la-rose-scented-shower-cream-for-women-250-ml"
     },
     {
-      "name": "Maison Francis Kurkdjian Féminin Pluriel Scented Body Cream For Women 250 Ml",
+      "name": "Maison Francis Kurkdjian FÃ©minin Pluriel Scented Body Cream For Women 250 Ml",
       "brand": "Maison Francis Kurkdjian",
       "category_slug": "homme",
       "size": "250ml",
@@ -443454,7 +443461,7 @@
       "_url": "https://samawa.ae/products/maison-francis-kurkdjian-apom-femme-scented-body-cream-for-women-250-ml"
     },
     {
-      "name": "Maison Francis Kurkdjian À La Rose Scented Body Cream For Women 250 ml",
+      "name": "Maison Francis Kurkdjian Ã€ La Rose Scented Body Cream For Women 250 ml",
       "brand": "Maison Francis Kurkdjian",
       "category_slug": "homme",
       "size": "250ml",
@@ -443785,7 +443792,7 @@
       "_url": "https://samawa.ae/products/maison-francis-kurkdjian-aqua-universalis-hair-mist-unisex-70ml"
     },
     {
-      "name": "Maison Francis Kurkdjian À La Rose  For Women Scented Hair Mist 70 ml",
+      "name": "Maison Francis Kurkdjian Ã€ La Rose  For Women Scented Hair Mist 70 ml",
       "brand": "Maison Francis Kurkdjian",
       "category_slug": "homme",
       "size": "70ml",
@@ -444903,7 +444910,7 @@
       "_url": "https://samawa.ae/products/victorias-secret-petal-rave-shimmer-body-mist-250ml"
     },
     {
-      "name": "Victoria’s Secret Jasmine Woods Body Mist 250ml",
+      "name": "Victoriaâ€™s Secret Jasmine Woods Body Mist 250ml",
       "brand": "Victoria Secret",
       "category_slug": "homme",
       "size": "250ml",
@@ -444930,7 +444937,7 @@
       "_url": "https://samawa.ae/products/victoria-s-secret-jasmine-woods-body-mist-250ml"
     },
     {
-      "name": "Victoria’s Secret Fresh Jade Body Mist 250ml",
+      "name": "Victoriaâ€™s Secret Fresh Jade Body Mist 250ml",
       "brand": "Victoria Secret",
       "category_slug": "homme",
       "size": "250ml",
@@ -444957,7 +444964,7 @@
       "_url": "https://samawa.ae/products/victoria-s-secret-fresh-jade-body-mist-250ml"
     },
     {
-      "name": "Victoria’s Secret Dark Pomegranate Body Mist 250ml",
+      "name": "Victoriaâ€™s Secret Dark Pomegranate Body Mist 250ml",
       "brand": "Victoria Secret",
       "category_slug": "homme",
       "size": "250ml",
@@ -462412,7 +462419,7 @@
       "_url": "https://samawa.ae/products/disney-princess-sleeping-beauty-2-in-1-shower-gel-shampoo-400ml"
     },
     {
-      "name": "Dsquared² Wood Pour Homme For Men Mini Edt 5 ml",
+      "name": "DsquaredÂ² Wood Pour Homme For Men Mini Edt 5 ml",
       "brand": "Dsquared2",
       "category_slug": "homme",
       "size": "5ml",
@@ -462435,7 +462442,7 @@
       "_url": "https://samawa.ae/products/dsquared-wood-pour-homme-for-men-mini-edt-5-ml"
     },
     {
-      "name": "Dsquared² Wood Green Pour Homme For Men Edt 100 ml",
+      "name": "DsquaredÂ² Wood Green Pour Homme For Men Edt 100 ml",
       "brand": "Dsquared2",
       "category_slug": "homme",
       "size": "100ml",
@@ -471928,7 +471935,7 @@
       "_url": "https://samawa.ae/products/carolina-herrera-212-vip-rose-womens-hair-mist-30-ml"
     },
     {
-      "name": "Antonio Banderas . Secret Temptation 100 + Ma + Deo 2017",
+      "name": "Antonio Banderas . Secret Temptation 100Â + Ma + Deo 2017",
       "brand": "Antonio Banderas",
       "category_slug": "homme",
       "size": "100ml",
@@ -474910,7 +474917,7 @@
       "_url": "https://samawa.ae/products/etro-profumi-magotfor-unisex-edt-100ml"
     },
     {
-      "name": "Ivanhoe By Yves De Sistelle For Men Eau De Toilette - 100 Ml",
+      "name": "Ivanhoe By Yves De Sistelle For Men Eau De ToiletteÂ - 100 Ml",
       "brand": "Yves De Sistelle",
       "category_slug": "homme",
       "size": "100ml",
@@ -476403,10 +476410,10 @@
       "_url": "https://samawa.ae/products/viktor-rolf-spicebomb-extreme-90-ml-edp-spray"
     },
     {
-      "name": "DAVIDOFF COOL WATER WAVE ALL OVER BODY SPRAY FOR MEN, 150  ML",
+      "name": "DAVIDOFF COOL WATER WAVE ALL OVER BODY SPRAY FOR MEN, 150Â  ML",
       "brand": "Davidoff",
       "category_slug": "homme",
-      "size": "150ml",
+      "size": "100ml",
       "price_retail": 48,
       "price_gros": 48,
       "stock": 999,
@@ -486091,7 +486098,7 @@
       "_url": "https://samawa.ae/products/al-haramain-bait-al-arab-bakhoor-100gms"
     },
     {
-      "name": "Al Haramain Oudh Ma’jun Maliki Bakhoor 100gms",
+      "name": "Al Haramain Oudh Maâ€™jun Maliki Bakhoor 100gms",
       "brand": "Haramain",
       "category_slug": "homme",
       "size": "100g",
@@ -489929,7 +489936,7 @@
       "_url": "https://samawa.ae/products/tresor-in-love-by-lancome-perfume-for-men-eau-de-parfum-30ml"
     },
     {
-      "name": "Tiziana Terenzi Tiz XIX March Extr de PARF 100 ml Skin Care 100 ml Pack of 1",
+      "name": "Tiziana Terenzi Tiz XIX March Extr de PARF 100Â ml Skin Care 100Â ml Pack of 1",
       "brand": "Tiziana Terenzi",
       "category_slug": "homme",
       "size": "100ml",
@@ -490788,7 +490795,7 @@
       "_url": "https://samawa.ae/products/prada-luna-rossa-perfume-for-men-50-ml-edt-spray"
     },
     {
-      "name": "Prada Candy L'Eau EDT Spray 80 ml For Women",
+      "name": "Prada Candy L'Eau EDTÂ Spray 80 ml For Women",
       "brand": "Prada",
       "category_slug": "homme",
       "size": "80ml",
@@ -491526,7 +491533,7 @@
       "_url": "https://samawa.ae/products/mercedes-benz-for-men-eau-de-toilette-120-ml"
     },
     {
-      "name": "Al Haramain L’Aventure Blanche Spray Gift Set for Men",
+      "name": "Al Haramain Lâ€™Aventure Blanche Spray Gift Set for Men",
       "brand": "Haramain",
       "category_slug": "homme",
       "size": "100ml",
@@ -491572,7 +491579,7 @@
       "_url": "https://samawa.ae/products/marc-jacobs-daisy-for-women-50-ml-edt-spray"
     },
     {
-      "name": "Haramain L’Aventure Spray Gift Set for Men",
+      "name": "Haramain Lâ€™Aventure Spray Gift Set for Men",
       "brand": "Haramain",
       "category_slug": "homme",
       "size": "100ml",
@@ -492114,7 +492121,7 @@
       "_url": "https://samawa.ae/products/al-haramain-manege-blanche-spray-75ml-for-unisex"
     },
     {
-      "name": "Al Haramain L’Aventure Knight Spray 100ml for Unisex",
+      "name": "Al Haramain Lâ€™Aventure Knight Spray 100ml for Unisex",
       "brand": "Haramain",
       "category_slug": "homme",
       "size": "100ml",
@@ -492138,7 +492145,7 @@
       "_url": "https://samawa.ae/products/al-haramain-l-aventure-knight-spray-100ml-for-unisex"
     },
     {
-      "name": "Haramain L’Aventure Femme Spray for Unisex",
+      "name": "Haramain Lâ€™Aventure Femme Spray for Unisex",
       "brand": "Haramain",
       "category_slug": "homme",
       "size": "100ml",
@@ -492281,7 +492288,7 @@
       "_url": "https://samawa.ae/products/haramain-amber-oud-60ml-spray-tobacco-edition-for-unisex"
     },
     {
-      "name": "Al Haramain L’Aventure for Unisex 100ml",
+      "name": "Al Haramain Lâ€™Aventure for Unisex 100ml",
       "brand": "Haramain",
       "category_slug": "homme",
       "size": "100ml",
@@ -494525,7 +494532,7 @@
       "_url": "https://samawa.ae/products/gucci-flora-gorgeous-gardenia-limited-edition-eau-de-toilette-for-women-50-ml"
     },
     {
-      "name": "GrÃ¨s LumiÃ¨re Noire Eau De ParfumÂ -Â 100Â ml",
+      "name": "GrÃƒÂ¨s LumiÃƒÂ¨re Noire Eau De ParfumÃ‚Â -Ã‚Â 100Ã‚Â ml",
       "brand": "Gres",
       "category_slug": "homme",
       "size": "100ml",
@@ -498262,7 +498269,7 @@
       "_url": "https://samawa.ae/products/burberry-touch-perfumes-for-women-eau-de-parfum-50-ml"
     },
     {
-      "name": "Burberry Perfume  - Body  by Burberry - perfumes for women - Eau De Toilette, 35ml",
+      "name": "Burberry Perfume  - BodyÂ  by Burberry - perfumes for women - Eau De Toilette, 35ml",
       "brand": "Burberry",
       "category_slug": "homme",
       "size": "35ml",
@@ -498658,7 +498665,7 @@
       "_url": "https://samawa.ae/products/azzaro-club-perfumes-for-women-75ml-eau-de-toilette-edt-fragrance-spray"
     },
     {
-      "name": "ATKINSONS The Excelsior Bouquet Eau De Toilette Spray For Unisex, 100 Ml",
+      "name": "ATKINSONS The Excelsior Bouquet Eau De Toilette Spray For Unisex, 100Â Ml",
       "brand": "Atkinsons",
       "category_slug": "homme",
       "size": "100ml",
@@ -499199,7 +499206,7 @@
       "_url": "https://samawa.ae/products/atelier-des-ors-atelier-des-ors-lune-feline-perfume-for-unisex-edp-100-ml"
     },
     {
-      "name": "Atelier Cologne Silver Iris Eau De Parfum For Unisex, 200 ml",
+      "name": "Atelier Cologne Silver IrisÂ Eau De Parfum For Unisex, 200 ml",
       "brand": "Atelier Cologne",
       "category_slug": "homme",
       "size": "200ml",
@@ -499500,7 +499507,7 @@
       "_url": "https://samawa.ae/products/angel-schlesser-oriental-edition-ii-by-angel-schlesser-for-women-eau-de-toilette-50ml"
     },
     {
-      "name": "Angel Schlesser for Her Sensual Eau De Parfum 100 ml",
+      "name": "Angel Schlesser for Her Sensual Eau De Parfum 100Â ml",
       "brand": "Angel Schlesser",
       "category_slug": "homme",
       "size": "100ml",
@@ -504360,7 +504367,7 @@
       "_url": "https://samawa.ae/products/tom-ford-noir-anthracite-for-perfume-for-men-50ml-eau-de-parfum-888066067133"
     },
     {
-      "name": "Estée Lauder Pleasures Aqua EDP 50 mL For women.",
+      "name": "EstÃ©e Lauder Pleasures Aqua EDP 50 mL For women.",
       "brand": "Estee Lauder",
       "category_slug": "homme",
       "size": "50ml",
@@ -514739,7 +514746,7 @@
       "_url": "https://samawa.ae/products/kenzo-world-perfume-for-women-edp-50-ml"
     },
     {
-      "name": "Kenzo Damendüfte Kenzo Jungle Perfume for Women - EDP, 50 ml",
+      "name": "Kenzo DamendÃ¼fte Kenzo Jungle Perfume for Women - EDP, 50 ml",
       "brand": "Kenzo",
       "category_slug": "homme",
       "size": "50ml",
@@ -518870,10 +518877,10 @@
       "_url": "https://samawa.ae/products/serge-lutens-leau-de-paille-edp-perfume-for-men-50-ml"
     },
     {
-      "name": "GIVENCHY Eaudem Mademoiselle Rose A La Folie De Givenchy Eau De Toilette For Women, 50  ml",
+      "name": "GIVENCHY Eaudem Mademoiselle Rose A La Folie De Givenchy Eau De Toilette For Women, 50Â  ml",
       "brand": "Givenchy",
       "category_slug": "homme",
-      "size": "50ml",
+      "size": "100ml",
       "price_retail": 199,
       "price_gros": 199,
       "stock": 999,
@@ -531675,7 +531682,7 @@
       "_url": "https://samawa.ae/products/fendi-lacquarossa-body-lotion-for-women-5-ounce"
     },
     {
-      "name": "Lápiz de Ojos Stylo Chanel",
+      "name": "LÃ¡piz de Ojos Stylo Chanel",
       "brand": "Chanel",
       "category_slug": "homme",
       "size": "100ml",
@@ -532715,7 +532722,7 @@
       "_url": "https://samawa.ae/products/yves-saint-laurent-black-opium-perfumes-for-women-edp-30ml"
     },
     {
-      "name": "Jimmy Choo L’Eau Perfume For Women, EDT, 60 ml",
+      "name": "Jimmy Choo Lâ€™Eau Perfume For Women, EDT, 60 ml",
       "brand": "Jimmy Choo",
       "category_slug": "homme",
       "size": "60ml",
@@ -532894,7 +532901,7 @@
       "_url": "https://samawa.ae/products/guerlain-shalimar-souffle-de-parfum-perfume-for-women-edp-90-ml"
     },
     {
-      "name": "Hermes Terre D´Hermes Eau Intense Vétiver, EDP, 100 ml",
+      "name": "Hermes Terre DÂ´Hermes Eau Intense VÃ©tiver, EDP, 100 ml",
       "brand": "Hermes",
       "category_slug": "homme",
       "size": "100ml",
@@ -533472,10 +533479,10 @@
       "_url": "https://samawa.ae/products/calvin-klein-contradiction-for-women-eau-de-parfum-100ml"
     },
     {
-      "name": "Hugo Boss Boss Nuit Runway Edition for Women Eau De Parfum 75 ml",
+      "name": "Hugo BossÂ Boss Nuit Runway Edition for Women Eau De Parfum 75Â ml",
       "brand": "Hugo Boss",
       "category_slug": "homme",
-      "size": "75ml",
+      "size": "100ml",
       "price_retail": 150,
       "price_gros": 150,
       "stock": 999,
@@ -533611,7 +533618,7 @@
       "_url": "https://samawa.ae/products/giorgio-armani-variety-for-men-5-pc-mini-set"
     },
     {
-      "name": "Boucheron Tubéreuse de Madras  for Unisex - Eau de Parfum, 125 ml",
+      "name": "Boucheron TubÃ©reuse de Madras  for Unisex - Eau de Parfum, 125 ml",
       "brand": "Boucheron",
       "category_slug": "homme",
       "size": "125ml",
@@ -536308,7 +536315,7 @@
       "_url": "https://samawa.ae/products/1-million-by-paco-rabanne-for-perfumes-for-women-eau-de-toilette-100ml"
     },
     {
-      "name": "Atkinsons Jasmine in Tangerine Eau de Perfume spray - Perfume for Women, 100 ml",
+      "name": "Atkinsons Jasmine in Tangerine Eau de Perfume spray - Perfume for Women, 100Â ml",
       "brand": "Atkinsons",
       "category_slug": "homme",
       "size": "100ml",
@@ -536491,10 +536498,10 @@
       "_url": "https://samawa.ae/products/prada-luna-rossa-perfume-for-men-100-ml-edt-spray"
     },
     {
-      "name": "Christian Dior Dior Addict Eau Delice VAPO - Perfume for Women, 50 ML",
+      "name": "Christian Dior Dior Addict Eau Delice VAPO - Perfume for Women, 50Â ML",
       "brand": "Christian Dior",
       "category_slug": "homme",
-      "size": "50ml",
+      "size": "100ml",
       "price_retail": 285,
       "price_gros": 285,
       "stock": 999,
@@ -545604,10 +545611,10 @@
       "_url": "https://samawa.ae/products/givenchy-very-irresistible-leau-en-rose-perfumes-for-women-75-ml-edt"
     },
     {
-      "name": "Givenchy  - perfume for men Only Intense 50 ml  Eau De Toilette",
+      "name": "Givenchy  - perfume for men Only Intense 50Â ml  Eau De Toilette",
       "brand": "Givenchy",
       "category_slug": "homme",
-      "size": "50ml",
+      "size": "100ml",
       "price_retail": 162,
       "price_gros": 162,
       "stock": 999,
@@ -545766,7 +545773,7 @@
       "_url": "https://samawa.ae/products/chanel-allure-homme-sport-eau-de-toilette-50-ml"
     },
     {
-      "name": "Aigner No 1 Intense - Homme- perfume for men, Eau De Toilette Spray 100 ml",
+      "name": "Aigner No 1Â Intense - Homme- perfume for men, Eau De Toilette Spray 100Â ml",
       "brand": "Etienne Aigner",
       "category_slug": "homme",
       "size": "100ml",
@@ -546254,7 +546261,7 @@
       "_url": "https://samawa.ae/products/nina-ricci-variety-perfume-gift-set"
     },
     {
-      "name": "Terre d’Hermès perfume for men Eau de Parfum 200ml",
+      "name": "Terre dâ€™HermÃ¨s perfume for men Eau de Parfum 200ml",
       "brand": "Hermes",
       "category_slug": "homme",
       "size": "200ml",
@@ -546650,7 +546657,7 @@
       "_url": "https://samawa.ae/products/yves-saint-laurent-black-opium-perfume-for-women-edp-50-ml"
     },
     {
-      "name": "Frederic Malle Musc Ravageur for Unisex Eau de Parfum  100 ml",
+      "name": "Frederic Malle Musc Ravageur for Unisex Eau de Parfum  100Â ml",
       "brand": "Frederic Malle",
       "category_slug": "homme",
       "size": "100ml",
@@ -548619,7 +548626,7 @@
       "_url": "https://samawa.ae/products/givenchy-organza-perfume-for-women-edp-50ml"
     },
     {
-      "name": "Annick Goutal Tenue de Soirée Perfume For Women, EDP, 100ml",
+      "name": "Annick Goutal Tenue de SoirÃ©e Perfume For Women, EDP, 100ml",
       "brand": "ANNICK GOUTAL",
       "category_slug": "homme",
       "size": "100ml",
@@ -555227,7 +555234,7 @@
       "_url": "https://samawa.ae/products/dunhill-desire-blue-ocean-for-men-edt-100-ml"
     },
     {
-      "name": "DSQUARED² HE WOOD COLOGNE POUR HOMME FOR MEN EDC 75 ml",
+      "name": "DSQUAREDÂ² HE WOOD COLOGNE POUR HOMME FOR MEN EDC 75 ml",
       "brand": "Dsquared2",
       "category_slug": "homme",
       "size": "75ml",
@@ -559569,6 +559576,7 @@
       "_sku": "3145891164602",
       "_tags": [
         "100ml",
+        "badge_Global Hits",
         "Branded Perfumes",
         "EDT",
         "Fragrance",
@@ -572909,7 +572917,7 @@
       "_url": "https://samawa.ae/products/noir-by-s-t-dupont-for-men-eau-de-toilette-100ml"
     },
     {
-      "name": "S.T. Dupont Passenger for Women - ‫-Eau de Parfum , 100 ml",
+      "name": "S.T. Dupont Passenger for Women - â€«-Eau de Parfum , 100 ml",
       "brand": "St Dupont",
       "category_slug": "homme",
       "size": "100ml",
@@ -576184,7 +576192,7 @@
       "_url": "https://samawa.ae/products/la-nuit-by-yves-saint-laurent-for-men-eau-de-parfum-100ml"
     },
     {
-      "name": "Echt Kolnisch Wasser by Echt Kölnisch Wasser for Unisex  - Eau de Cologne, 100ml",
+      "name": "Echt Kolnisch Wasser by Echt KÃ¶lnisch Wasser for Unisex  - Eau de Cologne, 100ml",
       "brand": "Echt Kölnisch Wasser",
       "category_slug": "homme",
       "size": "100ml",
@@ -577810,7 +577818,7 @@
       "_url": "https://samawa.ae/products/acqua-di-gio-pour-homme-by-giorgio-armani-for-men-eau-de-toilette-50ml"
     },
     {
-      "name": "Estée Lauder Pleasures For Men 100ml - Eau de Cologne",
+      "name": "EstÃ©e Lauder Pleasures For Men 100ml - Eau de Cologne",
       "brand": "Estee Lauder",
       "category_slug": "homme",
       "size": "100ml",
@@ -583290,7 +583298,7 @@
       "_url": "https://samawa.ae/products/lalique-encre-noire-sport-for-men-eau-de-toilette-100ml"
     },
     {
-      "name": "Lalique Encre Noire À L'Extrême For Men- Eau de Parfum, 100ml",
+      "name": "Lalique Encre Noire Ã€ L'ExtrÃªme For Men- Eau de Parfum, 100ml",
       "brand": "Lalique",
       "category_slug": "homme",
       "size": "100ml",
@@ -583530,7 +583538,7 @@
       "_url": "https://samawa.ae/products/mercedes-benz-club-black-for-men-eau-de-toilette-100ml"
     },
     {
-      "name": "Juicy Couture Viva La Juicy Soirée for Women - Eau de Parfum, 100ml",
+      "name": "Juicy Couture Viva La Juicy SoirÃ©e for Women - Eau de Parfum, 100ml",
       "brand": "Juicy Couture",
       "category_slug": "homme",
       "size": "100ml",
