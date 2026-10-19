@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T07:22:53.220Z",
+  "generated_at": "2026-10-19T14:56:20.853Z",
   "total_brands": 886,
   "brands": [
     {
@@ -425,14 +425,14 @@
         {
           "name": "Samawa Fragrance Oil Inspired By Gissah imperial valley PFB-277 -1KG",
           "handle": "samawa-fragrance-oil-inspired-by-gissah-imperial-valley-pfb-277-1kg",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/FragranceOil1kg_0336542e-79b7-4431-924d-c6fd96f99eb9.jpg?v=1748601086",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Samawa_Fragrance_Oil_Inspired_By_Gissah_imperial_valley_PFB-277_-1KG-Photoroom.png?v=1792416340",
           "price": 625,
           "badge": ""
         },
         {
           "name": "Samawa Fragrance Oil Inspired By ARMANI MY WAY PFB-178 -1KG",
           "handle": "samawa-fragrance-oil-inspired-by-armani-my-way-pfb-178-1kg",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/FragranceOil1kg_8c9676f8-9f36-475c-807c-e4d67fb04766.jpg?v=1748601102",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Samawa_Fragrance_Oil_Inspired_By_ARMANI_MY_WAY_PFB-178_-1KG-Photoroom.png?v=1792413986",
           "price": 478,
           "badge": ""
         },
@@ -605,7 +605,7 @@
     {
       "name": "Lattafa",
       "slug": "lattafa",
-      "count": 257,
+      "count": 258,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Najdia_Intense_Perfumes_for_Men_EDP_100ml_1.1.png?v=1788337594",
       "preview": [
         {
@@ -1205,7 +1205,7 @@
     {
       "name": "Hugo Boss",
       "slug": "hugo-boss",
-      "count": 208,
+      "count": 211,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/boss-bottled-edt-200ml-deo-stick-75ml-36993-Photoroom.png?v=1792134076",
       "preview": [
         {
@@ -4590,7 +4590,7 @@
           "name": "Ahmed Al Maghribi Kaaf Noir Perfume For Unisex EDP 100ml",
           "handle": "ahmed-al-maghribi-kaaf-noir-perfume-for-unisex-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Ahmed_Al_Maghribi_Kaaf_Noir_Perfume_For_Unisex_EDP_100ml-Photoroom.png?v=1787489811",
-          "price": 104,
+          "price": 102,
           "badge": "SALE"
         },
         {
@@ -17597,7 +17597,7 @@
           "name": "Riiffs Momento Edp For Men And Women Sweet 100ml",
           "handle": "riiffs-momento-edp-for-men-and-women-sweet-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Riiffs_Momento_Edp_For_Men_And_Women_Sweet_100ml-Photoroom.png?v=1787483971",
-          "price": 117,
+          "price": 98,
           "badge": ""
         }
       ]
@@ -18149,6 +18149,56 @@
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/saint_hilaire_oud_ultime_edp_100_ml_1.jpg?v=1624451444",
           "price": 56,
           "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Luxury Concept",
+      "slug": "luxury-concept",
+      "count": 11,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/hsk-paris-i-am-fablulous.jpg?v=1624487886",
+      "preview": [
+        {
+          "name": "Luxury Concept HSK Paris I am Fablulous EDP 50ml",
+          "handle": "luxury-concept-hsk-paris-i-am-fablulous-edp-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/hsk-paris-i-am-fablulous.jpg?v=1624487886",
+          "price": 109,
+          "badge": ""
+        },
+        {
+          "name": "Luxury Concept Holy Oud for Unisex EDP 100ml",
+          "handle": "luxury-concept-holy-oud-for-unisex-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/luxury-collections-holy-oud-edp-100ml_big.jpg?v=1624431621",
+          "price": 87,
+          "badge": "SALE"
+        },
+        {
+          "name": "Luxury Concept VL Notte De Fabulous EDP 50ml",
+          "handle": "luxury-concept-vl-notte-de-fabulous-edp-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/note-de-fabulous.jpg?v=1624426596",
+          "price": 77,
+          "badge": "SALE"
+        },
+        {
+          "name": "HSK Paris The Jacket, Perfume For Unisex, EDP, 80ml",
+          "handle": "hsk-paris-the-jacket-perfume-for-unisex-edp-80ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/hsk-paris-the-jacket.jpg?v=1624403402",
+          "price": 95,
+          "badge": "SALE"
+        },
+        {
+          "name": "Elixir Musk, Perfume For Unisex, EDP 50ml",
+          "handle": "elixir-musk-perfume-for-unisex-edp-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/elixir-musk.jpg?v=1624401027",
+          "price": 58,
+          "badge": "SALE"
+        },
+        {
+          "name": "Holy Musk Perfume For Unisex, EDP, 75ml",
+          "handle": "holy-musk-perfume-for-unisex-edp-75ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/holy-musk-2.jpg?v=1624400943",
+          "price": 87,
+          "badge": "SALE"
         }
       ]
     },
@@ -20399,56 +20449,6 @@
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/enrico_gi_green_ain_edp_100ml.jpg?v=1624468373",
           "price": 113,
           "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Luxury Concept",
-      "slug": "luxury-concept",
-      "count": 9,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/hsk-paris-i-am-fablulous.jpg?v=1624487886",
-      "preview": [
-        {
-          "name": "Luxury Concept HSK Paris I am Fablulous EDP 50ml",
-          "handle": "luxury-concept-hsk-paris-i-am-fablulous-edp-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/hsk-paris-i-am-fablulous.jpg?v=1624487886",
-          "price": 109,
-          "badge": ""
-        },
-        {
-          "name": "Luxury Concept Holy Oud for Unisex EDP 100ml",
-          "handle": "luxury-concept-holy-oud-for-unisex-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/luxury-collections-holy-oud-edp-100ml_big.jpg?v=1624431621",
-          "price": 87,
-          "badge": "SALE"
-        },
-        {
-          "name": "Luxury Concept VL Notte De Fabulous EDP 50ml",
-          "handle": "luxury-concept-vl-notte-de-fabulous-edp-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/note-de-fabulous.jpg?v=1624426596",
-          "price": 77,
-          "badge": "SALE"
-        },
-        {
-          "name": "HSK Paris The Jacket, Perfume For Unisex, EDP, 80ml",
-          "handle": "hsk-paris-the-jacket-perfume-for-unisex-edp-80ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/hsk-paris-the-jacket.jpg?v=1624403402",
-          "price": 95,
-          "badge": "SALE"
-        },
-        {
-          "name": "Elixir Musk, Perfume For Unisex, EDP 50ml",
-          "handle": "elixir-musk-perfume-for-unisex-edp-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/elixir-musk.jpg?v=1624401027",
-          "price": 58,
-          "badge": "SALE"
-        },
-        {
-          "name": "Holy Musk Perfume For Unisex, EDP, 75ml",
-          "handle": "holy-musk-perfume-for-unisex-edp-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/holy-musk-2.jpg?v=1624400943",
-          "price": 87,
-          "badge": "SALE"
         }
       ]
     },
