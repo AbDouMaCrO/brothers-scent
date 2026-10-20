@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T03:27:27.069Z",
+  "generated_at": "2026-10-20T08:52:24.402Z",
   "total_brands": 886,
   "brands": [
     {
@@ -605,7 +605,7 @@
     {
       "name": "Lattafa",
       "slug": "lattafa",
-      "count": 258,
+      "count": 260,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Najdia_Intense_Perfumes_for_Men_EDP_100ml_1.1.png?v=1788337594",
       "preview": [
         {
@@ -3018,7 +3018,7 @@
         {
           "name": "Maison Alhambra Sensual Vanilla For Unisex EDP 80ml",
           "handle": "maison-alhambra-sensual-vanilla-for-unisex-edp-80ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Maison_Alhambra_Sensual_Vanilla_For_Unisex_EDP_80ml_1.png?v=1789029809",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Maison_Alhambra_Sensual_Vanilla_For_Unisex_EDP_80ml_1.png?v=1792477493",
           "price": 78,
           "badge": ""
         },
@@ -3032,14 +3032,14 @@
         {
           "name": "Maison Alhambra Dark Aoud For Unisex EDP 80ml",
           "handle": "maison-alhambra-dark-aoud-for-unisex-edp-80ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Maison_Alhambra_Dark_Aoud_For_Unisex_EDP_80ml_1.png?v=1789032633",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Maison_Alhambra_Dark_Aoud_For_Unisex_EDP_80ml_1.png?v=1792477804",
           "price": 78,
           "badge": ""
         },
         {
           "name": "Maison Alhambra Coral Blush For Unisex EDP 80ml",
           "handle": "maison-alhambra-coral-blush-for-unisex-edp-80ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Maison_Alhambra_Coral_Blush_For_Unisex_EDP_80ml_1.png?v=1789035353",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Maison_Alhambra_Coral_Blush_For_Unisex_EDP_80ml_1.png?v=1792477682",
           "price": 78,
           "badge": ""
         },
@@ -16553,6 +16553,56 @@
       ]
     },
     {
+      "name": "RiiFFS",
+      "slug": "riiffs",
+      "count": 12,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Riiffs_Freeze_In_Flames_Extrait_de_Parfum_For_Men_And_Women_100ml.png?v=1792474083",
+      "preview": [
+        {
+          "name": "Riiffs Freeze In Flames Extrait de Parfum For Men And Women 100ml",
+          "handle": "riiffs-freeze-in-flames-extrait-de-parfum-for-men-and-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Riiffs_Freeze_In_Flames_Extrait_de_Parfum_For_Men_And_Women_100ml.png?v=1792474083",
+          "price": 148,
+          "badge": "SALE"
+        },
+        {
+          "name": "Riiffs Fareed Eau De Parfum For Men 100ml",
+          "handle": "riiffs-fareed-eau-de-parfum-for-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Riiffs_Fareed_For_Men_Eau_De_Parfum_100ml_1.png?v=1791446224",
+          "price": 103,
+          "badge": "SALE"
+        },
+        {
+          "name": "Riiffs Veloce Extrait De Parfum For Unisex- Amber Woody Perfume 100ml",
+          "handle": "riiffs-veloce-extrait-de-parfum-for-unisex-amber-woody-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Riiffs_Veloce_Extrait_De_Parfum_For_Unisex-_Amber_Woody_Perfume_100ml.jpg?v=1789111141",
+          "price": 131,
+          "badge": ""
+        },
+        {
+          "name": "Riiffs Tahira Extrait De Parfum For Unisex- Floral Fruity Gourmand Perfume 100ml",
+          "handle": "riiffs-tahira-extrait-de-parfum-for-unisex-floral-fruity-gourmand-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Riiffs_Tahira_Extrait_De_Parfum_For_Unisex-_Floral_Fruity_Gourmand_Perfume_100ml-Photoroom.png?v=1790529824",
+          "price": 101,
+          "badge": ""
+        },
+        {
+          "name": "Riiffs Imperial Rouge Edp For Women Fruity 100ml",
+          "handle": "riiffs-imperial-rouge-edp-for-women-fruity-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Riiffs_Imperial_Rouge_Edp_For_Women_Fruity_100ml-Photoroom.png?v=1789971354",
+          "price": 62,
+          "badge": ""
+        },
+        {
+          "name": "Riiffs Imperial Noir Edp For Men Sweet 100ml",
+          "handle": "riiffs-imperial-noir-edp-for-men-sweet-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Riiffs_Imperial_Noir_Edp_For_Men_Sweet_100ml-Photoroom.png?v=1789659098",
+          "price": 62,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Ahmed Al Maghribi",
       "slug": "ahmed-al-maghribi",
       "count": 12,
@@ -17553,56 +17603,6 @@
       ]
     },
     {
-      "name": "RiiFFS",
-      "slug": "riiffs",
-      "count": 11,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Riiffs_Fareed_For_Men_Eau_De_Parfum_100ml_1.png?v=1791446224",
-      "preview": [
-        {
-          "name": "Riiffs Fareed Eau De Parfum For Men 100ml",
-          "handle": "riiffs-fareed-eau-de-parfum-for-men-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Riiffs_Fareed_For_Men_Eau_De_Parfum_100ml_1.png?v=1791446224",
-          "price": 103,
-          "badge": "SALE"
-        },
-        {
-          "name": "Riiffs Veloce Extrait De Parfum For Unisex- Amber Woody Perfume 100ml",
-          "handle": "riiffs-veloce-extrait-de-parfum-for-unisex-amber-woody-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Riiffs_Veloce_Extrait_De_Parfum_For_Unisex-_Amber_Woody_Perfume_100ml.jpg?v=1789111141",
-          "price": 131,
-          "badge": ""
-        },
-        {
-          "name": "Riiffs Tahira Extrait De Parfum For Unisex- Floral Fruity Gourmand Perfume 100ml",
-          "handle": "riiffs-tahira-extrait-de-parfum-for-unisex-floral-fruity-gourmand-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Riiffs_Tahira_Extrait_De_Parfum_For_Unisex-_Floral_Fruity_Gourmand_Perfume_100ml-Photoroom.png?v=1790529824",
-          "price": 101,
-          "badge": ""
-        },
-        {
-          "name": "Riiffs Imperial Rouge Edp For Women Fruity 100ml",
-          "handle": "riiffs-imperial-rouge-edp-for-women-fruity-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Riiffs_Imperial_Rouge_Edp_For_Women_Fruity_100ml-Photoroom.png?v=1789971354",
-          "price": 62,
-          "badge": ""
-        },
-        {
-          "name": "Riiffs Imperial Noir Edp For Men Sweet 100ml",
-          "handle": "riiffs-imperial-noir-edp-for-men-sweet-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Riiffs_Imperial_Noir_Edp_For_Men_Sweet_100ml-Photoroom.png?v=1789659098",
-          "price": 62,
-          "badge": ""
-        },
-        {
-          "name": "Riiffs Momento Edp For Men And Women Sweet 100ml",
-          "handle": "riiffs-momento-edp-for-men-and-women-sweet-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Riiffs_Momento_Edp_For_Men_And_Women_Sweet_100ml-Photoroom.png?v=1787483971",
-          "price": 117,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Reef",
       "slug": "reef",
       "count": 11,
@@ -17898,6 +17898,56 @@
           "handle": "perry-ellis-18-sensual-perfumes-for-women-100-ml-edp-spray",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/perry_ellis_18_sensual_-_perfumes_for_women_100_ml_-_edp_spray.jpg?v=1624476652",
           "price": 99,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Vurv",
+      "slug": "vurv",
+      "count": 11,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tn2_0_07999500_1633406164.jpg?v=1661848280",
+      "preview": [
+        {
+          "name": "Vurv Rivage Femme EDP For Women 100ml",
+          "handle": "vurv-rivage-femme-edp-for-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tn2_0_07999500_1633406164.jpg?v=1661848280",
+          "price": 33,
+          "badge": ""
+        },
+        {
+          "name": "Vurv Octave Women - Deodorant Body Spray For Women - 200 ml",
+          "handle": "vurv-octave-women-deodorant-body-spray-for-women-200-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv_octave_woman_deo.jpg?v=1624521999",
+          "price": 8,
+          "badge": ""
+        },
+        {
+          "name": "Vurv Rivage Gift Set for Men (EDP 100ml & 200ml Deodorant)",
+          "handle": "vurv-rivage-gift-set-for-men-edp-100ml-200ml-deodorant",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/rivage-gift-set.jpg?v=1633422754",
+          "price": 52,
+          "badge": ""
+        },
+        {
+          "name": "Vurv Octave perfume for women, EDP 100ml",
+          "handle": "vurv-octave-perfume-for-women-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv-octave-woman-edp-100ml_1.jpg?v=1624444636",
+          "price": 39,
+          "badge": "SALE"
+        },
+        {
+          "name": "Vurv Prive club Homme for Men EDP 100ml",
+          "handle": "vurv-prive-club-homme-for-men-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/92706_01b12827ef7d386f09edf68d604bca08_prive_club_pour_homme.jpg?v=1633422763",
+          "price": 42,
+          "badge": ""
+        },
+        {
+          "name": "Vurv Waltz pour Homme Perfume For Men, Eau De Parfum,  100 ML",
+          "handle": "vurv-waltz-pour-homme-perfume-for-men-eau-de-parfum-100-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv-waltz.jpg?v=1624401524",
+          "price": 43,
           "badge": ""
         }
       ]
@@ -18948,56 +18998,6 @@
           "handle": "3am-sean-john-deodorant-stick-by-sean-john-for-men",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/sj162.7051.88.jpg?v=1633574432",
           "price": 20,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Vurv",
-      "slug": "vurv",
-      "count": 10,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tn2_0_07999500_1633406164.jpg?v=1661848280",
-      "preview": [
-        {
-          "name": "Vurv Rivage Femme EDP For Women 100ml",
-          "handle": "vurv-rivage-femme-edp-for-women-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tn2_0_07999500_1633406164.jpg?v=1661848280",
-          "price": 33,
-          "badge": ""
-        },
-        {
-          "name": "Vurv Octave Women - Deodorant Body Spray For Women - 200 ml",
-          "handle": "vurv-octave-women-deodorant-body-spray-for-women-200-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv_octave_woman_deo.jpg?v=1624521999",
-          "price": 8,
-          "badge": ""
-        },
-        {
-          "name": "Vurv Rivage Gift Set for Men (EDP 100ml & 200ml Deodorant)",
-          "handle": "vurv-rivage-gift-set-for-men-edp-100ml-200ml-deodorant",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/rivage-gift-set.jpg?v=1633422754",
-          "price": 52,
-          "badge": ""
-        },
-        {
-          "name": "Vurv Octave perfume for women, EDP 100ml",
-          "handle": "vurv-octave-perfume-for-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv-octave-woman-edp-100ml_1.jpg?v=1624444636",
-          "price": 39,
-          "badge": "SALE"
-        },
-        {
-          "name": "Vurv Prive club Homme for Men EDP 100ml",
-          "handle": "vurv-prive-club-homme-for-men-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/92706_01b12827ef7d386f09edf68d604bca08_prive_club_pour_homme.jpg?v=1633422763",
-          "price": 42,
-          "badge": ""
-        },
-        {
-          "name": "Vurv Waltz pour Homme Perfume For Men, Eau De Parfum,  100 ML",
-          "handle": "vurv-waltz-pour-homme-perfume-for-men-eau-de-parfum-100-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv-waltz.jpg?v=1624401524",
-          "price": 43,
           "badge": ""
         }
       ]
