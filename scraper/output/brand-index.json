@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T11:14:12.204Z",
+  "generated_at": "2026-10-21T16:07:17.524Z",
   "total_brands": 886,
   "brands": [
     {
@@ -605,7 +605,7 @@
     {
       "name": "Lattafa",
       "slug": "lattafa",
-      "count": 260,
+      "count": 259,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Najdia_Intense_Perfumes_for_Men_EDP_100ml_1.1.png?v=1788337594",
       "preview": [
         {
@@ -9153,6 +9153,56 @@
       ]
     },
     {
+      "name": "Arabiyat",
+      "slug": "arabiyat",
+      "count": 27,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Arabiyat_Prestige_Mahid_Al_Dhahab_Extrait_De_Parfum_For_Men_And_Women_60ml.png?v=1792589999",
+      "preview": [
+        {
+          "name": "Arabiyat Prestige Mahid Al Dhahab Extrait De Parfum For Men And Women 60ml",
+          "handle": "arabiyat-prestige-mahid-al-dhahab-extrait-de-parfum-for-men-and-women-60ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Arabiyat_Prestige_Mahid_Al_Dhahab_Extrait_De_Parfum_For_Men_And_Women_60ml.png?v=1792589999",
+          "price": 184,
+          "badge": ""
+        },
+        {
+          "name": "Arabiyat Prestige Marwa Extrait De Parfum For Men And Women 60ml",
+          "handle": "arabiyat-prestige-marwa-extrait-de-parfum-for-men-and-women-60ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Arabiyat_Prestige_Marwa_Extrait_De_Parfum_60ml.png?v=1792589377",
+          "price": 184,
+          "badge": ""
+        },
+        {
+          "name": "Arabiyat Oud Al Layl Midnight Edition Eau De Parfum For Unisex-Aquatic Aromatic Woody Perfume 100ml",
+          "handle": "arabiyat-oud-al-layl-midnight-edition-eau-de-parfum-for-unisex-aquatic-aromatic-woody-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/midnight_thumbnail-Photoroom.png?v=1786798870",
+          "price": 48,
+          "badge": ""
+        },
+        {
+          "name": "Arabiyat Prestige Ramad Earthy Extrait De Parfum For Unisex- Oriental Spicy Perfume 100ml",
+          "handle": "arabiyat-prestige-ramad-earthy-extrait-de-parfum-for-unisex-oriental-spicy-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Arabiyat_Prestige_Ramad_Earthy_Extrait_De_Parfum_For_Unisex-_Oriental_Spicy_Perfume_100ml-Photoroom.png?v=1787464337",
+          "price": 155,
+          "badge": ""
+        },
+        {
+          "name": "Arabiyat Prestige Nyla Vani Elle Edp For Men And Women Gourmand 80ml",
+          "handle": "arabiyat-prestige-nyla-vani-elle-edp-for-men-and-women-gourmand-80ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Arabiyat_Prestige_Nyla_Vani_Elle_Edp_For_Men_And_Women_Gourmand_80ml-Photoroom.png?v=1789197765",
+          "price": 84,
+          "badge": ""
+        },
+        {
+          "name": "Arabiyat Prestige Nyla Suede Edp For Men And Women Soft 80ml",
+          "handle": "arabiyat-prestige-nyla-suede-edp-for-men-and-women-soft-80ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Arabiyat_Prestige_Nyla_Suede_Edp_For_Men_And_Women_Soft_80ml-Photoroom.png?v=1789793461",
+          "price": 99,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Essential Parfums",
       "slug": "essential-parfums",
       "count": 27,
@@ -9498,56 +9548,6 @@
           "handle": "lartisan-parfumeur-il-etait-un-bois-eau-de-parfum-for-men-woody-perfume-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/1PACKSHOT_100ML_149ML_5000X5000_IlEtaitunBois_EDP_100ml_Bottle.png?v=1757658935",
           "price": 781,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Arabiyat",
-      "slug": "arabiyat",
-      "count": 25,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/midnight_thumbnail-Photoroom.png?v=1786798870",
-      "preview": [
-        {
-          "name": "Arabiyat Oud Al Layl Midnight Edition Eau De Parfum For Unisex-Aquatic Aromatic Woody Perfume 100ml",
-          "handle": "arabiyat-oud-al-layl-midnight-edition-eau-de-parfum-for-unisex-aquatic-aromatic-woody-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/midnight_thumbnail-Photoroom.png?v=1786798870",
-          "price": 48,
-          "badge": ""
-        },
-        {
-          "name": "Arabiyat Prestige Ramad Earthy Extrait De Parfum For Unisex- Oriental Spicy Perfume 100ml",
-          "handle": "arabiyat-prestige-ramad-earthy-extrait-de-parfum-for-unisex-oriental-spicy-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Arabiyat_Prestige_Ramad_Earthy_Extrait_De_Parfum_For_Unisex-_Oriental_Spicy_Perfume_100ml-Photoroom.png?v=1787464337",
-          "price": 155,
-          "badge": ""
-        },
-        {
-          "name": "Arabiyat Prestige Nyla Vani Elle Edp For Men And Women Gourmand 80ml",
-          "handle": "arabiyat-prestige-nyla-vani-elle-edp-for-men-and-women-gourmand-80ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Arabiyat_Prestige_Nyla_Vani_Elle_Edp_For_Men_And_Women_Gourmand_80ml-Photoroom.png?v=1789197765",
-          "price": 84,
-          "badge": ""
-        },
-        {
-          "name": "Arabiyat Prestige Nyla Suede Edp For Men And Women Soft 80ml",
-          "handle": "arabiyat-prestige-nyla-suede-edp-for-men-and-women-soft-80ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Arabiyat_Prestige_Nyla_Suede_Edp_For_Men_And_Women_Soft_80ml-Photoroom.png?v=1789793461",
-          "price": 99,
-          "badge": ""
-        },
-        {
-          "name": "Arabiyat Prestige Uhud Eau De Parfum For Unisex - Oriental Vanilla Perfume 100ml",
-          "handle": "arabiyat-prestige-uhud-eau-de-parfum-for-unisex-oriental-vanilla-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Parfymeflasken_til_Arabiyat_Prestige_Uhud_Parfyme-Photoroom.png?v=1787495164",
-          "price": 155,
-          "badge": ""
-        },
-        {
-          "name": "Arabiyat Prestige Safa Eau De Parfum For Women - Floral Fruity Gourmand Perfume 100ml",
-          "handle": "arabiyat-prestige-safa-eau-de-parfum-for-women-floral-fruity-gourmand-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/safa-resized-Photoroom.png?v=1790856145",
-          "price": 155,
           "badge": ""
         }
       ]
@@ -17903,56 +17903,6 @@
       ]
     },
     {
-      "name": "Vurv",
-      "slug": "vurv",
-      "count": 11,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tn2_0_07999500_1633406164.jpg?v=1661848280",
-      "preview": [
-        {
-          "name": "Vurv Rivage Femme EDP For Women 100ml",
-          "handle": "vurv-rivage-femme-edp-for-women-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tn2_0_07999500_1633406164.jpg?v=1661848280",
-          "price": 33,
-          "badge": ""
-        },
-        {
-          "name": "Vurv Octave Women - Deodorant Body Spray For Women - 200 ml",
-          "handle": "vurv-octave-women-deodorant-body-spray-for-women-200-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv_octave_woman_deo.jpg?v=1624521999",
-          "price": 8,
-          "badge": ""
-        },
-        {
-          "name": "Vurv Rivage Gift Set for Men (EDP 100ml & 200ml Deodorant)",
-          "handle": "vurv-rivage-gift-set-for-men-edp-100ml-200ml-deodorant",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/rivage-gift-set.jpg?v=1633422754",
-          "price": 52,
-          "badge": ""
-        },
-        {
-          "name": "Vurv Octave perfume for women, EDP 100ml",
-          "handle": "vurv-octave-perfume-for-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv-octave-woman-edp-100ml_1.jpg?v=1624444636",
-          "price": 39,
-          "badge": "SALE"
-        },
-        {
-          "name": "Vurv Prive club Homme for Men EDP 100ml",
-          "handle": "vurv-prive-club-homme-for-men-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/92706_01b12827ef7d386f09edf68d604bca08_prive_club_pour_homme.jpg?v=1633422763",
-          "price": 42,
-          "badge": ""
-        },
-        {
-          "name": "Vurv Waltz pour Homme Perfume For Men, Eau De Parfum,  100 ML",
-          "handle": "vurv-waltz-pour-homme-perfume-for-men-eau-de-parfum-100-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv-waltz.jpg?v=1624401524",
-          "price": 43,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Ulric De Varens",
       "slug": "ulric-de-varens",
       "count": 11,
@@ -18998,6 +18948,56 @@
           "handle": "3am-sean-john-deodorant-stick-by-sean-john-for-men",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/sj162.7051.88.jpg?v=1633574432",
           "price": 20,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Vurv",
+      "slug": "vurv",
+      "count": 10,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tn2_0_07999500_1633406164.jpg?v=1661848280",
+      "preview": [
+        {
+          "name": "Vurv Rivage Femme EDP For Women 100ml",
+          "handle": "vurv-rivage-femme-edp-for-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tn2_0_07999500_1633406164.jpg?v=1661848280",
+          "price": 33,
+          "badge": ""
+        },
+        {
+          "name": "Vurv Octave Women - Deodorant Body Spray For Women - 200 ml",
+          "handle": "vurv-octave-women-deodorant-body-spray-for-women-200-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv_octave_woman_deo.jpg?v=1624521999",
+          "price": 8,
+          "badge": ""
+        },
+        {
+          "name": "Vurv Rivage Gift Set for Men (EDP 100ml & 200ml Deodorant)",
+          "handle": "vurv-rivage-gift-set-for-men-edp-100ml-200ml-deodorant",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/rivage-gift-set.jpg?v=1633422754",
+          "price": 52,
+          "badge": ""
+        },
+        {
+          "name": "Vurv Octave perfume for women, EDP 100ml",
+          "handle": "vurv-octave-perfume-for-women-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv-octave-woman-edp-100ml_1.jpg?v=1624444636",
+          "price": 39,
+          "badge": "SALE"
+        },
+        {
+          "name": "Vurv Prive club Homme for Men EDP 100ml",
+          "handle": "vurv-prive-club-homme-for-men-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/92706_01b12827ef7d386f09edf68d604bca08_prive_club_pour_homme.jpg?v=1633422763",
+          "price": 42,
+          "badge": ""
+        },
+        {
+          "name": "Vurv Waltz pour Homme Perfume For Men, Eau De Parfum,  100 ML",
+          "handle": "vurv-waltz-pour-homme-perfume-for-men-eau-de-parfum-100-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv-waltz.jpg?v=1624401524",
+          "price": 43,
           "badge": ""
         }
       ]
