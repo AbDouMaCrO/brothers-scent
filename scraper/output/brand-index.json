@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-23T05:48:37.319Z",
-  "total_brands": 886,
+  "generated_at": "2026-10-23T11:04:43.850Z",
+  "total_brands": 885,
   "brands": [
     {
       "name": "Amazing Creation",
       "slug": "amazing-creation",
-      "count": 1129,
+      "count": 1131,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Mitsukita-Bottle_100ml.png?v=1791789417",
       "preview": [
         {
@@ -1262,7 +1262,7 @@
           "name": "Rasasi Hawas Ice Freeze For Him EDP 100ml",
           "handle": "rasasi-hawas-ice-freeze-for-him-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rasasi_Hawas_Ice_Freeze_For_Him_EDP_100ml.png?v=1791012351",
-          "price": 126,
+          "price": 113,
           "badge": "SALE"
         },
         {
@@ -5168,7 +5168,7 @@
         {
           "name": "Diesel D Red Perfume For Men EDP 100ml",
           "handle": "diesel-d-red-perfume-for-men-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/pl0690_00pro_01-1_jpg.webp?v=1752479580",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/red-resized-Photoroom_357aa8bc-6c0a-4a95-8770-60c015940f33.png?v=1792751705",
           "price": 158,
           "badge": ""
         },
@@ -5889,7 +5889,7 @@
         {
           "name": "Cacharel Ella Ella Perfume For Women EDP 100ml Refillable",
           "handle": "cacharel-ella-ella-perfume-for-women-edp-100ml-refillable",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Cacharel_Ella_Ella_W_Edp_100_Ml_Refillable.webp?v=1751536908",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ellaa-resized-Photoroom.png?v=1792750211",
           "price": 251,
           "badge": ""
         },
@@ -7706,12 +7706,12 @@
       "name": "Britney Spears",
       "slug": "britney-spears",
       "count": 35,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/719346256346_1-1711525046.jpg?v=1751528259",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/sheer-resized-Photoroom.png?v=1792749793",
       "preview": [
         {
           "name": "Britney Spears Fantasy Sheer Perfume For Women EDT 100ml",
           "handle": "britney-spears-fantasy-sheer-perfume-for-women-edt-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/719346256346_1-1711525046.jpg?v=1751528259",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/sheer-resized-Photoroom.png?v=1792749793",
           "price": 89,
           "badge": ""
         },
@@ -8146,7 +8146,7 @@
         {
           "name": "CrÃ¨me de Cuir By Bdk Parfums Hair Perfume For Men And Women 50ml",
           "handle": "creme-de-cuir-by-bdk-parfums-hair-perfume-for-men-and-women-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bdkk.jpg?v=1752756590",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cremeee-resized-Photoroom.png?v=1792751964",
           "price": 210,
           "badge": ""
         }
@@ -8882,7 +8882,7 @@
         {
           "name": "Michael Kors Pour Femme Perfume For Women EDP 100ml",
           "handle": "michael-kors-pour-femme-perfume-for-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/850049716321.jpg?v=1753183287",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/kors-resized-Photoroom_98da79f3-6f93-4d33-960c-d15d110de601.png?v=1792746427",
           "price": 246,
           "badge": ""
         },
@@ -15139,7 +15139,7 @@
         {
           "name": "Fragrance Du Bois Voyage A Paris Perfume For Unisex Parfum 100ml",
           "handle": "fragrance-du-bois-voyage-a-paris-perfume-for-unisex-parfum-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/4a045a97618b0cc3e055148dcb145b96.jpg?v=1751970850",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/du-resized-Photoroom_66f7e01e-9a45-4c11-97b3-3abbe0f0f509.png?v=1792750338",
           "price": 1205,
           "badge": ""
         },
@@ -15898,6 +15898,56 @@
           "handle": "sarah-jessica-parker-lovely-edp-200ml-for-women",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/lov-resized-Photoroom_434e58ac-cf32-4254-b6bd-22161d1d9567.png?v=1790333769",
           "price": 137,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Houbigant Paris",
+      "slug": "houbigant-paris",
+      "count": 13,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/696d674d61696e5064708ddc022b532d947.jpg?v=1771083323",
+      "preview": [
+        {
+          "name": "Houbigant Paris Quelques Fleurs Royale Eau De Parfum For Women - Floral Perfume 100ml",
+          "handle": "houbigant-paris-quelques-fleurs-royale-eau-de-parfum-for-women-floral-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/696d674d61696e5064708ddc022b532d947.jpg?v=1771083323",
+          "price": 404,
+          "badge": ""
+        },
+        {
+          "name": "Houbigant Paris Petales De Magnolia Eau De Parfum For Women - Floral Perfume 100ml",
+          "handle": "houbigant-paris-petales-de-magnolia-eau-de-parfum-for-women-floral-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/HoubigantParis-PetalesdeMagnoliaEDP-resized-Photoroom.png?v=1791292141",
+          "price": 379,
+          "badge": ""
+        },
+        {
+          "name": "Houbigant Patchouli Sauvage Perfume For Unisex EDP 100ml",
+          "handle": "houbigant-patchouli-sauvage-perfume-for-unisex-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/HoubigantPatchouliSauvageEDP100ml_f0d955d6-3fc9-4a04-9039-1a6194f8217f.webp?v=1715844303",
+          "price": 446,
+          "badge": ""
+        },
+        {
+          "name": "Houbigant Paris Tabac Nomade Perfume For Unisex EDP 100ml",
+          "handle": "houbigant-paris-tabac-nomade-perfume-for-unisex-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/HoubigantParisTabacNomadeEDP100ml.jpg?v=1715694516",
+          "price": 446,
+          "badge": ""
+        },
+        {
+          "name": "Houbigant Paris Oud Or Perfume For Unisex EDP 100ml",
+          "handle": "houbigant-paris-oud-or-perfume-for-unisex-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/HoubigantParisOUDOrEDP100ml_b00970b6-7f34-4465-8014-e36ff31f365e.jpg?v=1715694239",
+          "price": 446,
+          "badge": ""
+        },
+        {
+          "name": "Houbigant Paris Quelques Fleurs Royale Perfume For Women EDP 100ml",
+          "handle": "houbigant-paris-quelques-fleurs-royale-perfume-for-women-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/HoubigantParisQuelquesFleursRoyaleEDP100ml.jpg?v=1689746304",
+          "price": 404,
           "badge": ""
         }
       ]
@@ -16953,65 +17003,15 @@
       ]
     },
     {
-      "name": "Houbigant Paris",
-      "slug": "houbigant-paris",
-      "count": 12,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/696d674d61696e5064708ddc022b532d947.jpg?v=1771083323",
-      "preview": [
-        {
-          "name": "Houbigant Paris Quelques Fleurs Royale Eau De Parfum For Women - Floral Perfume 100ml",
-          "handle": "houbigant-paris-quelques-fleurs-royale-eau-de-parfum-for-women-floral-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/696d674d61696e5064708ddc022b532d947.jpg?v=1771083323",
-          "price": 404,
-          "badge": ""
-        },
-        {
-          "name": "Houbigant Paris Petales De Magnolia Eau De Parfum For Women - Floral Perfume 100ml",
-          "handle": "houbigant-paris-petales-de-magnolia-eau-de-parfum-for-women-floral-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/HoubigantParis-PetalesdeMagnoliaEDP-resized-Photoroom.png?v=1791292141",
-          "price": 379,
-          "badge": ""
-        },
-        {
-          "name": "Houbigant Patchouli Sauvage Perfume For Unisex EDP 100ml",
-          "handle": "houbigant-patchouli-sauvage-perfume-for-unisex-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/HoubigantPatchouliSauvageEDP100ml_f0d955d6-3fc9-4a04-9039-1a6194f8217f.webp?v=1715844303",
-          "price": 446,
-          "badge": ""
-        },
-        {
-          "name": "Houbigant Paris Tabac Nomade Perfume For Unisex EDP 100ml",
-          "handle": "houbigant-paris-tabac-nomade-perfume-for-unisex-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/HoubigantParisTabacNomadeEDP100ml.jpg?v=1715694516",
-          "price": 446,
-          "badge": ""
-        },
-        {
-          "name": "Houbigant Paris Oud Or Perfume For Unisex EDP 100ml",
-          "handle": "houbigant-paris-oud-or-perfume-for-unisex-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/HoubigantParisOUDOrEDP100ml_b00970b6-7f34-4465-8014-e36ff31f365e.jpg?v=1715694239",
-          "price": 446,
-          "badge": ""
-        },
-        {
-          "name": "Houbigant Paris Quelques Fleurs Royale Perfume For Women EDP 100ml",
-          "handle": "houbigant-paris-quelques-fleurs-royale-perfume-for-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/HoubigantParisQuelquesFleursRoyaleEDP100ml.jpg?v=1689746304",
-          "price": 404,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "La Closerie Des Parfums",
       "slug": "la-closerie-des-parfums",
       "count": 12,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/muscade.webp?v=1752874537",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/muscade-resized-Photoroom.png?v=1792746535",
       "preview": [
         {
           "name": "Rose Muscade Bois By La Closerie des Parfums For Men And Women Edp 100ml",
           "handle": "rose-muscade-bois-by-la-closerie-des-parfums-for-men-and-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/muscade.webp?v=1752874537",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/muscade-resized-Photoroom.png?v=1792746535",
           "price": 606,
           "badge": ""
         },
@@ -17039,7 +17039,7 @@
         {
           "name": "Patchouli Baie Rose Zeste By La Closerie Des Parfums For Women And Men Edp 100ml",
           "handle": "patchouli-baie-rose-by-la-closerie-des-parfums-for-women-and-men-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/zeste.webp?v=1752779634",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/zeste-resized-Photoroom.png?v=1792748650",
           "price": 487,
           "badge": ""
         },
@@ -20639,14 +20639,14 @@
         {
           "name": "Or Des Iles By Cherigan Perfume For Men And Women Edp 100ml",
           "handle": "or-des-iles-by-cherigan-perfume-for-men-and-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Or-des-Iles-flacon-et-reflet-transparent-min.webp?v=1752854637",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/che-resized-Photoroom_0ebb3be3-2a1b-4bbe-85f4-c1b1779fe0e2.png?v=1792746746",
           "price": 422,
           "badge": ""
         },
         {
           "name": "The Purple Bar By Cherigan Perfume For Men And Women Edp 100ml",
           "handle": "the-purple-bar-by-cherigan-perfume-for-men-and-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/purple.webp?v=1752853914",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/purple-resized-Photoroom_db07efed-869d-480a-92f9-92da213e5f46.png?v=1792746876",
           "price": 422,
           "badge": ""
         }
@@ -22932,7 +22932,7 @@
         {
           "name": "Blue Titanium By Zilli Perfume For Men Edp 100ml",
           "handle": "blue-titanium-by-zilli-perfume-for-men-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/blue.avif?v=1752868930",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/blue_1_-resized-Photoroom.png?v=1792746615",
           "price": 471,
           "badge": ""
         },
@@ -28151,7 +28151,7 @@
         {
           "name": "Ravaged Rose By AllSaints Perfume For Men And Women Edp 100ml",
           "handle": "ravaged-rose-by-allsaints-perfume-for-men-and-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/raveged2.webp?v=1752782148",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/raveged2-resized-Photoroom.png?v=1792748537",
           "price": 431,
           "badge": ""
         },
@@ -29620,19 +29620,19 @@
       "name": "kylie Minouge",
       "slug": "kylie-minouge",
       "count": 2,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/kylie-minogue-darling-eau-de-parfum-spray-420x420.jpg?v=1752784455",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/kylie-minogue-darling-eau-de-parfum-spray-420x420-resized-Photoroom.png?v=1792747994",
       "preview": [
         {
           "name": "Darling By kylie Minouge Perfume For Women Edp 75ml",
           "handle": "darling-by-kylie-minouge-perfume-for-women-edp-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/kylie-minogue-darling-eau-de-parfum-spray-420x420.jpg?v=1752784455",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/kylie-minogue-darling-eau-de-parfum-spray-420x420-resized-Photoroom.png?v=1792747994",
           "price": 138,
           "badge": ""
         },
         {
           "name": "Darling Disco By kylie Minouge Perfume For Men And Women Edp 75ml",
           "handle": "darling-disco-by-kylie-minouge-perfume-for-men-and-women-edp-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/disco-darling-eau-de-parfum-spray-420x420.avif?v=1752783523",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/disco-darling-eau-de-parfum-spray-420x420-resized-Photoroom.png?v=1792748148",
           "price": 138,
           "badge": ""
         }
@@ -33185,21 +33185,6 @@
           "handle": "violette-by-molinard-for-men-women-eau-de-parfum-75ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/fe6fa434-5f67-45b1-bdca-1f0fb3ae0ba2_1.48ec179a4ff98a884909d55246ba8611.jpg?v=1633422902",
           "price": 143,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Sannit",
-      "slug": "sannit",
-      "count": 1,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/sannit_hand-sanitizer.jpg?v=1624485300",
-      "preview": [
-        {
-          "name": "Sannit ice Hand Sanitizer 5Ltrs",
-          "handle": "sannit-ice-hand-sanitizer-5ltrs",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/sannit_hand-sanitizer.jpg?v=1624485300",
-          "price": 48,
           "badge": ""
         }
       ]
