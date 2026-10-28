@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-28T04:00:38.336Z",
+  "scraped_at": "2026-10-28T21:33:30.973Z",
   "source": "https://samawa.ae",
   "count": 25091,
   "products": [
@@ -3353,7 +3353,6 @@
       "_sku": "8433982018756",
       "_tags": [
         "80ml",
-        "badge_USE CODE FRESH15",
         "Branded Perfumes",
         "EDT",
         "Fragrance",
@@ -7721,7 +7720,6 @@
       "_tags": [
         "100ml",
         "115ml",
-        "badge_USE CODE FRESH15",
         "Branded Perfumes",
         "EDP",
         "Fragrance",
@@ -8219,7 +8217,6 @@
         "10ml",
         "Arabic Perfume",
         "Attar",
-        "badge_USE CODE FRESH15",
         "Buy More Save More",
         "Conceptrated Perfume Oil",
         "Deo",
@@ -8249,7 +8246,6 @@
         "10ml",
         "Arabic Perfume",
         "Attar",
-        "badge_USE CODE FRESH15",
         "Buy More Save More",
         "Conceptrated Perfume Oil",
         "Deo",
@@ -8753,7 +8749,6 @@
         "10ml",
         "Arabic Perfume",
         "Attar",
-        "badge_USE CODE FRESH15",
         "Buy More Save More",
         "Conceptrated Perfume Oil",
         "Deo",
@@ -8812,7 +8807,6 @@
         "10ml",
         "Arabic Perfume",
         "Attar",
-        "badge_USE CODE FRESH15",
         "Buy More Save More",
         "Conceptrated Perfume Oil",
         "Roll On",
@@ -10062,7 +10056,6 @@
       "_tags": [
         "100ml",
         "Arabic Perfume",
-        "badge_USE CODE FRESH15",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -10902,7 +10895,6 @@
         "250ml",
         "Arabic Perfume",
         "badge_ADD 3 PAY FOR 2",
-        "badge_USE CODE FRESH15",
         "Buy More Save More",
         "Home Fragrance",
         "Room and Linen Mist",
@@ -11003,7 +10995,6 @@
         "250ml",
         "Arabic Perfume",
         "badge_ADD 3 PAY FOR 2",
-        "badge_USE CODE FRESH15",
         "Buy More Save More",
         "Home Fragrance",
         "Room and Linen Mist",
@@ -11249,7 +11240,6 @@
         "100ml",
         "Arabic Perfume",
         "badge_Trending Now",
-        "badge_USE CODE FRESH15",
         "EDP",
         "Fragrance",
         "Men",
@@ -14043,7 +14033,6 @@
       "_tags": [
         "100ml",
         "Arabic Perfume",
-        "badge_USE CODE FRESH15",
         "EDP",
         "Fragrance",
         "Men"
@@ -15099,7 +15088,6 @@
       "_tags": [
         "100ml",
         "Arabic Perfume",
-        "badge_USE CODE FRESH15",
         "EDP",
         "Fragrance",
         "Men"
@@ -16605,7 +16593,6 @@
       "_tags": [
         "100ml",
         "Arabic Perfume",
-        "badge_USE CODE FRESH15",
         "EDP",
         "Fragrance",
         "Men",
@@ -18682,10 +18669,11 @@
       "badge": "",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Invictus_Perfume_For_Men_EDP_PFB-503-Photoroom_3.png?v=1792127366",
       "active": true,
-      "_handle": "amazing-creation-invictus-perfume-for-men-edp-100ml-pfb-503",
+      "_handle": "amazing-creation-invictus-perfume-for-men-edp-pfb-503",
       "_sku": "6253488505039",
       "_tags": [
         "100ml",
+        "50ml",
         "Arabic Perfume",
         "badge_ADD 3 PAY FOR 2",
         "Buy More Save More",
@@ -18695,7 +18683,7 @@
         "Samawa Collection"
       ],
       "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/amazing-creation-invictus-perfume-for-men-edp-100ml-pfb-503"
+      "_url": "https://samawa.ae/products/amazing-creation-invictus-perfume-for-men-edp-pfb-503"
     },
     {
       "name": "Amazing Creation Invictus Perfume For Men EDP PFB-503",
@@ -18708,10 +18696,11 @@
       "badge": "",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Invictus_Perfume_For_Men_EDP_PFB-503-Photoroom_3.png?v=1792127366",
       "active": true,
-      "_handle": "amazing-creation-invictus-perfume-for-men-edp-100ml-pfb-503",
+      "_handle": "amazing-creation-invictus-perfume-for-men-edp-pfb-503",
       "_sku": "6253488595030",
       "_tags": [
         "100ml",
+        "50ml",
         "Arabic Perfume",
         "badge_ADD 3 PAY FOR 2",
         "Buy More Save More",
@@ -18721,7 +18710,7 @@
         "Samawa Collection"
       ],
       "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/amazing-creation-invictus-perfume-for-men-edp-100ml-pfb-503"
+      "_url": "https://samawa.ae/products/amazing-creation-invictus-perfume-for-men-edp-pfb-503"
     },
     {
       "name": "Amazing Creation M7 Oud Absolu Perfume For Men EDP PFB-502",
@@ -18882,7 +18871,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 203,
-      "price_gros": 125,
+      "price_gros": 111,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Pride_Breeze_EDP_For_Unisex_100ml-Photoroom.png?v=1787643483",
@@ -18892,7 +18881,6 @@
       "_tags": [
         "100ml",
         "Arabic Perfume",
-        "badge_USE CODE FRESH15",
         "EDP",
         "Fragrance",
         "Men",
@@ -21660,7 +21648,6 @@
       "_tags": [
         "100ml",
         "Arabic Perfume",
-        "badge_USE CODE FRESH15",
         "EDP",
         "Fragrance",
         "Men",
@@ -23859,7 +23846,6 @@
         "100ml",
         "Arabic Perfume",
         "badge_Best Seller",
-        "badge_USE CODE FRESH15",
         "Best Seller",
         "Fragrance",
         "Men",
@@ -25008,7 +24994,6 @@
       "_handle": "kenzo-flower-by-kenzo-gift-set-for-women-11",
       "_sku": "3274872497740",
       "_tags": [
-        "badge_USE CODE FRESH15",
         "Gift set",
         "Women"
       ],
@@ -25406,7 +25391,6 @@
       "_tags": [
         "100ml",
         "Arabic Perfume",
-        "badge_USE CODE FRESH15",
         "EDP",
         "Fragrance",
         "Men",
@@ -32823,7 +32807,6 @@
       "_tags": [
         "Arabic Perfume",
         "badge_ADD 3 PAY FOR 2",
-        "badge_USE CODE FRESH15",
         "EDP",
         "Fragrance",
         "Gift set",
@@ -33559,7 +33542,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 113,
-      "price_gros": 98,
+      "price_gros": 94,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rasasi_Hawas_London_Eau_De_Parfum_For_Unisex_-_Oriental_Woody_Perfume_100ml.png?v=1787125539",
@@ -33616,7 +33599,6 @@
       "_tags": [
         "100ml",
         "Arabic Perfume",
-        "badge_USE CODE FRESH15",
         "EDP",
         "Fragrance",
         "Men",
@@ -34171,7 +34153,6 @@
       "_sku": "6297001571330",
       "_tags": [
         "100ml",
-        "badge_USE CODE FRESH15",
         "Branded Perfumes",
         "EDP",
         "Fragrance",
@@ -37991,7 +37972,6 @@
       "_sku": "8057971188185",
       "_tags": [
         "50ml",
-        "badge_USE CODE FRESH15",
         "Branded Perfumes",
         "EDT",
         "Fragrance",
@@ -40525,7 +40505,6 @@
       "_sku": "8433982003240",
       "_tags": [
         "150ml",
-        "badge_USE CODE FRESH15",
         "Body Spray",
         "Deodorant",
         "Men",
@@ -41644,7 +41623,6 @@
       "_sku": "6298042000957",
       "_tags": [
         "100ml",
-        "badge_USE CODE FRESH15",
         "Branded Perfumes",
         "EDP",
         "Fragrance",
@@ -46430,7 +46408,7 @@
       "_url": "https://samawa.ae/products/itssnot-vape-strawberry-ice-eau-de-parfum-for-unisex-fruity-perfume-100ml"
     },
     {
-      "name": "Itâ€™s Not Vape Banana Ice Eau De Parfum For Unisex - Gourmand Perfume 100ml",
+      "name": "It's Not Vape Banana Ice Eau De Parfum For Unisex - Gourmand Perfume 100ml",
       "brand": "It’s Not Vape",
       "category_slug": "homme",
       "size": "100ml",
@@ -50130,7 +50108,6 @@
         "100ml",
         "Arabic Perfume",
         "badge_Best Seller",
-        "badge_USE CODE FRESH15",
         "Best Seller",
         "EDP",
         "Fragrance",
@@ -50179,7 +50156,6 @@
         "100ml",
         "Arabic Perfume",
         "badge_Best Seller",
-        "badge_USE CODE FRESH15",
         "Best Seller",
         "EDP",
         "Fragrance",
@@ -50808,7 +50784,6 @@
       "_tags": [
         "100ml",
         "badge_Best Seller",
-        "badge_USE CODE FRESH15",
         "Best Seller",
         "Branded Perfumes",
         "EDP",
@@ -58149,7 +58124,6 @@
         "50ml",
         "Arabic Perfume",
         "badge_ADD 3 PAY FOR 2",
-        "badge_USE CODE FRESH15",
         "Hair Care",
         "Hair Mist",
         "Women"
@@ -59876,7 +59850,6 @@
       "_sku": "3616303322021",
       "_tags": [
         "100ml",
-        "badge_USE CODE FRESH15",
         "Branded Perfumes",
         "EDT",
         "Fragrance",
@@ -61451,7 +61424,6 @@
       "_tags": [
         "100ml",
         "badge_Best Seller",
-        "badge_USE CODE FRESH15",
         "Best Seller",
         "Branded Perfumes",
         "EDP",
@@ -63063,7 +63035,6 @@
       "_sku": "6291108734940",
       "_tags": [
         "200ml",
-        "badge_USE CODE FRESH15",
         "Body Spray",
         "Deo",
         "Deodorant",
@@ -65512,7 +65483,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 146,
-      "price_gros": 103,
+      "price_gros": 109,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Ahmed_Al_Maghribi_Kaaf_Noir_Perfume_For_Unisex_EDP_100ml-Photoroom.png?v=1787489811",
@@ -68150,7 +68121,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 157,
-      "price_gros": 135,
+      "price_gros": 136,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Pride_Art_of_Universe_By_Lattafa_Perfume_For_Men_And_Women_Edp_100ml-Photoroom.png?v=1787590314",
@@ -69486,7 +69457,6 @@
       "_sku": "3616305629425",
       "_tags": [
         "100ml",
-        "badge_USE CODE FRESH15",
         "Branded Perfumes",
         "EDT",
         "Fragrance",
@@ -71760,7 +71730,6 @@
       "_handle": "dolce-gabbana-the-one-gift-set-for-women-1",
       "_sku": "8054754400748",
       "_tags": [
-        "badge_USE CODE FRESH15",
         "Gift set",
         "Women"
       ],
@@ -83500,7 +83469,6 @@
       "_sku": "667557381213",
       "_tags": [
         "250ml",
-        "badge_USE CODE FRESH15",
         "Body Mist",
         "Personal Care",
         "Women"
@@ -96716,7 +96684,6 @@
       "_sku": "6290360599175",
       "_tags": [
         "80ml",
-        "badge_USE CODE FRESH15",
         "Branded Perfumes",
         "EDP",
         "Fragrance",
@@ -96741,7 +96708,6 @@
       "_sku": "6290360599205",
       "_tags": [
         "80ml",
-        "badge_USE CODE FRESH15",
         "Branded Perfumes",
         "EDP",
         "Fragrance",
@@ -100935,7 +100901,6 @@
       "_tags": [
         "60ml",
         "Arabic Perfume",
-        "badge_USE CODE FRESH15",
         "EDP",
         "Fragrance",
         "Men"
@@ -102497,7 +102462,6 @@
         "Arabic Perfume",
         "badge_ADD 3 PAY FOR 2",
         "badge_Best Seller",
-        "badge_USE CODE FRESH15",
         "Best Seller",
         "EDP",
         "Fragrance",
@@ -103578,7 +103542,6 @@
       "_sku": "3605972831095",
       "_tags": [
         "150ml",
-        "badge_USE CODE FRESH15",
         "Branded Perfumes",
         "EDP",
         "Fragrance",
@@ -121434,7 +121397,6 @@
         "100ml",
         "Arabic Perfume",
         "badge_Best Seller",
-        "badge_USE CODE FRESH15",
         "Best Seller",
         "EDP",
         "Fragrance",
@@ -129902,8 +129864,8 @@
       "brand": "Ahmed Perfumes",
       "category_slug": "homme",
       "size": "50ml",
-      "price_retail": 68,
-      "price_gros": 68,
+      "price_retail": 66,
+      "price_gros": 66,
       "stock": 999,
       "badge": "",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/leathe-resized-Photoroom.png?v=1787746408",
@@ -135047,7 +135009,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 139,
-      "price_gros": 74,
+      "price_gros": 76,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rasasi_Hawas_Black_For_Men_EDP_100ml-Photoroom_1.png?v=1787490860",
@@ -153845,7 +153807,6 @@
       "_sku": "85715169587",
       "_tags": [
         "100ml",
-        "badge_USE CODE FRESH15",
         "Branded Perfumes",
         "EDC",
         "Fragrance",
@@ -158869,7 +158830,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 85,
-      "price_gros": 48,
+      "price_gros": 47,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Hayati_Florence_EDP_100ml_Spray_For_Women-Photoroom.png?v=1787643720",
@@ -159378,7 +159339,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 119,
-      "price_gros": 58,
+      "price_gros": 64,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Asad_Zanzibar_EDP_For_Men_100ml-Photoroom.png?v=1787808887",
@@ -161775,7 +161736,6 @@
       "_tags": [
         "100ml",
         "badge_Best Seller",
-        "badge_USE CODE FRESH15",
         "Best Seller",
         "Branded Perfumes",
         "EDP",
@@ -168733,7 +168693,6 @@
       "_tags": [
         "90ml",
         "Arabic Perfume",
-        "badge_USE CODE FRESH15",
         "EDP",
         "Fragrance",
         "Women"
@@ -170902,7 +170861,6 @@
       "_tags": [
         "100ml",
         "Arabic Perfume",
-        "badge_USE CODE FRESH15",
         "EDP",
         "Fragrance",
         "unisex"
@@ -173740,7 +173698,6 @@
         "Arabic Perfume",
         "badge_ADD 3 PAY FOR 2",
         "badge_Best Seller",
-        "badge_USE CODE FRESH15",
         "Best Seller",
         "Buy More Save More",
         "EDP",
@@ -173774,7 +173731,6 @@
         "Arabic Perfume",
         "badge_ADD 3 PAY FOR 2",
         "badge_Best Seller",
-        "badge_USE CODE FRESH15",
         "Best Seller",
         "Buy More Save More",
         "EDP",
@@ -173808,7 +173764,6 @@
         "Arabic Perfume",
         "badge_ADD 3 PAY FOR 2",
         "badge_Best Seller",
-        "badge_USE CODE FRESH15",
         "Best Seller",
         "Buy More Save More",
         "EDP",
@@ -173842,7 +173797,6 @@
         "Arabic Perfume",
         "badge_ADD 3 PAY FOR 2",
         "badge_Best Seller",
-        "badge_USE CODE FRESH15",
         "Best Seller",
         "Buy More Save More",
         "EDP",
@@ -173899,7 +173853,6 @@
         "Arabic Perfume",
         "badge_ADD 3 PAY FOR 2",
         "badge_Best Seller",
-        "badge_USE CODE FRESH15",
         "Best Seller",
         "Buy More Save More",
         "EDP",
@@ -177812,7 +177765,6 @@
       "_tags": [
         "100ml",
         "Arabic Perfume",
-        "badge_USE CODE FRESH15",
         "EDP",
         "Fragrance",
         "Women"
@@ -178779,7 +178731,6 @@
       "_sku": "6294015155655",
       "_tags": [
         "100ml",
-        "badge_USE CODE FRESH15",
         "Branded Perfumes",
         "EDP",
         "Fragrance",
@@ -180808,7 +180759,6 @@
       "_sku": "8411061995747",
       "_tags": [
         "100ml",
-        "badge_USE CODE FRESH15",
         "Branded Perfumes",
         "EDP",
         "Fragrance",
@@ -190164,7 +190114,6 @@
       "_sku": "3423222080969",
       "_tags": [
         "90ml",
-        "badge_USE CODE FRESH15",
         "Branded Perfumes",
         "EDP",
         "Fragrance",
@@ -194564,7 +194513,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 78,
-      "price_gros": 49,
+      "price_gros": 50,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LattafaHayatiGoldElixirEdp100ml.webp?v=1699864896",
@@ -206337,7 +206286,6 @@
       "_tags": [
         "100ml",
         "badge_Best Seller",
-        "badge_USE CODE FRESH15",
         "Best Seller",
         "Branded Perfumes",
         "EDP",
@@ -207051,7 +206999,6 @@
       "_sku": "8057971180318",
       "_tags": [
         "100ml",
-        "badge_USE CODE FRESH15",
         "Branded Perfumes",
         "EDT",
         "Fragrance",
@@ -214823,7 +214770,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 125,
-      "price_gros": 88,
+      "price_gros": 87,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/99999-resized-Photoroom.png?v=1787758786",
@@ -217550,7 +217497,6 @@
         "50ml",
         "Arabic Perfume",
         "badge_ADD 3 PAY FOR 2",
-        "badge_USE CODE FRESH15",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -217581,7 +217527,6 @@
         "50ml",
         "Arabic Perfume",
         "badge_ADD 3 PAY FOR 2",
-        "badge_USE CODE FRESH15",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -217612,7 +217557,6 @@
         "50ml",
         "Arabic Perfume",
         "badge_ADD 3 PAY FOR 2",
-        "badge_USE CODE FRESH15",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -217643,7 +217587,6 @@
         "50ml",
         "Arabic Perfume",
         "badge_ADD 3 PAY FOR 2",
-        "badge_USE CODE FRESH15",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -221163,7 +221106,6 @@
       "_sku": "3760265190843",
       "_tags": [
         "120ml",
-        "badge_USE CODE FRESH15",
         "Branded Perfumes",
         "EDP",
         "Fragrance",
@@ -229439,7 +229381,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 395,
-      "price_gros": 206.25,
+      "price_gros": 195.5,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Azzaro_The_Most_Wanted_EDP_Intense_For_Men_100ml-Photoroom_1.png?v=1787641041",
@@ -234711,7 +234653,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 129,
-      "price_gros": 67,
+      "price_gros": 88,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/hayaaaa-resized-Photoroom.png?v=1787739520",
@@ -234985,7 +234927,6 @@
         "Arabic Perfume",
         "badge_ADD 3 PAY FOR 2",
         "badge_Best Seller",
-        "badge_USE CODE FRESH15",
         "Best Seller",
         "DDF",
         "EDP",
@@ -235014,7 +234955,6 @@
         "100ml",
         "Arabic Perfume",
         "badge_ADD 3 PAY FOR 2",
-        "badge_USE CODE FRESH15",
         "DDF",
         "EDP",
         "Fragrance",
@@ -236214,7 +236154,6 @@
         "Arabic Perfume",
         "badge_ADD 3 PAY FOR 2",
         "badge_Best Seller",
-        "badge_USE CODE FRESH15",
         "Best Seller",
         "Buy More Save More",
         "EDP",
@@ -236248,7 +236187,6 @@
         "Arabic Perfume",
         "badge_ADD 3 PAY FOR 2",
         "badge_Best Seller",
-        "badge_USE CODE FRESH15",
         "Best Seller",
         "Buy More Save More",
         "EDP",
@@ -236282,7 +236220,6 @@
         "Arabic Perfume",
         "badge_ADD 3 PAY FOR 2",
         "badge_Best Seller",
-        "badge_USE CODE FRESH15",
         "Best Seller",
         "Buy More Save More",
         "EDP",
@@ -236316,7 +236253,6 @@
         "Arabic Perfume",
         "badge_ADD 3 PAY FOR 2",
         "badge_Best Seller",
-        "badge_USE CODE FRESH15",
         "Best Seller",
         "Buy More Save More",
         "EDP",
@@ -241786,7 +241722,6 @@
         "Arabic Perfume",
         "badge_ADD 3 PAY FOR 2",
         "badge_Best Seller",
-        "badge_USE CODE FRESH15",
         "Best Seller",
         "Buy More Save More",
         "EDP",
@@ -241818,7 +241753,6 @@
         "Arabic Perfume",
         "badge_ADD 3 PAY FOR 2",
         "badge_Best Seller",
-        "badge_USE CODE FRESH15",
         "Best Seller",
         "Buy More Save More",
         "EDP",
@@ -241850,7 +241784,6 @@
         "Arabic Perfume",
         "badge_ADD 3 PAY FOR 2",
         "badge_Best Seller",
-        "badge_USE CODE FRESH15",
         "Best Seller",
         "Buy More Save More",
         "EDP",
@@ -246628,7 +246561,6 @@
         "50ml",
         "Arabic Perfume",
         "badge_Best Seller",
-        "badge_USE CODE FRESH15",
         "Best Seller",
         "EDP",
         "Fragrance",
@@ -252159,7 +252091,6 @@
         "Arabic Perfume",
         "badge_ADD 3 PAY FOR 2",
         "badge_Best Seller",
-        "badge_USE CODE FRESH15",
         "Best Seller",
         "DDF",
         "EDP",
@@ -274149,7 +274080,6 @@
         "50ml",
         "Arabic Perfume",
         "badge_ADD 3 PAY FOR 2",
-        "badge_USE CODE FRESH15",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -274180,7 +274110,6 @@
         "50ml",
         "Arabic Perfume",
         "badge_ADD 3 PAY FOR 2",
-        "badge_USE CODE FRESH15",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -274211,7 +274140,6 @@
         "50ml",
         "Arabic Perfume",
         "badge_ADD 3 PAY FOR 2",
-        "badge_USE CODE FRESH15",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -274242,7 +274170,6 @@
         "50ml",
         "Arabic Perfume",
         "badge_ADD 3 PAY FOR 2",
-        "badge_USE CODE FRESH15",
         "Buy More Save More",
         "EDP",
         "Fragrance",
@@ -274328,7 +274255,6 @@
         "Arabic Perfume",
         "badge_ADD 3 PAY FOR 2",
         "badge_Best Seller",
-        "badge_USE CODE FRESH15",
         "Best Seller",
         "Buy More Save More",
         "EDP",
@@ -274361,7 +274287,6 @@
         "Arabic Perfume",
         "badge_ADD 3 PAY FOR 2",
         "badge_Best Seller",
-        "badge_USE CODE FRESH15",
         "Best Seller",
         "Buy More Save More",
         "EDP",
@@ -274394,7 +274319,6 @@
         "Arabic Perfume",
         "badge_ADD 3 PAY FOR 2",
         "badge_Best Seller",
-        "badge_USE CODE FRESH15",
         "Best Seller",
         "Buy More Save More",
         "EDP",
@@ -274427,7 +274351,6 @@
         "Arabic Perfume",
         "badge_ADD 3 PAY FOR 2",
         "badge_Best Seller",
-        "badge_USE CODE FRESH15",
         "Best Seller",
         "Buy More Save More",
         "EDP",
@@ -280896,7 +280819,6 @@
         "Arabic Perfume",
         "badge_ADD 3 PAY FOR 2",
         "badge_Best Seller",
-        "badge_USE CODE FRESH15",
         "Best Seller",
         "DDF",
         "EDP",
@@ -287798,7 +287720,6 @@
       "_sku": "6294015102413",
       "_tags": [
         "200ml",
-        "badge_USE CODE FRESH15",
         "Body Spray",
         "Deo",
         "Deodorant",
@@ -312399,7 +312320,6 @@
       "_sku": "3760260458221",
       "_tags": [
         "100ml",
-        "badge_USE CODE FRESH15",
         "Branded Perfumes",
         "EDP",
         "Fragrance",
@@ -363577,7 +363497,6 @@
       "_sku": "614514122013",
       "_tags": [
         "60ml",
-        "badge_USE CODE FRESH15",
         "EDP",
         "Fragrance",
         "Women"
@@ -378347,7 +378266,6 @@
       "_tags": [
         "90ml",
         "badge_Best Seller",
-        "badge_USE CODE FRESH15",
         "Best Seller",
         "Branded Perfumes",
         "EDP",
@@ -412661,7 +412579,6 @@
       "_sku": "6266515361843",
       "_tags": [
         "100ml",
-        "badge_USE CODE FRESH15",
         "Branded Perfumes",
         "EDP",
         "Fragrance",
@@ -413675,7 +413592,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 315,
-      "price_gros": 231.25,
+      "price_gros": 212.75,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/VERSACE_EROS_FOR_MEN_EDP_100ML-Photoroom.png?v=1787669986",
@@ -436514,7 +436431,6 @@
       "_sku": "6290171010456",
       "_tags": [
         "80ml",
-        "badge_USE CODE FRESH15",
         "Branded Perfumes",
         "EDP",
         "Fragrance",
@@ -441118,7 +441034,6 @@
       "_sku": "85715321213",
       "_tags": [
         "100ml",
-        "badge_USE CODE FRESH15",
         "Branded Perfumes",
         "EDT",
         "Fragrance",
@@ -442424,7 +442339,6 @@
       "_sku": "3610400000233",
       "_tags": [
         "100ml",
-        "badge_USE CODE FRESH15",
         "Branded Perfumes",
         "EDT",
         "Fragrance",
@@ -458398,7 +458312,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 108,
-      "price_gros": 78,
+      "price_gros": 82,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Ck_One_Perfume_for_Unisex_EDT_100ml.png?v=1787246421",
@@ -476605,7 +476519,7 @@
       "category_slug": "homme",
       "size": "90ml",
       "price_retail": 412,
-      "price_gros": 218.75,
+      "price_gros": 202,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/VIKTOR_ROLF_SPICEBOMB_EXTREME_90_ML_-_EDP_SPRAY.png?v=1786454578",
@@ -500009,7 +499923,6 @@
       "_sku": "8435137772704",
       "_tags": [
         "150ml",
-        "badge_USE CODE FRESH15",
         "Branded Perfumes",
         "EDT",
         "Fragrance",
@@ -505338,7 +505251,6 @@
       "_sku": "667550032051",
       "_tags": [
         "100ml",
-        "badge_USE CODE FRESH15",
         "Branded Perfumes",
         "EDP",
         "Fragrance",
@@ -508204,7 +508116,6 @@
       "_tags": [
         "15ml",
         "badge_Best Seller",
-        "badge_USE CODE FRESH15",
         "Best Seller",
         "Branded Perfumes",
         "Fragrance",
@@ -531655,7 +531566,6 @@
       "_sku": "7640177360120",
       "_tags": [
         "80ml",
-        "badge_USE CODE FRESH15",
         "Branded Perfumes",
         "EDP",
         "Fragrance",
@@ -541941,7 +541851,6 @@
         "Arabic Perfume",
         "badge_ADD 3 PAY FOR 2",
         "badge_Best Seller",
-        "badge_USE CODE FRESH15",
         "Best Seller",
         "EDP",
         "Fragrance",
@@ -547741,7 +547650,6 @@
         "Arabic Perfume",
         "badge_ADD 3 PAY FOR 2",
         "badge_Best Seller",
-        "badge_USE CODE FRESH15",
         "Best Seller",
         "EDP",
         "Fragrance",
@@ -548659,7 +548567,6 @@
       "_sku": "3274872372153",
       "_tags": [
         "80ml",
-        "badge_USE CODE FRESH15",
         "Branded Perfumes",
         "Fragrance",
         "Women"
@@ -552625,7 +552532,6 @@
       "_sku": "3365440375079",
       "_tags": [
         "100ml",
-        "badge_USE CODE FRESH15",
         "Branded Perfumes",
         "EDT",
         "Fragrance",
@@ -560923,7 +560829,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 324,
-      "price_gros": 202.5,
+      "price_gros": 189,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Mont_Blanc_EXPLORER_Perfume_For_Men_.EDP_100ml.png?v=1786631743",
@@ -564178,7 +564084,6 @@
       "_sku": "3607342401860",
       "_tags": [
         "200ml",
-        "badge_USE CODE FRESH15",
         "Branded Perfumes",
         "EDT",
         "Fragrance",
@@ -568923,7 +568828,6 @@
       "_sku": "6295199794463",
       "_tags": [
         "200ml",
-        "badge_USE CODE FRESH15",
         "Branded Perfumes",
         "EDP",
         "Fragrance",
@@ -570946,7 +570850,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 155,
-      "price_gros": 106.25,
+      "price_gros": 97.75,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Afnan_9pm.png?v=1792674843",
@@ -571228,7 +571132,6 @@
       "_sku": "9922200199975",
       "_tags": [
         "200ml",
-        "badge_USE CODE FRESH15",
         "Branded Perfumes",
         "Fragrance",
         "Women"
@@ -574954,7 +574857,6 @@
       "_tags": [
         "100ml",
         "badge_Best Seller",
-        "badge_USE CODE FRESH15",
         "Best Seller",
         "Branded Perfumes",
         "Fragrance",
@@ -575024,7 +574926,6 @@
       "_sku": "3607345397641",
       "_tags": [
         "100ml",
-        "badge_USE CODE FRESH15",
         "Branded Perfumes",
         "EDT",
         "Fragrance",
@@ -578560,7 +578461,7 @@
       "category_slug": "homme",
       "size": "105ml",
       "price_retail": 185,
-      "price_gros": 112.5,
+      "price_gros": 103.5,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Armaf_Club_de_Nuit_Intense_Perfume_For_Men_-_Eau_de_Toilette_105ml-Photoroom.png?v=1787461755",
@@ -582104,7 +582005,6 @@
       "_sku": "9911100200034",
       "_tags": [
         "100ml",
-        "badge_USE CODE FRESH15",
         "Branded Perfumes",
         "Fragrance",
         "Men"
@@ -583376,7 +583276,6 @@
       "_tags": [
         "100ml",
         "badge_Best Seller",
-        "badge_USE CODE FRESH15",
         "Best Seller",
         "Branded Perfumes",
         "EDP",
@@ -583703,7 +583602,6 @@
       "_sku": "3595471041197",
       "_tags": [
         "100ml",
-        "badge_USE CODE FRESH15",
         "Branded Perfumes",
         "EDT",
         "Fragrance",
