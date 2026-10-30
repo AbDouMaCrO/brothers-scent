@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T00:10:26.805Z",
+  "generated_at": "2026-10-30T06:16:19.935Z",
   "total_brands": 885,
   "brands": [
     {
@@ -405,9 +405,16 @@
     {
       "name": "samawa perfumes ",
       "slug": "samawa-perfumes",
-      "count": 332,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/POWDER-resized-Photoroom.png?v=1787917129",
+      "count": 333,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Guerlain_L_Homme_Ideal_for_Men_-_Eau_de_Toilette_100ml..jpg?v=1793194352",
       "preview": [
+        {
+          "name": "test product",
+          "handle": "test-product",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Guerlain_L_Homme_Ideal_for_Men_-_Eau_de_Toilette_100ml..jpg?v=1793194352",
+          "price": 999,
+          "badge": ""
+        },
         {
           "name": "Juliette Has A Gun Powder Love Eau de Parfum, Oriental Vanilla Fragrance For Women 100ml",
           "handle": "juliette-has-a-gun-powder-love-eau-de-parfum-oriental-vanilla-fragrance-for-women-100ml",
@@ -440,13 +447,6 @@
           "name": "Samawa Fragrance Oil Inspired By YSL SUPREME BOUQUET PFB-72 -1KG",
           "handle": "samawa-fragrance-oil-inspired-by-ysl-supreme-bouquet-pfb-72-1kg",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/FragranceOil1kg_af071c28-5e30-49f3-ac43-b7837733b4de.jpg?v=1748601098",
-          "price": 478,
-          "badge": ""
-        },
-        {
-          "name": "Samawa Fragrance Oil Inspired By Hugo boss oud saffron PFB-71 -1KG",
-          "handle": "samawa-fragrance-oil-inspired-by-hugo-boss-oud-saffron-pfb-71-1kg",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/FragranceOil1kg_c875746a-44fc-4533-9b7a-18f33f0c74f2.jpg?v=1748601094",
           "price": 478,
           "badge": ""
         }
@@ -17503,56 +17503,6 @@
       ]
     },
     {
-      "name": "Vurv",
-      "slug": "vurv",
-      "count": 12,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tn2_0_07999500_1633406164.jpg?v=1661848280",
-      "preview": [
-        {
-          "name": "Vurv Rivage Femme EDP For Women 100ml",
-          "handle": "vurv-rivage-femme-edp-for-women-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tn2_0_07999500_1633406164.jpg?v=1661848280",
-          "price": 33,
-          "badge": ""
-        },
-        {
-          "name": "Vurv Octave Women - Deodorant Body Spray For Women - 200 ml",
-          "handle": "vurv-octave-women-deodorant-body-spray-for-women-200-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv_octave_woman_deo.jpg?v=1624521999",
-          "price": 8,
-          "badge": ""
-        },
-        {
-          "name": "Vurv Rivage Gift Set for Men (EDP 100ml & 200ml Deodorant)",
-          "handle": "vurv-rivage-gift-set-for-men-edp-100ml-200ml-deodorant",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/rivage-gift-set.jpg?v=1633422754",
-          "price": 52,
-          "badge": ""
-        },
-        {
-          "name": "Vurv Octave perfume for women, EDP 100ml",
-          "handle": "vurv-octave-perfume-for-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv-octave-woman-edp-100ml_1.jpg?v=1624444636",
-          "price": 39,
-          "badge": "SALE"
-        },
-        {
-          "name": "Vurv Prive club Homme for Men EDP 100ml",
-          "handle": "vurv-prive-club-homme-for-men-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/92706_01b12827ef7d386f09edf68d604bca08_prive_club_pour_homme.jpg?v=1633422763",
-          "price": 42,
-          "badge": ""
-        },
-        {
-          "name": "Vurv Waltz pour Homme Perfume For Men, Eau De Parfum,  100 ML",
-          "handle": "vurv-waltz-pour-homme-perfume-for-men-eau-de-parfum-100-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv-waltz.jpg?v=1624401524",
-          "price": 43,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "FCUK",
       "slug": "fcuk",
       "count": 12,
@@ -17948,6 +17898,56 @@
           "handle": "perry-ellis-18-sensual-perfumes-for-women-100-ml-edp-spray",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/perry_ellis_18_sensual_-_perfumes_for_women_100_ml_-_edp_spray.jpg?v=1624476652",
           "price": 99,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Vurv",
+      "slug": "vurv",
+      "count": 11,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tn2_0_07999500_1633406164.jpg?v=1661848280",
+      "preview": [
+        {
+          "name": "Vurv Rivage Femme EDP For Women 100ml",
+          "handle": "vurv-rivage-femme-edp-for-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tn2_0_07999500_1633406164.jpg?v=1661848280",
+          "price": 33,
+          "badge": ""
+        },
+        {
+          "name": "Vurv Octave Women - Deodorant Body Spray For Women - 200 ml",
+          "handle": "vurv-octave-women-deodorant-body-spray-for-women-200-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv_octave_woman_deo.jpg?v=1624521999",
+          "price": 8,
+          "badge": ""
+        },
+        {
+          "name": "Vurv Rivage Gift Set for Men (EDP 100ml & 200ml Deodorant)",
+          "handle": "vurv-rivage-gift-set-for-men-edp-100ml-200ml-deodorant",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/rivage-gift-set.jpg?v=1633422754",
+          "price": 52,
+          "badge": ""
+        },
+        {
+          "name": "Vurv Octave perfume for women, EDP 100ml",
+          "handle": "vurv-octave-perfume-for-women-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv-octave-woman-edp-100ml_1.jpg?v=1624444636",
+          "price": 39,
+          "badge": "SALE"
+        },
+        {
+          "name": "Vurv Prive club Homme for Men EDP 100ml",
+          "handle": "vurv-prive-club-homme-for-men-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/92706_01b12827ef7d386f09edf68d604bca08_prive_club_pour_homme.jpg?v=1633422763",
+          "price": 42,
+          "badge": ""
+        },
+        {
+          "name": "Vurv Waltz pour Homme Perfume For Men, Eau De Parfum,  100 ML",
+          "handle": "vurv-waltz-pour-homme-perfume-for-men-eau-de-parfum-100-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv-waltz.jpg?v=1624401524",
+          "price": 43,
           "badge": ""
         }
       ]
