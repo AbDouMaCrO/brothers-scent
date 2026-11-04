@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T06:55:23.738Z",
+  "generated_at": "2026-11-04T15:08:43.770Z",
   "total_brands": 885,
   "brands": [
     {
@@ -605,7 +605,7 @@
     {
       "name": "Lattafa",
       "slug": "lattafa",
-      "count": 259,
+      "count": 257,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Najdia_Intense_Perfumes_for_Men_EDP_100ml_1.1.png?v=1788337594",
       "preview": [
         {
@@ -1203,56 +1203,6 @@
       ]
     },
     {
-      "name": "Hugo Boss",
-      "slug": "hugo-boss",
-      "count": 211,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/boss-bottled-edt-200ml-deo-stick-75ml-36993-Photoroom.png?v=1792134076",
-      "preview": [
-        {
-          "name": "Hugo Boss Bottled Gift Set For Men",
-          "handle": "hugo-boss-bottled-gift-set-for-men-4",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/boss-bottled-edt-200ml-deo-stick-75ml-36993-Photoroom.png?v=1792134076",
-          "price": 333,
-          "badge": ""
-        },
-        {
-          "name": "Hugo Boss The Scent Magnetic For Him Eau De Parfum For Men-Oriental Vanilla Perfume 50ml",
-          "handle": "hugo-boss-the-scent-magnetic-for-him-eau-de-parfum-for-men-oriental-vanilla-perfume-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/P-112059.jpg?v=1782391320",
-          "price": 222,
-          "badge": ""
-        },
-        {
-          "name": "Hugo Boss The Scent Magnetic For Her Eau De Parfum For Women-Amber Floral Perfume 50ml",
-          "handle": "hugo-boss-the-scent-magnetic-for-her-eau-de-parfum-for-women-amber-floral-perfume-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/MP000000030416171_1316Wx1468H_202603101443351.jpg?v=1782389622",
-          "price": 222,
-          "badge": ""
-        },
-        {
-          "name": "Hugo Boss The Scent For Her Parfum For Women-Floral Fruity  Perfume 50ml",
-          "handle": "hugo-boss-the-scent-for-her-parfum-for-women-floral-fruity-perfume-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/hbeu58228629_999_200.jpg?v=1782388236",
-          "price": 232,
-          "badge": ""
-        },
-        {
-          "name": "Hugo Boss The Scent Eau De Toilette For Men-Aromatic Spicy  Perfume 200ml Refill",
-          "handle": "hugo-boss-the-scent-eau-de-toilette-for-men-aromatic-spicy-perfume-200ml-refill",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616305040824.jpg?v=1782387239",
-          "price": 222,
-          "badge": ""
-        },
-        {
-          "name": "Hugo Boss Superman X Hugo Eau De Parfum For Men-Citrus Aromatic Perfume 125ml",
-          "handle": "hugo-boss-superman-x-hugo-eau-de-parfum-for-men-citrus-aromatic-perfume-125ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/sss-resized-Photoroom.png?v=1787608473",
-          "price": 222,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Rasasi",
       "slug": "rasasi",
       "count": 206,
@@ -1298,6 +1248,56 @@
           "handle": "rasasi-hamasaat-musk-memoirs-eau-de-parfum-for-unisex-musky-oriental-perfume-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/1_1794b577-6144-4abd-aad6-2e871fa5f6e4-Photoroom.png?v=1786804621",
           "price": 202,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Hugo Boss",
+      "slug": "hugo-boss",
+      "count": 206,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/boss-bottled-edt-200ml-deo-stick-75ml-36993-Photoroom.png?v=1792134076",
+      "preview": [
+        {
+          "name": "Hugo Boss Bottled Gift Set For Men",
+          "handle": "hugo-boss-bottled-gift-set-for-men-4",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/boss-bottled-edt-200ml-deo-stick-75ml-36993-Photoroom.png?v=1792134076",
+          "price": 333,
+          "badge": ""
+        },
+        {
+          "name": "Hugo Boss The Scent Magnetic For Him Eau De Parfum For Men-Oriental Vanilla Perfume 50ml",
+          "handle": "hugo-boss-the-scent-magnetic-for-him-eau-de-parfum-for-men-oriental-vanilla-perfume-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/P-112059.jpg?v=1782391320",
+          "price": 222,
+          "badge": ""
+        },
+        {
+          "name": "Hugo Boss The Scent Magnetic For Her Eau De Parfum For Women-Amber Floral Perfume 50ml",
+          "handle": "hugo-boss-the-scent-magnetic-for-her-eau-de-parfum-for-women-amber-floral-perfume-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/MP000000030416171_1316Wx1468H_202603101443351.jpg?v=1782389622",
+          "price": 222,
+          "badge": ""
+        },
+        {
+          "name": "Hugo Boss The Scent For Her Parfum For Women-Floral Fruity  Perfume 50ml",
+          "handle": "hugo-boss-the-scent-for-her-parfum-for-women-floral-fruity-perfume-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/hbeu58228629_999_200.jpg?v=1782388236",
+          "price": 232,
+          "badge": ""
+        },
+        {
+          "name": "Hugo Boss The Scent Eau De Toilette For Men-Aromatic Spicy  Perfume 200ml Refill",
+          "handle": "hugo-boss-the-scent-eau-de-toilette-for-men-aromatic-spicy-perfume-200ml-refill",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3616305040824.jpg?v=1782387239",
+          "price": 222,
+          "badge": ""
+        },
+        {
+          "name": "Hugo Boss Superman X Hugo Eau De Parfum For Men-Citrus Aromatic Perfume 125ml",
+          "handle": "hugo-boss-superman-x-hugo-eau-de-parfum-for-men-citrus-aromatic-perfume-125ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/sss-resized-Photoroom.png?v=1787608473",
+          "price": 222,
           "badge": ""
         }
       ]
@@ -3203,6 +3203,56 @@
       ]
     },
     {
+      "name": "khadlaj",
+      "slug": "khadlaj",
+      "count": 102,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Cloud_Candy-3-Photoroom.png?v=1793792587",
+      "preview": [
+        {
+          "name": "Khadlaj Cloud Candy Extrait De Parfum For Women 100ml",
+          "handle": "khadlaj-cloud-candy-extrait-de-parfum-for-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Cloud_Candy-3-Photoroom.png?v=1793792587",
+          "price": 103,
+          "badge": ""
+        },
+        {
+          "name": "Khadlaj Nafais Magrib EDP For Unisex 100ml",
+          "handle": "khadlaj-nafais-magrib-edp-for-unisex-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Nafais_Magrib-3-Photoroom.png?v=1793791995",
+          "price": 88,
+          "badge": ""
+        },
+        {
+          "name": "Khadlaj Nafais Sharq EDP For Women 100ml",
+          "handle": "khadlaj-nafais-sharq-edp-for-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/NAFAIS-3-Photoroom.png?v=1793791242",
+          "price": 88,
+          "badge": ""
+        },
+        {
+          "name": "Khadlaj Special Edition Shiyaaka Snow EDP For Men 100ml",
+          "handle": "khadlaj-special-edition-shiyaaka-snow-edp-for-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Khadlaj_Special_Edition_Shiyaaka_Snow_EDP_For_Men_100ml.png?v=1793790164",
+          "price": 105,
+          "badge": ""
+        },
+        {
+          "name": "Khadlaj Special Edition Shiyaaka Shadow EDP For Men 100ml",
+          "handle": "khadlaj-special-edition-shiyaaka-shadow-edp-for-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Khadlaj_Special_Edition_Shiyaaka_Shadow_EDP_For_Men_100ml.png?v=1793780694",
+          "price": 105,
+          "badge": ""
+        },
+        {
+          "name": "Khadlaj Panache Angel Dust Extrait De Parfum For Women 100ml",
+          "handle": "khadlaj-panache-angel-dust-extrait-de-parfum-for-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Khadlaj_Panache_Angel_Dust_Extrait_De_Parfum_For_Women_100ml_e2f84ff7-67af-4633-a512-4be86e34888b.png?v=1793779398",
+          "price": 114,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Kilian",
       "slug": "kilian",
       "count": 101,
@@ -3448,56 +3498,6 @@
           "handle": "ard-al-zaafaran-oud-romancea-edp-for-men-and-women-oriental-50ml-1",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/romancea-resized-Photoroom.png?v=1793014340",
           "price": 26,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "khadlaj",
-      "slug": "khadlaj",
-      "count": 93,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Khadlaj_Shiyaaka_Sky_Special_Edition_Parfum_For_Men_100ml.png?v=1793773983",
-      "preview": [
-        {
-          "name": "Khadlaj Shiyaaka Sky Special Edition Parfum For Men 100ml",
-          "handle": "khadlaj-shiyaaka-sky-special-edition-parfum-for-men-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Khadlaj_Shiyaaka_Sky_Special_Edition_Parfum_For_Men_100ml.png?v=1793773983",
-          "price": 105,
-          "badge": ""
-        },
-        {
-          "name": "Khadlaj  Sawaar Vanilla Blanc Extrait de Parfum For Women 100ml",
-          "handle": "khadlaj-sawaar-vanilla-blanc-extrait-de-parfum-for-women-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Khadlaj_Sawaar.png?v=1793773414",
-          "price": 118,
-          "badge": ""
-        },
-        {
-          "name": "Khadlaj  Island Dreams Extrait de Parfum For Unisex 100ml",
-          "handle": "khadlaj-island-dreams-extrait-de-parfum-for-unisex-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Khadlaj_Island_Dreams_Extrait_de_Parfum_For_Unisex_100ml.png?v=1793770558",
-          "price": 115,
-          "badge": ""
-        },
-        {
-          "name": "Khadlaj Island Vanilla Dunes Edp For Men And Women Gourmand 100ml",
-          "handle": "khadlaj-island-vanilla-dunes-edp-for-men-and-women-gourmand-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/island-Photoroom.png?v=1790697194",
-          "price": 111,
-          "badge": ""
-        },
-        {
-          "name": "Khadlaj  Island Extrait de Parfum For Unisex 100ml",
-          "handle": "khadlaj-island-extrait-de-parfum-for-unisex-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Khadlaj_Island_Extrait_de_Parfum_For_Unisex_100ml-resized-Photoroom.png?v=1790791493",
-          "price": 115,
-          "badge": ""
-        },
-        {
-          "name": "Khadlaj Karus Secret Musk EDP For Unisex 100ml",
-          "handle": "khadlaj-karus-secret-musk-edp-for-unisex-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Khadlaj_Karus_Secret_Musk_EDP_For_Unisex_100ml.jpg?v=1749804130",
-          "price": 103,
           "badge": ""
         }
       ]
@@ -7776,7 +7776,7 @@
           "name": "Louis Cardin Sacred Perfume For Unisex EDP 100ml",
           "handle": "louis-cardin-sacred-perfume-for-unisex-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LouisCardinSacredEdp100mlSpy-resized-Photoroom.png?v=1788127993",
-          "price": 40.01,
+          "price": 46,
           "badge": "SALE"
         },
         {
@@ -18153,56 +18153,6 @@
       ]
     },
     {
-      "name": "Luxury Concept",
-      "slug": "luxury-concept",
-      "count": 11,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/hsk-paris-i-am-fablulous.jpg?v=1624487886",
-      "preview": [
-        {
-          "name": "Luxury Concept HSK Paris I am Fablulous EDP 50ml",
-          "handle": "luxury-concept-hsk-paris-i-am-fablulous-edp-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/hsk-paris-i-am-fablulous.jpg?v=1624487886",
-          "price": 109,
-          "badge": ""
-        },
-        {
-          "name": "Luxury Concept Holy Oud for Unisex EDP 100ml",
-          "handle": "luxury-concept-holy-oud-for-unisex-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/luxury-collections-holy-oud-edp-100ml_big.jpg?v=1624431621",
-          "price": 87,
-          "badge": "SALE"
-        },
-        {
-          "name": "Luxury Concept VL Notte De Fabulous EDP 50ml",
-          "handle": "luxury-concept-vl-notte-de-fabulous-edp-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/note-de-fabulous.jpg?v=1624426596",
-          "price": 77,
-          "badge": "SALE"
-        },
-        {
-          "name": "HSK Paris The Jacket, Perfume For Unisex, EDP, 80ml",
-          "handle": "hsk-paris-the-jacket-perfume-for-unisex-edp-80ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/hsk-paris-the-jacket.jpg?v=1624403402",
-          "price": 95,
-          "badge": "SALE"
-        },
-        {
-          "name": "Elixir Musk, Perfume For Unisex, EDP 50ml",
-          "handle": "elixir-musk-perfume-for-unisex-edp-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/elixir-musk.jpg?v=1624401027",
-          "price": 58,
-          "badge": "SALE"
-        },
-        {
-          "name": "Holy Musk Perfume For Unisex, EDP, 75ml",
-          "handle": "holy-musk-perfume-for-unisex-edp-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/holy-musk-2.jpg?v=1624400943",
-          "price": 87,
-          "badge": "SALE"
-        }
-      ]
-    },
-    {
       "name": "Al Watan",
       "slug": "al-watan",
       "count": 11,
@@ -19469,7 +19419,7 @@
           "name": "Asdaaf Ameer Al Arab Imperium EDP For Unisex 100ml",
           "handle": "asdaaf-ameer-al-arab-imperium-edp-for-unisex-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Asdaaf_Ameer_Al_Arab_Imperium_EDP_For_Unisex_100ml-Photoroom.png?v=1787493298",
-          "price": 44,
+          "price": 47,
           "badge": "SALE"
         },
         {
@@ -20449,6 +20399,56 @@
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/enrico_gi_green_ain_edp_100ml.jpg?v=1624468373",
           "price": 113,
           "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Luxury Concept",
+      "slug": "luxury-concept",
+      "count": 9,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/hsk-paris-i-am-fablulous.jpg?v=1624487886",
+      "preview": [
+        {
+          "name": "Luxury Concept HSK Paris I am Fablulous EDP 50ml",
+          "handle": "luxury-concept-hsk-paris-i-am-fablulous-edp-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/hsk-paris-i-am-fablulous.jpg?v=1624487886",
+          "price": 109,
+          "badge": ""
+        },
+        {
+          "name": "Luxury Concept Holy Oud for Unisex EDP 100ml",
+          "handle": "luxury-concept-holy-oud-for-unisex-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/luxury-collections-holy-oud-edp-100ml_big.jpg?v=1624431621",
+          "price": 87,
+          "badge": "SALE"
+        },
+        {
+          "name": "Luxury Concept VL Notte De Fabulous EDP 50ml",
+          "handle": "luxury-concept-vl-notte-de-fabulous-edp-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/note-de-fabulous.jpg?v=1624426596",
+          "price": 77,
+          "badge": "SALE"
+        },
+        {
+          "name": "HSK Paris The Jacket, Perfume For Unisex, EDP, 80ml",
+          "handle": "hsk-paris-the-jacket-perfume-for-unisex-edp-80ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/hsk-paris-the-jacket.jpg?v=1624403402",
+          "price": 95,
+          "badge": "SALE"
+        },
+        {
+          "name": "Elixir Musk, Perfume For Unisex, EDP 50ml",
+          "handle": "elixir-musk-perfume-for-unisex-edp-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/elixir-musk.jpg?v=1624401027",
+          "price": 58,
+          "badge": "SALE"
+        },
+        {
+          "name": "Holy Musk Perfume For Unisex, EDP, 75ml",
+          "handle": "holy-musk-perfume-for-unisex-edp-75ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/holy-musk-2.jpg?v=1624400943",
+          "price": 87,
+          "badge": "SALE"
         }
       ]
     },
@@ -24126,7 +24126,7 @@
           "name": "Rave Now White Perfume For Unisex EDP 100ml",
           "handle": "rave-now-white-perfume-for-unisex-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rave_Now_White_Perfume_For_Unisex_EDP_100ml-Photoroom.png?v=1788581830",
-          "price": 63,
+          "price": 59,
           "badge": "SALE"
         },
         {
