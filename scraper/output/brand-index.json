@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T00:09:33.501Z",
+  "generated_at": "2026-11-04T06:55:23.738Z",
   "total_brands": 885,
   "brands": [
     {
@@ -605,7 +605,7 @@
     {
       "name": "Lattafa",
       "slug": "lattafa",
-      "count": 260,
+      "count": 259,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Najdia_Intense_Perfumes_for_Men_EDP_100ml_1.1.png?v=1788337594",
       "preview": [
         {
@@ -1205,7 +1205,7 @@
     {
       "name": "Hugo Boss",
       "slug": "hugo-boss",
-      "count": 212,
+      "count": 211,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/boss-bottled-edt-200ml-deo-stick-75ml-36993-Photoroom.png?v=1792134076",
       "preview": [
         {
@@ -3453,6 +3453,56 @@
       ]
     },
     {
+      "name": "khadlaj",
+      "slug": "khadlaj",
+      "count": 93,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Khadlaj_Shiyaaka_Sky_Special_Edition_Parfum_For_Men_100ml.png?v=1793773983",
+      "preview": [
+        {
+          "name": "Khadlaj Shiyaaka Sky Special Edition Parfum For Men 100ml",
+          "handle": "khadlaj-shiyaaka-sky-special-edition-parfum-for-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Khadlaj_Shiyaaka_Sky_Special_Edition_Parfum_For_Men_100ml.png?v=1793773983",
+          "price": 105,
+          "badge": ""
+        },
+        {
+          "name": "Khadlaj  Sawaar Vanilla Blanc Extrait de Parfum For Women 100ml",
+          "handle": "khadlaj-sawaar-vanilla-blanc-extrait-de-parfum-for-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Khadlaj_Sawaar.png?v=1793773414",
+          "price": 118,
+          "badge": ""
+        },
+        {
+          "name": "Khadlaj  Island Dreams Extrait de Parfum For Unisex 100ml",
+          "handle": "khadlaj-island-dreams-extrait-de-parfum-for-unisex-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Khadlaj_Island_Dreams_Extrait_de_Parfum_For_Unisex_100ml.png?v=1793770558",
+          "price": 115,
+          "badge": ""
+        },
+        {
+          "name": "Khadlaj Island Vanilla Dunes Edp For Men And Women Gourmand 100ml",
+          "handle": "khadlaj-island-vanilla-dunes-edp-for-men-and-women-gourmand-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/island-Photoroom.png?v=1790697194",
+          "price": 111,
+          "badge": ""
+        },
+        {
+          "name": "Khadlaj  Island Extrait de Parfum For Unisex 100ml",
+          "handle": "khadlaj-island-extrait-de-parfum-for-unisex-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Khadlaj_Island_Extrait_de_Parfum_For_Unisex_100ml-resized-Photoroom.png?v=1790791493",
+          "price": 115,
+          "badge": ""
+        },
+        {
+          "name": "Khadlaj Karus Secret Musk EDP For Unisex 100ml",
+          "handle": "khadlaj-karus-secret-musk-edp-for-unisex-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Khadlaj_Karus_Secret_Musk_EDP_For_Unisex_100ml.jpg?v=1749804130",
+          "price": 103,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Coach",
       "slug": "coach",
       "count": 93,
@@ -3648,56 +3698,6 @@
           "handle": "nina-ricci-rose-eau-de-toilette-for-women-floral-fruity-perfume-50ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/SNR-4287_65183374_NINA-ROSE-EDT-50ML.jpg?v=1758204333",
           "price": 158,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Khadlaj",
-      "slug": "khadlaj",
-      "count": 90,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/island-Photoroom.png?v=1790697194",
-      "preview": [
-        {
-          "name": "Khadlaj Island Vanilla Dunes Edp For Men And Women Gourmand 100ml",
-          "handle": "khadlaj-island-vanilla-dunes-edp-for-men-and-women-gourmand-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/island-Photoroom.png?v=1790697194",
-          "price": 111,
-          "badge": ""
-        },
-        {
-          "name": "Khadlaj  Island Extrait de Parfum For Unisex 100ml",
-          "handle": "khadlaj-island-extrait-de-parfum-for-unisex-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Khadlaj_Island_Extrait_de_Parfum_For_Unisex_100ml-resized-Photoroom.png?v=1790791493",
-          "price": 115,
-          "badge": ""
-        },
-        {
-          "name": "Khadlaj Karus Secret Musk EDP For Unisex 100ml",
-          "handle": "khadlaj-karus-secret-musk-edp-for-unisex-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Khadlaj_Karus_Secret_Musk_EDP_For_Unisex_100ml.jpg?v=1749804130",
-          "price": 103,
-          "badge": ""
-        },
-        {
-          "name": "Khadlaj Fursan White  EDP For Unisex 100ml",
-          "handle": "khadlaj-fursan-white-edp-for-unisex-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/KhadlajFursanWhiteEDP-resized-Photoroom.png?v=1791193933",
-          "price": 90,
-          "badge": ""
-        },
-        {
-          "name": "Khadlaj Shiyaaka Silver EDP For Men 100ml",
-          "handle": "khadlaj-shiyaaka-edp-for-men-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Khadlaj_Shiyaaka_EDP_For_Men_100ml-resized-Photoroom.png?v=1790974369",
-          "price": 64,
-          "badge": ""
-        },
-        {
-          "name": "Khadlaj Gaith EDP For Men 100ml",
-          "handle": "khadlaj-gaith-edp-for-men-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Khadlaj_Gaith_EDP_For_Men_100ml-resized-Photoroom.png?v=1790853394",
-          "price": 85,
           "badge": ""
         }
       ]
@@ -4569,7 +4569,7 @@
           "name": "Ahmed Al Maghribi Black Fumes For Unisex EDP 100ml",
           "handle": "ahmed-al-maghribi-black-fumes-for-unisex-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Ahmed_Al_Maghribi_Black_Fumes_For_Unisex_EDP_100ml-Photoroom.png?v=1787670265",
-          "price": 68,
+          "price": 73,
           "badge": "SALE"
         },
         {
@@ -17903,56 +17903,6 @@
       ]
     },
     {
-      "name": "Vurv",
-      "slug": "vurv",
-      "count": 11,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tn2_0_07999500_1633406164.jpg?v=1661848280",
-      "preview": [
-        {
-          "name": "Vurv Rivage Femme EDP For Women 100ml",
-          "handle": "vurv-rivage-femme-edp-for-women-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tn2_0_07999500_1633406164.jpg?v=1661848280",
-          "price": 33,
-          "badge": ""
-        },
-        {
-          "name": "Vurv Octave Women - Deodorant Body Spray For Women - 200 ml",
-          "handle": "vurv-octave-women-deodorant-body-spray-for-women-200-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv_octave_woman_deo.jpg?v=1624521999",
-          "price": 8,
-          "badge": ""
-        },
-        {
-          "name": "Vurv Rivage Gift Set for Men (EDP 100ml & 200ml Deodorant)",
-          "handle": "vurv-rivage-gift-set-for-men-edp-100ml-200ml-deodorant",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/rivage-gift-set.jpg?v=1633422754",
-          "price": 52,
-          "badge": ""
-        },
-        {
-          "name": "Vurv Octave perfume for women, EDP 100ml",
-          "handle": "vurv-octave-perfume-for-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv-octave-woman-edp-100ml_1.jpg?v=1624444636",
-          "price": 39,
-          "badge": "SALE"
-        },
-        {
-          "name": "Vurv Prive club Homme for Men EDP 100ml",
-          "handle": "vurv-prive-club-homme-for-men-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/92706_01b12827ef7d386f09edf68d604bca08_prive_club_pour_homme.jpg?v=1633422763",
-          "price": 42,
-          "badge": ""
-        },
-        {
-          "name": "Vurv Waltz pour Homme Perfume For Men, Eau De Parfum,  100 ML",
-          "handle": "vurv-waltz-pour-homme-perfume-for-men-eau-de-parfum-100-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv-waltz.jpg?v=1624401524",
-          "price": 43,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Ulric De Varens",
       "slug": "ulric-de-varens",
       "count": 11,
@@ -19003,6 +18953,56 @@
       ]
     },
     {
+      "name": "Vurv",
+      "slug": "vurv",
+      "count": 10,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tn2_0_07999500_1633406164.jpg?v=1661848280",
+      "preview": [
+        {
+          "name": "Vurv Rivage Femme EDP For Women 100ml",
+          "handle": "vurv-rivage-femme-edp-for-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tn2_0_07999500_1633406164.jpg?v=1661848280",
+          "price": 33,
+          "badge": ""
+        },
+        {
+          "name": "Vurv Octave Women - Deodorant Body Spray For Women - 200 ml",
+          "handle": "vurv-octave-women-deodorant-body-spray-for-women-200-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv_octave_woman_deo.jpg?v=1624521999",
+          "price": 8,
+          "badge": ""
+        },
+        {
+          "name": "Vurv Rivage Gift Set for Men (EDP 100ml & 200ml Deodorant)",
+          "handle": "vurv-rivage-gift-set-for-men-edp-100ml-200ml-deodorant",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/rivage-gift-set.jpg?v=1633422754",
+          "price": 52,
+          "badge": ""
+        },
+        {
+          "name": "Vurv Octave perfume for women, EDP 100ml",
+          "handle": "vurv-octave-perfume-for-women-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv-octave-woman-edp-100ml_1.jpg?v=1624444636",
+          "price": 39,
+          "badge": "SALE"
+        },
+        {
+          "name": "Vurv Prive club Homme for Men EDP 100ml",
+          "handle": "vurv-prive-club-homme-for-men-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/92706_01b12827ef7d386f09edf68d604bca08_prive_club_pour_homme.jpg?v=1633422763",
+          "price": 42,
+          "badge": ""
+        },
+        {
+          "name": "Vurv Waltz pour Homme Perfume For Men, Eau De Parfum,  100 ML",
+          "handle": "vurv-waltz-pour-homme-perfume-for-men-eau-de-parfum-100-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv-waltz.jpg?v=1624401524",
+          "price": 43,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Orto Parisi",
       "slug": "orto-parisi",
       "count": 10,
@@ -19469,7 +19469,7 @@
           "name": "Asdaaf Ameer Al Arab Imperium EDP For Unisex 100ml",
           "handle": "asdaaf-ameer-al-arab-imperium-edp-for-unisex-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Asdaaf_Ameer_Al_Arab_Imperium_EDP_For_Unisex_100ml-Photoroom.png?v=1787493298",
-          "price": 47,
+          "price": 44,
           "badge": "SALE"
         },
         {
