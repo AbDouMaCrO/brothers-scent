@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T16:10:06.836Z",
+  "generated_at": "2026-11-07T20:29:29.357Z",
   "total_brands": 886,
   "brands": [
     {
@@ -953,6 +953,56 @@
       ]
     },
     {
+      "name": "Armaf",
+      "slug": "armaf",
+      "count": 232,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/mabd-resized-Photoroom.png?v=1794073809",
+      "preview": [
+        {
+          "name": "Armaf Odyssey Mandarin Sky Elixir Limited Edition Eau de Parfum, Oriental Woody Fragrance For Women And Men 100ml",
+          "handle": "armaf-odyssey-mandarin-sky-elixir-limited-edition-eau-de-parfum-oriental-woody-fragrance-for-women-and-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/mabd-resized-Photoroom.png?v=1794073809",
+          "price": 101,
+          "badge": ""
+        },
+        {
+          "name": "Armaf Odyssey Artisto The Red Edition Eau de Parfum, Woody Aromatic Fragrance For Women And Men 100ml",
+          "handle": "armaf-odyssey-artisto-the-red-edition-eau-de-parfum-woody-aromatic-fragrance-for-women-and-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/artiso-resized-Photoroom.png?v=1794072534",
+          "price": 93,
+          "badge": ""
+        },
+        {
+          "name": "Armaf Club De Nuit Sillage Perfume Body Spray, Fragrance For Women And Men 200ml",
+          "handle": "armaf-club-de-nuit-sillage-perfume-body-spray-fragrance-for-women-and-men-200ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/sillage_1080_x-resized-Photoroom.png?v=1794071883",
+          "price": 17,
+          "badge": ""
+        },
+        {
+          "name": "Armaf Club De Nuit Intense Eau de Toilette ,Woody Spicy Fragrance For Men 10ml",
+          "handle": "armaf-club-de-nuit-intense-eau-de-toilette-woody-spicy-fragrance-for-men-10ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/armaf-club-de-nuit-intense-man-eau-de-toilette-mini-10ml-1-resized-Photoroom.png?v=1794065101",
+          "price": 33,
+          "badge": ""
+        },
+        {
+          "name": "Armaf Club De Nuit Overdose Intense John Abraham Edition Extrait de Parfum For Men 100ml",
+          "handle": "armaf-club-de-nuit-overdose-intense-john-abraham-edition-extrait-de-parfum-for-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Armaf_Club_De_Nuit_Overdose_Intense_John_Abraham_Edition_Extrait_de_Parfum_For_Men_100ml_1.png?v=1792137057",
+          "price": 202,
+          "badge": ""
+        },
+        {
+          "name": "Armaf Spartacus Eau De Parfum For Men-Oriental Vanilla Perfume 100ml",
+          "handle": "armaf-spartacus-eau-de-parfum-for-men-oriental-vanilla-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Armaf_Spartacus_Eau_De_Parfum_For_Men-Oriental_Vanilla_Perfume_100ml-Photoroom.png?v=1789653762",
+          "price": 106,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Burberry",
       "slug": "burberry",
       "count": 231,
@@ -1048,56 +1098,6 @@
           "handle": "xerjoff-louis-xv-1722-parfum-for-unisex-oriental-woody-perfume-50ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/gallery-xerjoff-louisxv-eau-de-parfum-50ml.png?v=1767178345",
           "price": 820,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Armaf",
-      "slug": "armaf",
-      "count": 229,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/armaf-club-de-nuit-intense-man-eau-de-toilette-mini-10ml-1-resized-Photoroom.png?v=1794065101",
-      "preview": [
-        {
-          "name": "Armaf Club De Nuit Intense Eau de Toilette ,Woody Spicy Fragrance For Men 10ml",
-          "handle": "armaf-club-de-nuit-intense-eau-de-toilette-woody-spicy-fragrance-for-men-10ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/armaf-club-de-nuit-intense-man-eau-de-toilette-mini-10ml-1-resized-Photoroom.png?v=1794065101",
-          "price": 33,
-          "badge": ""
-        },
-        {
-          "name": "Armaf Club De Nuit Overdose Intense John Abraham Edition Extrait de Parfum For Men 100ml",
-          "handle": "armaf-club-de-nuit-overdose-intense-john-abraham-edition-extrait-de-parfum-for-men-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Armaf_Club_De_Nuit_Overdose_Intense_John_Abraham_Edition_Extrait_de_Parfum_For_Men_100ml_1.png?v=1792137057",
-          "price": 202,
-          "badge": ""
-        },
-        {
-          "name": "Armaf Spartacus Eau De Parfum For Men-Oriental Vanilla Perfume 100ml",
-          "handle": "armaf-spartacus-eau-de-parfum-for-men-oriental-vanilla-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Armaf_Spartacus_Eau_De_Parfum_For_Men-Oriental_Vanilla_Perfume_100ml-Photoroom.png?v=1789653762",
-          "price": 106,
-          "badge": ""
-        },
-        {
-          "name": "Armaf Let's Move Tango Eau De Parfum For Unisex- Floral Fruity Perfume 100ml",
-          "handle": "armaf-lets-move-tango-eau-de-parfum-for-unisex-floral-fruity-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/fb401f99-0f03-4cb4-a13f-8a915716486b.jpg?v=1781693988",
-          "price": 103,
-          "badge": ""
-        },
-        {
-          "name": "Armaf Let'S Move Salsa Eau De Parfum For Unisex-Floral Fruity Gourmand Perfume 100ml",
-          "handle": "armaf-lets-move-salsa-eau-de-parfum-for-unisex-floral-fruity-gourmand-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3_18505ba7-9b74-49e3-a5cd-1ac3a2fd381d.png?v=1781692874",
-          "price": 103,
-          "badge": ""
-        },
-        {
-          "name": "Armaf Club De Nuit Sillage Deo Stick For Unisex 75 gm",
-          "handle": "armaf-club-de-nuit-sillage-deo-stick-for-unisex-75-gm",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/sill-resized-Photoroom.png?v=1793036304",
-          "price": 55,
           "badge": ""
         }
       ]
@@ -2953,56 +2953,6 @@
       ]
     },
     {
-      "name": "Jimmy Choo",
-      "slug": "jimmy-choo",
-      "count": 115,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/manextreme.png?v=1783963184",
-      "preview": [
-        {
-          "name": "Jimmy Choo Gift Set For Men Woody",
-          "handle": "jimmy-choo-gift-set-for-men-woody",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/manextreme.png?v=1783963184",
-          "price": 259,
-          "badge": ""
-        },
-        {
-          "name": "Jimmy Choo Gift Set For Men Aromatic",
-          "handle": "jimmy-choo-gift-set-for-men-aromatic-1",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/jimmy.png?v=1783957356",
-          "price": 251,
-          "badge": ""
-        },
-        {
-          "name": "Jimmy Choo Gift Set For Men Aromatic",
-          "handle": "jimmy-choo-gift-set-for-men-aromatic",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/jimmy.jpg?v=1772557666",
-          "price": 251,
-          "badge": ""
-        },
-        {
-          "name": "Jimmy Choo I Want Choo With Love Edp Miniature For Women Floral 10ml",
-          "handle": "jimmy-choo-i-want-choo-with-love-edp-miniature-for-women-floral-10ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/jimmy-choo-i-want-choo-with-love-edp-for-women-10ml-mini.webp?v=1767800976",
-          "price": 44,
-          "badge": ""
-        },
-        {
-          "name": "Jimmy Choo I Want Choo With Love Edp For Women Floral 100ml",
-          "handle": "jimmy-choo-i-want-choo-with-love-edp-for-women-floral-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Jimmy_Choo_I_Want_Choo_With_Love_Edp_For_Women_Floral_100ml-Photoroom.png?v=1791616201",
-          "price": 354,
-          "badge": ""
-        },
-        {
-          "name": "Jimmy Choo Man Gift Set For Men",
-          "handle": "jimmy-choo-man-gift-set-for-men-3",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/jimmy_b3a2d788-5039-44bb-a6b4-153b8fef5530.webp?v=1766262730",
-          "price": 232,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Maison AlHambra",
       "slug": "maison-alhambra",
       "count": 114,
@@ -3049,6 +2999,56 @@
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Maison_AlHambra_Delilah_Viola_EDP_For_Women_100ml-Photoroom.png?v=1787810040",
           "price": 69,
           "badge": "SALE"
+        }
+      ]
+    },
+    {
+      "name": "Jimmy Choo",
+      "slug": "jimmy-choo",
+      "count": 114,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/manextreme.png?v=1783963184",
+      "preview": [
+        {
+          "name": "Jimmy Choo Gift Set For Men Woody",
+          "handle": "jimmy-choo-gift-set-for-men-woody",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/manextreme.png?v=1783963184",
+          "price": 259,
+          "badge": ""
+        },
+        {
+          "name": "Jimmy Choo Gift Set For Men Aromatic",
+          "handle": "jimmy-choo-gift-set-for-men-aromatic-1",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/jimmy.png?v=1783957356",
+          "price": 251,
+          "badge": ""
+        },
+        {
+          "name": "Jimmy Choo Gift Set For Men Aromatic",
+          "handle": "jimmy-choo-gift-set-for-men-aromatic",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/jimmy.jpg?v=1772557666",
+          "price": 251,
+          "badge": ""
+        },
+        {
+          "name": "Jimmy Choo I Want Choo With Love Edp Miniature For Women Floral 10ml",
+          "handle": "jimmy-choo-i-want-choo-with-love-edp-miniature-for-women-floral-10ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/jimmy-choo-i-want-choo-with-love-edp-for-women-10ml-mini.webp?v=1767800976",
+          "price": 44,
+          "badge": ""
+        },
+        {
+          "name": "Jimmy Choo I Want Choo With Love Edp For Women Floral 100ml",
+          "handle": "jimmy-choo-i-want-choo-with-love-edp-for-women-floral-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Jimmy_Choo_I_Want_Choo_With_Love_Edp_For_Women_Floral_100ml-Photoroom.png?v=1791616201",
+          "price": 354,
+          "badge": ""
+        },
+        {
+          "name": "Jimmy Choo Man Gift Set For Men",
+          "handle": "jimmy-choo-man-gift-set-for-men-3",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/jimmy_b3a2d788-5039-44bb-a6b4-153b8fef5530.webp?v=1766262730",
+          "price": 232,
+          "badge": ""
         }
       ]
     },
@@ -4569,7 +4569,7 @@
           "name": "Ahmed Al Maghribi Black Fumes For Unisex EDP 100ml",
           "handle": "ahmed-al-maghribi-black-fumes-for-unisex-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Ahmed_Al_Maghribi_Black_Fumes_For_Unisex_EDP_100ml-Photoroom.png?v=1787670265",
-          "price": 74,
+          "price": 68,
           "badge": "SALE"
         },
         {
@@ -7776,7 +7776,7 @@
           "name": "Louis Cardin Sacred Perfume For Unisex EDP 100ml",
           "handle": "louis-cardin-sacred-perfume-for-unisex-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LouisCardinSacredEdp100mlSpy-resized-Photoroom.png?v=1788127993",
-          "price": 37,
+          "price": 41,
           "badge": "SALE"
         },
         {
@@ -7898,56 +7898,6 @@
           "handle": "reebok-inspire-your-mind-gift-set-for-women-1",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ReebokInspireYourMind2PcsW_50mlEDT_250mlHair_BodyShowerGel_Set.jpg?v=1664432658",
           "price": 47,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "John Varvatos",
-      "slug": "john-varvatos",
-      "count": 34,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/artism-resized-Photoroom_8fa6de12-af50-47e2-b261-33b11ff01347.png?v=1787905587",
-      "preview": [
-        {
-          "name": "John Varvatos Artisan Forest Eau de Parfum, Woody Aromatic Fragrance For Men 75ml",
-          "handle": "john-varvatos-artisan-forest-eau-de-parfum-woody-aromatic-fragrance-for-men-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/artism-resized-Photoroom_8fa6de12-af50-47e2-b261-33b11ff01347.png?v=1787905587",
-          "price": 130,
-          "badge": ""
-        },
-        {
-          "name": "John Varvatos Artisan Forest Eau de Parfum, Woody Aromatic Fragrance For Men 125ml",
-          "handle": "john-varvatos-artisan-forest-eau-de-parfum-woody-aromatic-fragrance-for-men-125ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/artism-resized-Photoroom_2b744405-48ff-48c2-ba3d-ba20b567e1e3.png?v=1787905211",
-          "price": 150,
-          "badge": ""
-        },
-        {
-          "name": "John Varvatos Xx Intense For Men EDP 75ml",
-          "handle": "john-varvatos-xx-intense-for-men-edp-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/z-resized-Photoroom_feb925f3-c985-4119-b4fa-d9048fdee7f1.png?v=1792532688",
-          "price": 130,
-          "badge": ""
-        },
-        {
-          "name": "John Varvatos XX Intense For Men EDP 125ml",
-          "handle": "john-varvatos-xx-intense-for-men-edp-125ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/xxxxx-resized_1_-Photoroom.png?v=1790710521",
-          "price": 195,
-          "badge": ""
-        },
-        {
-          "name": "John Varvatos XX Artisan Teal For Men EDT 125ml",
-          "handle": "john-varvatos-xx-artisan-teal-for-men-edt-125ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/John_Varvatos_XX_Artisan_Teal_For_Men_EDT_125ml-Photoroom.png?v=1791868212",
-          "price": 163,
-          "badge": ""
-        },
-        {
-          "name": "John Varvatos XX Artisan Teal For Men EDT 75ml",
-          "handle": "john-varvatos-xx-artisan-teal-for-men-edt-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/719346253277_1.jpg?v=1740161789",
-          "price": 123,
           "badge": ""
         }
       ]
@@ -8398,6 +8348,56 @@
           "handle": "costume-national-paperplane-perfume-for-unisex-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cost6311n101xx-46153c1172dd40e0adfdaff4a43922f7-resized-Photoroom.png?v=1790022508",
           "price": 232,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "John Varvatos",
+      "slug": "john-varvatos",
+      "count": 32,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/artism-resized-Photoroom_8fa6de12-af50-47e2-b261-33b11ff01347.png?v=1787905587",
+      "preview": [
+        {
+          "name": "John Varvatos Artisan Forest Eau de Parfum, Woody Aromatic Fragrance For Men 75ml",
+          "handle": "john-varvatos-artisan-forest-eau-de-parfum-woody-aromatic-fragrance-for-men-75ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/artism-resized-Photoroom_8fa6de12-af50-47e2-b261-33b11ff01347.png?v=1787905587",
+          "price": 130,
+          "badge": ""
+        },
+        {
+          "name": "John Varvatos Artisan Forest Eau de Parfum, Woody Aromatic Fragrance For Men 125ml",
+          "handle": "john-varvatos-artisan-forest-eau-de-parfum-woody-aromatic-fragrance-for-men-125ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/artism-resized-Photoroom_2b744405-48ff-48c2-ba3d-ba20b567e1e3.png?v=1787905211",
+          "price": 150,
+          "badge": ""
+        },
+        {
+          "name": "John Varvatos Xx Intense For Men EDP 75ml",
+          "handle": "john-varvatos-xx-intense-for-men-edp-75ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/z-resized-Photoroom_feb925f3-c985-4119-b4fa-d9048fdee7f1.png?v=1792532688",
+          "price": 130,
+          "badge": ""
+        },
+        {
+          "name": "John Varvatos XX Intense For Men EDP 125ml",
+          "handle": "john-varvatos-xx-intense-for-men-edp-125ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/xxxxx-resized_1_-Photoroom.png?v=1790710521",
+          "price": 195,
+          "badge": ""
+        },
+        {
+          "name": "John Varvatos XX Artisan Teal For Men EDT 125ml",
+          "handle": "john-varvatos-xx-artisan-teal-for-men-edt-125ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/John_Varvatos_XX_Artisan_Teal_For_Men_EDT_125ml-Photoroom.png?v=1791868212",
+          "price": 163,
+          "badge": ""
+        },
+        {
+          "name": "John Varvatos XX Artisan Teal For Men EDT 75ml",
+          "handle": "john-varvatos-xx-artisan-teal-for-men-edt-75ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/719346253277_1.jpg?v=1740161789",
+          "price": 123,
           "badge": ""
         }
       ]
@@ -19419,7 +19419,7 @@
           "name": "Asdaaf Ameer Al Arab Imperium EDP For Unisex 100ml",
           "handle": "asdaaf-ameer-al-arab-imperium-edp-for-unisex-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Asdaaf_Ameer_Al_Arab_Imperium_EDP_For_Unisex_100ml-Photoroom.png?v=1787493298",
-          "price": 44,
+          "price": 42,
           "badge": "SALE"
         },
         {
