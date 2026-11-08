@@ -1,10 +1,199 @@
 {
-  "scraped_at": "2026-11-08T11:29:52.634Z",
+  "scraped_at": "2026-11-08T17:14:58.030Z",
   "source": "https://samawa.ae",
   "count": 25094,
   "products": [
     {
-      "name": "Kayali Eden Juicy Apple | 01 Eau de Parfum, Floral Fruity Gourmand Fragrance For Women And Men 100ml",
+      "name": "khadlaj Icon Eau de Parfum, Fragrance For Women And Men 100ml",
+      "brand": "samawa perfumes ",
+      "category_slug": "homme",
+      "size": "100ml",
+      "price_retail": 111,
+      "price_gros": 111,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/icon-resized-Photoroom_e82b04b7-d4de-49e0-97a8-54af61ef939b.png?v=1794153359",
+      "active": true,
+      "_handle": "khadlaj-icon-eau-de-parfum-fragrance-for-women-and-men-100ml",
+      "_sku": "6298043071215",
+      "_tags": [
+        "100ml",
+        "Arabic Perfume",
+        "EDP",
+        "Fragrance",
+        "Men"
+      ],
+      "_product_type": "",
+      "_url": "https://samawa.ae/products/khadlaj-icon-eau-de-parfum-fragrance-for-women-and-men-100ml"
+    },
+    {
+      "name": "Khadlaj Cream Velvet Eau de Parfum, Fragrance For Women And Men 100ml",
+      "brand": "Khadlaj",
+      "category_slug": "homme",
+      "size": "100ml",
+      "price_retail": 111,
+      "price_gros": 111,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cream-resized-Photoroom.png?v=1794148295",
+      "active": true,
+      "_handle": "khadlaj-cream-velvet-eau-de-parfum-fragrance-for-women-and-men-100ml",
+      "_sku": "6291107978819",
+      "_tags": [
+        "100ml",
+        "Arabic Perfume",
+        "EDP",
+        "Fragrance",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/khadlaj-cream-velvet-eau-de-parfum-fragrance-for-women-and-men-100ml"
+    },
+    {
+      "name": "Khadlaj Caffe Latte Extrait De Parfum, Fragrance For Women And Men 100ml",
+      "brand": "khadlaj",
+      "category_slug": "homme",
+      "size": "100ml",
+      "price_retail": 73,
+      "price_gros": 73,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cap-resized-Photoroom_11c2465a-93d6-40bc-9f07-b1de027c9665.png?v=1794147604",
+      "active": true,
+      "_handle": "khadlaj-caffe-latte-extrait-de-parfum-fragrance-for-women-and-men-100ml",
+      "_sku": "6291107979311",
+      "_tags": [
+        "100ml",
+        "Branded Perfumes",
+        "EDP",
+        "Fragrance",
+        "Men",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/khadlaj-caffe-latte-extrait-de-parfum-fragrance-for-women-and-men-100ml"
+    },
+    {
+      "name": "Kayali Vanilla | 28 Eau de Parfum, Fragrance For Women And Men 100ml",
+      "brand": "KAYALI",
+      "category_slug": "homme",
+      "size": "100ml",
+      "price_retail": 739,
+      "price_gros": 739,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Vanilla_28_-resized-Photoroom.png?v=1794145741",
+      "active": true,
+      "_handle": "kayali-vanilla-28-eau-de-parfum-oriental-vanilla-fragrance-for-women-and-men-100ml",
+      "_sku": "6291106039894",
+      "_tags": [
+        "100ml",
+        "Branded Perfumes",
+        "EDP",
+        "Fragrance",
+        "Men",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/kayali-vanilla-28-eau-de-parfum-oriental-vanilla-fragrance-for-women-and-men-100ml"
+    },
+    {
+      "name": "Kayali Vanilla Candy Rock Sugar | 42 Eau de Parfum, Fragrance For Women 100ml",
+      "brand": "KAYALI",
+      "category_slug": "homme",
+      "size": "100ml",
+      "price_retail": 739,
+      "price_gros": 739,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/coco-resized-Photoroom_e6c0019b-05d9-42ae-b81b-df1b9b198437.png?v=1794144029",
+      "active": true,
+      "_handle": "kayali-vanilla-candy-rock-sugar-42-eau-de-parfum-floral-fruity-gourmand-fragrance-for-women-100ml",
+      "_sku": "6294018404347",
+      "_tags": [
+        "100ml",
+        "Branded Perfumes",
+        "EDP",
+        "Fragrance",
+        "Men",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/kayali-vanilla-candy-rock-sugar-42-eau-de-parfum-floral-fruity-gourmand-fragrance-for-women-100ml"
+    },
+    {
+      "name": "Kayali Utopia Vanilla Coco | 21 Eau de Parfum Intense, Fragrance For Women And Men 100ml",
+      "brand": "KAYALI",
+      "category_slug": "homme",
+      "size": "100ml",
+      "price_retail": 739,
+      "price_gros": 739,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/UTOPIAA-resized-Photoroom.png?v=1794143393",
+      "active": true,
+      "_handle": "kayali-utopia-vanilla-coco-21-eau-de-parfum-intense-oriental-vanilla-fragrance-for-women-and-men-100ml",
+      "_sku": "6291106037432",
+      "_tags": [
+        "100ml",
+        "Branded Perfumes",
+        "EDP",
+        "Fragrance",
+        "Men",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/kayali-utopia-vanilla-coco-21-eau-de-parfum-intense-oriental-vanilla-fragrance-for-women-and-men-100ml"
+    },
+    {
+      "name": "Kayali Freedom Musk Santal | 34  Eau de Parfum, Fragrance For Women And Men 100ml",
+      "brand": "KAYALI",
+      "category_slug": "homme",
+      "size": "100ml",
+      "price_retail": 739,
+      "price_gros": 739,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/musk-resized-Photoroom_220ab441-35c1-4476-b77b-7ebe1b5355a5.png?v=1794141718",
+      "active": true,
+      "_handle": "kayali-freedom-musk-santal-34-eau-de-parfum-floral-woody-musk-fragrance-for-women-and-men-100ml",
+      "_sku": "6294018407881",
+      "_tags": [
+        "100ml",
+        "Branded Perfumes",
+        "EDP",
+        "Fragrance",
+        "Men",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/kayali-freedom-musk-santal-34-eau-de-parfum-floral-woody-musk-fragrance-for-women-and-men-100ml"
+    },
+    {
+      "name": "Kayali Fleur Majesty Rose Royale | 31 Eau de Parfum, Fragrance For Women 100ml",
+      "brand": "KAYALI",
+      "category_slug": "homme",
+      "size": "100ml",
+      "price_retail": 739,
+      "price_gros": 739,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/fleu-resized-Photoroom.png?v=1794139287",
+      "active": true,
+      "_handle": "kayali-fleur-majesty-rose-royale-31-eau-de-parfum-floral-fruity-fragrance-for-women-100ml",
+      "_sku": "6294018405917",
+      "_tags": [
+        "100ml",
+        "Branded Perfumes",
+        "EDP",
+        "Fragrance",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/kayali-fleur-majesty-rose-royale-31-eau-de-parfum-floral-fruity-fragrance-for-women-100ml"
+    },
+    {
+      "name": "Kayali Eden Juicy Apple | 01 Eau de Parfum, Fragrance For Women And Men 100ml",
       "brand": "KAYALI",
       "category_slug": "homme",
       "size": "100ml",
@@ -28,7 +217,7 @@
       "_url": "https://samawa.ae/products/kayali-eden-juicy-apple-01-eau-de-parfum-floral-fruity-gourmand-fragrance-for-women-and-men-100ml"
     },
     {
-      "name": "Kayali Déjà Vu White Flower | 57 Eau de Parfum, Oriental Floral Fragrance For Women And Men 100ml",
+      "name": "Kayali Déjà Vu White Flower | 57 Eau de Parfum, Fragrance For Women And Men 100ml",
       "brand": "KAYALI",
       "category_slug": "homme",
       "size": "100ml",
@@ -100,7 +289,7 @@
       "_url": "https://samawa.ae/products/french-avenue-saffron-elixir-eau-de-parfum-fragrance-for-women-and-men-100ml"
     },
     {
-      "name": "French Avenue Grecia Rosa Extrait De Parfum, Floral Fruity Fragrance For Women And Men 100ml",
+      "name": "French Avenue Grecia Rosa Extrait De Parfum, Fragrance For Women And Men 100ml",
       "brand": "French Avenue",
       "category_slug": "homme",
       "size": "100ml",
@@ -124,7 +313,7 @@
       "_url": "https://samawa.ae/products/french-avenue-grecia-rosa-extrait-de-parfum-floral-fruity-fragrance-for-women-and-men-100ml"
     },
     {
-      "name": "Dolce And Gabbana Light Blue Eau Intense Pour Femme Eau de Parfum, Floral Fruity Fragrance For Women 25ml",
+      "name": "Dolce And Gabbana Light Blue Eau Intense Pour Femme Eau de Parfum, Fragrance For Women 25ml",
       "brand": "Dolce & Gabbana",
       "category_slug": "homme",
       "size": "25ml",
@@ -171,7 +360,7 @@
       "_url": "https://samawa.ae/products/bujairami-hectic-extrait-de-parfum-fragrance-for-women-and-men-100ml"
     },
     {
-      "name": "Assaf Strike Black Eau de Parfum, Woody Spicy Fragrance For Women And Men 125ml",
+      "name": "Assaf Strike Black Eau de Parfum, Fragrance For Women And Men 125ml",
       "brand": "ASSAF",
       "category_slug": "homme",
       "size": "125ml",
@@ -195,7 +384,7 @@
       "_url": "https://samawa.ae/products/assaf-strike-black-eau-de-parfum-woody-spicy-fragrance-for-women-and-men-125ml"
     },
     {
-      "name": "Armaf Odyssey Pink Pop Eau de Parfum, Floral Fruity Fragrance For Women 100ml",
+      "name": "Armaf Odyssey Pink Pop Eau de Parfum, Fragrance For Women 100ml",
       "brand": "Armaf",
       "category_slug": "homme",
       "size": "100ml",
@@ -218,7 +407,7 @@
       "_url": "https://samawa.ae/products/armaf-odyssey-pink-pop-eau-de-parfum-floral-fruity-fragrance-for-women-100ml"
     },
     {
-      "name": "Armaf Odyssey Mandarin Sky Vintage Edition Eau de Parfum, Oriental Spicy Fragrance For Women And Men 100ml",
+      "name": "Armaf Odyssey Mandarin Sky Vintage Edition Eau de Parfum, Fragrance For Women And Men 100ml",
       "brand": "Armaf",
       "category_slug": "homme",
       "size": "100ml",
@@ -242,7 +431,7 @@
       "_url": "https://samawa.ae/products/armaf-odyssey-mandarin-sky-vintage-edition-eau-de-parfum-oriental-spicy-fragrance-for-women-and-men-100ml"
     },
     {
-      "name": "Armaf Odyssey Mandarin Sky Elixir Limited Edition Eau de Parfum, Oriental Woody Fragrance For Women And Men 100ml",
+      "name": "Armaf Odyssey Mandarin Sky Elixir Limited Edition Eau de Parfum, Fragrance For Women And Men 100ml",
       "brand": "Armaf",
       "category_slug": "homme",
       "size": "100ml",
@@ -265,7 +454,7 @@
       "_url": "https://samawa.ae/products/armaf-odyssey-mandarin-sky-elixir-limited-edition-eau-de-parfum-oriental-woody-fragrance-for-women-and-men-100ml"
     },
     {
-      "name": "Armaf Odyssey Artisto The Red Edition Eau de Parfum, Woody Aromatic Fragrance For Women And Men 100ml",
+      "name": "Armaf Odyssey Artisto The Red Edition Eau de Parfum, Fragrance For Women And Men 100ml",
       "brand": "Armaf",
       "category_slug": "homme",
       "size": "100ml",
@@ -313,7 +502,7 @@
       "_url": "https://samawa.ae/products/armaf-club-de-nuit-sillage-perfume-body-spray-fragrance-for-women-and-men-200ml"
     },
     {
-      "name": "Armaf Club De Nuit Intense Eau de Toilette ,Woody Spicy Fragrance For Men 10ml",
+      "name": "Armaf Club De Nuit Intense Eau de Toilette, Fragrance For Men 10ml",
       "brand": "Armaf",
       "category_slug": "homme",
       "size": "10ml",
@@ -336,7 +525,7 @@
       "_url": "https://samawa.ae/products/armaf-club-de-nuit-intense-eau-de-toilette-woody-spicy-fragrance-for-men-10ml"
     },
     {
-      "name": "Arabiyat Prestige Ramad Oriental Eau de Parfum, Oriental Woody Fragrance For Women And Men 100ml",
+      "name": "Arabiyat Prestige Ramad Oriental Eau de Parfum, Fragrance For Women And Men 100ml",
       "brand": "Arabiyat Prestige",
       "category_slug": "homme",
       "size": "100ml",
@@ -34398,8 +34587,8 @@
       "brand": "RAYHAAN",
       "category_slug": "homme",
       "size": "100ml",
-      "price_retail": 74,
-      "price_gros": 74,
+      "price_retail": 73,
+      "price_gros": 73,
       "stock": 999,
       "badge": "",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rayhaan_Kiss_Eau_De_Parfum_For_Women_-_Floral_Fruity_Perfume_100ml-Photoroom.png?v=1787487694",
@@ -66363,7 +66552,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 146,
-      "price_gros": 104,
+      "price_gros": 109,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Ahmed_Al_Maghribi_Kaaf_Noir_Perfume_For_Unisex_EDP_100ml-Photoroom.png?v=1787489811",
@@ -88902,7 +89091,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 135,
-      "price_gros": 104.28,
+      "price_gros": 124,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Kaaf_By_Ahmed_Al_Maghribi_Perfume_For_Men_And_Women_EDP_100ml_Spy-Photoroom.png?v=1787463966",
@@ -172654,7 +172843,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 85,
-      "price_gros": 45,
+      "price_gros": 47,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/alll-resized-Photoroom.png?v=1787758878",
@@ -477401,7 +477590,7 @@
       "category_slug": "homme",
       "size": "90ml",
       "price_retail": 412,
-      "price_gros": 226,
+      "price_gros": 209,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/VIKTOR_ROLF_SPICEBOMB_EXTREME_90_ML_-_EDP_SPRAY.png?v=1786454578",
@@ -509657,7 +509846,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 125,
-      "price_gros": 96,
+      "price_gros": 93,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Happy_Heart.png?v=1794029743",
@@ -553406,7 +553595,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 381,
-      "price_gros": 344,
+      "price_gros": 399,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ysl-la-nuit-de-lhomme-edt-resized-Photoroom.png?v=1788123023",
@@ -581312,7 +581501,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 72,
-      "price_gros": 32,
+      "price_gros": 31,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rasasi_Blue_for_Men_EDT_100ml-Photoroom.png?v=1787547049",
@@ -584599,184 +584788,6 @@
       ],
       "_product_type": "Fragrance",
       "_url": "https://samawa.ae/products/salvatore-ferragamo-incanto-charms-for-women-eau-de-toilette-50ml"
-    },
-    {
-      "name": "Memo Russian Leather for Unisex Perfume, Eau de Parfum, 75ml",
-      "brand": "Memo",
-      "category_slug": "homme",
-      "size": "75ml",
-      "price_retail": 674,
-      "price_gros": 674,
-      "stock": 999,
-      "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/memo_russian_leather_edp_75ml_spy.jpg?v=1624398305",
-      "active": true,
-      "_handle": "memo-russian-leather-for-unisex-perfume-eau-de-parfum-75ml",
-      "_sku": "3700458612356",
-      "_tags": [
-        "75ml",
-        "Branded Perfumes",
-        "Fragrance",
-        "Men",
-        "Women"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/memo-russian-leather-for-unisex-perfume-eau-de-parfum-75ml"
-    },
-    {
-      "name": "Memo Italian Leather for Unisex Perfume, Eau de Parfum, 75ml",
-      "brand": "Memo",
-      "category_slug": "homme",
-      "size": "75ml",
-      "price_retail": 628,
-      "price_gros": 628,
-      "stock": 999,
-      "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/memo_italian_leather_edp_75ml_spy.jpg?v=1624911456",
-      "active": true,
-      "_handle": "memo-italian-leather-for-unisex-perfume-eau-de-parfum-75ml",
-      "_sku": "3700458611533",
-      "_tags": [
-        "75ml",
-        "Branded Perfumes",
-        "Fragrance",
-        "Men",
-        "Women"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/memo-italian-leather-for-unisex-perfume-eau-de-parfum-75ml"
-    },
-    {
-      "name": "Salvatore Ferragamo Incanto Shine For Women 100ml - Eau de Toilette",
-      "brand": "Salvatore Ferragamo",
-      "category_slug": "homme",
-      "size": "100ml",
-      "price_retail": 101,
-      "price_gros": 101,
-      "stock": 999,
-      "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/sf_incanto_shine.jpg?v=1624398284",
-      "active": true,
-      "_handle": "salvatore-ferragamo-incanto-shine-for-women-100ml-eau-de-toilette",
-      "_sku": "8032529114755",
-      "_tags": [
-        "100ml",
-        "Branded Perfumes",
-        "Fragrance",
-        "Women"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/salvatore-ferragamo-incanto-shine-for-women-100ml-eau-de-toilette"
-    },
-    {
-      "name": "Juicy Couture I Am Juicy Couture for Women -Eau de Parfum, 30 ml",
-      "brand": "Juicy Couture",
-      "category_slug": "homme",
-      "size": "30ml",
-      "price_retail": 84,
-      "price_gros": 84,
-      "stock": 999,
-      "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/i_am_juicy_couture_by_by_juicy_couture_for_women_-_eau_de_parfum_100_ml_2.jpg?v=1624398265",
-      "active": true,
-      "_handle": "juicy-couture-i-am-juicy-couture-for-women-eau-de-parfum-30-ml",
-      "_sku": "2800011710602",
-      "_tags": [
-        "30ml",
-        "Branded Perfumes",
-        "Fragrance"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/juicy-couture-i-am-juicy-couture-for-women-eau-de-parfum-30-ml"
-    },
-    {
-      "name": "Zara Amber Night Prive Collection  for Men - Eau de Parfum, 80 ml",
-      "brand": "Zarah",
-      "category_slug": "homme",
-      "size": "80ml",
-      "price_retail": 74,
-      "price_gros": 74,
-      "stock": 999,
-      "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/8491211270719.jpg?v=1633348281",
-      "active": true,
-      "_handle": "zara-amber-night-prive-collection-for-men-eau-de-parfum-80-ml",
-      "_sku": "8491211270719",
-      "_tags": [
-        "80ml",
-        "Branded Perfumes",
-        "EDP",
-        "Fragrance"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/zara-amber-night-prive-collection-for-men-eau-de-parfum-80-ml"
-    },
-    {
-      "name": "Juicy Couture I Am Juicy Couture for Women -Eau de Parfum, 100 ml",
-      "brand": "Juicy Couture",
-      "category_slug": "homme",
-      "size": "100ml",
-      "price_retail": 155,
-      "price_gros": 155,
-      "stock": 999,
-      "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/i_am_juicy_couture_by_by_juicy_couture_for_women_-_eau_de_parfum_100_ml.jpg?v=1624398227",
-      "active": true,
-      "_handle": "juicy-couture-i-am-juicy-couture-for-women-eau-de-parfum-100-ml",
-      "_sku": "719346192118",
-      "_tags": [
-        "100ml",
-        "Branded Perfumes",
-        "Fragrance"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/juicy-couture-i-am-juicy-couture-for-women-eau-de-parfum-100-ml"
-    },
-    {
-      "name": "Joop Homme Joop! for Men - Eau de Toilette, 75 ml",
-      "brand": "Joop",
-      "category_slug": "homme",
-      "size": "75ml",
-      "price_retail": 80,
-      "price_gros": 83,
-      "stock": 999,
-      "badge": "SALE",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/homme_joop_by_joop_for_men_-_eau_de_toilette_75_mld-resized-Photoroom.png?v=1789493773",
-      "active": true,
-      "_handle": "joop-homme-joop-for-men-eau-de-toilette-75-ml",
-      "_sku": "3414206000592",
-      "_tags": [
-        "75ml",
-        "Branded Perfumes",
-        "Fragrance",
-        "Men",
-        "Women"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/joop-homme-joop-for-men-eau-de-toilette-75-ml"
-    },
-    {
-      "name": "Joop! Jump for Men - Eau de Toilette, 100ml",
-      "brand": "Joop",
-      "category_slug": "homme",
-      "size": "100ml",
-      "price_retail": 78,
-      "price_gros": 78,
-      "stock": 999,
-      "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/joop_jump_by_joop_for_men_-_eau_de_toilette_100ml-resized-Photoroom.png?v=1790022159",
-      "active": true,
-      "_handle": "joop-jump-for-men-eau-de-toilette-100ml",
-      "_sku": "3414200640015",
-      "_tags": [
-        "100ml",
-        "Branded Perfumes",
-        "Fragrance",
-        "Men",
-        "Women"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/joop-jump-for-men-eau-de-toilette-100ml"
     }
   ]
 }
