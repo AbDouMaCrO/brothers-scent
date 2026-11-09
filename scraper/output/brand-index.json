@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-08T21:22:09.026Z",
-  "total_brands": 888,
+  "generated_at": "2026-11-09T01:11:10.946Z",
+  "total_brands": 889,
   "brands": [
     {
       "name": "Amazing Creation",
@@ -1205,9 +1205,23 @@
     {
       "name": "Rasasi",
       "slug": "rasasi",
-      "count": 206,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Hawas_Ice_Freeze.jpg?v=1793855520",
+      "count": 208,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/lava-resized-Photoroom.png?v=1794175037",
       "preview": [
+        {
+          "name": "Rasasi Hawas Lava Gold Eau de Parfum, Fragrance For Men 100ml",
+          "handle": "rasasi-hawas-lava-gold-eau-de-parfum-fragrance-for-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/lava-resized-Photoroom.png?v=1794175037",
+          "price": 143,
+          "badge": ""
+        },
+        {
+          "name": "Rasasi Hawas Exotic Eau de Parfum, Fragrance For Men 100ml",
+          "handle": "rasasi-hawas-exotic-eau-de-parfum-fragrance-for-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/exotic-resized-Photoroom_385ed033-da97-41ee-960c-764e75a24d37.png?v=1794174622",
+          "price": 143,
+          "badge": ""
+        },
         {
           "name": "Rasasi Hawas Ice Freeze For Him EDP 100ml",
           "handle": "rasasi-hawas-ice-freeze-for-him-edp-100ml",
@@ -1235,20 +1249,6 @@
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rasasi_Hawas_Nautilus_For_Men_EDP_100ml_1.png?v=1789035706",
           "price": 105,
           "badge": "SALE"
-        },
-        {
-          "name": "Rasasi Princess Bleu Pour Femme Eau de Parfum, Floral Fruity Fragrance For Women 50ml",
-          "handle": "rasasi-princess-bleu-pour-femme-eau-de-parfum-floral-fruity-fragrance-for-women-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/prin-resized-Photoroom.png?v=1787859283",
-          "price": 45,
-          "badge": ""
-        },
-        {
-          "name": "Rasasi Hamasaat Musk Memoirs Eau De Parfum For Unisex-Musky Oriental Perfume 100ml",
-          "handle": "rasasi-hamasaat-musk-memoirs-eau-de-parfum-for-unisex-musky-oriental-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/1_1794b577-6144-4abd-aad6-2e871fa5f6e4-Photoroom.png?v=1786804621",
-          "price": 202,
-          "badge": ""
         }
       ]
     },
@@ -2555,7 +2555,7 @@
     {
       "name": "Lacoste",
       "slug": "lacoste",
-      "count": 127,
+      "count": 126,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/lacosteeeee.png?v=1783966576",
       "preview": [
         {
@@ -2653,56 +2653,6 @@
       ]
     },
     {
-      "name": "Mercedes- Benz",
-      "slug": "mercedes-benz",
-      "count": 123,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/pp.png?v=1783499416",
-      "preview": [
-        {
-          "name": "Mercedes Benz Eau de Parfum For Women Floral 60ml",
-          "handle": "mercedes-benz-eau-de-parfum-for-women-floral-60ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/pp.png?v=1783499416",
-          "price": 93,
-          "badge": ""
-        },
-        {
-          "name": "Mercedes Benz Edt For Men Woody 75ml",
-          "handle": "mercedes-benz-edt-for-men-woody-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/m_en.png?v=1783499302",
-          "price": 121,
-          "badge": ""
-        },
-        {
-          "name": "Mercedes-Benz Floral Fantasy Edt For Women Floral 60ml",
-          "handle": "mercedes-benz-floral-fantasy-edt-for-women-floral-60ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/mercedesbenz-ladies-floral-fantasy-edt-spray-20-oz-fragrances-3595471028259.jpg?v=1776844787",
-          "price": 84,
-          "badge": ""
-        },
-        {
-          "name": "Mercedes-Benz Man Gift Set For Men",
-          "handle": "mercedes-benz-man-gift-set-for-men-2",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/man-resized-Photoroom_1.png?v=1792842710",
-          "price": 173,
-          "badge": ""
-        },
-        {
-          "name": "Mercedes Benz Man Gift Set For Men",
-          "handle": "mercedes-benz-man-gift-set-for-men-1",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/benzz-resized-Photoroom_be2b9af4-95d4-466a-a947-2fdf36c78ec8.png?v=1792869745",
-          "price": 173,
-          "badge": ""
-        },
-        {
-          "name": "Mercedes Benz Club Black for Men Gift Set For Men",
-          "handle": "mercedes-benz-club-black-for-men-gift-set-for-men",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/MERCEDESBENZBLACKSET-resized-Photoroom.png?v=1789548235",
-          "price": 200,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Loewe",
       "slug": "loewe",
       "count": 123,
@@ -2748,6 +2698,56 @@
           "handle": "loewe-un-paseo-por-madrid-primavera-en-el-mercado-de-san-miguel-for-unisex-edp-100ml-1",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/8426017072779_1.jpg?v=1740551306",
           "price": 595,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Mercedes- Benz",
+      "slug": "mercedes-benz",
+      "count": 122,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/pp.png?v=1783499416",
+      "preview": [
+        {
+          "name": "Mercedes Benz Eau de Parfum For Women Floral 60ml",
+          "handle": "mercedes-benz-eau-de-parfum-for-women-floral-60ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/pp.png?v=1783499416",
+          "price": 93,
+          "badge": ""
+        },
+        {
+          "name": "Mercedes Benz Edt For Men Woody 75ml",
+          "handle": "mercedes-benz-edt-for-men-woody-75ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/m_en.png?v=1783499302",
+          "price": 121,
+          "badge": ""
+        },
+        {
+          "name": "Mercedes-Benz Floral Fantasy Edt For Women Floral 60ml",
+          "handle": "mercedes-benz-floral-fantasy-edt-for-women-floral-60ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/mercedesbenz-ladies-floral-fantasy-edt-spray-20-oz-fragrances-3595471028259.jpg?v=1776844787",
+          "price": 84,
+          "badge": ""
+        },
+        {
+          "name": "Mercedes-Benz Man Gift Set For Men",
+          "handle": "mercedes-benz-man-gift-set-for-men-2",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/man-resized-Photoroom_1.png?v=1792842710",
+          "price": 173,
+          "badge": ""
+        },
+        {
+          "name": "Mercedes Benz Man Gift Set For Men",
+          "handle": "mercedes-benz-man-gift-set-for-men-1",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/benzz-resized-Photoroom_be2b9af4-95d4-466a-a947-2fdf36c78ec8.png?v=1792869745",
+          "price": 173,
+          "badge": ""
+        },
+        {
+          "name": "Mercedes Benz Club Black for Men Gift Set For Men",
+          "handle": "mercedes-benz-club-black-for-men-gift-set-for-men",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/MERCEDESBENZBLACKSET-resized-Photoroom.png?v=1789548235",
+          "price": 200,
           "badge": ""
         }
       ]
@@ -4303,56 +4303,6 @@
       ]
     },
     {
-      "name": "Lalique",
-      "slug": "lalique",
-      "count": 77,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/7640171194837-_1__1.jpg?v=1757655157",
-      "preview": [
-        {
-          "name": "Lalique Soleil Vibrant Perfumed Hair Mist For Women - 50ml",
-          "handle": "lalique-soleil-vibrant-perfumed-hair-mist-for-women-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/7640171194837-_1__1.jpg?v=1757655157",
-          "price": 84,
-          "badge": ""
-        },
-        {
-          "name": "Lalique Encre Noire Pour Homme For Men Mini EDT 4.5ml",
-          "handle": "lalique-encre-noire-pour-homme-for-men-mini-edt-4-5ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3454960022263_1.jpg?v=1737620217",
-          "price": 34,
-          "badge": ""
-        },
-        {
-          "name": "Lalique Soleil Hair Mist For Women 50ml",
-          "handle": "lalique-soleil-hair-mist-for-women-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LaliqueSoleil50MlHairMist_8ee52a15-d2b0-4f96-92fa-442beb50cd34.jpg?v=1734094169",
-          "price": 150,
-          "badge": ""
-        },
-        {
-          "name": "Lalique White In Black For Men EDP 125ml",
-          "handle": "lalique-white-in-black-for-men-edp-125ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lalique_White_In_Black_For_Men_EDP_125ml-Photoroom.png?v=1789801619",
-          "price": 138,
-          "badge": ""
-        },
-        {
-          "name": "Lalique Encre Indigo For Men EDP 100ml",
-          "handle": "lalique-encre-indigo-for-men-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lalique_Encre_Indigo_For_Men_EDP_100ml-Photoroom.png?v=1789657971",
-          "price": 204,
-          "badge": ""
-        },
-        {
-          "name": "Lalique Soleil Vibrant Perfume For Women EDP 100ml",
-          "handle": "lalique-soleil-vibrant-perfume-for-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LaliqueSoleilVibrant100MlEdp.jpg?v=1731778634",
-          "price": 303,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Disney",
       "slug": "disney",
       "count": 77,
@@ -4448,6 +4398,56 @@
           "handle": "bond-no9-beekman-place-perfume-for-unisex-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/BondNo9BeekmanPlace100Ml_3c6996c0-faa7-4d06-b91b-cc2d1b1b7603.jpg?v=1728131957",
           "price": 1265,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Lalique",
+      "slug": "lalique",
+      "count": 76,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/7640171194837-_1__1.jpg?v=1757655157",
+      "preview": [
+        {
+          "name": "Lalique Soleil Vibrant Perfumed Hair Mist For Women - 50ml",
+          "handle": "lalique-soleil-vibrant-perfumed-hair-mist-for-women-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/7640171194837-_1__1.jpg?v=1757655157",
+          "price": 84,
+          "badge": ""
+        },
+        {
+          "name": "Lalique Encre Noire Pour Homme For Men Mini EDT 4.5ml",
+          "handle": "lalique-encre-noire-pour-homme-for-men-mini-edt-4-5ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3454960022263_1.jpg?v=1737620217",
+          "price": 34,
+          "badge": ""
+        },
+        {
+          "name": "Lalique Soleil Hair Mist For Women 50ml",
+          "handle": "lalique-soleil-hair-mist-for-women-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LaliqueSoleil50MlHairMist_8ee52a15-d2b0-4f96-92fa-442beb50cd34.jpg?v=1734094169",
+          "price": 150,
+          "badge": ""
+        },
+        {
+          "name": "Lalique White In Black For Men EDP 125ml",
+          "handle": "lalique-white-in-black-for-men-edp-125ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lalique_White_In_Black_For_Men_EDP_125ml-Photoroom.png?v=1789801619",
+          "price": 138,
+          "badge": ""
+        },
+        {
+          "name": "Lalique Encre Indigo For Men EDP 100ml",
+          "handle": "lalique-encre-indigo-for-men-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lalique_Encre_Indigo_For_Men_EDP_100ml-Photoroom.png?v=1789657971",
+          "price": 204,
+          "badge": ""
+        },
+        {
+          "name": "Lalique Soleil Vibrant Perfume For Women EDP 100ml",
+          "handle": "lalique-soleil-vibrant-perfume-for-women-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LaliqueSoleilVibrant100MlEdp.jpg?v=1731778634",
+          "price": 303,
           "badge": ""
         }
       ]
@@ -6397,7 +6397,7 @@
           "name": "Rayhaan Nocturno Elixir Pour Homme Eau De Parfum For Men - Woody Amber Perfume 100ml",
           "handle": "rayhaan-nocturno-elixir-pour-homme-eau-de-parfum-for-men-woody-amber-perfume-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rayhaan_Nocturno_Elixir_Pour_Homme_Eau_De_Parfum_For_Men_-_Woody_Amber_Perfume_100ml.jpg?v=1789110539",
-          "price": 89,
+          "price": 87,
           "badge": "SALE"
         }
       ]
@@ -31130,6 +31130,21 @@
           "handle": "fleur-de-grasse-baccarat-perfume-for-unisex-edp-50ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/fleur-dg-baccart-1.jpg?v=1624400134",
           "price": 46,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Osma",
+      "slug": "osma",
+      "count": 1,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/osma-resized-Photoroom.png?v=1794174032",
+      "preview": [
+        {
+          "name": "Osma Amber S Eau de Parfum, Fragrance For Men And Women 75ml",
+          "handle": "osma-amber-s-eau-de-parfum-fragrance-for-men-and-women-75ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/osma-resized-Photoroom.png?v=1794174032",
+          "price": 175,
           "badge": ""
         }
       ]
