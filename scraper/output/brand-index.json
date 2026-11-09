@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-09T01:11:10.946Z",
-  "total_brands": 889,
+  "generated_at": "2026-11-09T08:28:26.622Z",
+  "total_brands": 888,
   "brands": [
     {
       "name": "Amazing Creation",
@@ -4569,7 +4569,7 @@
           "name": "Ahmed Al Maghribi Black Fumes For Unisex EDP 100ml",
           "handle": "ahmed-al-maghribi-black-fumes-for-unisex-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Ahmed_Al_Maghribi_Black_Fumes_For_Unisex_EDP_100ml-Photoroom.png?v=1787670265",
-          "price": 74,
+          "price": 68,
           "badge": "SALE"
         },
         {
@@ -4590,7 +4590,7 @@
           "name": "Ahmed Al Maghribi Kaaf Noir Perfume For Unisex EDP 100ml",
           "handle": "ahmed-al-maghribi-kaaf-noir-perfume-for-unisex-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Ahmed_Al_Maghribi_Kaaf_Noir_Perfume_For_Unisex_EDP_100ml-Photoroom.png?v=1787489811",
-          "price": 104,
+          "price": 109,
           "badge": "SALE"
         },
         {
@@ -8853,6 +8853,56 @@
       ]
     },
     {
+      "name": "Arabiyat",
+      "slug": "arabiyat",
+      "count": 28,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ramada-resized-Photoroom.png?v=1794064467",
+      "preview": [
+        {
+          "name": "Arabiyat Prestige Ramad Oriental Eau de Parfum, Fragrance For Women And Men 100ml",
+          "handle": "arabiyat-prestige-ramad-oriental-eau-de-parfum-oriental-woody-fragrance-for-women-and-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ramada-resized-Photoroom.png?v=1794064467",
+          "price": 101,
+          "badge": ""
+        },
+        {
+          "name": "Arabiyat Prestige Mahid Al Dhahab Extrait De Parfum For Men And Women 60ml",
+          "handle": "arabiyat-prestige-mahid-al-dhahab-extrait-de-parfum-for-men-and-women-60ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Arabiyat_Prestige_Mahid_Al_Dhahab_Extrait_De_Parfum_For_Men_And_Women_60ml.png?v=1792589999",
+          "price": 184,
+          "badge": ""
+        },
+        {
+          "name": "Arabiyat Prestige Marwa Extrait De Parfum For Men And Women 60ml",
+          "handle": "arabiyat-prestige-marwa-extrait-de-parfum-for-men-and-women-60ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Arabiyat_Prestige_Marwa_Extrait_De_Parfum_60ml.png?v=1792589377",
+          "price": 184,
+          "badge": ""
+        },
+        {
+          "name": "Arabiyat Oud Al Layl Midnight Edition Eau De Parfum For Unisex-Aquatic Aromatic Woody Perfume 100ml",
+          "handle": "arabiyat-oud-al-layl-midnight-edition-eau-de-parfum-for-unisex-aquatic-aromatic-woody-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/midnight_thumbnail-Photoroom.png?v=1786798870",
+          "price": 48,
+          "badge": ""
+        },
+        {
+          "name": "Arabiyat Prestige Ramad Earthy Extrait De Parfum For Unisex- Oriental Spicy Perfume 100ml",
+          "handle": "arabiyat-prestige-ramad-earthy-extrait-de-parfum-for-unisex-oriental-spicy-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Arabiyat_Prestige_Ramad_Earthy_Extrait_De_Parfum_For_Unisex-_Oriental_Spicy_Perfume_100ml-Photoroom.png?v=1787464337",
+          "price": 155,
+          "badge": ""
+        },
+        {
+          "name": "Arabiyat Prestige Nyla Vani Elle Edp For Men And Women Gourmand 80ml",
+          "handle": "arabiyat-prestige-nyla-vani-elle-edp-for-men-and-women-gourmand-80ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Arabiyat_Prestige_Nyla_Vani_Elle_Edp_For_Men_And_Women_Gourmand_80ml-Photoroom.png?v=1789197765",
+          "price": 84,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Signature",
       "slug": "signature",
       "count": 28,
@@ -9098,56 +9148,6 @@
           "handle": "marvel-deadpool-gift-set-for-men-1",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/MarvelDeadpool_M_SetEdt100Ml_AftershaveBalm100Ml_ShowerGel100Ml.jpg?v=1646039214",
           "price": 50,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Arabiyat",
-      "slug": "arabiyat",
-      "count": 27,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Arabiyat_Prestige_Mahid_Al_Dhahab_Extrait_De_Parfum_For_Men_And_Women_60ml.png?v=1792589999",
-      "preview": [
-        {
-          "name": "Arabiyat Prestige Mahid Al Dhahab Extrait De Parfum For Men And Women 60ml",
-          "handle": "arabiyat-prestige-mahid-al-dhahab-extrait-de-parfum-for-men-and-women-60ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Arabiyat_Prestige_Mahid_Al_Dhahab_Extrait_De_Parfum_For_Men_And_Women_60ml.png?v=1792589999",
-          "price": 184,
-          "badge": ""
-        },
-        {
-          "name": "Arabiyat Prestige Marwa Extrait De Parfum For Men And Women 60ml",
-          "handle": "arabiyat-prestige-marwa-extrait-de-parfum-for-men-and-women-60ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Arabiyat_Prestige_Marwa_Extrait_De_Parfum_60ml.png?v=1792589377",
-          "price": 184,
-          "badge": ""
-        },
-        {
-          "name": "Arabiyat Oud Al Layl Midnight Edition Eau De Parfum For Unisex-Aquatic Aromatic Woody Perfume 100ml",
-          "handle": "arabiyat-oud-al-layl-midnight-edition-eau-de-parfum-for-unisex-aquatic-aromatic-woody-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/midnight_thumbnail-Photoroom.png?v=1786798870",
-          "price": 48,
-          "badge": ""
-        },
-        {
-          "name": "Arabiyat Prestige Ramad Earthy Extrait De Parfum For Unisex- Oriental Spicy Perfume 100ml",
-          "handle": "arabiyat-prestige-ramad-earthy-extrait-de-parfum-for-unisex-oriental-spicy-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Arabiyat_Prestige_Ramad_Earthy_Extrait_De_Parfum_For_Unisex-_Oriental_Spicy_Perfume_100ml-Photoroom.png?v=1787464337",
-          "price": 155,
-          "badge": ""
-        },
-        {
-          "name": "Arabiyat Prestige Nyla Vani Elle Edp For Men And Women Gourmand 80ml",
-          "handle": "arabiyat-prestige-nyla-vani-elle-edp-for-men-and-women-gourmand-80ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Arabiyat_Prestige_Nyla_Vani_Elle_Edp_For_Men_And_Women_Gourmand_80ml-Photoroom.png?v=1789197765",
-          "price": 84,
-          "badge": ""
-        },
-        {
-          "name": "Arabiyat Prestige Nyla Suede Edp For Men And Women Soft 80ml",
-          "handle": "arabiyat-prestige-nyla-suede-edp-for-men-and-women-soft-80ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Arabiyat_Prestige_Nyla_Suede_Edp_For_Men_And_Women_Soft_80ml-Photoroom.png?v=1789793461",
-          "price": 99,
           "badge": ""
         }
       ]
@@ -19369,7 +19369,7 @@
           "name": "Asdaaf Ameer Al Arab Imperium EDP For Unisex 100ml",
           "handle": "asdaaf-ameer-al-arab-imperium-edp-for-unisex-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Asdaaf_Ameer_Al_Arab_Imperium_EDP_For_Unisex_100ml-Photoroom.png?v=1787493298",
-          "price": 44,
+          "price": 42,
           "badge": "SALE"
         },
         {
@@ -31175,21 +31175,6 @@
           "handle": "bujairami-hectic-extrait-de-parfum-fragrance-for-women-and-men-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/hectic-resized-Photoroom.png?v=1794128785",
           "price": 236,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Arabiyat Prestige",
-      "slug": "arabiyat-prestige",
-      "count": 1,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ramada-resized-Photoroom.png?v=1794064467",
-      "preview": [
-        {
-          "name": "Arabiyat Prestige Ramad Oriental Eau de Parfum, Fragrance For Women And Men 100ml",
-          "handle": "arabiyat-prestige-ramad-oriental-eau-de-parfum-oriental-woody-fragrance-for-women-and-men-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ramada-resized-Photoroom.png?v=1794064467",
-          "price": 101,
           "badge": ""
         }
       ]
