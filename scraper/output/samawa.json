@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-11T09:45:37.266Z",
+  "scraped_at": "2026-11-11T17:44:42.064Z",
   "source": "https://samawa.ae",
   "count": 25094,
   "products": [
@@ -135,14 +135,8 @@
       "_handle": "victorias-secret-gift-set-for-women-2",
       "_sku": "197575507703",
       "_tags": [
-        "Body lotion",
-        "Body Mist",
-        "body wash",
         "Branded Perfumes",
-        "EDP",
-        "Fragrance",
         "Gift set",
-        "miniature",
         "Women"
       ],
       "_product_type": "Gift Set",
@@ -210,7 +204,6 @@
       "_tags": [
         "7ml",
         "Branded Perfumes",
-        "EDP",
         "Fragrance",
         "miniature",
         "Women"
@@ -233,7 +226,7 @@
       "_sku": "6290171075616",
       "_tags": [
         "100ml",
-        "Branded Perfumes",
+        "Arabic Perfume",
         "EDP",
         "Fragrance",
         "Men"
@@ -256,7 +249,7 @@
       "_sku": "6290171076711",
       "_tags": [
         "100ml",
-        "Branded Perfumes",
+        "Arabic Perfume",
         "EDP",
         "Fragrance",
         "Men"
@@ -279,7 +272,7 @@
       "_sku": "6295151505076",
       "_tags": [
         "100ml",
-        "Branded Perfumes",
+        "Arabic Perfume",
         "EDP",
         "Fragrance",
         "Men",
@@ -303,7 +296,7 @@
       "_sku": "6295151505083",
       "_tags": [
         "100ml",
-        "Branded Perfumes",
+        "Arabic Perfume",
         "EDP",
         "Fragrance",
         "Women"
@@ -326,8 +319,8 @@
       "_sku": "6295151506288",
       "_tags": [
         "100ml",
-        "Branded Perfumes",
-        "EDP",
+        "Arabic Perfume",
+        "Extrait De Parfum",
         "Fragrance",
         "Women"
       ],
@@ -349,8 +342,8 @@
       "_sku": "6295151501733",
       "_tags": [
         "100ml",
-        "Branded Perfumes",
-        "EDP",
+        "Arabic Perfume",
+        "Extrait De Parfum",
         "Fragrance",
         "Women"
       ],
@@ -359,7 +352,7 @@
     },
     {
       "name": "Riiffs Elyssia Aura Eau de Parfum, Fragrance For Men And Women 100ml",
-      "brand": "Reef",
+      "brand": "RiiFFS",
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 96,
@@ -369,10 +362,10 @@
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/aura-resized-Photoroom_47b83ede-9979-4161-a303-26da1c1c9ed1.png?v=1794227717",
       "active": true,
       "_handle": "riiffs-elyssia-aura-eau-de-parfum-fragrance-for-men-and-women-100ml",
-      "_sku": "6287036286446",
+      "_sku": "6295151501757",
       "_tags": [
         "100ml",
-        "Branded Perfumes",
+        "Arabic Perfume",
         "EDP",
         "Fragrance",
         "Men",
@@ -396,7 +389,7 @@
       "_sku": "6297001571460",
       "_tags": [
         "100ml",
-        "Branded Perfumes",
+        "Arabic Perfume",
         "EDP",
         "Fragrance",
         "Men",
@@ -420,7 +413,7 @@
       "_sku": "6297001571446",
       "_tags": [
         "100ml",
-        "Branded Perfumes",
+        "Arabic Perfume",
         "EDP",
         "Fragrance",
         "Men",
@@ -444,7 +437,7 @@
       "_sku": "6297001571422",
       "_tags": [
         "100ml",
-        "Branded Perfumes",
+        "Arabic Perfume",
         "EDP",
         "Fragrance",
         "Men",
@@ -468,7 +461,7 @@
       "_sku": "6297001571408",
       "_tags": [
         "100ml",
-        "Branded Perfumes",
+        "Arabic Perfume",
         "EDP",
         "Fragrance",
         "Men",
@@ -563,7 +556,7 @@
       "_tags": [
         "100ml",
         "Arabic Perfume",
-        "EDP",
+        "Extrait De Parfum",
         "Fragrance",
         "Men",
         "Women"
@@ -587,7 +580,7 @@
       "_tags": [
         "100ml",
         "Branded Perfumes",
-        "EDP",
+        "Extrait De Parfum",
         "Fragrance",
         "Men",
         "Women"
@@ -697,7 +690,7 @@
       "price_gros": 1538,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/goood-resized-Photoroom.png?v=1794167270",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/killll-resized-Photoroom.png?v=1794405828",
       "active": true,
       "_handle": "kilian-paris-good-girl-gone-bad-eau-de-parfum-fragrance-for-women-100ml",
       "_sku": "3700550235767",
@@ -727,7 +720,7 @@
       "_tags": [
         "50ml",
         "Branded Perfumes",
-        "EDP",
+        "Extrait De Parfum",
         "Fragrance",
         "Men",
         "Women"
@@ -798,7 +791,7 @@
       "_tags": [
         "100ml",
         "Arabic Perfume",
-        "EDP",
+        "Extrait De Parfum",
         "Fragrance",
         "Men",
         "Women"
@@ -807,8 +800,8 @@
       "_url": "https://samawa.ae/products/khadlaj-mocha-latte-extrait-de-parfum-fragrance-for-women-and-men-100ml"
     },
     {
-      "name": "khadlaj Icon Eau de Parfum, Fragrance For Women And Men 100ml",
-      "brand": "samawa perfumes ",
+      "name": "khadlaj Icon Eau de Parfum, Fragrance For Men 100ml",
+      "brand": "Khadlaj",
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 111,
@@ -830,7 +823,7 @@
       "_url": "https://samawa.ae/products/khadlaj-icon-eau-de-parfum-fragrance-for-women-and-men-100ml"
     },
     {
-      "name": "Khadlaj Cream Velvet Eau de Parfum, Fragrance For Women And Men 100ml",
+      "name": "Khadlaj Cream Velvet Eau de Parfum, Fragrance For Women 100ml",
       "brand": "Khadlaj",
       "category_slug": "homme",
       "size": "100ml",
@@ -867,8 +860,8 @@
       "_sku": "6291107979311",
       "_tags": [
         "100ml",
-        "Branded Perfumes",
-        "EDP",
+        "Arabic Perfume",
+        "Extrait De Parfum",
         "Fragrance",
         "Men",
         "Women"
@@ -891,7 +884,7 @@
       "_sku": "6291106039894",
       "_tags": [
         "100ml",
-        "Branded Perfumes",
+        "Arabic Perfume",
         "EDP",
         "Fragrance",
         "Men",
@@ -901,7 +894,7 @@
       "_url": "https://samawa.ae/products/kayali-vanilla-28-eau-de-parfum-oriental-vanilla-fragrance-for-women-and-men-100ml"
     },
     {
-      "name": "Kayali Vanilla Candy Rock Sugar | 42 Eau de Parfum, Fragrance For Women 100ml",
+      "name": "Kayali Vanilla Candy Rock Sugar | 42 Eau de Parfum, Fragrance For Women And Men 100ml",
       "brand": "KAYALI",
       "category_slug": "homme",
       "size": "100ml",
@@ -915,7 +908,7 @@
       "_sku": "6294018404347",
       "_tags": [
         "100ml",
-        "Branded Perfumes",
+        "Arabic Perfume",
         "EDP",
         "Fragrance",
         "Men",
@@ -939,7 +932,7 @@
       "_sku": "6291106037432",
       "_tags": [
         "100ml",
-        "Branded Perfumes",
+        "Arabic Perfume",
         "EDP",
         "Fragrance",
         "Men",
@@ -963,7 +956,7 @@
       "_sku": "6294018407881",
       "_tags": [
         "100ml",
-        "Branded Perfumes",
+        "Arabic Perfume",
         "EDP",
         "Fragrance",
         "Men",
@@ -987,7 +980,7 @@
       "_sku": "6294018405917",
       "_tags": [
         "100ml",
-        "Branded Perfumes",
+        "Arabic Perfume",
         "EDP",
         "Fragrance",
         "Women"
@@ -1010,7 +1003,7 @@
       "_sku": "6291107571935",
       "_tags": [
         "100ml",
-        "Branded Perfumes",
+        "Arabic Perfume",
         "EDP",
         "Fragrance",
         "Men",
@@ -1020,7 +1013,7 @@
       "_url": "https://samawa.ae/products/kayali-eden-juicy-apple-01-eau-de-parfum-floral-fruity-gourmand-fragrance-for-women-and-men-100ml"
     },
     {
-      "name": "Kayali Déjà Vu White Flower | 57 Eau de Parfum, Fragrance For Women And Men 100ml",
+      "name": "Kayali Déjà Vu White Flower | 57 Eau de Parfum, Fragrance For Women 100ml",
       "brand": "KAYALI",
       "category_slug": "homme",
       "size": "100ml",
@@ -1034,7 +1027,7 @@
       "_sku": "6291106034837",
       "_tags": [
         "100ml",
-        "Branded Perfumes",
+        "Arabic Perfume",
         "EDP",
         "Fragrance",
         "Women"
@@ -1082,7 +1075,7 @@
       "_sku": "6290360374796",
       "_tags": [
         "100ml",
-        "Branded Perfumes",
+        "Arabic Perfume",
         "EDP",
         "Fragrance",
         "Men",
@@ -1106,7 +1099,7 @@
       "_sku": "6298042000186",
       "_tags": [
         "100ml",
-        "Branded Perfumes",
+        "Arabic Perfume",
         "EDP",
         "Fragrance",
         "Men",
@@ -1154,7 +1147,7 @@
       "_tags": [
         "100ml",
         "Branded Perfumes",
-        "EDP",
+        "Extrait De Parfum",
         "Fragrance",
         "Men",
         "Women"
@@ -1234,7 +1227,7 @@
       "_url": "https://samawa.ae/products/armaf-odyssey-mandarin-sky-vintage-edition-eau-de-parfum-oriental-spicy-fragrance-for-women-and-men-100ml"
     },
     {
-      "name": "Armaf Odyssey Mandarin Sky Elixir Limited Edition Eau de Parfum, Fragrance For Women And Men 100ml",
+      "name": "Armaf Odyssey Mandarin Sky Elixir Limited Edition Eau de Parfum, Fragrance For Men 100ml",
       "brand": "Armaf",
       "category_slug": "homme",
       "size": "100ml",
@@ -1242,13 +1235,13 @@
       "price_gros": 96,
       "stock": 999,
       "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/mabd-resized-Photoroom.png?v=1794073809",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/mann-resized-Photoroom.png?v=1794407770",
       "active": true,
       "_handle": "armaf-odyssey-mandarin-sky-elixir-limited-edition-eau-de-parfum-oriental-woody-fragrance-for-women-and-men-100ml",
       "_sku": "6295199805022",
       "_tags": [
         "100ml",
-        "Branded Perfumes",
+        "Arabic Perfume",
         "EDP",
         "Fragrance",
         "Men"
@@ -9579,7 +9572,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 542,
-      "price_gros": 387.5,
+      "price_gros": 428,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Paco_Rabanne_1_Million_Black_Eau_de_Parfum_Oriental_Vanilla_Fragrance_For_Men_100ml.jpg?v=1787122008",
@@ -24794,7 +24787,7 @@
       "_sku": "6294018402664",
       "_tags": [
         "100ml",
-        "Branded Perfumes",
+        "Arabic Perfume",
         "EDP",
         "Fragrance",
         "Women"
@@ -130739,7 +130732,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 135,
-      "price_gros": 76,
+      "price_gros": 83,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Yara_Candy_Perfume_For_Women_EDP_100ml-Photoroom.png?v=1787493851",
@@ -160526,7 +160519,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 79,
-      "price_gros": 37,
+      "price_gros": 41,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LouisCardinSacredEdp100mlSpy-resized-Photoroom.png?v=1788127993",
@@ -209464,7 +209457,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 425,
-      "price_gros": 226,
+      "price_gros": 243.75,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Azzaro_The_Most_Wanted_Parfum_For_Men_100ml.png?v=1786611645",
@@ -257578,7 +257571,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 465,
-      "price_gros": 268.75,
+      "price_gros": 287.5,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Givenchy_Gentleman_Reserve_Privee_Perfume_For_Men_EDP_100ml.png?v=1786454163",
@@ -554482,7 +554475,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 381,
-      "price_gros": 331.25,
+      "price_gros": 399,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ysl-la-nuit-de-lhomme-edt-resized-Photoroom.png?v=1788123023",
