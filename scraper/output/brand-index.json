@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T02:14:39.548Z",
+  "generated_at": "2026-11-11T09:47:15.635Z",
   "total_brands": 887,
   "brands": [
     {
@@ -605,9 +605,16 @@
     {
       "name": "Lattafa",
       "slug": "lattafa",
-      "count": 260,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/art-resized-Photoroom_5d27b663-8a19-481f-89d9-1acb02f8699d.png?v=1794168543",
+      "count": 261,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Khamrah_Waha_Perfume_For_Unisex_EDP_100ml.png?v=1794386875",
       "preview": [
+        {
+          "name": "Lattafa Khamrah Waha Perfume For Unisex EDP 100ml",
+          "handle": "lattafa-khamrah-waha-perfume-for-unisex-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Khamrah_Waha_Perfume_For_Unisex_EDP_100ml.png?v=1794386875",
+          "price": 159,
+          "badge": "SALE"
+        },
         {
           "name": "Lattafa Art of Nature II Eau de Parfum, Fragrance For Men And Women 100ml",
           "handle": "lattafa-art-of-nature-ii-eau-de-parfum-fragrance-for-men-and-women-100ml",
@@ -641,13 +648,6 @@
           "handle": "lattafa-maahir-honor-for-unisex-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Maahir_Honor.png?v=1786522827",
           "price": 136,
-          "badge": "SALE"
-        },
-        {
-          "name": "Lattafa Pride Love In Paris EDP For Unisex 100ml",
-          "handle": "lattafa-pride-love-in-paris-edp-for-unisex-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Pride_Love_In_Paris_EDP_For_Unisex_100ml.png?v=1786520694",
-          "price": 130,
           "badge": "SALE"
         }
       ]
@@ -2705,7 +2705,7 @@
     {
       "name": "Mercedes- Benz",
       "slug": "mercedes-benz",
-      "count": 121,
+      "count": 120,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/pp.png?v=1783499416",
       "preview": [
         {
@@ -7776,7 +7776,7 @@
           "name": "Louis Cardin Sacred Perfume For Unisex EDP 100ml",
           "handle": "louis-cardin-sacred-perfume-for-unisex-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LouisCardinSacredEdp100mlSpy-resized-Photoroom.png?v=1788127993",
-          "price": 41,
+          "price": 37,
           "badge": "SALE"
         },
         {
