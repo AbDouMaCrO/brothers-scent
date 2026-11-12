@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T17:46:10.158Z",
+  "generated_at": "2026-11-12T07:34:56.956Z",
   "total_brands": 887,
   "brands": [
     {
@@ -2703,56 +2703,6 @@
       ]
     },
     {
-      "name": "Mercedes- Benz",
-      "slug": "mercedes-benz",
-      "count": 120,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/pp.png?v=1783499416",
-      "preview": [
-        {
-          "name": "Mercedes Benz Eau de Parfum For Women Floral 60ml",
-          "handle": "mercedes-benz-eau-de-parfum-for-women-floral-60ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/pp.png?v=1783499416",
-          "price": 93,
-          "badge": ""
-        },
-        {
-          "name": "Mercedes Benz Edt For Men Woody 75ml",
-          "handle": "mercedes-benz-edt-for-men-woody-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/m_en.png?v=1783499302",
-          "price": 121,
-          "badge": ""
-        },
-        {
-          "name": "Mercedes-Benz Floral Fantasy Edt For Women Floral 60ml",
-          "handle": "mercedes-benz-floral-fantasy-edt-for-women-floral-60ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/mercedesbenz-ladies-floral-fantasy-edt-spray-20-oz-fragrances-3595471028259.jpg?v=1776844787",
-          "price": 84,
-          "badge": ""
-        },
-        {
-          "name": "Mercedes-Benz Man Gift Set For Men",
-          "handle": "mercedes-benz-man-gift-set-for-men-2",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/man-resized-Photoroom_1.png?v=1792842710",
-          "price": 173,
-          "badge": ""
-        },
-        {
-          "name": "Mercedes Benz Man Gift Set For Men",
-          "handle": "mercedes-benz-man-gift-set-for-men-1",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/benzz-resized-Photoroom_be2b9af4-95d4-466a-a947-2fdf36c78ec8.png?v=1792869745",
-          "price": 173,
-          "badge": ""
-        },
-        {
-          "name": "Mercedes Benz Club Black for Men Gift Set For Men",
-          "handle": "mercedes-benz-club-black-for-men-gift-set-for-men",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/MERCEDESBENZBLACKSET-resized-Photoroom.png?v=1789548235",
-          "price": 200,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Cartier",
       "slug": "cartier",
       "count": 119,
@@ -2798,6 +2748,56 @@
           "handle": "cartier-declaration-parfum-for-men-woody-floral-musk-perfume-50ml-refillable",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cartier-mens-declaration-parfum-17-oz-fragrances-3432240506733.jpg?v=1763306661",
           "price": 306,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Mercedes- Benz",
+      "slug": "mercedes-benz",
+      "count": 119,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/pp.png?v=1783499416",
+      "preview": [
+        {
+          "name": "Mercedes Benz Eau de Parfum For Women Floral 60ml",
+          "handle": "mercedes-benz-eau-de-parfum-for-women-floral-60ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/pp.png?v=1783499416",
+          "price": 93,
+          "badge": ""
+        },
+        {
+          "name": "Mercedes Benz Edt For Men Woody 75ml",
+          "handle": "mercedes-benz-edt-for-men-woody-75ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/m_en.png?v=1783499302",
+          "price": 121,
+          "badge": ""
+        },
+        {
+          "name": "Mercedes-Benz Floral Fantasy Edt For Women Floral 60ml",
+          "handle": "mercedes-benz-floral-fantasy-edt-for-women-floral-60ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/mercedesbenz-ladies-floral-fantasy-edt-spray-20-oz-fragrances-3595471028259.jpg?v=1776844787",
+          "price": 84,
+          "badge": ""
+        },
+        {
+          "name": "Mercedes-Benz Man Gift Set For Men",
+          "handle": "mercedes-benz-man-gift-set-for-men-2",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/man-resized-Photoroom_1.png?v=1792842710",
+          "price": 173,
+          "badge": ""
+        },
+        {
+          "name": "Mercedes Benz Man Gift Set For Men",
+          "handle": "mercedes-benz-man-gift-set-for-men-1",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/benzz-resized-Photoroom_be2b9af4-95d4-466a-a947-2fdf36c78ec8.png?v=1792869745",
+          "price": 173,
+          "badge": ""
+        },
+        {
+          "name": "Mercedes Benz Club Black for Men Gift Set For Men",
+          "handle": "mercedes-benz-club-black-for-men-gift-set-for-men",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/MERCEDESBENZBLACKSET-resized-Photoroom.png?v=1789548235",
+          "price": 200,
           "badge": ""
         }
       ]
@@ -5853,6 +5853,56 @@
       ]
     },
     {
+      "name": "RAYHAAN",
+      "slug": "rayhaan",
+      "count": 47,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rayhaan_Amazonica_Eau_de_Parfum_Fragrance_For_Men_And_Women_100ml.png?v=1794464846",
+      "preview": [
+        {
+          "name": "Rayhaan Amazonica Eau de Parfum, Fragrance For Men And Women 100ml",
+          "handle": "rayhaan-amazonica-eau-de-parfum-fragrance-for-men-and-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rayhaan_Amazonica_Eau_de_Parfum_Fragrance_For_Men_And_Women_100ml.png?v=1794464846",
+          "price": 125,
+          "badge": ""
+        },
+        {
+          "name": "Rayhaan Vantage Eau de Parfum, Fragrance For Men And Women 100ml",
+          "handle": "rayhaan-vantage-eau-de-parfum-fragrance-for-men-and-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/vantage-resized-Photoroom.png?v=1794226373",
+          "price": 111,
+          "badge": ""
+        },
+        {
+          "name": "Rayhaan Vanilla Vibe Eau de Parfum, Fragrance For Men And Women 100ml",
+          "handle": "rayhaan-vanilla-vibe-eau-de-parfum-fragrance-for-men-and-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/vibe-resized-Photoroom_44ee5b3f-779f-4545-ac29-92a928afba27.png?v=1794226078",
+          "price": 103,
+          "badge": ""
+        },
+        {
+          "name": "Rayhaan Equinox Eau de Parfum, Fragrance For Men And Women 100ml",
+          "handle": "rayhaan-equinox-eau-de-parfum-fragrance-for-men-and-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/eq-resized-Photoroom.png?v=1794225535",
+          "price": 103,
+          "badge": ""
+        },
+        {
+          "name": "Rayhaan Cedrus Blanc Eau de Parfum, Fragrance For Men And Women 100ml",
+          "handle": "rayhaan-cedrus-blanc-eau-de-parfum-fragrance-for-men-and-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cedrus-resized-Photoroom.png?v=1794225231",
+          "price": 111,
+          "badge": ""
+        },
+        {
+          "name": "Rayhaan Nava Sol EDP For Unisex 100ml",
+          "handle": "rayhaan-nava-sol-edp-for-unisex-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rayhaan_Nava_Sol_EDP_For_Unisex_100ml.png?v=1791615161",
+          "price": 100,
+          "badge": "SALE"
+        }
+      ]
+    },
+    {
       "name": "CACHAREL",
       "slug": "cacharel",
       "count": 47,
@@ -6048,56 +6098,6 @@
           "handle": "m-micallef-alex-doll-ananda-for-women-mini-spray-edp-10-ml-fr",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/36602613_204826513566420_2030510432736772096_n__68496_preview.jpg?v=1624537476",
           "price": 48,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "RAYHAAN",
-      "slug": "rayhaan",
-      "count": 46,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/vantage-resized-Photoroom.png?v=1794226373",
-      "preview": [
-        {
-          "name": "Rayhaan Vantage Eau de Parfum, Fragrance For Men And Women 100ml",
-          "handle": "rayhaan-vantage-eau-de-parfum-fragrance-for-men-and-women-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/vantage-resized-Photoroom.png?v=1794226373",
-          "price": 111,
-          "badge": ""
-        },
-        {
-          "name": "Rayhaan Vanilla Vibe Eau de Parfum, Fragrance For Men And Women 100ml",
-          "handle": "rayhaan-vanilla-vibe-eau-de-parfum-fragrance-for-men-and-women-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/vibe-resized-Photoroom_44ee5b3f-779f-4545-ac29-92a928afba27.png?v=1794226078",
-          "price": 103,
-          "badge": ""
-        },
-        {
-          "name": "Rayhaan Equinox Eau de Parfum, Fragrance For Men And Women 100ml",
-          "handle": "rayhaan-equinox-eau-de-parfum-fragrance-for-men-and-women-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/eq-resized-Photoroom.png?v=1794225535",
-          "price": 103,
-          "badge": ""
-        },
-        {
-          "name": "Rayhaan Cedrus Blanc Eau de Parfum, Fragrance For Men And Women 100ml",
-          "handle": "rayhaan-cedrus-blanc-eau-de-parfum-fragrance-for-men-and-women-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cedrus-resized-Photoroom.png?v=1794225231",
-          "price": 111,
-          "badge": ""
-        },
-        {
-          "name": "Rayhaan Nava Sol EDP For Unisex 100ml",
-          "handle": "rayhaan-nava-sol-edp-for-unisex-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rayhaan_Nava_Sol_EDP_For_Unisex_100ml.png?v=1791615161",
-          "price": 100,
-          "badge": "SALE"
-        },
-        {
-          "name": "Rayhaan Pacific Aloha EDP For Unisex 100ml",
-          "handle": "rayhaan-pacific-aloha-edp-for-unisex-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rayhaan_Pacific_Aloha_EDP_For_Unisex_100ml-Photoroom.png?v=1787720638",
-          "price": 98,
           "badge": ""
         }
       ]
@@ -7776,7 +7776,7 @@
           "name": "Louis Cardin Sacred Perfume For Unisex EDP 100ml",
           "handle": "louis-cardin-sacred-perfume-for-unisex-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LouisCardinSacredEdp100mlSpy-resized-Photoroom.png?v=1788127993",
-          "price": 41,
+          "price": 37,
           "badge": "SALE"
         },
         {
@@ -19369,7 +19369,7 @@
           "name": "Asdaaf Ameer Al Arab Imperium EDP For Unisex 100ml",
           "handle": "asdaaf-ameer-al-arab-imperium-edp-for-unisex-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Asdaaf_Ameer_Al_Arab_Imperium_EDP_For_Unisex_100ml-Photoroom.png?v=1787493298",
-          "price": 44,
+          "price": 40.01,
           "badge": "SALE"
         },
         {
