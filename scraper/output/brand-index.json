@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T16:38:12.530Z",
+  "generated_at": "2026-11-12T22:38:25.846Z",
   "total_brands": 887,
   "brands": [
     {
@@ -376,7 +376,7 @@
           "name": "Paco Rabanne 1 Million Black Eau de Parfum, Oriental Vanilla Fragrance For Men 100ml",
           "handle": "paco-rabanne-1-million-black-eau-de-parfum-for-men-amber-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Paco_Rabanne_1_Million_Black_Eau_de_Parfum_Oriental_Vanilla_Fragrance_For_Men_100ml.jpg?v=1787122008",
-          "price": 428,
+          "price": 416,
           "badge": "SALE"
         },
         {
@@ -1355,7 +1355,7 @@
     {
       "name": "Mont Blanc",
       "slug": "mont-blanc",
-      "count": 196,
+      "count": 195,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/star-resized-Photoroom.png?v=1787567980",
       "preview": [
         {
@@ -2055,9 +2055,16 @@
     {
       "name": "Victoria Secret",
       "slug": "victoria-secret",
-      "count": 144,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bomb-resized-Photoroom_d0aa36fd-5f45-4b92-ac0e-dff8911e1e2e.png?v=1794234828",
+      "count": 145,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/111-Photoroom.png?v=1794514877",
       "preview": [
+        {
+          "name": "Victoria's Secret Gift Set For Women",
+          "handle": "victorias-secret-gift-set-for-women-3",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/111-Photoroom.png?v=1794514877",
+          "price": 379,
+          "badge": ""
+        },
         {
           "name": "Victoria's Secret Gift Set For Women",
           "handle": "victorias-secret-gift-set-for-women-2",
@@ -2092,13 +2099,6 @@
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/aqua-resized-Photoroom_746a1ff3-c295-46a3-98c3-683665bc413c.png?v=1790419478",
           "price": 67,
           "badge": ""
-        },
-        {
-          "name": "Victoria's Secret Love Spell Fragrance Mist for Women 250ml",
-          "handle": "victorias-secret-love-spell-fragrance-mist-for-women-250ml-1",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Victoria_s_Secret_Love_Spell_Fragrance_Mist_for_Women_250ml-resized-Photoroom.png?v=1789385038",
-          "price": 85,
-          "badge": "SALE"
         }
       ]
     },
@@ -7776,7 +7776,7 @@
           "name": "Louis Cardin Sacred Perfume For Unisex EDP 100ml",
           "handle": "louis-cardin-sacred-perfume-for-unisex-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LouisCardinSacredEdp100mlSpy-resized-Photoroom.png?v=1788127993",
-          "price": 37,
+          "price": 41,
           "badge": "SALE"
         },
         {
