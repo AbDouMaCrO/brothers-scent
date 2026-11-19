@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T09:11:43.106Z",
+  "generated_at": "2026-11-19T18:33:41.010Z",
   "total_brands": 887,
   "brands": [
     {
@@ -376,7 +376,7 @@
           "name": "Paco Rabanne 1 Million Black Eau de Parfum, Oriental Vanilla Fragrance For Men 100ml",
           "handle": "paco-rabanne-1-million-black-eau-de-parfum-for-men-amber-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Paco_Rabanne_1_Million_Black_Eau_de_Parfum_Oriental_Vanilla_Fragrance_For_Men_100ml.jpg?v=1787122008",
-          "price": 416,
+          "price": 387.5,
           "badge": "SALE"
         },
         {
@@ -1233,7 +1233,7 @@
           "name": "Rasasi Hawas Gold Digger For Men EDP 100ml",
           "handle": "rasasi-hawas-gold-digger-for-men-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rasasi_Hawas_Gold_Digger_For_Men_EDP_100ml_1.png?v=1790949546",
-          "price": 91,
+          "price": 92,
           "badge": ""
         },
         {
@@ -3955,7 +3955,7 @@
     {
       "name": "Moschino",
       "slug": "moschino",
-      "count": 86,
+      "count": 85,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/RL6WM_SQ1_0000000088_NO_COLOR_SLf.webp?v=1773103594",
       "preview": [
         {
@@ -13403,6 +13403,56 @@
       ]
     },
     {
+      "name": "Acca Kappa",
+      "slug": "acca-kappa",
+      "count": 17,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/muschino-resized-Photoroom_b716a4ae-47ab-425f-a2c1-6091bbdad022.png?v=1795110677",
+      "preview": [
+        {
+          "name": "Acca Kappa Muschio Bianco Eau de Cologne, Fragrance For Men And Women 100ml",
+          "handle": "acca-kappa-muschio-bianco-eau-de-cologne-fragrance-for-men-and-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/muschino-resized-Photoroom_b716a4ae-47ab-425f-a2c1-6091bbdad022.png?v=1795110677",
+          "price": 241,
+          "badge": ""
+        },
+        {
+          "name": "Acca Kappa Volata Perfume For Unisex EDP 100ml",
+          "handle": "acca-kappa-volata-perfume-for-unisex-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ACCA-KAPPA-Volata.jpg?v=1751438339",
+          "price": 210,
+          "badge": ""
+        },
+        {
+          "name": "Acca Kappa Ode Perfume For Unisex EDP 100ml",
+          "handle": "acca-kappa-ode-perfume-for-unisex-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/s-l1600_7d5c35da-72d3-4f50-85b7-c148f51859b7.webp?v=1751437696",
+          "price": 210,
+          "badge": ""
+        },
+        {
+          "name": "Acca Kappa Black Pepper & Sandalwood Perfume For Unisex EDP 100ml",
+          "handle": "acca-kappa-black-pepper-sandalwood-perfume-for-unisex-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/4688c062d5269a4b90600be63ae3b2ac.jpg?v=1751437171",
+          "price": 210,
+          "badge": ""
+        },
+        {
+          "name": "Acca Kappa Tilia Cordata Perfume For Unisex EDP 100ml",
+          "handle": "acca-kappa-tilia-cordata-perfume-for-unisex-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/AccaKappaTiliaCordata_U_Edp100MlIt.jpg?v=1633574532",
+          "price": 298,
+          "badge": ""
+        },
+        {
+          "name": "Acca Kappa 1869 Perfume For Men EDP 100ml",
+          "handle": "acca-kappa-1869-perfume-for-men-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/AccaKappa1869_M_Edp100MlIt.jpg?v=1633574519",
+          "price": 298,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "RiiFFS",
       "slug": "riiffs",
       "count": 17,
@@ -14198,56 +14248,6 @@
           "handle": "guru-essence-perfume-for-unisex-edp-100ml-1",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/GuruEssence_U_Edp100Ml_f9e7ec05-3a92-4b05-a2e8-c44b4dba614d.jpg?v=1666611558",
           "price": 118,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Acca Kappa",
-      "slug": "acca-kappa",
-      "count": 16,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ACCA-KAPPA-Volata.jpg?v=1751438339",
-      "preview": [
-        {
-          "name": "Acca Kappa Volata Perfume For Unisex EDP 100ml",
-          "handle": "acca-kappa-volata-perfume-for-unisex-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ACCA-KAPPA-Volata.jpg?v=1751438339",
-          "price": 210,
-          "badge": ""
-        },
-        {
-          "name": "Acca Kappa Ode Perfume For Unisex EDP 100ml",
-          "handle": "acca-kappa-ode-perfume-for-unisex-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/s-l1600_7d5c35da-72d3-4f50-85b7-c148f51859b7.webp?v=1751437696",
-          "price": 210,
-          "badge": ""
-        },
-        {
-          "name": "Acca Kappa Black Pepper & Sandalwood Perfume For Unisex EDP 100ml",
-          "handle": "acca-kappa-black-pepper-sandalwood-perfume-for-unisex-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/4688c062d5269a4b90600be63ae3b2ac.jpg?v=1751437171",
-          "price": 210,
-          "badge": ""
-        },
-        {
-          "name": "Acca Kappa Tilia Cordata Perfume For Unisex EDP 100ml",
-          "handle": "acca-kappa-tilia-cordata-perfume-for-unisex-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/AccaKappaTiliaCordata_U_Edp100MlIt.jpg?v=1633574532",
-          "price": 298,
-          "badge": ""
-        },
-        {
-          "name": "Acca Kappa 1869 Perfume For Men EDP 100ml",
-          "handle": "acca-kappa-1869-perfume-for-men-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/AccaKappa1869_M_Edp100MlIt.jpg?v=1633574519",
-          "price": 298,
-          "badge": ""
-        },
-        {
-          "name": "ACCA KAPPA GLICINE HAND CREAM SOAP GIFT SET",
-          "handle": "acca-kappa-glicine-hand-cream-soap-gift-set",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ACCAKAPPAGLICINE_W_SETEDP100ml_HANDCREAM75ml_SOAP150gIT.jpg?v=1628672816",
-          "price": 248,
           "badge": ""
         }
       ]
@@ -24169,7 +24169,7 @@
           "name": "Rave Now White Perfume For Unisex EDP 100ml",
           "handle": "rave-now-white-perfume-for-unisex-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rave_Now_White_Perfume_For_Unisex_EDP_100ml-Photoroom.png?v=1788581830",
-          "price": 55,
+          "price": 49,
           "badge": "SALE"
         },
         {
