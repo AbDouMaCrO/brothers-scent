@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T17:10:42.886Z",
+  "generated_at": "2026-11-20T23:19:15.959Z",
   "total_brands": 888,
   "brands": [
     {
@@ -1505,7 +1505,7 @@
     {
       "name": "Salvatore Ferragamo",
       "slug": "salvatore-ferragamo",
-      "count": 191,
+      "count": 190,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/uomo-signature-ferragam-flacon_2400x_c14c7688-7b3a-4dcb-a381-e216b0919456.jpg?v=1772094456",
       "preview": [
         {
@@ -2055,7 +2055,7 @@
     {
       "name": "Victoria Secret",
       "slug": "victoria-secret",
-      "count": 145,
+      "count": 144,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/111-Photoroom.png?v=1794514877",
       "preview": [
         {
@@ -18253,6 +18253,56 @@
       ]
     },
     {
+      "name": "ALUSTRE",
+      "slug": "alustre",
+      "count": 10,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/wash.png?v=1795194933",
+      "preview": [
+        {
+          "name": "Alûstre Spectre 590–899 – A Wash of Chilled Vetiver Eau de Parfum, Fragrance For Men And Women 100ml",
+          "handle": "alustre-spectre-590-899-a-wash-of-chilled-vetiver-eau-de-parfum-fragrance-for-men-and-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/wash.png?v=1795194933",
+          "price": 686,
+          "badge": ""
+        },
+        {
+          "name": "Alûstre Spectre 575–149 – The Shadows of Bergamot  Eau de Parfum, Fragrance For Men And Women 50ml",
+          "handle": "alustre-spectre-575-149-the-shadows-of-bergamot-eau-de-parfum-fragrance-for-men-and-women-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/shaaaaaa.png?v=1795194762",
+          "price": 426,
+          "badge": ""
+        },
+        {
+          "name": "Alûstre Spectre 575–149 – The Shadows of Bergamot Eau de Parfum, Fragrance For Men And Women 100ml",
+          "handle": "alustre-spectre-575-149-the-shadows-of-bergamot-eau-de-parfum-fragrance-for-men-and-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/shadows.png?v=1795193750",
+          "price": 686,
+          "badge": ""
+        },
+        {
+          "name": "Alûstre Spectre 571–179 – Sunlit Moss in the Orient Eau de Parfum, Fragrance For Men And Women 50ml",
+          "handle": "alustre-spectre-571-179-sunlit-moss-in-the-orient-eau-de-parfum-fragrance-for-men-and-women-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/moss.png?v=1795192224",
+          "price": 426,
+          "badge": ""
+        },
+        {
+          "name": "Alûstre Spectre 571–179 – Sunlit Moss in the Orient Eau de Parfum, Fragrance For Men And Women 100ml",
+          "handle": "alustre-spectre-571-179-sunlit-moss-in-the-orient-eau-de-parfum-fragrance-for-men-and-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/moss-resized-Photoroom_fd94bfac-762d-49f1-b2d5-00e2ea6da1b8.png?v=1795191356",
+          "price": 686,
+          "badge": ""
+        },
+        {
+          "name": "Alûstre Spectre 568–147 The Fall of Fluidic Fauna Eau de Parfum, Fragrance For Men And Women 100ml",
+          "handle": "alustre-spectre-568-147-the-fall-of-fluidic-fauna-eau-de-parfum-fragrance-for-men-and-women-100ml-1",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/fallllll.png?v=1795188397",
+          "price": 426,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Essenzia",
       "slug": "essenzia",
       "count": 10,
@@ -20449,56 +20499,6 @@
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/holy-musk-2.jpg?v=1624400943",
           "price": 87,
           "badge": "SALE"
-        }
-      ]
-    },
-    {
-      "name": "ALUSTRE",
-      "slug": "alustre",
-      "count": 8,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/shadows.png?v=1795193750",
-      "preview": [
-        {
-          "name": "Alûstre Spectre 575–149 – The Shadows of Bergamot Eau de Parfum, Fragrance For Men And Women 100ml",
-          "handle": "alustre-spectre-575-149-the-shadows-of-bergamot-eau-de-parfum-fragrance-for-men-and-women-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/shadows.png?v=1795193750",
-          "price": 686,
-          "badge": ""
-        },
-        {
-          "name": "Alûstre Spectre 571–179 – Sunlit Moss in the Orient Eau de Parfum, Fragrance For Men And Women 50ml",
-          "handle": "alustre-spectre-571-179-sunlit-moss-in-the-orient-eau-de-parfum-fragrance-for-men-and-women-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/moss.png?v=1795192224",
-          "price": 426,
-          "badge": ""
-        },
-        {
-          "name": "Alûstre Spectre 571–179 – Sunlit Moss in the Orient Eau de Parfum, Fragrance For Men And Women 100ml",
-          "handle": "alustre-spectre-571-179-sunlit-moss-in-the-orient-eau-de-parfum-fragrance-for-men-and-women-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/moss-resized-Photoroom_fd94bfac-762d-49f1-b2d5-00e2ea6da1b8.png?v=1795191356",
-          "price": 686,
-          "badge": ""
-        },
-        {
-          "name": "Alûstre Spectre 568–147 The Fall of Fluidic Fauna Eau de Parfum, Fragrance For Men And Women 100ml",
-          "handle": "alustre-spectre-568-147-the-fall-of-fluidic-fauna-eau-de-parfum-fragrance-for-men-and-women-100ml-1",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/fallllll.png?v=1795188397",
-          "price": 426,
-          "badge": ""
-        },
-        {
-          "name": "Alûstre Spectre 568–147 – The Fall of Fluidic Fauna Eau de Parfum, Fragrance For Men And Women 100ml",
-          "handle": "alustre-spectre-568-147-the-fall-of-fluidic-fauna-eau-de-parfum-fragrance-for-men-and-women-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/fall.png?v=1795187955",
-          "price": 686,
-          "badge": ""
-        },
-        {
-          "name": "Alûstre Spectre 565–248 – Ode to the Mandarin Eau de Parfum, Fragrance For Men And Women 100ml",
-          "handle": "alustre-spectre-565-248-ode-to-the-mandarin-eau-de-parfum-fragrance-for-men-and-women-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/odd-resized-Photoroom.png?v=1795186895",
-          "price": 686,
-          "badge": ""
         }
       ]
     },
@@ -24233,7 +24233,7 @@
           "name": "Rave Now Perfume For Men EDP 100ml",
           "handle": "rave-now-perfume-for-men-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rave_Now_Perfume_For_Men_EDP_100ml-Photoroom.png?v=1788169777",
-          "price": 58,
+          "price": 48,
           "badge": "SALE"
         }
       ]
