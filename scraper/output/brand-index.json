@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T12:57:55.520Z",
+  "generated_at": "2026-11-21T19:59:36.585Z",
   "total_brands": 888,
   "brands": [
     {
@@ -426,7 +426,7 @@
           "name": "Paco Rabanne 1 Million Black Eau de Parfum, Oriental Vanilla Fragrance For Men 100ml",
           "handle": "paco-rabanne-1-million-black-eau-de-parfum-for-men-amber-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Paco_Rabanne_1_Million_Black_Eau_de_Parfum_Oriental_Vanilla_Fragrance_For_Men_100ml.jpg?v=1787122008",
-          "price": 382,
+          "price": 416,
           "badge": "SALE"
         },
         {
@@ -603,56 +603,6 @@
       ]
     },
     {
-      "name": "Lattafa",
-      "slug": "lattafa",
-      "count": 260,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Khamrah_Waha_Perfume_For_Unisex_EDP_100ml.png?v=1794386875",
-      "preview": [
-        {
-          "name": "Lattafa Khamrah Waha Perfume For Unisex EDP 100ml",
-          "handle": "lattafa-khamrah-waha-perfume-for-unisex-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Khamrah_Waha_Perfume_For_Unisex_EDP_100ml.png?v=1794386875",
-          "price": 210,
-          "badge": "SALE"
-        },
-        {
-          "name": "Lattafa Art of Nature II Eau de Parfum, Fragrance For Men And Women 100ml",
-          "handle": "lattafa-art-of-nature-ii-eau-de-parfum-fragrance-for-men-and-women-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/art-resized-Photoroom_5d27b663-8a19-481f-89d9-1acb02f8699d.png?v=1794168543",
-          "price": 194,
-          "badge": ""
-        },
-        {
-          "name": "Lattafa Habik Eau de Parfum, Fragrance For Men 100ml",
-          "handle": "lattafa-habik-eau-de-parfum-fragrance-for-men-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/habik-resized-Photoroom.png?v=1794168200",
-          "price": 120,
-          "badge": ""
-        },
-        {
-          "name": "Lattafa Asad Elixir, Fragrance For Men 100ml",
-          "handle": "lattafa-asad-elixir-fragrance-for-men-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/asad-resized-Photoroom.png?v=1794167881",
-          "price": 118,
-          "badge": ""
-        },
-        {
-          "name": "Lattafa Najdia Intense Perfumes for Men EDP 100ml",
-          "handle": "lattafa-najdia-intense-perfumes-for-men-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Najdia_Intense_Perfumes_for_Men_EDP_100ml_1.1.png?v=1788337594",
-          "price": 49,
-          "badge": "SALE"
-        },
-        {
-          "name": "Lattafa Maahir Honor For Unisex EDP 100ml",
-          "handle": "lattafa-maahir-honor-for-unisex-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Maahir_Honor.png?v=1786522827",
-          "price": 136,
-          "badge": "SALE"
-        }
-      ]
-    },
-    {
       "name": "Yves Saint Laurent",
       "slug": "yves-saint-laurent",
       "count": 258,
@@ -749,6 +699,56 @@
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/givenchy-mens-gentleman-boisee-gift--resized-Photoroom_05195a92-ec3f-4c2b-8b11-408b2cece64b.png?v=1787665457",
           "price": 407,
           "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Lattafa",
+      "slug": "lattafa",
+      "count": 255,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Khamrah_Waha_Perfume_For_Unisex_EDP_100ml.png?v=1794386875",
+      "preview": [
+        {
+          "name": "Lattafa Khamrah Waha Perfume For Unisex EDP 100ml",
+          "handle": "lattafa-khamrah-waha-perfume-for-unisex-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Khamrah_Waha_Perfume_For_Unisex_EDP_100ml.png?v=1794386875",
+          "price": 210,
+          "badge": "SALE"
+        },
+        {
+          "name": "Lattafa Art of Nature II Eau de Parfum, Fragrance For Men And Women 100ml",
+          "handle": "lattafa-art-of-nature-ii-eau-de-parfum-fragrance-for-men-and-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/art-resized-Photoroom_5d27b663-8a19-481f-89d9-1acb02f8699d.png?v=1794168543",
+          "price": 194,
+          "badge": ""
+        },
+        {
+          "name": "Lattafa Habik Eau de Parfum, Fragrance For Men 100ml",
+          "handle": "lattafa-habik-eau-de-parfum-fragrance-for-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/habik-resized-Photoroom.png?v=1794168200",
+          "price": 120,
+          "badge": ""
+        },
+        {
+          "name": "Lattafa Asad Elixir, Fragrance For Men 100ml",
+          "handle": "lattafa-asad-elixir-fragrance-for-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/asad-resized-Photoroom.png?v=1794167881",
+          "price": 118,
+          "badge": ""
+        },
+        {
+          "name": "Lattafa Najdia Intense Perfumes for Men EDP 100ml",
+          "handle": "lattafa-najdia-intense-perfumes-for-men-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Najdia_Intense_Perfumes_for_Men_EDP_100ml_1.1.png?v=1788337594",
+          "price": 49,
+          "badge": "SALE"
+        },
+        {
+          "name": "Lattafa Maahir Honor For Unisex EDP 100ml",
+          "handle": "lattafa-maahir-honor-for-unisex-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Maahir_Honor.png?v=1786522827",
+          "price": 136,
+          "badge": "SALE"
         }
       ]
     },
@@ -955,49 +955,49 @@
     {
       "name": "Armaf",
       "slug": "armaf",
-      "count": 234,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/pink-resized-Photoroom_c4047e92-01ae-4447-88a1-0886b40bd4a3.png?v=1794124304",
+      "count": 240,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/shk-resized-Photoroom.png?v=1795282144",
       "preview": [
         {
-          "name": "Armaf Odyssey Pink Pop Eau de Parfum, Fragrance For Women 100ml",
-          "handle": "armaf-odyssey-pink-pop-eau-de-parfum-floral-fruity-fragrance-for-women-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/pink-resized-Photoroom_c4047e92-01ae-4447-88a1-0886b40bd4a3.png?v=1794124304",
+          "name": "Armaf SHK I by Saoud Alkaabi Eau de Parfum, Fragrance For Men And Women 60ml",
+          "handle": "armaf-shk-i-by-saoud-alkaabi-eau-de-parfum-fragrance-for-men-and-women-60ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/shk-resized-Photoroom.png?v=1795282144",
+          "price": 167,
+          "badge": ""
+        },
+        {
+          "name": "Armaf Originals Space Age Eau de Parfum, Fragrance For Men And Women 100ml",
+          "handle": "armaf-originals-space-age-eau-de-parfum-fragrance-for-men-and-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/space-resized-Photoroom.png?v=1795281219",
+          "price": 123,
+          "badge": ""
+        },
+        {
+          "name": "Armaf Odyssey Soda Pop Eau de Parfum, Fragrance For Men And Women 100ml",
+          "handle": "armaf-odyssey-soda-pop-eau-de-parfum-fragrance-for-men-and-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/soda-resized-Photoroom.png?v=1795280564",
           "price": 91,
           "badge": ""
         },
         {
-          "name": "Armaf Odyssey Mandarin Sky Vintage Edition Eau de Parfum, Fragrance For Women And Men 100ml",
-          "handle": "armaf-odyssey-mandarin-sky-vintage-edition-eau-de-parfum-oriental-spicy-fragrance-for-women-and-men-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/vint-resized-Photoroom_84685885-a5b7-4386-8810-4c141c9595bc.png?v=1794123592",
-          "price": 93,
+          "name": "Armaf Odyssey Li'chi Lush Gourmand Fruity Edition Eau de Parfum, Fragrance For Men And Women 100ml",
+          "handle": "armaf-odyssey-lichi-lush-gourmand-fruity-edition-eau-de-parfum-fragrance-for-men-and-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/lichi-resized-Photoroom.png?v=1795280177",
+          "price": 91,
           "badge": ""
         },
         {
-          "name": "Armaf Odyssey Mandarin Sky Elixir Limited Edition Eau de Parfum, Fragrance For Men 100ml",
-          "handle": "armaf-odyssey-mandarin-sky-elixir-limited-edition-eau-de-parfum-oriental-woody-fragrance-for-women-and-men-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/mann-resized-Photoroom.png?v=1794407770",
-          "price": 101,
+          "name": "Armaf Odyssey French Kiss Limited Edition Eau de Parfum, Fragrance For Women 100ml",
+          "handle": "armaf-odyssey-french-kiss-limited-edition-eau-de-parfum-fragrance-for-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/french-resized-Photoroom_0d025423-0bdd-4d59-a45f-50e7d8175463.png?v=1795279712",
+          "price": 91,
           "badge": ""
         },
         {
-          "name": "Armaf Odyssey Artisto The Red Edition Eau de Parfum, Fragrance For Women And Men 100ml",
-          "handle": "armaf-odyssey-artisto-the-red-edition-eau-de-parfum-woody-aromatic-fragrance-for-women-and-men-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/artiso-resized-Photoroom.png?v=1794072534",
-          "price": 93,
-          "badge": ""
-        },
-        {
-          "name": "Armaf Club De Nuit Sillage Perfume Body Spray, Fragrance For Women And Men 200ml",
-          "handle": "armaf-club-de-nuit-sillage-perfume-body-spray-fragrance-for-women-and-men-200ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/sillage_1080_x-resized-Photoroom.png?v=1794071883",
-          "price": 17,
-          "badge": ""
-        },
-        {
-          "name": "Armaf Club De Nuit Intense Eau de Toilette, Fragrance For Men 10ml",
-          "handle": "armaf-club-de-nuit-intense-eau-de-toilette-woody-spicy-fragrance-for-men-10ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/armaf-club-de-nuit-intense-man-eau-de-toilette-mini-10ml-1-resized-Photoroom.png?v=1794301202",
-          "price": 33,
+          "name": "Armaf Aura Fresh Eau de Parfum, Fragrance For Men And Women 100ml",
+          "handle": "armaf-aura-fresh-eau-de-parfum-fragrance-for-men-and-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/auraaa-resized-Photoroom.png?v=1795279205",
+          "price": 108,
           "badge": ""
         }
       ]
@@ -1247,7 +1247,7 @@
           "name": "Rasasi Hawas Nautilus For Men EDP 100ml",
           "handle": "rasasi-hawas-nautilus-for-men-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rasasi_Hawas_Nautilus_For_Men_EDP_100ml_1.png?v=1789035706",
-          "price": 105,
+          "price": 106,
           "badge": "SALE"
         }
       ]
@@ -2053,6 +2053,56 @@
       ]
     },
     {
+      "name": "Azzaro",
+      "slug": "azzaro",
+      "count": 144,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/CHROME_EDP_100ml-resized-Photoroom.png?v=1795288726",
+      "preview": [
+        {
+          "name": "Azzaro Chrome Parfum, Fragrance For Men 50ml",
+          "handle": "azzaro-chrome-parfum-fragrance-for-men-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/CHROME_EDP_100ml-resized-Photoroom.png?v=1795288726",
+          "price": 157,
+          "badge": ""
+        },
+        {
+          "name": "Azzaro Forever Wanted Absolu Parfum, Oriental Woody Fragrance For Men 100ml",
+          "handle": "azzaro-forever-wanted-absolu-parfum-oriental-woody-fragrance-for-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Azzaro_Forever_Wanted_Absolu_Parfum_Oriental_Woody_Fragrance_For_Men_100ml.jpg?v=1789110952",
+          "price": 354,
+          "badge": ""
+        },
+        {
+          "name": "Azzaro Gift Set, For Men",
+          "handle": "azzaro-gift-set-for-men",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/azzaro-resized-Photoroom.png?v=1787444622",
+          "price": 370,
+          "badge": ""
+        },
+        {
+          "name": "Gift Set For Men-Azzaro",
+          "handle": "azzaro-gift-set-for-men-amber-2",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/wantedd-removebg-preview.png?v=1785266731",
+          "price": 343,
+          "badge": ""
+        },
+        {
+          "name": "Azzaro Gift Set For Men",
+          "handle": "azzaro-gift-set-for-men-amber-1",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/azzaro-removebg-preview.png?v=1785261828",
+          "price": 380,
+          "badge": ""
+        },
+        {
+          "name": "Azzaro Gift Set For Men",
+          "handle": "azzaro-gift-set-for-men-amber",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/azzaro-removebg.png?v=1784822151",
+          "price": 269,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Victoria Secret",
       "slug": "victoria-secret",
       "count": 143,
@@ -2097,56 +2147,6 @@
           "name": "Aqua Kiss By Victoria Secret Fragrance Mist For Women 250ml",
           "handle": "aqua-kiss-by-victoria-secret-fragrance-mist-for-women-250ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/aqua-resized-Photoroom_746a1ff3-c295-46a3-98c3-683665bc413c.png?v=1790419478",
-          "price": 67,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Azzaro",
-      "slug": "azzaro",
-      "count": 143,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Azzaro_Forever_Wanted_Absolu_Parfum_Oriental_Woody_Fragrance_For_Men_100ml.jpg?v=1789110952",
-      "preview": [
-        {
-          "name": "Azzaro Forever Wanted Absolu Parfum, Oriental Woody Fragrance For Men 100ml",
-          "handle": "azzaro-forever-wanted-absolu-parfum-oriental-woody-fragrance-for-men-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Azzaro_Forever_Wanted_Absolu_Parfum_Oriental_Woody_Fragrance_For_Men_100ml.jpg?v=1789110952",
-          "price": 354,
-          "badge": ""
-        },
-        {
-          "name": "Azzaro Gift Set, For Men",
-          "handle": "azzaro-gift-set-for-men",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/azzaro-resized-Photoroom.png?v=1787444622",
-          "price": 370,
-          "badge": ""
-        },
-        {
-          "name": "Gift Set For Men-Azzaro",
-          "handle": "azzaro-gift-set-for-men-amber-2",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/wantedd-removebg-preview.png?v=1785266731",
-          "price": 343,
-          "badge": ""
-        },
-        {
-          "name": "Azzaro Gift Set For Men",
-          "handle": "azzaro-gift-set-for-men-amber-1",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/azzaro-removebg-preview.png?v=1785261828",
-          "price": 380,
-          "badge": ""
-        },
-        {
-          "name": "Azzaro Gift Set For Men",
-          "handle": "azzaro-gift-set-for-men-amber",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/azzaro-removebg.png?v=1784822151",
-          "price": 269,
-          "badge": ""
-        },
-        {
-          "name": "Azzaro The Most Wanted Deodorant Stick For Men 77g",
-          "handle": "azzaro-the-most-wanted-deodorant-stick-for-men-amber-77g",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/the_most-removebg.png?v=1784582273",
           "price": 67,
           "badge": ""
         }
@@ -7553,6 +7553,56 @@
       ]
     },
     {
+      "name": "Britney Spears",
+      "slug": "britney-spears",
+      "count": 35,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bri-resized-Photoroom_717349c4-cc6f-4505-a8b2-7a630646b96b.png?v=1795288981",
+      "preview": [
+        {
+          "name": "Britney Spears Naked Fantasy Eau de Toilette, Fragrance For Women 100ml",
+          "handle": "britney-spears-naked-fantasy-eau-de-toilette-fragrance-for-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bri-resized-Photoroom_717349c4-cc6f-4505-a8b2-7a630646b96b.png?v=1795288981",
+          "price": 93,
+          "badge": ""
+        },
+        {
+          "name": "Britney Spears Fantasy Sheer Perfume For Women EDT 100ml",
+          "handle": "britney-spears-fantasy-sheer-perfume-for-women-edt-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/sheer-resized-Photoroom.png?v=1792749793",
+          "price": 89,
+          "badge": ""
+        },
+        {
+          "name": "Britney Spears Fantasy Intimate Edition For Women EDP 100ml",
+          "handle": "britney-spears-fantasy-intimate-edition-for-women-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/fan-resized-Photoroom_89f68bf9-eed3-461b-b5b7-e7c0a0913f29.png?v=1789583230",
+          "price": 85,
+          "badge": ""
+        },
+        {
+          "name": "Britney Spears Fantasy For Women Set EDP 100ml + Body Souffle 100ml + Shower Gel 100ml",
+          "handle": "britney-spears-fantasy-for-women-set-edp-100ml-body-souffle-100ml-shower-gel-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/11111111111-resized_2_-Photoroom.png?v=1791308717",
+          "price": 140,
+          "badge": ""
+        },
+        {
+          "name": "Britney Spears Midnight Fantasy For Women Fine Fragrance Mist 236ml",
+          "handle": "britney-spears-midnight-fantasy-for-women-fine-fragrance-mist-236ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/fan-resized-Photoroom_86ca309c-e3a7-4f07-a302-a4398685342a.png?v=1791272229",
+          "price": 44,
+          "badge": ""
+        },
+        {
+          "name": "Britney Spears Curious For Women Fine Fragrance Mist 236ml",
+          "handle": "britney-spears-curious-for-women-fine-fragrance-mist-236ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/719346621236.jpg?v=1734639219",
+          "price": 44,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "The Woods Collection",
       "slug": "the-woods-collection",
       "count": 35,
@@ -7698,56 +7748,6 @@
           "handle": "adidas-skin-detox-shower-gel-250ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/AdidasSkinDetoxShowerGel250ml.jpg?v=1652167050",
           "price": 14,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Britney Spears",
-      "slug": "britney-spears",
-      "count": 35,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/sheer-resized-Photoroom.png?v=1792749793",
-      "preview": [
-        {
-          "name": "Britney Spears Fantasy Sheer Perfume For Women EDT 100ml",
-          "handle": "britney-spears-fantasy-sheer-perfume-for-women-edt-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/sheer-resized-Photoroom.png?v=1792749793",
-          "price": 89,
-          "badge": ""
-        },
-        {
-          "name": "Britney Spears Fantasy Intimate Edition For Women EDP 100ml",
-          "handle": "britney-spears-fantasy-intimate-edition-for-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/fan-resized-Photoroom_89f68bf9-eed3-461b-b5b7-e7c0a0913f29.png?v=1789583230",
-          "price": 85,
-          "badge": ""
-        },
-        {
-          "name": "Britney Spears Fantasy For Women Set EDP 100ml + Body Souffle 100ml + Shower Gel 100ml",
-          "handle": "britney-spears-fantasy-for-women-set-edp-100ml-body-souffle-100ml-shower-gel-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/11111111111-resized_2_-Photoroom.png?v=1791308717",
-          "price": 140,
-          "badge": ""
-        },
-        {
-          "name": "Britney Spears Midnight Fantasy For Women Fine Fragrance Mist 236ml",
-          "handle": "britney-spears-midnight-fantasy-for-women-fine-fragrance-mist-236ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/fan-resized-Photoroom_86ca309c-e3a7-4f07-a302-a4398685342a.png?v=1791272229",
-          "price": 44,
-          "badge": ""
-        },
-        {
-          "name": "Britney Spears Curious For Women Fine Fragrance Mist 236ml",
-          "handle": "britney-spears-curious-for-women-fine-fragrance-mist-236ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/719346621236.jpg?v=1734639219",
-          "price": 44,
-          "badge": ""
-        },
-        {
-          "name": "Britney Spears Fantasy For Women Body Mist 236ml",
-          "handle": "britney-spears-fantasy-for-women-body-mist-236ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/fantasy-resized-Photoroom.png?v=1789488929",
-          "price": 44,
           "badge": ""
         }
       ]
@@ -9503,6 +9503,56 @@
       ]
     },
     {
+      "name": "Attar Collection",
+      "slug": "attar-collection",
+      "count": 25,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/slate-resized-Photoroom.png?v=1795285131",
+      "preview": [
+        {
+          "name": "Attar Collection Slate Blue Extrait de Parfum, Fragrance For Men And Women 80ml",
+          "handle": "attar-collection-slate-blue-extrait-de-parfum-fragrance-for-men-and-women-80ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/slate-resized-Photoroom.png?v=1795285131",
+          "price": 622,
+          "badge": ""
+        },
+        {
+          "name": "Attar Collection Musk Kashmir Extrait de Parfum, Floral Woody Musk Fragrance For Men And Women 80ml",
+          "handle": "attar-collection-musk-kashmir-extrait-de-parfum-for-men-and-women-musky-80ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/kashmir-removebg-preview.png?v=1784978750",
+          "price": 704,
+          "badge": ""
+        },
+        {
+          "name": "Attar Collection Second Skin Extrait de Parfum, Floral Woody Musk Fragrance For Women And Men 80ml",
+          "handle": "attar-collection-second-skin-extrait-de-parfum-for-men-and-women-musky-80ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/second_skin-removebg.png?v=1784460984",
+          "price": 622,
+          "badge": ""
+        },
+        {
+          "name": "Attar Collection Idol Extrait de Parfum, For Men And Women 80ml",
+          "handle": "attar-collection-idol-extrait-de-parfum-for-men-and-women-floral-80ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/idol-removebg.png?v=1785758822",
+          "price": 640,
+          "badge": ""
+        },
+        {
+          "name": "Attar Collection Duna Secrets Extrait de Parfum, For Men And Women 80ml",
+          "handle": "attar-collection-duna-secrets-extrait-de-parfum-for-men-and-women-floral-80ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/dunesecrets-removebg.png?v=1785758719",
+          "price": 640,
+          "badge": ""
+        },
+        {
+          "name": "Attar Collection Oro Nero Limited Edition Eau de Parfum For Men And Women Amber 100ml",
+          "handle": "attar-collection-oro-nero-limited-edition-eau-de-parfum-for-men-and-women-amber-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/oroneroo.png?v=1783496175",
+          "price": 463,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Women'secret",
       "slug": "womensecret",
       "count": 25,
@@ -9748,56 +9798,6 @@
           "handle": "unique-e-luxury-beverly-hills-exclusive-extrait-de-parfum-for-unisex-sweet-tobacco-perfume-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Beverly-Hills-Exclusive_TransparentBackground_1024x1024_5ad6a771-c10b-4f36-810e-5ebffcabdbb4.png?v=1758857917",
           "price": 993,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Attar Collection",
-      "slug": "attar-collection",
-      "count": 24,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/kashmir-removebg-preview.png?v=1784978750",
-      "preview": [
-        {
-          "name": "Attar Collection Musk Kashmir Extrait de Parfum, Floral Woody Musk Fragrance For Men And Women 80ml",
-          "handle": "attar-collection-musk-kashmir-extrait-de-parfum-for-men-and-women-musky-80ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/kashmir-removebg-preview.png?v=1784978750",
-          "price": 704,
-          "badge": ""
-        },
-        {
-          "name": "Attar Collection Second Skin Extrait de Parfum, Floral Woody Musk Fragrance For Women And Men 80ml",
-          "handle": "attar-collection-second-skin-extrait-de-parfum-for-men-and-women-musky-80ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/second_skin-removebg.png?v=1784460984",
-          "price": 622,
-          "badge": ""
-        },
-        {
-          "name": "Attar Collection Idol Extrait de Parfum, For Men And Women 80ml",
-          "handle": "attar-collection-idol-extrait-de-parfum-for-men-and-women-floral-80ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/idol-removebg.png?v=1785758822",
-          "price": 640,
-          "badge": ""
-        },
-        {
-          "name": "Attar Collection Duna Secrets Extrait de Parfum, For Men And Women 80ml",
-          "handle": "attar-collection-duna-secrets-extrait-de-parfum-for-men-and-women-floral-80ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/dunesecrets-removebg.png?v=1785758719",
-          "price": 640,
-          "badge": ""
-        },
-        {
-          "name": "Attar Collection Oro Nero Limited Edition Eau de Parfum For Men And Women Amber 100ml",
-          "handle": "attar-collection-oro-nero-limited-edition-eau-de-parfum-for-men-and-women-amber-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/oroneroo.png?v=1783496175",
-          "price": 463,
-          "badge": ""
-        },
-        {
-          "name": "Attar Collection Monolith Eau de Parfum For Men And Women Woody 100ml",
-          "handle": "attar-collection-monolith-eau-de-parfum-for-men-and-women-woody-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/monolith.png?v=1783495690",
-          "price": 463,
           "badge": ""
         }
       ]
@@ -11153,6 +11153,56 @@
       ]
     },
     {
+      "name": "ATELIER DES ORS",
+      "slug": "atelier-des-ors",
+      "count": 21,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/kawa-resized-Photoroom.png?v=1795284226",
+      "preview": [
+        {
+          "name": "Atelier des Ors Kawa Karda Extrait de Parfum, Fragrance For Men And Women 100ml",
+          "handle": "atelier-des-ors-kawa-karda-extrait-de-parfum-fragrance-for-men-and-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/kawa-resized-Photoroom.png?v=1795284226",
+          "price": 686,
+          "badge": ""
+        },
+        {
+          "name": "Atelier des Ors Cocoa Kimiya Extrait de Parfum, Fragrance For Men And Women 100ml",
+          "handle": "atelier-des-ors-cocoa-kimiya-extrait-de-parfum-fragrance-for-men-and-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cocoa-resized-Photoroom.png?v=1795283266",
+          "price": 686,
+          "badge": ""
+        },
+        {
+          "name": "Atelier Des Ors Pink Me Up Perfume For Unisex EDP 100ml Refillable",
+          "handle": "atelier-des-ors-pink-me-up-perfume-for-unisex-edp-100ml-refillable",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3760027140994.jpg?v=1746615560",
+          "price": 567,
+          "badge": ""
+        },
+        {
+          "name": "Atelier Des Ors Villa Primerose Perfume For Unisex EDP 100ml Refillable",
+          "handle": "atelier-des-ors-villa-primerose-perfume-for-unisex-edp-100ml-refillable",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/VillaPrimerose100ml_1800x1800_5f695d54-fb99-4011-ae60-553f48cea3d7-resized-Photoroom.png?v=1791238021",
+          "price": 557,
+          "badge": "SALE"
+        },
+        {
+          "name": "Atelier Des Ors Blue Madeleine Perfume For Unisex EDP 100ml Refillable",
+          "handle": "atelier-des-ors-blue-madeleine-perfume-for-unisex-edp-100ml-refillable",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/BlueMadeleine100ml_1800x1800_0d74fc9f-c4ac-49c7-b9ad-9b95027aafbf.jpg?v=1744557487",
+          "price": 557,
+          "badge": ""
+        },
+        {
+          "name": "Atelier Des Ors Riviera Sunrise For Unisex EDP 100ml",
+          "handle": "atelier-des-ors-riviera-sunrise-for-unisex-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3760027140932.jpg?v=1740069111",
+          "price": 504,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Maison Crivelli",
       "slug": "maison-crivelli",
       "count": 21,
@@ -12248,56 +12298,6 @@
           "handle": "laura-biagiotti-forever-gold-for-her-perfume-for-women-edp-60ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/forever-resized-Photoroom.png?v=1792676452",
           "price": 153,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "ATELIER DES ORS",
-      "slug": "atelier-des-ors",
-      "count": 19,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3760027140994.jpg?v=1746615560",
-      "preview": [
-        {
-          "name": "Atelier Des Ors Pink Me Up Perfume For Unisex EDP 100ml Refillable",
-          "handle": "atelier-des-ors-pink-me-up-perfume-for-unisex-edp-100ml-refillable",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3760027140994.jpg?v=1746615560",
-          "price": 567,
-          "badge": ""
-        },
-        {
-          "name": "Atelier Des Ors Villa Primerose Perfume For Unisex EDP 100ml Refillable",
-          "handle": "atelier-des-ors-villa-primerose-perfume-for-unisex-edp-100ml-refillable",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/VillaPrimerose100ml_1800x1800_5f695d54-fb99-4011-ae60-553f48cea3d7-resized-Photoroom.png?v=1791238021",
-          "price": 557,
-          "badge": "SALE"
-        },
-        {
-          "name": "Atelier Des Ors Blue Madeleine Perfume For Unisex EDP 100ml Refillable",
-          "handle": "atelier-des-ors-blue-madeleine-perfume-for-unisex-edp-100ml-refillable",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/BlueMadeleine100ml_1800x1800_0d74fc9f-c4ac-49c7-b9ad-9b95027aafbf.jpg?v=1744557487",
-          "price": 557,
-          "badge": ""
-        },
-        {
-          "name": "Atelier Des Ors Riviera Sunrise For Unisex EDP 100ml",
-          "handle": "atelier-des-ors-riviera-sunrise-for-unisex-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3760027140932.jpg?v=1740069111",
-          "price": 504,
-          "badge": ""
-        },
-        {
-          "name": "Atelier Des Ors Rose Omeyyade Extrait Perfume For Unisex Extrait De Parfum 100ml",
-          "handle": "atelier-des-ors-rose-omeyyade-extrait-perfume-for-unisex-extrait-de-parfum-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/AtelierDesOrsRoseOmeyyadeExtrait_U_ExtraitDeParfum100Ml.webp?v=1701189310",
-          "price": 629,
-          "badge": ""
-        },
-        {
-          "name": "Atelier Des Ors Lune Feline Extrait Perfume For Unisex Extrait De Parfum 100ml",
-          "handle": "atelier-des-ors-lune-feline-extrait-perfume-for-unisex-extrait-de-parfum-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/AtelierDesOrsLuneFelineExtrait_U_ExtraitDeParfum100Ml.webp?v=1701188849",
-          "price": 675,
           "badge": ""
         }
       ]
@@ -14003,6 +14003,56 @@
       ]
     },
     {
+      "name": "Argos",
+      "slug": "argos",
+      "count": 16,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Midas_Touch.png?v=1795278879",
+      "preview": [
+        {
+          "name": "Argos Midas Touch Extrait de Parfum, Fragrance For Men And Women 100ml",
+          "handle": "argos-midas-touch-extrait-de-parfum-fragrance-for-men-and-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Midas_Touch.png?v=1795278879",
+          "price": 1285,
+          "badge": ""
+        },
+        {
+          "name": "Argos Sacred Flame Eau De Parfum For Unisex-Oriental Floral Perfume 100ml",
+          "handle": "argos-sacred-flame-eau-de-parfum-for-unisex-oriental-floral-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/sacred-flame-100ml-perfume-front-view.jpg?v=1782630267",
+          "price": 903,
+          "badge": ""
+        },
+        {
+          "name": "Argos Perseus Triumphant  Extrait De Parfum For Unisex-Leather Perfume 100ml",
+          "handle": "argos-perseus-triumphant-extrait-de-parfum-for-unisex-leather-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/PERSEUS_TRIUMPHANT_100ml_Front_view_Chris_copy_2.jpg?v=1782628006",
+          "price": 1249,
+          "badge": ""
+        },
+        {
+          "name": "Argos Love Triumphs Over War Eau De Parfum For Unisex- Oriental Floral Perfume 100ml",
+          "handle": "argos-love-triumphs-over-war-eau-de-parfum-for-unisex-oriental-floral-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Love-Triumph-over-war-100ml_Front-view_--scaled.jpg?v=1782626786",
+          "price": 903,
+          "badge": ""
+        },
+        {
+          "name": "Argos Charon'S Vail Extrait De Parfum For Unisex-  Oriental Floral  Perfume 100ml",
+          "handle": "argos-charons-vail-extrait-de-parfum-for-unisex-oriental-floral-perfume-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Charons-Vail-30ml_Front-view_Crystal-scaled-resized-Photoroom.png?v=1792133711",
+          "price": 1320,
+          "badge": ""
+        },
+        {
+          "name": "Argos Triumph Of Bacchus Eau de Parfum For Men And Women Oriental 30 ml",
+          "handle": "argos-triumph-of-bacchus-eau-de-parfum-for-men-and-women-oriental-30-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/argos-resized-Photoroom.png?v=1791232375",
+          "price": 481,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Comme Des Gracon",
       "slug": "comme-des-gracon",
       "count": 16,
@@ -14648,56 +14698,6 @@
           "handle": "ojar-eau-de-parfum-kashmir-print-for-unisex-floral-woody-musk-perfume-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/OJAR_KASHMIR_PRINT_EDP_100ML-Photoroom.png?v=1784266638",
           "price": 515,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Argos",
-      "slug": "argos",
-      "count": 15,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/sacred-flame-100ml-perfume-front-view.jpg?v=1782630267",
-      "preview": [
-        {
-          "name": "Argos Sacred Flame Eau De Parfum For Unisex-Oriental Floral Perfume 100ml",
-          "handle": "argos-sacred-flame-eau-de-parfum-for-unisex-oriental-floral-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/sacred-flame-100ml-perfume-front-view.jpg?v=1782630267",
-          "price": 903,
-          "badge": ""
-        },
-        {
-          "name": "Argos Perseus Triumphant  Extrait De Parfum For Unisex-Leather Perfume 100ml",
-          "handle": "argos-perseus-triumphant-extrait-de-parfum-for-unisex-leather-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/PERSEUS_TRIUMPHANT_100ml_Front_view_Chris_copy_2.jpg?v=1782628006",
-          "price": 1249,
-          "badge": ""
-        },
-        {
-          "name": "Argos Love Triumphs Over War Eau De Parfum For Unisex- Oriental Floral Perfume 100ml",
-          "handle": "argos-love-triumphs-over-war-eau-de-parfum-for-unisex-oriental-floral-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Love-Triumph-over-war-100ml_Front-view_--scaled.jpg?v=1782626786",
-          "price": 903,
-          "badge": ""
-        },
-        {
-          "name": "Argos Charon'S Vail Extrait De Parfum For Unisex-  Oriental Floral  Perfume 100ml",
-          "handle": "argos-charons-vail-extrait-de-parfum-for-unisex-oriental-floral-perfume-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Charons-Vail-30ml_Front-view_Crystal-scaled-resized-Photoroom.png?v=1792133711",
-          "price": 1320,
-          "badge": ""
-        },
-        {
-          "name": "Argos Triumph Of Bacchus Eau de Parfum For Men And Women Oriental 30 ml",
-          "handle": "argos-triumph-of-bacchus-eau-de-parfum-for-men-and-women-oriental-30-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/argos-resized-Photoroom.png?v=1791232375",
-          "price": 481,
-          "badge": ""
-        },
-        {
-          "name": "Argos Triumph Of Bacchus Perfume For Unisex EDP 100ml",
-          "handle": "argos-triumph-of-bacchus-perfume-for-unisex-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/ArgosTriumphOfBacchus_U_Edp100Ml-resized-Photoroom.png?v=1790428171",
-          "price": 1048,
           "badge": ""
         }
       ]
@@ -16403,56 +16403,6 @@
       ]
     },
     {
-      "name": "Kim Kardashian",
-      "slug": "kim-kardashian",
-      "count": 13,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/76kim-kardashian-pure-honey-set_grande_629842f9-314f-41ec-ac77-9701792026b1.jpg?v=1711280372",
-      "preview": [
-        {
-          "name": "Kim Kardashian Pure Honey Set EDP 100ml + Body Lotion 100ml + Fragranced Bee (1) For Women",
-          "handle": "kim-kardashian-pure-honey-set-edp-100ml-body-lotion-100ml-fragranced-bee-1-for-women",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/76kim-kardashian-pure-honey-set_grande_629842f9-314f-41ec-ac77-9701792026b1.jpg?v=1711280372",
-          "price": 136,
-          "badge": ""
-        },
-        {
-          "name": "Kim Kardashian Perfume For Women EDP 50ml",
-          "handle": "kim-kardashian-perfume-for-women-edp-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/KimKardashian_W_Edp50Ml.jpg?v=1654588086",
-          "price": 73,
-          "badge": ""
-        },
-        {
-          "name": "Kim Kardashian Fleur Fatale Perfume For Women EDP 100ml",
-          "handle": "kim-kardashian-fleur-fatale-perfume-for-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/KimKardashianFleurFatale_W_Edp100MlUs.jpg?v=1634117700",
-          "price": 75,
-          "badge": ""
-        },
-        {
-          "name": "Kim Kardashian True Reflection for Women EDP 30 ml",
-          "handle": "kim-kardashian-true-reflection-for-women-edp-30-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/KimKardashianTrueReflectionforWomenEDP30ml.jpg?v=1638805388",
-          "price": 32,
-          "badge": ""
-        },
-        {
-          "name": "Kim Kardashian Pure Honey for Women EDP 30 ml",
-          "handle": "kim-kardashian-pure-honey-for-women-edp-30-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/KimKardashianPureHoneyforWomenEDP30ml.jpg?v=1638805388",
-          "price": 32,
-          "badge": ""
-        },
-        {
-          "name": "Kim Kardashian Fleur Fatale for Women EDP 30 ml",
-          "handle": "kim-kardashian-fleur-fatale-for-women-edp-30-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/KimKardashianFleurFataleforWomenEDP30ml.jpg?v=1631001161",
-          "price": 32,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "ORIENTICA",
       "slug": "orientica",
       "count": 13,
@@ -17248,6 +17198,56 @@
           "handle": "flavia-cherry-ghost-for-unisex-edp-90ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/che-resized-Photoroom.png?v=1791376730",
           "price": 79,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Kim Kardashian",
+      "slug": "kim-kardashian",
+      "count": 12,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/76kim-kardashian-pure-honey-set_grande_629842f9-314f-41ec-ac77-9701792026b1.jpg?v=1711280372",
+      "preview": [
+        {
+          "name": "Kim Kardashian Pure Honey Set EDP 100ml + Body Lotion 100ml + Fragranced Bee (1) For Women",
+          "handle": "kim-kardashian-pure-honey-set-edp-100ml-body-lotion-100ml-fragranced-bee-1-for-women",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/76kim-kardashian-pure-honey-set_grande_629842f9-314f-41ec-ac77-9701792026b1.jpg?v=1711280372",
+          "price": 136,
+          "badge": ""
+        },
+        {
+          "name": "Kim Kardashian Perfume For Women EDP 50ml",
+          "handle": "kim-kardashian-perfume-for-women-edp-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/KimKardashian_W_Edp50Ml.jpg?v=1654588086",
+          "price": 73,
+          "badge": ""
+        },
+        {
+          "name": "Kim Kardashian Fleur Fatale Perfume For Women EDP 100ml",
+          "handle": "kim-kardashian-fleur-fatale-perfume-for-women-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/KimKardashianFleurFatale_W_Edp100MlUs.jpg?v=1634117700",
+          "price": 75,
+          "badge": ""
+        },
+        {
+          "name": "Kim Kardashian True Reflection for Women EDP 30 ml",
+          "handle": "kim-kardashian-true-reflection-for-women-edp-30-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/KimKardashianTrueReflectionforWomenEDP30ml.jpg?v=1638805388",
+          "price": 32,
+          "badge": ""
+        },
+        {
+          "name": "Kim Kardashian Pure Honey for Women EDP 30 ml",
+          "handle": "kim-kardashian-pure-honey-for-women-edp-30-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/KimKardashianPureHoneyforWomenEDP30ml.jpg?v=1638805388",
+          "price": 32,
+          "badge": ""
+        },
+        {
+          "name": "Kim Kardashian Fleur Fatale for Women EDP 30 ml",
+          "handle": "kim-kardashian-fleur-fatale-for-women-edp-30-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/KimKardashianFleurFataleforWomenEDP30ml.jpg?v=1631001161",
+          "price": 32,
           "badge": ""
         }
       ]
@@ -18203,56 +18203,6 @@
       ]
     },
     {
-      "name": "Al Watan",
-      "slug": "al-watan",
-      "count": 11,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/34c924ee04f0bf570f2f3d236467dc69.png?v=1624448514",
-      "preview": [
-        {
-          "name": "RED HORSE POUR FEMME EDT 100 ML",
-          "handle": "red-horse-pour-femme-edt-100-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/34c924ee04f0bf570f2f3d236467dc69.png?v=1624448514",
-          "price": 17,
-          "badge": ""
-        },
-        {
-          "name": "BLACK HORSE POUR HOMME EDT 100 ML",
-          "handle": "black-horse-pour-homme-edt-100-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/f04d5897d01b45b55abab323c245223b.png?v=1624448502",
-          "price": 17,
-          "badge": ""
-        },
-        {
-          "name": "White Horse Pour Homme For Men EDT 100 ML",
-          "handle": "white-horse-pour-homme-for-men-edt-100-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/white_horse_perfume.jpg?v=1633419911",
-          "price": 13,
-          "badge": "SALE"
-        },
-        {
-          "name": "Orchid White, Perfume For Unisex, EDP. 100ml",
-          "handle": "orchid-white-perfume-for-unisex-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/orchid-white.jpg?v=1633067025",
-          "price": 15,
-          "badge": ""
-        },
-        {
-          "name": "Orchid Gold, Perfume For Unisex, EDP. 100ml",
-          "handle": "orchid-gold-perfume-for-unisex-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/orchid-gold.jpg?v=1624401106",
-          "price": 15,
-          "badge": ""
-        },
-        {
-          "name": "Orchid Brown, Perfume For Unisex, EDP. 100ml",
-          "handle": "orchid-brown-perfume-for-unisex-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/orchid-brown-1.jpg?v=1624401090",
-          "price": 10,
-          "badge": "SALE"
-        }
-      ]
-    },
-    {
       "name": "Essenzia",
       "slug": "essenzia",
       "count": 10,
@@ -19003,56 +18953,6 @@
       ]
     },
     {
-      "name": "Vurv",
-      "slug": "vurv",
-      "count": 10,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tn2_0_07999500_1633406164.jpg?v=1661848280",
-      "preview": [
-        {
-          "name": "Vurv Rivage Femme EDP For Women 100ml",
-          "handle": "vurv-rivage-femme-edp-for-women-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tn2_0_07999500_1633406164.jpg?v=1661848280",
-          "price": 33,
-          "badge": ""
-        },
-        {
-          "name": "Vurv Octave Women - Deodorant Body Spray For Women - 200 ml",
-          "handle": "vurv-octave-women-deodorant-body-spray-for-women-200-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv_octave_woman_deo.jpg?v=1624521999",
-          "price": 8,
-          "badge": ""
-        },
-        {
-          "name": "Vurv Rivage Gift Set for Men (EDP 100ml & 200ml Deodorant)",
-          "handle": "vurv-rivage-gift-set-for-men-edp-100ml-200ml-deodorant",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/rivage-gift-set.jpg?v=1633422754",
-          "price": 52,
-          "badge": ""
-        },
-        {
-          "name": "Vurv Octave perfume for women, EDP 100ml",
-          "handle": "vurv-octave-perfume-for-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv-octave-woman-edp-100ml_1.jpg?v=1624444636",
-          "price": 39,
-          "badge": "SALE"
-        },
-        {
-          "name": "Vurv Prive club Homme for Men EDP 100ml",
-          "handle": "vurv-prive-club-homme-for-men-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/92706_01b12827ef7d386f09edf68d604bca08_prive_club_pour_homme.jpg?v=1633422763",
-          "price": 42,
-          "badge": ""
-        },
-        {
-          "name": "Vurv Waltz pour Homme Perfume For Men, Eau De Parfum,  100 ML",
-          "handle": "vurv-waltz-pour-homme-perfume-for-men-eau-de-parfum-100-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv-waltz.jpg?v=1624401524",
-          "price": 43,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Orto Parisi",
       "slug": "orto-parisi",
       "count": 10,
@@ -19403,51 +19303,51 @@
       ]
     },
     {
-      "name": "Asdaaf",
-      "slug": "asdaaf",
-      "count": 9,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Asdaaf_Ameerat_Al_Arab_Prive_Rose_Perfume_For_Women_EDP_100ml-Photoroom.png?v=1787755673",
+      "name": "Al Watan",
+      "slug": "al-watan",
+      "count": 10,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/34c924ee04f0bf570f2f3d236467dc69.png?v=1624448514",
       "preview": [
         {
-          "name": "Asdaaf Ameerat Al Arab Prive Rose Perfume For Women EDP 100ml",
-          "handle": "asdaaf-ameerat-al-arab-prive-rose-perfume-for-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Asdaaf_Ameerat_Al_Arab_Prive_Rose_Perfume_For_Women_EDP_100ml-Photoroom.png?v=1787755673",
-          "price": 48.5,
-          "badge": "SALE"
-        },
-        {
-          "name": "Asdaaf Ameer Al Arab Imperium EDP For Unisex 100ml",
-          "handle": "asdaaf-ameer-al-arab-imperium-edp-for-unisex-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Asdaaf_Ameer_Al_Arab_Imperium_EDP_For_Unisex_100ml-Photoroom.png?v=1787493298",
-          "price": 44,
-          "badge": "SALE"
-        },
-        {
-          "name": "Asdaaf Ameerat Al Arab (Red) Hair Mist 50ml Spray For Unisex",
-          "handle": "asdaaf-ameerat-al-arab-red-hair-mist-50ml-spray-for-unisex",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/30Ameerat-Al-Arab-Parfum-Cheveux-Asdaaf-1-resized-Photoroom.png?v=1790787668",
-          "price": 32,
-          "badge": "SALE"
-        },
-        {
-          "name": "Asdaaf Ameerat Al Arab (Red) 250ml Perfume Deo Spray For Women",
-          "handle": "asdaaf-ameerat-al-arab-red-250ml-perfume-deo-spray-for-women",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/29Asdaaf-Ameerat-al-Arab-250ml-600x772.jpg?v=1711940742",
-          "price": 19,
+          "name": "RED HORSE POUR FEMME EDT 100 ML",
+          "handle": "red-horse-pour-femme-edt-100-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/34c924ee04f0bf570f2f3d236467dc69.png?v=1624448514",
+          "price": 17,
           "badge": ""
         },
         {
-          "name": "Asdaaf Ameerat Al Arab Air Freshener 300ml",
-          "handle": "asdaaf-ameerat-al-arab-air-freshener-300ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/AIR-resized-Photoroom_75f23af7-426b-4ef6-8d45-aa57a37879ac.png?v=1790772033",
-          "price": 12,
+          "name": "BLACK HORSE POUR HOMME EDT 100 ML",
+          "handle": "black-horse-pour-homme-edt-100-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/f04d5897d01b45b55abab323c245223b.png?v=1624448502",
+          "price": 17,
           "badge": ""
         },
         {
-          "name": "Asdaaf Ameerat Al Arab Perfumed Spray For Women 200ml",
-          "handle": "asdaaf-ameerat-al-arab-perfumed-spray-for-women-200ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/asaddfg-resized-Photoroom.png?v=1787747786",
-          "price": 12,
+          "name": "White Horse Pour Homme For Men EDT 100 ML",
+          "handle": "white-horse-pour-homme-for-men-edt-100-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/white_horse_perfume.jpg?v=1633419911",
+          "price": 13,
+          "badge": "SALE"
+        },
+        {
+          "name": "Orchid White, Perfume For Unisex, EDP. 100ml",
+          "handle": "orchid-white-perfume-for-unisex-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/orchid-white.jpg?v=1633067025",
+          "price": 15,
+          "badge": ""
+        },
+        {
+          "name": "Orchid Gold, Perfume For Unisex, EDP. 100ml",
+          "handle": "orchid-gold-perfume-for-unisex-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/orchid-gold.jpg?v=1624401106",
+          "price": 15,
+          "badge": ""
+        },
+        {
+          "name": "Orchid Brown, Perfume For Unisex, EDP. 100ml",
+          "handle": "orchid-brown-perfume-for-unisex-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/orchid-brown-1.jpg?v=1624401090",
+          "price": 10,
           "badge": "SALE"
         }
       ]
@@ -21003,6 +20903,56 @@
       ]
     },
     {
+      "name": "Vurv",
+      "slug": "vurv",
+      "count": 8,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tn2_0_07999500_1633406164.jpg?v=1661848280",
+      "preview": [
+        {
+          "name": "Vurv Rivage Femme EDP For Women 100ml",
+          "handle": "vurv-rivage-femme-edp-for-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tn2_0_07999500_1633406164.jpg?v=1661848280",
+          "price": 33,
+          "badge": ""
+        },
+        {
+          "name": "Vurv Octave Women - Deodorant Body Spray For Women - 200 ml",
+          "handle": "vurv-octave-women-deodorant-body-spray-for-women-200-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv_octave_woman_deo.jpg?v=1624521999",
+          "price": 8,
+          "badge": ""
+        },
+        {
+          "name": "Vurv Rivage Gift Set for Men (EDP 100ml & 200ml Deodorant)",
+          "handle": "vurv-rivage-gift-set-for-men-edp-100ml-200ml-deodorant",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/rivage-gift-set.jpg?v=1633422754",
+          "price": 52,
+          "badge": ""
+        },
+        {
+          "name": "Vurv Octave perfume for women, EDP 100ml",
+          "handle": "vurv-octave-perfume-for-women-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv-octave-woman-edp-100ml_1.jpg?v=1624444636",
+          "price": 39,
+          "badge": "SALE"
+        },
+        {
+          "name": "Vurv Prive club Homme for Men EDP 100ml",
+          "handle": "vurv-prive-club-homme-for-men-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/92706_01b12827ef7d386f09edf68d604bca08_prive_club_pour_homme.jpg?v=1633422763",
+          "price": 42,
+          "badge": ""
+        },
+        {
+          "name": "Vurv Waltz pour Homme Perfume For Men, Eau De Parfum,  100 ML",
+          "handle": "vurv-waltz-pour-homme-perfume-for-men-eau-de-parfum-100-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv-waltz.jpg?v=1624401524",
+          "price": 43,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "ANFAS",
       "slug": "anfas",
       "count": 8,
@@ -21399,6 +21349,56 @@
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ks19-lemon.jpg?v=1624401216",
           "price": 107,
           "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Asdaaf",
+      "slug": "asdaaf",
+      "count": 7,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Asdaaf_Ameerat_Al_Arab_Prive_Rose_Perfume_For_Women_EDP_100ml-Photoroom.png?v=1787755673",
+      "preview": [
+        {
+          "name": "Asdaaf Ameerat Al Arab Prive Rose Perfume For Women EDP 100ml",
+          "handle": "asdaaf-ameerat-al-arab-prive-rose-perfume-for-women-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Asdaaf_Ameerat_Al_Arab_Prive_Rose_Perfume_For_Women_EDP_100ml-Photoroom.png?v=1787755673",
+          "price": 48.5,
+          "badge": "SALE"
+        },
+        {
+          "name": "Asdaaf Ameer Al Arab Imperium EDP For Unisex 100ml",
+          "handle": "asdaaf-ameer-al-arab-imperium-edp-for-unisex-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Asdaaf_Ameer_Al_Arab_Imperium_EDP_For_Unisex_100ml-Photoroom.png?v=1787493298",
+          "price": 44,
+          "badge": "SALE"
+        },
+        {
+          "name": "Asdaaf Ameerat Al Arab (Red) Hair Mist 50ml Spray For Unisex",
+          "handle": "asdaaf-ameerat-al-arab-red-hair-mist-50ml-spray-for-unisex",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/30Ameerat-Al-Arab-Parfum-Cheveux-Asdaaf-1-resized-Photoroom.png?v=1790787668",
+          "price": 32,
+          "badge": "SALE"
+        },
+        {
+          "name": "Asdaaf Ameerat Al Arab (Red) 250ml Perfume Deo Spray For Women",
+          "handle": "asdaaf-ameerat-al-arab-red-250ml-perfume-deo-spray-for-women",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/29Asdaaf-Ameerat-al-Arab-250ml-600x772.jpg?v=1711940742",
+          "price": 19,
+          "badge": ""
+        },
+        {
+          "name": "Asdaaf Ameerat Al Arab Air Freshener 300ml",
+          "handle": "asdaaf-ameerat-al-arab-air-freshener-300ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/AIR-resized-Photoroom_75f23af7-426b-4ef6-8d45-aa57a37879ac.png?v=1790772033",
+          "price": 12,
+          "badge": ""
+        },
+        {
+          "name": "Asdaaf Ameerat Al Arab Perfumed Spray For Women 200ml",
+          "handle": "asdaaf-ameerat-al-arab-perfumed-spray-for-women-200ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/asaddfg-resized-Photoroom.png?v=1787747786",
+          "price": 12,
+          "badge": "SALE"
         }
       ]
     },
@@ -24233,7 +24233,7 @@
           "name": "Rave Now Perfume For Men EDP 100ml",
           "handle": "rave-now-perfume-for-men-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rave_Now_Perfume_For_Men_EDP_100ml-Photoroom.png?v=1788169777",
-          "price": 58,
+          "price": 48,
           "badge": "SALE"
         }
       ]
