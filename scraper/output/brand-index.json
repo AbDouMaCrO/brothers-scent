@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T07:19:26.981Z",
+  "generated_at": "2026-11-22T15:36:20.614Z",
   "total_brands": 888,
   "brands": [
     {
@@ -253,6 +253,56 @@
       ]
     },
     {
+      "name": "Bvlgari",
+      "slug": "bvlgari",
+      "count": 348,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/woodd-resized-Photoroom.png?v=1795350925",
+      "preview": [
+        {
+          "name": "Bvlgari Man Wood Essence Parfum, Fragrance For Men 60ml",
+          "handle": "bvlgari-man-wood-essence-parfum-fragrance-for-men-60ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/woodd-resized-Photoroom.png?v=1795350925",
+          "price": 296,
+          "badge": ""
+        },
+        {
+          "name": "Bvlgari Man Wood Essence Parfum, Fragrance For Men 100ml",
+          "handle": "bvlgari-man-wood-essence-parfum-fragrance-for-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/woood.png?v=1795350645",
+          "price": 426,
+          "badge": ""
+        },
+        {
+          "name": "Bvlgari Man In Black Parfum, Fragrance For Men 100ml Refillable",
+          "handle": "bvlgari-man-in-black-parfum-fragrance-for-men-100ml-refillable",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/blackk.png?v=1795350195",
+          "price": 436,
+          "badge": ""
+        },
+        {
+          "name": "Bvlgari Thé Impérial Eau de Toilette, Fragrance For Men And Women 75ml",
+          "handle": "bvlgari-the-imperial-eau-de-toilette-fragrance-for-men-and-women-75ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/imperial-resized-Photoroom_7eb141cd-de01-41e7-b669-c0983b792507.png?v=1795349351",
+          "price": 504,
+          "badge": ""
+        },
+        {
+          "name": "Bvlgari Omnia Crystalline Eau de Toilette, Floral Aquatic Fragrance For Women 30ml",
+          "handle": "bvlgari-omnia-crystalline-eau-de-toilette-for-women-floral-30ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/o-removebg-preview.png?v=1784470457",
+          "price": 259,
+          "badge": ""
+        },
+        {
+          "name": "Bvlgari Omnia Amethyste  Eau de Toilette, Floral Woody Musk Fragrance For Women 30ml",
+          "handle": "bvlgari-omnia-amethyste-eau-de-toilette-for-women-floral-30ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/omina-removebg_9a2423bb-0f0d-4aa9-8aa1-b8ce71257422.png?v=1785758883",
+          "price": 259,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Christian Dior",
       "slug": "christian-dior",
       "count": 347,
@@ -298,56 +348,6 @@
           "handle": "christian-dior-addict-purple-glow-eau-de-parfum-for-women-floral-50ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/purple-removebg_aae3b397-8439-470e-a52a-3b1ffd7a02c9.png?v=1784536008",
           "price": 549,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "Bvlgari",
-      "slug": "bvlgari",
-      "count": 344,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/o-removebg-preview.png?v=1784470457",
-      "preview": [
-        {
-          "name": "Bvlgari Omnia Crystalline Eau de Toilette, Floral Aquatic Fragrance For Women 30ml",
-          "handle": "bvlgari-omnia-crystalline-eau-de-toilette-for-women-floral-30ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/o-removebg-preview.png?v=1784470457",
-          "price": 259,
-          "badge": ""
-        },
-        {
-          "name": "Bvlgari Omnia Amethyste  Eau de Toilette, Floral Woody Musk Fragrance For Women 30ml",
-          "handle": "bvlgari-omnia-amethyste-eau-de-toilette-for-women-floral-30ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/omina-removebg_9a2423bb-0f0d-4aa9-8aa1-b8ce71257422.png?v=1785758883",
-          "price": 259,
-          "badge": ""
-        },
-        {
-          "name": "Bvlgari Le Gemme Tygar Extrait Parfum  For Unisex-Oriental Perfume 125ml",
-          "handle": "bvlgari-le-gemme-tygar-extrait-parfum-for-unisex-oriental-perfume-125ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/TYGAR-resized-Photoroom.png?v=1792133534",
-          "price": 2732,
-          "badge": ""
-        },
-        {
-          "name": "Bvlgari Le Gemme Tygar Extrait Parfum For Unisex-Oriental Perfume 60ml",
-          "handle": "bvlgari-le-gemme-tygar-extrait-parfum-for-unisex-oriental-perfume-60ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/tygarrr-resized-Photoroom.png?v=1792231726",
-          "price": 1614,
-          "badge": ""
-        },
-        {
-          "name": "Bvlgari Le Gemme Onekh Eau De Parfume For Men- Leather Perfume 60ml",
-          "handle": "bvlgari-le-gemme-onekh-eau-de-parfume-for-men-leather-perfume-60ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/BVLL-42-resized-Photoroom.png?v=1792265376",
-          "price": 975,
-          "badge": ""
-        },
-        {
-          "name": "Bvlgari Le Gemme Gyan Eau De Parfum For Men-Oriental Woody Perfume 60ml",
-          "handle": "bvlgari-le-gemme-gyan-eau-de-parfum-for-men-oriental-woody-perfume-60ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/BVL--resized-Photoroom.png?v=1792265207",
-          "price": 1066,
           "badge": ""
         }
       ]
@@ -705,7 +705,7 @@
     {
       "name": "Lattafa",
       "slug": "lattafa",
-      "count": 255,
+      "count": 253,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Khamrah_Waha_Perfume_For_Unisex_EDP_100ml.png?v=1794386875",
       "preview": [
         {
@@ -7753,56 +7753,6 @@
       ]
     },
     {
-      "name": "Louis Cardin",
-      "slug": "louis-cardin",
-      "count": 35,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/lig-resized-Photoroom.png?v=1789551793",
-      "preview": [
-        {
-          "name": "Louis Cardin Lightning Perfume For Women EDP 100ml",
-          "handle": "louis-cardin-lightning-perfume-for-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/lig-resized-Photoroom.png?v=1789551793",
-          "price": 43,
-          "badge": ""
-        },
-        {
-          "name": "Louis Cardin Sama Al Emarat EDP For Unisex 100ml",
-          "handle": "louis-cardin-sama-al-emarat-edp-for-unisex-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Louis_Cardin_Sama_A-resized-Photoroom.png?v=1789490932",
-          "price": 44,
-          "badge": ""
-        },
-        {
-          "name": "Louis Cardin Sacred Perfume For Unisex EDP 100ml",
-          "handle": "louis-cardin-sacred-perfume-for-unisex-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LouisCardinSacredEdp100mlSpy-resized-Photoroom.png?v=1788127993",
-          "price": 32,
-          "badge": "SALE"
-        },
-        {
-          "name": "Louis Cardin Original Oud EDP For Men 100ml",
-          "handle": "louis-cardin-original-oud-edp-for-men-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Louis-Cardinoriginaloud-resized-Photoroom.png?v=1789290745",
-          "price": 58,
-          "badge": "SALE"
-        },
-        {
-          "name": "Louis Cardin Emeralad Exclusif EDP For Women 100ml",
-          "handle": "louis-cardin-emeralad-exclusif-edp-for-women-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Emerald-resized-Photoroom.png?v=1788185161",
-          "price": 43,
-          "badge": "SALE"
-        },
-        {
-          "name": "Louis Cardin D'Nuit EDP For Men 85ml",
-          "handle": "louis-cardin-dnuit-edp-for-men-85ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LouisCardinD_NuitEDP85ML.jpg?v=1694069950",
-          "price": 43,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Les Perles D'Orient",
       "slug": "les-perles-dorient",
       "count": 35,
@@ -8348,6 +8298,56 @@
           "handle": "costume-national-paperplane-perfume-for-unisex-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cost6311n101xx-46153c1172dd40e0adfdaff4a43922f7-resized-Photoroom.png?v=1790022508",
           "price": 232,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Louis Cardin",
+      "slug": "louis-cardin",
+      "count": 33,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/lig-resized-Photoroom.png?v=1789551793",
+      "preview": [
+        {
+          "name": "Louis Cardin Lightning Perfume For Women EDP 100ml",
+          "handle": "louis-cardin-lightning-perfume-for-women-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/lig-resized-Photoroom.png?v=1789551793",
+          "price": 43,
+          "badge": ""
+        },
+        {
+          "name": "Louis Cardin Sama Al Emarat EDP For Unisex 100ml",
+          "handle": "louis-cardin-sama-al-emarat-edp-for-unisex-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Louis_Cardin_Sama_A-resized-Photoroom.png?v=1789490932",
+          "price": 44,
+          "badge": ""
+        },
+        {
+          "name": "Louis Cardin Sacred Perfume For Unisex EDP 100ml",
+          "handle": "louis-cardin-sacred-perfume-for-unisex-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LouisCardinSacredEdp100mlSpy-resized-Photoroom.png?v=1788127993",
+          "price": 32,
+          "badge": "SALE"
+        },
+        {
+          "name": "Louis Cardin Original Oud EDP For Men 100ml",
+          "handle": "louis-cardin-original-oud-edp-for-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Louis-Cardinoriginaloud-resized-Photoroom.png?v=1789290745",
+          "price": 58,
+          "badge": "SALE"
+        },
+        {
+          "name": "Louis Cardin Emeralad Exclusif EDP For Women 100ml",
+          "handle": "louis-cardin-emeralad-exclusif-edp-for-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Emerald-resized-Photoroom.png?v=1788185161",
+          "price": 43,
+          "badge": "SALE"
+        },
+        {
+          "name": "Louis Cardin D'Nuit EDP For Men 85ml",
+          "handle": "louis-cardin-dnuit-edp-for-men-85ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LouisCardinD_NuitEDP85ML.jpg?v=1694069950",
+          "price": 43,
           "badge": ""
         }
       ]
@@ -18203,6 +18203,56 @@
       ]
     },
     {
+      "name": "BYREDO",
+      "slug": "byredo",
+      "count": 10,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/blanche-resized-Photoroom.png?v=1795352386",
+      "preview": [
+        {
+          "name": "Byredo Blanche Absolu de Parfum, Fragrance For Men And Women 100ml",
+          "handle": "byredo-blanche-absolu-de-parfum-fragrance-for-men-and-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/blanche-resized-Photoroom.png?v=1795352386",
+          "price": 1409,
+          "badge": ""
+        },
+        {
+          "name": "Byredo Inflorescence Eau de Parfum, Floral Fragrance For Women 100ml",
+          "handle": "byredo-inflorescence-eau-de-parfum-floral-fragrance-for-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/inffl-Photoroom.png?v=1787266268",
+          "price": 921,
+          "badge": ""
+        },
+        {
+          "name": "Byredo Bal dâ€™Afrique Eau de Parfum, Floral Fragrance For Women And Men 50ml",
+          "handle": "byredo-bal-d-afrique-eau-de-parfum-floral-fragrance-for-women-and-men-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bal-resized-Photoroom.png?v=1787399914",
+          "price": 813,
+          "badge": ""
+        },
+        {
+          "name": "Byredo Young Rose Eau de Parfum, Floral Woody Musk Fragrance For Men And Women 100ml",
+          "handle": "byredo-young-rose-eau-de-parfum-for-men-and-women-floral-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/young.png?v=1784483324",
+          "price": 939,
+          "badge": ""
+        },
+        {
+          "name": "Byredo Rose of No Man's Land Eau de Parfum, Oriental Spicy Fragrance For Men And Women 50ml",
+          "handle": "byredo-rose-of-no-mans-land-eau-de-parfum-for-men-and-women-floral-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rosee-removebg_cda3d2b5-2781-4f6b-b05b-f30a87c0e235.png?v=1784478890",
+          "price": 777,
+          "badge": ""
+        },
+        {
+          "name": "Byredo Desert Dawn  Eau De Parfum For Unisex-Woody Spicy Perfume 50ml",
+          "handle": "byredo-desert-dawn-eau-de-parfum-for-unisex-woody-spicy-perfume-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/DAW-resized-Photoroom.png?v=1792133415",
+          "price": 722,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Essenzia",
       "slug": "essenzia",
       "count": 10,
@@ -19349,56 +19399,6 @@
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/orchid-brown-1.jpg?v=1624401090",
           "price": 10,
           "badge": "SALE"
-        }
-      ]
-    },
-    {
-      "name": "BYREDO",
-      "slug": "byredo",
-      "count": 9,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/inffl-Photoroom.png?v=1787266268",
-      "preview": [
-        {
-          "name": "Byredo Inflorescence Eau de Parfum, Floral Fragrance For Women 100ml",
-          "handle": "byredo-inflorescence-eau-de-parfum-floral-fragrance-for-women-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/inffl-Photoroom.png?v=1787266268",
-          "price": 921,
-          "badge": ""
-        },
-        {
-          "name": "Byredo Bal dâ€™Afrique Eau de Parfum, Floral Fragrance For Women And Men 50ml",
-          "handle": "byredo-bal-d-afrique-eau-de-parfum-floral-fragrance-for-women-and-men-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bal-resized-Photoroom.png?v=1787399914",
-          "price": 813,
-          "badge": ""
-        },
-        {
-          "name": "Byredo Young Rose Eau de Parfum, Floral Woody Musk Fragrance For Men And Women 100ml",
-          "handle": "byredo-young-rose-eau-de-parfum-for-men-and-women-floral-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/young.png?v=1784483324",
-          "price": 939,
-          "badge": ""
-        },
-        {
-          "name": "Byredo Rose of No Man's Land Eau de Parfum, Oriental Spicy Fragrance For Men And Women 50ml",
-          "handle": "byredo-rose-of-no-mans-land-eau-de-parfum-for-men-and-women-floral-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rosee-removebg_cda3d2b5-2781-4f6b-b05b-f30a87c0e235.png?v=1784478890",
-          "price": 777,
-          "badge": ""
-        },
-        {
-          "name": "Byredo Desert Dawn  Eau De Parfum For Unisex-Woody Spicy Perfume 50ml",
-          "handle": "byredo-desert-dawn-eau-de-parfum-for-unisex-woody-spicy-perfume-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/DAW-resized-Photoroom.png?v=1792133415",
-          "price": 722,
-          "badge": ""
-        },
-        {
-          "name": "Byredo Alto Astral Eau De Parfum For Unisex-Floral Aldehyde Perfume  50ml",
-          "handle": "byredo-alto-astral-eau-de-parfum-for-unisex-floral-aldehyde-perfume-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Byredo_Alto_Astral_Eau_de_Parfum_50ML_1_6d0f9ee3-1f78-4139-aa0f-73c736fd739a.jpg?v=1782636791",
-          "price": 722,
-          "badge": ""
         }
       ]
     },
@@ -20903,56 +20903,6 @@
       ]
     },
     {
-      "name": "Vurv",
-      "slug": "vurv",
-      "count": 8,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tn2_0_07999500_1633406164.jpg?v=1661848280",
-      "preview": [
-        {
-          "name": "Vurv Rivage Femme EDP For Women 100ml",
-          "handle": "vurv-rivage-femme-edp-for-women-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tn2_0_07999500_1633406164.jpg?v=1661848280",
-          "price": 33,
-          "badge": ""
-        },
-        {
-          "name": "Vurv Octave Women - Deodorant Body Spray For Women - 200 ml",
-          "handle": "vurv-octave-women-deodorant-body-spray-for-women-200-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv_octave_woman_deo.jpg?v=1624521999",
-          "price": 8,
-          "badge": ""
-        },
-        {
-          "name": "Vurv Rivage Gift Set for Men (EDP 100ml & 200ml Deodorant)",
-          "handle": "vurv-rivage-gift-set-for-men-edp-100ml-200ml-deodorant",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/rivage-gift-set.jpg?v=1633422754",
-          "price": 52,
-          "badge": ""
-        },
-        {
-          "name": "Vurv Octave perfume for women, EDP 100ml",
-          "handle": "vurv-octave-perfume-for-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv-octave-woman-edp-100ml_1.jpg?v=1624444636",
-          "price": 39,
-          "badge": "SALE"
-        },
-        {
-          "name": "Vurv Prive club Homme for Men EDP 100ml",
-          "handle": "vurv-prive-club-homme-for-men-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/92706_01b12827ef7d386f09edf68d604bca08_prive_club_pour_homme.jpg?v=1633422763",
-          "price": 42,
-          "badge": ""
-        },
-        {
-          "name": "Vurv Waltz pour Homme Perfume For Men, Eau De Parfum,  100 ML",
-          "handle": "vurv-waltz-pour-homme-perfume-for-men-eau-de-parfum-100-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv-waltz.jpg?v=1624401524",
-          "price": 43,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "ANFAS",
       "slug": "anfas",
       "count": 8,
@@ -22098,6 +22048,56 @@
           "handle": "argana-professional-hair-shampoo-300ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/ArganaProfessionalHairShampoo300ml.jpg?v=1628491842",
           "price": 45,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Vurv",
+      "slug": "vurv",
+      "count": 7,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tn2_0_07999500_1633406164.jpg?v=1661848280",
+      "preview": [
+        {
+          "name": "Vurv Rivage Femme EDP For Women 100ml",
+          "handle": "vurv-rivage-femme-edp-for-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/tn2_0_07999500_1633406164.jpg?v=1661848280",
+          "price": 33,
+          "badge": ""
+        },
+        {
+          "name": "Vurv Octave Women - Deodorant Body Spray For Women - 200 ml",
+          "handle": "vurv-octave-women-deodorant-body-spray-for-women-200-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv_octave_woman_deo.jpg?v=1624521999",
+          "price": 8,
+          "badge": ""
+        },
+        {
+          "name": "Vurv Rivage Gift Set for Men (EDP 100ml & 200ml Deodorant)",
+          "handle": "vurv-rivage-gift-set-for-men-edp-100ml-200ml-deodorant",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/rivage-gift-set.jpg?v=1633422754",
+          "price": 52,
+          "badge": ""
+        },
+        {
+          "name": "Vurv Octave perfume for women, EDP 100ml",
+          "handle": "vurv-octave-perfume-for-women-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv-octave-woman-edp-100ml_1.jpg?v=1624444636",
+          "price": 39,
+          "badge": "SALE"
+        },
+        {
+          "name": "Vurv Prive club Homme for Men EDP 100ml",
+          "handle": "vurv-prive-club-homme-for-men-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/92706_01b12827ef7d386f09edf68d604bca08_prive_club_pour_homme.jpg?v=1633422763",
+          "price": 42,
+          "badge": ""
+        },
+        {
+          "name": "Vurv Waltz pour Homme Perfume For Men, Eau De Parfum,  100 ML",
+          "handle": "vurv-waltz-pour-homme-perfume-for-men-eau-de-parfum-100-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/vurv-waltz.jpg?v=1624401524",
+          "price": 43,
           "badge": ""
         }
       ]
