@@ -1,8 +1,32 @@
 {
-  "scraped_at": "2026-11-22T15:34:54.584Z",
+  "scraped_at": "2026-11-22T21:34:10.757Z",
   "source": "https://samawa.ae",
   "count": 25098,
   "products": [
+    {
+      "name": "Byredo Rose of No Man's Land Absolu de Parfum, Fragrance For Men And Women 50ml",
+      "brand": "BYREDO",
+      "category_slug": "homme",
+      "size": "50ml",
+      "price_retail": 993,
+      "price_gros": 993,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rose-resized_1.png?v=1795370224",
+      "active": true,
+      "_handle": "byredo-rose-of-no-mans-land-absolu-de-parfum-fragrance-for-men-and-women-50ml",
+      "_sku": "8410225567349",
+      "_tags": [
+        "50ml",
+        "Absolu de Parfum",
+        "Branded Perfumes",
+        "Fragrance",
+        "Men",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/byredo-rose-of-no-mans-land-absolu-de-parfum-fragrance-for-men-and-women-50ml"
+    },
     {
       "name": "Byredo Blanche Absolu de Parfum, Fragrance For Men And Women 100ml",
       "brand": "BYREDO",
@@ -41050,7 +41074,7 @@
       "category_slug": "homme",
       "size": "50ml",
       "price_retail": 221,
-      "price_gros": 151.25,
+      "price_gros": 156,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/light-resized-Photoroom_a3c3b296-e6fb-4738-881b-9179a37d86bc.png?v=1789572014",
@@ -198325,8 +198349,8 @@
       "brand": "Rasasi",
       "category_slug": "homme",
       "size": "100ml",
-      "price_retail": 77,
-      "price_gros": 77,
+      "price_retail": 76,
+      "price_gros": 76,
       "stock": 999,
       "badge": "",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rasasi_Hawas_Ice_For_Him_EDP_100ml.png?v=1787126060",
@@ -232469,7 +232493,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 395,
-      "price_gros": 207,
+      "price_gros": 217,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Azzaro_The_Most_Wanted_EDP_Intense_For_Men_100ml-Photoroom_1.png?v=1787641041",
@@ -263054,7 +263078,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 60,
-      "price_gros": 57,
+      "price_gros": 63,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/88888-resized-Photoroom.png?v=1787758425",
@@ -585047,27 +585071,6 @@
       ],
       "_product_type": "Gift Set",
       "_url": "https://samawa.ae/products/louis-cardin-gold-femme-giftset"
-    },
-    {
-      "name": "Louis Cardin Gold Femme, Women, EDP, 100ml",
-      "brand": "Louis Cardin",
-      "category_slug": "homme",
-      "size": "100ml",
-      "price_retail": 80,
-      "price_gros": 41,
-      "stock": 999,
-      "badge": "SALE",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/gold-femme-2-Photoroom.png?v=1788454417",
-      "active": true,
-      "_handle": "louis-cardin-gold-femme-women-edp-100ml",
-      "_sku": "9911100200041",
-      "_tags": [
-        "100ml",
-        "Fragrance",
-        "Women"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/louis-cardin-gold-femme-women-edp-100ml"
     }
   ]
 }

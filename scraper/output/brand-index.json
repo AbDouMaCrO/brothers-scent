@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T15:36:20.614Z",
+  "generated_at": "2026-11-22T21:35:52.738Z",
   "total_brands": 888,
   "brands": [
     {
@@ -8303,56 +8303,6 @@
       ]
     },
     {
-      "name": "Louis Cardin",
-      "slug": "louis-cardin",
-      "count": 33,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/lig-resized-Photoroom.png?v=1789551793",
-      "preview": [
-        {
-          "name": "Louis Cardin Lightning Perfume For Women EDP 100ml",
-          "handle": "louis-cardin-lightning-perfume-for-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/lig-resized-Photoroom.png?v=1789551793",
-          "price": 43,
-          "badge": ""
-        },
-        {
-          "name": "Louis Cardin Sama Al Emarat EDP For Unisex 100ml",
-          "handle": "louis-cardin-sama-al-emarat-edp-for-unisex-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Louis_Cardin_Sama_A-resized-Photoroom.png?v=1789490932",
-          "price": 44,
-          "badge": ""
-        },
-        {
-          "name": "Louis Cardin Sacred Perfume For Unisex EDP 100ml",
-          "handle": "louis-cardin-sacred-perfume-for-unisex-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LouisCardinSacredEdp100mlSpy-resized-Photoroom.png?v=1788127993",
-          "price": 32,
-          "badge": "SALE"
-        },
-        {
-          "name": "Louis Cardin Original Oud EDP For Men 100ml",
-          "handle": "louis-cardin-original-oud-edp-for-men-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Louis-Cardinoriginaloud-resized-Photoroom.png?v=1789290745",
-          "price": 58,
-          "badge": "SALE"
-        },
-        {
-          "name": "Louis Cardin Emeralad Exclusif EDP For Women 100ml",
-          "handle": "louis-cardin-emeralad-exclusif-edp-for-women-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Emerald-resized-Photoroom.png?v=1788185161",
-          "price": 43,
-          "badge": "SALE"
-        },
-        {
-          "name": "Louis Cardin D'Nuit EDP For Men 85ml",
-          "handle": "louis-cardin-dnuit-edp-for-men-85ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LouisCardinD_NuitEDP85ML.jpg?v=1694069950",
-          "price": 43,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Carner Barcelona",
       "slug": "carner-barcelona",
       "count": 32,
@@ -8398,6 +8348,56 @@
           "handle": "carner-barcelona-tardes-for-women-hair-perfume-50ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/8437017668718.jpg?v=1736840144",
           "price": 125,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Louis Cardin",
+      "slug": "louis-cardin",
+      "count": 32,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/lig-resized-Photoroom.png?v=1789551793",
+      "preview": [
+        {
+          "name": "Louis Cardin Lightning Perfume For Women EDP 100ml",
+          "handle": "louis-cardin-lightning-perfume-for-women-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/lig-resized-Photoroom.png?v=1789551793",
+          "price": 43,
+          "badge": ""
+        },
+        {
+          "name": "Louis Cardin Sama Al Emarat EDP For Unisex 100ml",
+          "handle": "louis-cardin-sama-al-emarat-edp-for-unisex-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Louis_Cardin_Sama_A-resized-Photoroom.png?v=1789490932",
+          "price": 44,
+          "badge": ""
+        },
+        {
+          "name": "Louis Cardin Sacred Perfume For Unisex EDP 100ml",
+          "handle": "louis-cardin-sacred-perfume-for-unisex-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LouisCardinSacredEdp100mlSpy-resized-Photoroom.png?v=1788127993",
+          "price": 32,
+          "badge": "SALE"
+        },
+        {
+          "name": "Louis Cardin Original Oud EDP For Men 100ml",
+          "handle": "louis-cardin-original-oud-edp-for-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Louis-Cardinoriginaloud-resized-Photoroom.png?v=1789290745",
+          "price": 58,
+          "badge": "SALE"
+        },
+        {
+          "name": "Louis Cardin Emeralad Exclusif EDP For Women 100ml",
+          "handle": "louis-cardin-emeralad-exclusif-edp-for-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Emerald-resized-Photoroom.png?v=1788185161",
+          "price": 43,
+          "badge": "SALE"
+        },
+        {
+          "name": "Louis Cardin D'Nuit EDP For Men 85ml",
+          "handle": "louis-cardin-dnuit-edp-for-men-85ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LouisCardinD_NuitEDP85ML.jpg?v=1694069950",
+          "price": 43,
           "badge": ""
         }
       ]
@@ -17653,6 +17653,56 @@
       ]
     },
     {
+      "name": "BYREDO",
+      "slug": "byredo",
+      "count": 11,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rose-resized_1.png?v=1795370224",
+      "preview": [
+        {
+          "name": "Byredo Rose of No Man's Land Absolu de Parfum, Fragrance For Men And Women 50ml",
+          "handle": "byredo-rose-of-no-mans-land-absolu-de-parfum-fragrance-for-men-and-women-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rose-resized_1.png?v=1795370224",
+          "price": 993,
+          "badge": ""
+        },
+        {
+          "name": "Byredo Blanche Absolu de Parfum, Fragrance For Men And Women 100ml",
+          "handle": "byredo-blanche-absolu-de-parfum-fragrance-for-men-and-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/blanche-resized-Photoroom.png?v=1795352386",
+          "price": 1409,
+          "badge": ""
+        },
+        {
+          "name": "Byredo Inflorescence Eau de Parfum, Floral Fragrance For Women 100ml",
+          "handle": "byredo-inflorescence-eau-de-parfum-floral-fragrance-for-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/inffl-Photoroom.png?v=1787266268",
+          "price": 921,
+          "badge": ""
+        },
+        {
+          "name": "Byredo Bal dâ€™Afrique Eau de Parfum, Floral Fragrance For Women And Men 50ml",
+          "handle": "byredo-bal-d-afrique-eau-de-parfum-floral-fragrance-for-women-and-men-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bal-resized-Photoroom.png?v=1787399914",
+          "price": 813,
+          "badge": ""
+        },
+        {
+          "name": "Byredo Young Rose Eau de Parfum, Floral Woody Musk Fragrance For Men And Women 100ml",
+          "handle": "byredo-young-rose-eau-de-parfum-for-men-and-women-floral-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/young.png?v=1784483324",
+          "price": 939,
+          "badge": ""
+        },
+        {
+          "name": "Byredo Rose of No Man's Land Eau de Parfum, Oriental Spicy Fragrance For Men And Women 50ml",
+          "handle": "byredo-rose-of-no-mans-land-eau-de-parfum-for-men-and-women-floral-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rosee-removebg_cda3d2b5-2781-4f6b-b05b-f30a87c0e235.png?v=1784478890",
+          "price": 777,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "Al Majed Oud",
       "slug": "al-majed-oud",
       "count": 11,
@@ -18198,56 +18248,6 @@
           "handle": "saint-hilaire-oud-ultime-edp-100-ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/saint_hilaire_oud_ultime_edp_100_ml_1.jpg?v=1624451444",
           "price": 56,
-          "badge": ""
-        }
-      ]
-    },
-    {
-      "name": "BYREDO",
-      "slug": "byredo",
-      "count": 10,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/blanche-resized-Photoroom.png?v=1795352386",
-      "preview": [
-        {
-          "name": "Byredo Blanche Absolu de Parfum, Fragrance For Men And Women 100ml",
-          "handle": "byredo-blanche-absolu-de-parfum-fragrance-for-men-and-women-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/blanche-resized-Photoroom.png?v=1795352386",
-          "price": 1409,
-          "badge": ""
-        },
-        {
-          "name": "Byredo Inflorescence Eau de Parfum, Floral Fragrance For Women 100ml",
-          "handle": "byredo-inflorescence-eau-de-parfum-floral-fragrance-for-women-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/inffl-Photoroom.png?v=1787266268",
-          "price": 921,
-          "badge": ""
-        },
-        {
-          "name": "Byredo Bal dâ€™Afrique Eau de Parfum, Floral Fragrance For Women And Men 50ml",
-          "handle": "byredo-bal-d-afrique-eau-de-parfum-floral-fragrance-for-women-and-men-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bal-resized-Photoroom.png?v=1787399914",
-          "price": 813,
-          "badge": ""
-        },
-        {
-          "name": "Byredo Young Rose Eau de Parfum, Floral Woody Musk Fragrance For Men And Women 100ml",
-          "handle": "byredo-young-rose-eau-de-parfum-for-men-and-women-floral-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/young.png?v=1784483324",
-          "price": 939,
-          "badge": ""
-        },
-        {
-          "name": "Byredo Rose of No Man's Land Eau de Parfum, Oriental Spicy Fragrance For Men And Women 50ml",
-          "handle": "byredo-rose-of-no-mans-land-eau-de-parfum-for-men-and-women-floral-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rosee-removebg_cda3d2b5-2781-4f6b-b05b-f30a87c0e235.png?v=1784478890",
-          "price": 777,
-          "badge": ""
-        },
-        {
-          "name": "Byredo Desert Dawn  Eau De Parfum For Unisex-Woody Spicy Perfume 50ml",
-          "handle": "byredo-desert-dawn-eau-de-parfum-for-unisex-woody-spicy-perfume-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/DAW-resized-Photoroom.png?v=1792133415",
-          "price": 722,
           "badge": ""
         }
       ]
