@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T02:17:25.201Z",
+  "generated_at": "2026-11-23T11:05:20.062Z",
   "total_brands": 888,
   "brands": [
     {
@@ -355,9 +355,37 @@
     {
       "name": "samawa perfumes ",
       "slug": "samawa-perfumes",
-      "count": 333,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/odeeee-resized-Photoroom.png?v=1795187326",
+      "count": 337,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Rayhana_Eau_De_Parfum_for_Women_100_ml_01.1_8ac9ad98-1923-41cc-825d-35926cca81bc.png?v=1795429478",
       "preview": [
+        {
+          "name": "Amazing Creation His & Hers Perfume Duo",
+          "handle": "amazing-creation-his-hers-perfume-duo",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Rayhana_Eau_De_Parfum_for_Women_100_ml_01.1_8ac9ad98-1923-41cc-825d-35926cca81bc.png?v=1795429478",
+          "price": 125,
+          "badge": "SALE"
+        },
+        {
+          "name": "Amazing Creation Premium His & Hers Duo",
+          "handle": "amazing-creation-premium-his-hers-duo",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Saqr_EDP_For_Men_100ml_b61e7057-69a7-4c60-aeb6-c4fb4aa93a02.png?v=1795428362",
+          "price": 180,
+          "badge": "SALE"
+        },
+        {
+          "name": "Amazing Creation Women's Top 3 Bestsellers Bundle",
+          "handle": "amazing-creation-womens-top-3-bestsellers-bundle",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_The_Scent_Of_Passion_Eau_de_Parfum_For_Women_100ml_67ff1860-da52-4f42-8900-17195a079b5d.png?v=1795427725",
+          "price": 180,
+          "badge": "SALE"
+        },
+        {
+          "name": "Amazing Creation Men's Top 3 Bestsellers Bundle",
+          "handle": "mens-top-3-bestsellers-bundle",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cotton-resized-Photoroom_b505430d-fe28-4cb2-a7d7-efac08dcc67a.png?v=1795423994",
+          "price": 180,
+          "badge": "SALE"
+        },
         {
           "name": "Alûstre Spectre 565–248 – Ode to the Mandarin Eau de Parfum, Fragrance For Men And Women 50ml",
           "handle": "alustre-spectre-565-248-ode-to-the-mandarin-eau-de-parfum-fragrance-for-men-and-women-50ml",
@@ -370,34 +398,6 @@
           "handle": "juliette-has-a-gun-powder-love-eau-de-parfum-oriental-vanilla-fragrance-for-women-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/POWDER-resized-Photoroom.png?v=1787917129",
           "price": 315,
-          "badge": ""
-        },
-        {
-          "name": "Christian Dior Addict Rosy Glow Eau de Parfum,  Floral Fruity Gourmand Fragrance For Women 50ml",
-          "handle": "christian-dior-addict-rosy-glow-eau-de-parfum-for-women-floral-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rose_glow-removebg_8b43bf3e-64f7-4e29-b6af-d0d2b39ff0a4.png?v=1784536844",
-          "price": 549,
-          "badge": ""
-        },
-        {
-          "name": "Samawa Fragrance Oil Inspired By Gissah imperial valley PFB-277 -1KG",
-          "handle": "samawa-fragrance-oil-inspired-by-gissah-imperial-valley-pfb-277-1kg",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Samawa_Fragrance_Oil_Inspired_By_Gissah_imperial_valley_PFB-277_-1KG-Photoroom.png?v=1792416340",
-          "price": 625,
-          "badge": ""
-        },
-        {
-          "name": "Samawa Fragrance Oil Inspired By ARMANI MY WAY PFB-178 -1KG",
-          "handle": "samawa-fragrance-oil-inspired-by-armani-my-way-pfb-178-1kg",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Samawa_Fragrance_Oil_Inspired_By_ARMANI_MY_WAY_PFB-178_-1KG-Photoroom.png?v=1792413986",
-          "price": 478,
-          "badge": ""
-        },
-        {
-          "name": "Samawa Fragrance Oil Inspired By YSL SUPREME BOUQUET PFB-72 -1KG",
-          "handle": "samawa-fragrance-oil-inspired-by-ysl-supreme-bouquet-pfb-72-1kg",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Samawa_Fragrance_Oil_Inspired_By_YSL_SUPREME_BOUQUET_PFB-72_-1KG-Photoroom.png?v=1793643058",
-          "price": 478,
           "badge": ""
         }
       ]
@@ -505,9 +505,30 @@
     {
       "name": "Carolina Herrera",
       "slug": "carolina-herrera",
-      "count": 311,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/mee-resized-Photoroom.png?v=1787665014",
+      "count": 314,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/badboy-resized-Photoroom.png?v=1795429676",
       "preview": [
+        {
+          "name": "Carolina Herrera Bad Boy Eau de Toilette, Fragrance For Men 50ml",
+          "handle": "carolina-herrera-bad-boy-eau-de-toilette-fragrance-for-men-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/badboy-resized-Photoroom.png?v=1795429676",
+          "price": 269,
+          "badge": ""
+        },
+        {
+          "name": "Carolina Herrera 212 VIP Rosé Eau de Parfum, Fragrance For Women 80ml",
+          "handle": "carolina-herrera-212-vip-rose-eau-de-parfum-fragrance-for-women-80ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/roseeeeeeeeee-Photoroom_47e8318f-777c-4cd4-9571-6975712f3be0.png?v=1795429379",
+          "price": 362,
+          "badge": ""
+        },
+        {
+          "name": "Carolina Herrera 212 VIP Rosé Eau de Parfum, Fragrance For Women 50ml",
+          "handle": "carolina-herrera-212-vip-rose-eau-de-parfum-fragrance-for-women-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/roseeeeee.png?v=1795428792",
+          "price": 251,
+          "badge": ""
+        },
         {
           "name": "Carolina Herrera Me First Eau de Parfum, Floral Fragrance For Women 100ml",
           "handle": "carolina-herrera-me-first-eau-de-parfum-floral-fragrance-for-women-100ml",
@@ -527,27 +548,6 @@
           "handle": "carolina-herrera-bad-boy-cobalt-absolute-eau-de-parfum-absolute-woody-fragrance-for-men-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/badd-resized-Photoroom.png?v=1787664411",
           "price": 444,
-          "badge": ""
-        },
-        {
-          "name": "Carolina Herrera Gift Set For Women",
-          "handle": "carolina-herrera-gift-set-for-women-floral-1",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rosee-removebg-preview.png?v=1791887332",
-          "price": 370,
-          "badge": ""
-        },
-        {
-          "name": "Carolina Herrera Gift Set For Men",
-          "handle": "carolina-herrera-gift-set-for-men-aromatic",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/2122-removebg-preview.png?v=1785047759",
-          "price": 352,
-          "badge": ""
-        },
-        {
-          "name": "Carolina Herrera Bad Boy Elixir, Oriental Woody Fragrance For Men 50 ml",
-          "handle": "carolina-herrera-bad-boy-elixir-for-men-50-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/bad_boy_bottle-removebg-preview_ca618958-6bda-41d5-a2a0-d139788d8c83.png?v=1785758080",
-          "price": 274,
           "badge": ""
         }
       ]
@@ -1205,7 +1205,7 @@
     {
       "name": "Rasasi",
       "slug": "rasasi",
-      "count": 208,
+      "count": 207,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/lava-resized-Photoroom.png?v=1794175037",
       "preview": [
         {
@@ -8353,56 +8353,6 @@
       ]
     },
     {
-      "name": "Louis Cardin",
-      "slug": "louis-cardin",
-      "count": 32,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/lig-resized-Photoroom.png?v=1789551793",
-      "preview": [
-        {
-          "name": "Louis Cardin Lightning Perfume For Women EDP 100ml",
-          "handle": "louis-cardin-lightning-perfume-for-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/lig-resized-Photoroom.png?v=1789551793",
-          "price": 43,
-          "badge": ""
-        },
-        {
-          "name": "Louis Cardin Sama Al Emarat EDP For Unisex 100ml",
-          "handle": "louis-cardin-sama-al-emarat-edp-for-unisex-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Louis_Cardin_Sama_A-resized-Photoroom.png?v=1789490932",
-          "price": 44,
-          "badge": ""
-        },
-        {
-          "name": "Louis Cardin Sacred Perfume For Unisex EDP 100ml",
-          "handle": "louis-cardin-sacred-perfume-for-unisex-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LouisCardinSacredEdp100mlSpy-resized-Photoroom.png?v=1788127993",
-          "price": 32,
-          "badge": "SALE"
-        },
-        {
-          "name": "Louis Cardin Original Oud EDP For Men 100ml",
-          "handle": "louis-cardin-original-oud-edp-for-men-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Louis-Cardinoriginaloud-resized-Photoroom.png?v=1789290745",
-          "price": 58,
-          "badge": "SALE"
-        },
-        {
-          "name": "Louis Cardin Emeralad Exclusif EDP For Women 100ml",
-          "handle": "louis-cardin-emeralad-exclusif-edp-for-women-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Emerald-resized-Photoroom.png?v=1788185161",
-          "price": 43,
-          "badge": "SALE"
-        },
-        {
-          "name": "Louis Cardin D'Nuit EDP For Men 85ml",
-          "handle": "louis-cardin-dnuit-edp-for-men-85ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LouisCardinD_NuitEDP85ML.jpg?v=1694069950",
-          "price": 43,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Maryaj",
       "slug": "maryaj",
       "count": 32,
@@ -8548,6 +8498,56 @@
           "handle": "no-4711-acqua-colonia-white-peach-coriander-eau-de-cologne-for-unisex-aromatic-fruity-perfume-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/4711-acqua-colonia-balancing-white-peach-coriander-edc-100-ml-unisex-parfum-27721-Photoroom.png?v=1791205378",
           "price": 67,
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Louis Cardin",
+      "slug": "louis-cardin",
+      "count": 31,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/lig-resized-Photoroom.png?v=1789551793",
+      "preview": [
+        {
+          "name": "Louis Cardin Lightning Perfume For Women EDP 100ml",
+          "handle": "louis-cardin-lightning-perfume-for-women-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/lig-resized-Photoroom.png?v=1789551793",
+          "price": 43,
+          "badge": ""
+        },
+        {
+          "name": "Louis Cardin Sama Al Emarat EDP For Unisex 100ml",
+          "handle": "louis-cardin-sama-al-emarat-edp-for-unisex-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Louis_Cardin_Sama_A-resized-Photoroom.png?v=1789490932",
+          "price": 44,
+          "badge": ""
+        },
+        {
+          "name": "Louis Cardin Sacred Perfume For Unisex EDP 100ml",
+          "handle": "louis-cardin-sacred-perfume-for-unisex-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LouisCardinSacredEdp100mlSpy-resized-Photoroom.png?v=1788127993",
+          "price": 32,
+          "badge": "SALE"
+        },
+        {
+          "name": "Louis Cardin Original Oud EDP For Men 100ml",
+          "handle": "louis-cardin-original-oud-edp-for-men-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Louis-Cardinoriginaloud-resized-Photoroom.png?v=1789290745",
+          "price": 58,
+          "badge": "SALE"
+        },
+        {
+          "name": "Louis Cardin Emeralad Exclusif EDP For Women 100ml",
+          "handle": "louis-cardin-emeralad-exclusif-edp-for-women-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Emerald-resized-Photoroom.png?v=1788185161",
+          "price": 43,
+          "badge": "SALE"
+        },
+        {
+          "name": "Louis Cardin D'Nuit EDP For Men 85ml",
+          "handle": "louis-cardin-dnuit-edp-for-men-85ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/LouisCardinD_NuitEDP85ML.jpg?v=1694069950",
+          "price": 43,
           "badge": ""
         }
       ]
@@ -16453,56 +16453,6 @@
       ]
     },
     {
-      "name": "Rihanna",
-      "slug": "rihanna",
-      "count": 13,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/RihannaReb_LFleurLoveAlways_W_Edp100Ml.jpg?v=1655279936",
-      "preview": [
-        {
-          "name": "Rihanna Reb'L Fleur Love Always Perfume For Women EDP 100ml",
-          "handle": "rihanna-rebl-fleur-love-always-perfume-for-women-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/RihannaReb_LFleurLoveAlways_W_Edp100Ml.jpg?v=1655279936",
-          "price": 116,
-          "badge": ""
-        },
-        {
-          "name": "RIHANNA ROUGE LOVE FOR WOMEN EDP 125 ml",
-          "handle": "rihanna-rouge-love-for-women-edp-125-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/parlux194.6586.76.jpg?v=1624550507",
-          "price": 131,
-          "badge": ""
-        },
-        {
-          "name": "RIHANNA ROUGE FOR WOMEN EDP 125 ml",
-          "handle": "rihanna-rouge-for-women-edp-125-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/parlux194.6321.76.jpg?v=1624550499",
-          "price": 103,
-          "badge": ""
-        },
-        {
-          "name": "Rihanna Rogue - Perfume For Women - EDP 7.5 ml  (Mini)",
-          "handle": "rihanna-rogue-perfume-for-women-edp-7-5-ml-mini",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/rihanna_rogue_for_women_7.5_ml_edp_spray_mini.jpg?v=1624521528",
-          "price": 13,
-          "badge": ""
-        },
-        {
-          "name": "Rihanna Nude - perfumes for women, 100 ml - EDP Spray",
-          "handle": "rihanna-nude-perfumes-for-women-100-ml-edp-spray",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/rihanna_nude_-_perfumes_for_women_100_ml_-_edp_spray.jpg?v=1624476843",
-          "price": 138,
-          "badge": ""
-        },
-        {
-          "name": "RIHANNA RIRI KISS WOMEN EDP 100 ml",
-          "handle": "rihanna-riri-kiss-women-edp-100-ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/rihanna-kiss-eau-de-parfum-100ml-608940567975-33.jpg?v=1633537937",
-          "price": 92,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Ideo Parfumeurs",
       "slug": "ideo-parfumeurs",
       "count": 13,
@@ -19103,6 +19053,56 @@
       ]
     },
     {
+      "name": "Rihanna",
+      "slug": "rihanna",
+      "count": 10,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/RihannaReb_LFleurLoveAlways_W_Edp100Ml.jpg?v=1655279936",
+      "preview": [
+        {
+          "name": "Rihanna Reb'L Fleur Love Always Perfume For Women EDP 100ml",
+          "handle": "rihanna-rebl-fleur-love-always-perfume-for-women-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/RihannaReb_LFleurLoveAlways_W_Edp100Ml.jpg?v=1655279936",
+          "price": 116,
+          "badge": ""
+        },
+        {
+          "name": "RIHANNA ROUGE LOVE FOR WOMEN EDP 125 ml",
+          "handle": "rihanna-rouge-love-for-women-edp-125-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/parlux194.6586.76.jpg?v=1624550507",
+          "price": 131,
+          "badge": ""
+        },
+        {
+          "name": "RIHANNA ROUGE FOR WOMEN EDP 125 ml",
+          "handle": "rihanna-rouge-for-women-edp-125-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/parlux194.6321.76.jpg?v=1624550499",
+          "price": 103,
+          "badge": ""
+        },
+        {
+          "name": "Rihanna Rogue - Perfume For Women - EDP 7.5 ml  (Mini)",
+          "handle": "rihanna-rogue-perfume-for-women-edp-7-5-ml-mini",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/rihanna_rogue_for_women_7.5_ml_edp_spray_mini.jpg?v=1624521528",
+          "price": 13,
+          "badge": ""
+        },
+        {
+          "name": "Rihanna Nude - perfumes for women, 100 ml - EDP Spray",
+          "handle": "rihanna-nude-perfumes-for-women-100-ml-edp-spray",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/rihanna_nude_-_perfumes_for_women_100_ml_-_edp_spray.jpg?v=1624476843",
+          "price": 138,
+          "badge": ""
+        },
+        {
+          "name": "RIHANNA RIRI KISS WOMEN EDP 100 ml",
+          "handle": "rihanna-riri-kiss-women-edp-100-ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/rihanna-kiss-eau-de-parfum-100ml-608940567975-33.jpg?v=1633537937",
+          "price": 92,
+          "badge": ""
+        }
+      ]
+    },
+    {
       "name": "MIRIS",
       "slug": "miris",
       "count": 10,
@@ -20353,56 +20353,6 @@
       ]
     },
     {
-      "name": "Luxury Concept",
-      "slug": "luxury-concept",
-      "count": 9,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/hsk-paris-i-am-fablulous.jpg?v=1624487886",
-      "preview": [
-        {
-          "name": "Luxury Concept HSK Paris I am Fablulous EDP 50ml",
-          "handle": "luxury-concept-hsk-paris-i-am-fablulous-edp-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/hsk-paris-i-am-fablulous.jpg?v=1624487886",
-          "price": 109,
-          "badge": ""
-        },
-        {
-          "name": "Luxury Concept Holy Oud for Unisex EDP 100ml",
-          "handle": "luxury-concept-holy-oud-for-unisex-edp-100ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/luxury-collections-holy-oud-edp-100ml_big.jpg?v=1624431621",
-          "price": 87,
-          "badge": "SALE"
-        },
-        {
-          "name": "Luxury Concept VL Notte De Fabulous EDP 50ml",
-          "handle": "luxury-concept-vl-notte-de-fabulous-edp-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/note-de-fabulous.jpg?v=1624426596",
-          "price": 77,
-          "badge": "SALE"
-        },
-        {
-          "name": "HSK Paris The Jacket, Perfume For Unisex, EDP, 80ml",
-          "handle": "hsk-paris-the-jacket-perfume-for-unisex-edp-80ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/hsk-paris-the-jacket.jpg?v=1624403402",
-          "price": 95,
-          "badge": "SALE"
-        },
-        {
-          "name": "Elixir Musk, Perfume For Unisex, EDP 50ml",
-          "handle": "elixir-musk-perfume-for-unisex-edp-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/elixir-musk.jpg?v=1624401027",
-          "price": 58,
-          "badge": "SALE"
-        },
-        {
-          "name": "Holy Musk Perfume For Unisex, EDP, 75ml",
-          "handle": "holy-musk-perfume-for-unisex-edp-75ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/holy-musk-2.jpg?v=1624400943",
-          "price": 87,
-          "badge": "SALE"
-        }
-      ]
-    },
-    {
       "name": "Al Malakia",
       "slug": "al-malakia",
       "count": 8,
@@ -21149,6 +21099,56 @@
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/LAMAISONDELAVANILLEBOISVELOURS_U_EDP100mlFR.jpg?v=1638805373",
           "price": 210,
           "badge": ""
+        }
+      ]
+    },
+    {
+      "name": "Luxury Concept",
+      "slug": "luxury-concept",
+      "count": 8,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/hsk-paris-i-am-fablulous.jpg?v=1624487886",
+      "preview": [
+        {
+          "name": "Luxury Concept HSK Paris I am Fablulous EDP 50ml",
+          "handle": "luxury-concept-hsk-paris-i-am-fablulous-edp-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/hsk-paris-i-am-fablulous.jpg?v=1624487886",
+          "price": 109,
+          "badge": ""
+        },
+        {
+          "name": "Luxury Concept Holy Oud for Unisex EDP 100ml",
+          "handle": "luxury-concept-holy-oud-for-unisex-edp-100ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/luxury-collections-holy-oud-edp-100ml_big.jpg?v=1624431621",
+          "price": 87,
+          "badge": "SALE"
+        },
+        {
+          "name": "Luxury Concept VL Notte De Fabulous EDP 50ml",
+          "handle": "luxury-concept-vl-notte-de-fabulous-edp-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/note-de-fabulous.jpg?v=1624426596",
+          "price": 77,
+          "badge": "SALE"
+        },
+        {
+          "name": "HSK Paris The Jacket, Perfume For Unisex, EDP, 80ml",
+          "handle": "hsk-paris-the-jacket-perfume-for-unisex-edp-80ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/hsk-paris-the-jacket.jpg?v=1624403402",
+          "price": 95,
+          "badge": "SALE"
+        },
+        {
+          "name": "Elixir Musk, Perfume For Unisex, EDP 50ml",
+          "handle": "elixir-musk-perfume-for-unisex-edp-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/elixir-musk.jpg?v=1624401027",
+          "price": 58,
+          "badge": "SALE"
+        },
+        {
+          "name": "Holy Musk Perfume For Unisex, EDP, 75ml",
+          "handle": "holy-musk-perfume-for-unisex-edp-75ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/holy-musk-2.jpg?v=1624400943",
+          "price": 87,
+          "badge": "SALE"
         }
       ]
     },
@@ -24233,7 +24233,7 @@
           "name": "Rave Now Perfume For Men EDP 100ml",
           "handle": "rave-now-perfume-for-men-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rave_Now_Perfume_For_Men_EDP_100ml-Photoroom.png?v=1788169777",
-          "price": 58,
+          "price": 48,
           "badge": "SALE"
         }
       ]
@@ -31177,28 +31177,6 @@
       ]
     },
     {
-      "name": "Fleur De Grasse",
-      "slug": "fleur-de-grasse",
-      "count": 2,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/oud-ispahan_2000.jpg?v=1624400153",
-      "preview": [
-        {
-          "name": "Fleur De Grasse Oud Ispahan, Perfume for Unisex, EDP 50ml",
-          "handle": "fleur-de-grasse-oud-ispahan-perfume-for-unisex-edp-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/oud-ispahan_2000.jpg?v=1624400153",
-          "price": 46,
-          "badge": "SALE"
-        },
-        {
-          "name": "Fleur De Grasse Baccarat, Perfume for Unisex, EDP 50ml",
-          "handle": "fleur-de-grasse-baccarat-perfume-for-unisex-edp-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/fleur-dg-baccart-1.jpg?v=1624400134",
-          "price": 46,
-          "badge": ""
-        }
-      ]
-    },
-    {
       "name": "Osma",
       "slug": "osma",
       "count": 1,
@@ -33849,6 +33827,21 @@
           "handle": "whatever-it-takes-pink-women-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/whatever-1.jpg?v=1624400426",
           "price": 17,
+          "badge": "SALE"
+        }
+      ]
+    },
+    {
+      "name": "Fleur De Grasse",
+      "slug": "fleur-de-grasse",
+      "count": 1,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/oud-ispahan_2000.jpg?v=1624400153",
+      "preview": [
+        {
+          "name": "Fleur De Grasse Oud Ispahan, Perfume for Unisex, EDP 50ml",
+          "handle": "fleur-de-grasse-oud-ispahan-perfume-for-unisex-edp-50ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/oud-ispahan_2000.jpg?v=1624400153",
+          "price": 46,
           "badge": "SALE"
         }
       ]

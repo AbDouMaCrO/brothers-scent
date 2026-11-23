@@ -1,8 +1,172 @@
 {
-  "scraped_at": "2026-11-23T02:16:02.326Z",
+  "scraped_at": "2026-11-23T11:03:25.579Z",
   "source": "https://samawa.ae",
   "count": 25098,
   "products": [
+    {
+      "name": "Carolina Herrera Bad Boy Eau de Toilette, Fragrance For Men 50ml",
+      "brand": "Carolina Herrera",
+      "category_slug": "homme",
+      "size": "50ml",
+      "price_retail": 269,
+      "price_gros": 269,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/badboy-resized-Photoroom.png?v=1795429676",
+      "active": true,
+      "_handle": "carolina-herrera-bad-boy-eau-de-toilette-fragrance-for-men-50ml",
+      "_sku": "8411061099735",
+      "_tags": [
+        "50ml",
+        "Branded Perfumes",
+        "EDT",
+        "Fragrance",
+        "Men"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/carolina-herrera-bad-boy-eau-de-toilette-fragrance-for-men-50ml"
+    },
+    {
+      "name": "Amazing Creation His & Hers Perfume Duo",
+      "brand": "samawa perfumes ",
+      "category_slug": "homme",
+      "size": "100ml",
+      "price_retail": 150,
+      "price_gros": 125,
+      "stock": 999,
+      "badge": "SALE",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Rayhana_Eau_De_Parfum_for_Women_100_ml_01.1_8ac9ad98-1923-41cc-825d-35926cca81bc.png?v=1795429478",
+      "active": true,
+      "_handle": "amazing-creation-his-hers-perfume-duo",
+      "_sku": "Amazing Creation His & Hers Perfume Duo",
+      "_tags": [
+        "badge_White Friday Deal",
+        "Fragrance",
+        "Gift set",
+        "Men",
+        "Women"
+      ],
+      "_product_type": "",
+      "_url": "https://samawa.ae/products/amazing-creation-his-hers-perfume-duo"
+    },
+    {
+      "name": "Carolina Herrera 212 VIP Rosé Eau de Parfum, Fragrance For Women 80ml",
+      "brand": "Carolina Herrera",
+      "category_slug": "homme",
+      "size": "80ml",
+      "price_retail": 362,
+      "price_gros": 362,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/roseeeeeeeeee-Photoroom_47e8318f-777c-4cd4-9571-6975712f3be0.png?v=1795429379",
+      "active": true,
+      "_handle": "carolina-herrera-212-vip-rose-eau-de-parfum-fragrance-for-women-80ml",
+      "_sku": "8411061088197",
+      "_tags": [
+        "80ml",
+        "Branded Perfumes",
+        "EDP",
+        "Fragrance",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/carolina-herrera-212-vip-rose-eau-de-parfum-fragrance-for-women-80ml"
+    },
+    {
+      "name": "Amazing Creation Premium His & Hers Duo",
+      "brand": "samawa perfumes ",
+      "category_slug": "homme",
+      "size": "100ml",
+      "price_retail": 240,
+      "price_gros": 180,
+      "stock": 999,
+      "badge": "SALE",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Saqr_EDP_For_Men_100ml_b61e7057-69a7-4c60-aeb6-c4fb4aa93a02.png?v=1795428362",
+      "active": true,
+      "_handle": "amazing-creation-premium-his-hers-duo",
+      "_sku": "Amazing Creation Premium His & Hers Duo",
+      "_tags": [
+        "Arabic Perfume",
+        "badge_White Friday Deal",
+        "Fragrance",
+        "Gift set",
+        "Men",
+        "Women"
+      ],
+      "_product_type": "",
+      "_url": "https://samawa.ae/products/amazing-creation-premium-his-hers-duo"
+    },
+    {
+      "name": "Carolina Herrera 212 VIP Rosé Eau de Parfum, Fragrance For Women 50ml",
+      "brand": "Carolina Herrera",
+      "category_slug": "homme",
+      "size": "50ml",
+      "price_retail": 251,
+      "price_gros": 251,
+      "stock": 999,
+      "badge": "",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/roseeeeee.png?v=1795428792",
+      "active": true,
+      "_handle": "carolina-herrera-212-vip-rose-eau-de-parfum-fragrance-for-women-50ml",
+      "_sku": "8411061106518",
+      "_tags": [
+        "50ml",
+        "Branded Perfumes",
+        "EDP",
+        "Fragrance",
+        "Women"
+      ],
+      "_product_type": "Fragrance",
+      "_url": "https://samawa.ae/products/carolina-herrera-212-vip-rose-eau-de-parfum-fragrance-for-women-50ml"
+    },
+    {
+      "name": "Amazing Creation Women's Top 3 Bestsellers Bundle",
+      "brand": "samawa perfumes ",
+      "category_slug": "homme",
+      "size": "100ml",
+      "price_retail": 225,
+      "price_gros": 180,
+      "stock": 999,
+      "badge": "SALE",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_The_Scent_Of_Passion_Eau_de_Parfum_For_Women_100ml_67ff1860-da52-4f42-8900-17195a079b5d.png?v=1795427725",
+      "active": true,
+      "_handle": "amazing-creation-womens-top-3-bestsellers-bundle",
+      "_sku": "Amazing Creation Women's Top 3 Bestsellers Bundle",
+      "_tags": [
+        "Arabic Perfume",
+        "badge_White Friday Deal",
+        "EDP",
+        "Fragrance",
+        "Free Gift Offer",
+        "Women"
+      ],
+      "_product_type": "",
+      "_url": "https://samawa.ae/products/amazing-creation-womens-top-3-bestsellers-bundle"
+    },
+    {
+      "name": "Amazing Creation Men's Top 3 Bestsellers Bundle",
+      "brand": "samawa perfumes ",
+      "category_slug": "homme",
+      "size": "100ml",
+      "price_retail": 225,
+      "price_gros": 180,
+      "stock": 999,
+      "badge": "SALE",
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/cotton-resized-Photoroom_b505430d-fe28-4cb2-a7d7-efac08dcc67a.png?v=1795423994",
+      "active": true,
+      "_handle": "mens-top-3-bestsellers-bundle",
+      "_sku": "Amazing Creation Men's Top 3 Bestsellers Bundle",
+      "_tags": [
+        "Arabic Perfume",
+        "badge_White Friday Deal",
+        "EDP",
+        "Fragrance",
+        "Gift set",
+        "Men"
+      ],
+      "_product_type": "",
+      "_url": "https://samawa.ae/products/mens-top-3-bestsellers-bundle"
+    },
     {
       "name": "Byredo Rose of No Man's Land Absolu de Parfum, Fragrance For Men And Women 50ml",
       "brand": "BYREDO",
@@ -8030,8 +8194,8 @@
       "brand": "Giorgio Armani",
       "category_slug": "homme",
       "size": "100ml",
-      "price_retail": 533,
-      "price_gros": 533,
+      "price_retail": 530,
+      "price_gros": 530,
       "stock": 999,
       "badge": "",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/3614274578690_i-will-eau-de-parfum_60ml_main-v2-Photoroom_1.png?v=1786800520",
@@ -36628,8 +36792,8 @@
       "brand": "RAYHAAN",
       "category_slug": "homme",
       "size": "100ml",
-      "price_retail": 79,
-      "price_gros": 79,
+      "price_retail": 78,
+      "price_gros": 78,
       "stock": 999,
       "badge": "",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rayhaan_Kiss_Eau_De_Parfum_For_Women_-_Floral_Fruity_Perfume_100ml-Photoroom.png?v=1787487694",
@@ -41074,7 +41238,7 @@
       "category_slug": "homme",
       "size": "50ml",
       "price_retail": 221,
-      "price_gros": 156,
+      "price_gros": 151.25,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/light-resized-Photoroom_a3c3b296-e6fb-4738-881b-9179a37d86bc.png?v=1789572014",
@@ -77135,8 +77299,8 @@
       "brand": "Lattafa",
       "category_slug": "homme",
       "size": "100ml",
-      "price_retail": 110,
-      "price_gros": 110,
+      "price_retail": 116,
+      "price_gros": 116,
       "stock": 999,
       "badge": "",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/6-resized-Photoroom_6d8b23d6-5e1b-4d80-8ecb-493b5c22554e.png?v=1787757481",
@@ -81264,7 +81428,6 @@
       "_tags": [
         "120g",
         "Bakhoor",
-        "Clearance",
         "Dukhoon"
       ],
       "_product_type": "Home Fragrance",
@@ -89578,7 +89741,6 @@
       "_tags": [
         "80ml",
         "Branded Perfumes",
-        "Clearance",
         "EDP",
         "Fragrance",
         "Women"
@@ -104309,8 +104471,8 @@
       "brand": "Ahmed Perfumes",
       "category_slug": "homme",
       "size": "100ml",
-      "price_retail": 106,
-      "price_gros": 106,
+      "price_retail": 107,
+      "price_gros": 107,
       "stock": 999,
       "badge": "",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Ahmed_Al_Maghribi_Brulee_For_Unisex_EDP_100ml-Photoroom.png?v=1788672380",
@@ -112862,7 +113024,6 @@
       "_tags": [
         "75ml",
         "Branded Perfumes",
-        "Clearance",
         "EDP",
         "Fragrance",
         "Women"
@@ -116800,7 +116961,6 @@
       "_tags": [
         "25ml",
         "Branded Perfumes",
-        "Clearance",
         "EDP",
         "Fragrance",
         "Women"
@@ -124948,7 +125108,6 @@
       "_tags": [
         "100ml",
         "Branded Perfumes",
-        "Clearance",
         "EDT",
         "Fragrance",
         "Men"
@@ -131319,7 +131478,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 275,
-      "price_gros": 286,
+      "price_gros": 232,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/gio-resized-Photoroom_9151625b-8799-40fe-b13b-0a443aecba4a.png?v=1788126684",
@@ -132974,8 +133133,8 @@
       "brand": "Ahmed Perfumes",
       "category_slug": "homme",
       "size": "50ml",
-      "price_retail": 62.5,
-      "price_gros": 62.5,
+      "price_retail": 68,
+      "price_gros": 68,
       "stock": 999,
       "badge": "",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/leathe-resized-Photoroom.png?v=1787746408",
@@ -138119,7 +138278,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 139,
-      "price_gros": 70,
+      "price_gros": 84,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rasasi_Hawas_Black_For_Men_EDP_100ml-Photoroom_1.png?v=1787490860",
@@ -146416,7 +146575,6 @@
       "_tags": [
         "100ml",
         "Branded Perfumes",
-        "Clearance",
         "EDC",
         "Fragrance",
         "Men",
@@ -146991,7 +147149,6 @@
       "_tags": [
         "100ml",
         "Arabic Perfume",
-        "Clearance",
         "EDP",
         "Fragrance",
         "Men",
@@ -153030,7 +153187,6 @@
       "_tags": [
         "100ml",
         "Branded Perfumes",
-        "Clearance",
         "EDP",
         "Fragrance",
         "Men",
@@ -154361,8 +154517,8 @@
       "brand": "Diptyque",
       "category_slug": "homme",
       "size": "100ml",
-      "price_retail": 658,
-      "price_gros": 658,
+      "price_retail": 495,
+      "price_gros": 495,
       "stock": 999,
       "badge": "",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Diptyque_Vetyverio_For_Unisex_EDT_100ml-Photoroom.png?v=1791042466",
@@ -157422,7 +157578,7 @@
       "_url": "https://samawa.ae/products/lattafa-fakhar-for-men-women-edp-100ml-bundle-offer"
     },
     {
-      "name": "Amazing Creation Office Wear + Party Wear Perfumes Bundle Offer",
+      "name": "Amazing Creation Day to Night Duo",
       "brand": "Amazing Creation",
       "category_slug": "homme",
       "size": "100ml",
@@ -157433,10 +157589,10 @@
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Office_Wear_Party_Wear_Perfumes_Bundle_Offer-Photoroom.png?v=1792127136",
       "active": true,
       "_handle": "office-wear-party-wear",
-      "_sku": "Amazing Creation Office Wear + Party Wear",
+      "_sku": "Amazing Creation Day to Night Duo",
       "_tags": [
         "Arabic Perfume",
-        "badge_ADD 3 PAY FOR 2",
+        "badge_White Friday Deal",
         "bundle",
         "EDP",
         "Fragrance",
@@ -171303,7 +171459,6 @@
       "_tags": [
         "100ml",
         "Arabic Perfume",
-        "Clearance",
         "EDT",
         "Fragrance",
         "Men"
@@ -174635,7 +174790,6 @@
       "_tags": [
         "100ml",
         "Arabic Perfume",
-        "Clearance",
         "EDP",
         "Fragrance",
         "Men",
@@ -178492,7 +178646,6 @@
       "_tags": [
         "75ml",
         "Branded Perfumes",
-        "Clearance",
         "EDP",
         "Fragrance",
         "Men",
@@ -178714,7 +178867,7 @@
       "category_slug": "homme",
       "size": "90ml",
       "price_retail": 117,
-      "price_gros": 53,
+      "price_gros": 48,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Qaed_Al_Fursan_Unlimited_Eau_de_Parfum_For_Unisex_90ml-Photoroom.png?v=1787641801",
@@ -192809,7 +192962,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 75,
-      "price_gros": 51,
+      "price_gros": 55,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Afnan_Zimaya_Al_Fouz_EDP_For_Unisex_100ml-Photoroom_1.png?v=1789653185",
@@ -192819,7 +192972,6 @@
       "_tags": [
         "100ml",
         "Arabic Perfume",
-        "Clearance",
         "EDP",
         "Fragrance",
         "Men",
@@ -231381,7 +231533,6 @@
       "_tags": [
         "50ml",
         "Branded Perfumes",
-        "Clearance",
         "EDP",
         "Fragrance",
         "Women"
@@ -285382,7 +285533,6 @@
       "_tags": [
         "30ml",
         "Branded Perfumes",
-        "Clearance",
         "EDT",
         "Fragrance",
         "Women"
@@ -289021,7 +289171,7 @@
       "category_slug": "homme",
       "size": "75ml",
       "price_retail": 423,
-      "price_gros": 367,
+      "price_gros": 359,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/guil-resized-Photoroom_30b06343-86eb-481e-a93e-90b17558cc50.png?v=1790799350",
@@ -336063,7 +336213,6 @@
       "_handle": "silky-cool-natural-beard-oil-60ml",
       "_sku": "6291100959334",
       "_tags": [
-        "Clearance",
         "Men",
         "Skin Care"
       ],
@@ -354953,7 +355102,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 219,
-      "price_gros": 175,
+      "price_gros": 165,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/GiardinoBenessereHashabis_U_Edp100MlIt-resized-Photoroom.png?v=1790423631",
@@ -363231,7 +363380,6 @@
       "_sku": "7750075059658",
       "_tags": [
         "Beauty",
-        "Clearance",
         "Hair Care",
         "Men",
         "Women",
@@ -460925,7 +461073,6 @@
       "_sku": "3760260456234",
       "_tags": [
         "100ml",
-        "Clearance",
         "EDP",
         "Fragrance",
         "Men",
@@ -480679,7 +480826,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 78,
-      "price_gros": 58,
+      "price_gros": 48,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rave_Now_Perfume_For_Men_EDP_100ml-Photoroom.png?v=1788169777",
@@ -481451,7 +481598,7 @@
       "category_slug": "homme",
       "size": "125ml",
       "price_retail": 149,
-      "price_gros": 101.2,
+      "price_gros": 109,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Davidoff_Cool_Water_Intense_for_Men_EDP_125ml-Photoroom.png?v=1787584258",
@@ -572242,7 +572389,7 @@
       "category_slug": "homme",
       "size": "100ml",
       "price_retail": 726,
-      "price_gros": 491,
+      "price_gros": 488.75,
       "stock": 999,
       "badge": "SALE",
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Tom_Ford_Ombre_Leather_Perfume_for_Men_Women_Edp_100ml-Photoroom.png?v=1787670446",
@@ -577162,7 +577309,6 @@
       "_handle": "disney-cinderella-train-wagon-giftset-for-kids-2pcs-perfume-shower-gel",
       "_sku": "815940025538",
       "_tags": [
-        "Clearance",
         "Gift Set",
         "Girl",
         "Kids"
@@ -577734,7 +577880,6 @@
         "badge_Best Seller",
         "Best Seller",
         "Branded Perfumes",
-        "Clearance",
         "Fragrance",
         "Men"
       ],
@@ -584917,160 +585062,6 @@
       ],
       "_product_type": "Fragrance",
       "_url": "https://samawa.ae/products/fleur-de-grasse-oud-ispahan-perfume-for-unisex-edp-50ml"
-    },
-    {
-      "name": "Fleur De Grasse Baccarat, Perfume for Unisex, EDP 50ml",
-      "brand": "Fleur De Grasse",
-      "category_slug": "homme",
-      "size": "50ml",
-      "price_retail": 46,
-      "price_gros": 46,
-      "stock": 999,
-      "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/fleur-dg-baccart-1.jpg?v=1624400134",
-      "active": true,
-      "_handle": "fleur-de-grasse-baccarat-perfume-for-unisex-edp-50ml",
-      "_sku": "6297001625385",
-      "_tags": [
-        "50ml",
-        "Fragrance",
-        "Men",
-        "Women"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/fleur-de-grasse-baccarat-perfume-for-unisex-edp-50ml"
-    },
-    {
-      "name": "Rihanna Rogue Eau de Parfum for Women 75ml",
-      "brand": "Rihanna",
-      "category_slug": "homme",
-      "size": "75ml",
-      "price_retail": 70,
-      "price_gros": 39,
-      "stock": 999,
-      "badge": "SALE",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/s-l1600_1.jpg?v=1624400111",
-      "active": true,
-      "_handle": "rihanna-rogue-eau-de-parfum-for-women-75ml",
-      "_sku": "608940553565",
-      "_tags": [
-        "75ml",
-        "Branded Perfumes",
-        "Fragrance",
-        "Women"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/rihanna-rogue-eau-de-parfum-for-women-75ml"
-    },
-    {
-      "name": "Rogue by Rihanna for Women - Eau de Parfum, 30ml",
-      "brand": "Rihanna",
-      "category_slug": "homme",
-      "size": "30ml",
-      "price_retail": 38,
-      "price_gros": 21,
-      "stock": 999,
-      "badge": "SALE",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/rogue30ml.jpg?v=1624400098",
-      "active": true,
-      "_handle": "rogue-by-rihanna-for-women-eau-de-parfum-30ml",
-      "_sku": "608940553534",
-      "_tags": [
-        "30ml",
-        "Branded Perfumes",
-        "Fragrance",
-        "Women"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/rogue-by-rihanna-for-women-eau-de-parfum-30ml"
-    },
-    {
-      "name": "Rihanna Rogue Gift Set (EDP 75ml & Bracelet)",
-      "brand": "Rihanna",
-      "category_slug": "homme",
-      "size": "75ml",
-      "price_retail": 75,
-      "price_gros": 48,
-      "stock": 999,
-      "badge": "SALE",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/rihanna_rogue_by_rihanna_edp_75_ml_bracelets.jpg?v=1624911856",
-      "active": true,
-      "_handle": "rihanna-rogue-gift-set-edp-75ml-bracelet",
-      "_sku": "608940554906",
-      "_tags": [
-        "75ml",
-        "Branded Perfumes",
-        "Fragrance",
-        "Gift set",
-        "Women"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/rihanna-rogue-gift-set-edp-75ml-bracelet"
-    },
-    {
-      "name": "Rasasi Rumz Al Rasasi 9453, Pour Lui, Men, Eau de Parfum, 50ml",
-      "brand": "Rasasi",
-      "category_slug": "homme",
-      "size": "50ml",
-      "price_retail": 151,
-      "price_gros": 109,
-      "stock": 999,
-      "badge": "SALE",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/9493.jpg?v=1633066984",
-      "active": true,
-      "_handle": "rasasi-rumz-al-rasasi-9453-pour-lui-men-eau-de-parfum-50ml",
-      "_sku": "614514229057",
-      "_tags": [
-        "100ml",
-        "Arabic Perfume",
-        "Fragrance",
-        "Men"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/rasasi-rumz-al-rasasi-9453-pour-lui-men-eau-de-parfum-50ml"
-    },
-    {
-      "name": "Polo Di Blanc, Perfume For Unisex, EDP, 100ml",
-      "brand": "Luxury Concept",
-      "category_slug": "homme",
-      "size": "100ml",
-      "price_retail": 122.5,
-      "price_gros": 83,
-      "stock": 999,
-      "badge": "SALE",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/polo-di-blanc-1.jpg?v=1624399986",
-      "active": true,
-      "_handle": "polo-di-blanc-perfume-for-unisex-edp-100ml",
-      "_sku": "6297000426334",
-      "_tags": [
-        "100ml",
-        "Fragrance",
-        "Men",
-        "Women"
-      ],
-      "_product_type": "Fragrance",
-      "_url": "https://samawa.ae/products/polo-di-blanc-perfume-for-unisex-edp-100ml"
-    },
-    {
-      "name": "Louis Cardin Gold Femme Giftset",
-      "brand": "Louis Cardin",
-      "category_slug": "homme",
-      "size": "100ml",
-      "price_retail": 57,
-      "price_gros": 57,
-      "stock": 999,
-      "badge": "",
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/gold_femme_giftset_1.jpg?v=1624399963",
-      "active": true,
-      "_handle": "louis-cardin-gold-femme-giftset",
-      "_sku": "6299800200442",
-      "_tags": [
-        "300ml",
-        "Gift set",
-        "Women"
-      ],
-      "_product_type": "Gift Set",
-      "_url": "https://samawa.ae/products/louis-cardin-gold-femme-giftset"
     }
   ]
 }
