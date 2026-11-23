@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-11-23T11:05:20.062Z",
-  "total_brands": 888,
+  "generated_at": "2026-11-23T22:38:13.743Z",
+  "total_brands": 887,
   "brands": [
     {
       "name": "Amazing Creation",
       "slug": "amazing-creation",
-      "count": 1143,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_Essence_Of_Dubai_Perfume_Oil_Gift_Set_5Pcs_x_10ml.png?v=1795179926",
+      "count": 1145,
+      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Women_gift-set-03_jpg-Photoroom.png?v=1795436279",
       "preview": [
+        {
+          "name": "Amazing Creation Gift Set For Women 3Pcs x 30ml",
+          "handle": "amazing-creation-gift-set-for-women-3pcs-x-30ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Women_gift-set-03_jpg-Photoroom.png?v=1795436279",
+          "price": 95,
+          "badge": "SALE"
+        },
+        {
+          "name": "Amazing Creation Gift Set For Men 3Pcs x 30ml",
+          "handle": "amazing-creation-gift-set-for-men-3pcs-x-30ml",
+          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Men_gift-set-3_jpg-Photoroom.png?v=1795435960",
+          "price": 95,
+          "badge": "SALE"
+        },
         {
           "name": "Amazing Creation Essence Of Dubai Perfume Oil Gift Set 5Pcs x 10ml",
           "handle": "amazing-creation-essence-of-dubai-perfume-oil-gift-set-5pcs-x-10ml",
@@ -33,20 +47,6 @@
           "name": "Amazing Creation La Rose Perfume For Women EDP PFB-527",
           "handle": "amazing-creation-la-rose-perfume-for-women-edp-pfb-527",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_La_Rose_Perfume_For_Women_EDP_100ml_PFB-526-Photoroom.png?v=1794567797",
-          "price": 95,
-          "badge": ""
-        },
-        {
-          "name": "Amazing Creation L'Delina Exclusif Perfume For Women EDP PFB-526",
-          "handle": "amazing-creation-ldelina-exclusif-perfume-for-women-edp-pfb-526",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_L_Delina_Exclusif_Perfume_For_Women_EDP_50ml_PFB-526_1-Photoroom.png?v=1794566766",
-          "price": 55,
-          "badge": ""
-        },
-        {
-          "name": "Amazing Creation L'Delina Exclusif Perfume For Women EDP PFB-526",
-          "handle": "amazing-creation-ldelina-exclusif-perfume-for-women-edp-pfb-526",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Amazing_Creation_L_Delina_Exclusif_Perfume_For_Women_EDP_50ml_PFB-526_1-Photoroom.png?v=1794566766",
           "price": 95,
           "badge": ""
         }
@@ -705,7 +705,7 @@
     {
       "name": "Lattafa",
       "slug": "lattafa",
-      "count": 253,
+      "count": 252,
       "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Lattafa_Khamrah_Waha_Perfume_For_Unisex_EDP_100ml.png?v=1794386875",
       "preview": [
         {
@@ -2790,8 +2790,8 @@
           "name": "Mercedes Benz Man Gift Set For Men",
           "handle": "mercedes-benz-man-gift-set-for-men-1",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/benzz-resized-Photoroom_be2b9af4-95d4-466a-a947-2fdf36c78ec8.png?v=1792869745",
-          "price": 180,
-          "badge": ""
+          "price": 128,
+          "badge": "SALE"
         },
         {
           "name": "Mercedes Benz Club Black for Men Gift Set For Men",
@@ -4197,8 +4197,8 @@
           "name": "Viktor & Rolf Good Fortune Eau De Parfum For Women - Oriental Floral Perfume 100ml Refill",
           "handle": "viktor-rolf-good-fortune-eau-de-parfum-for-women-oriental-floral-perfume-100ml-refill",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Viktor_Rolf_Good_Fortune_Eau_De_Parfum_For_Women_-_Oriental_Floral_Perfume_100ml_Refill-Photoroom.png?v=1791046841",
-          "price": 222,
-          "badge": ""
+          "price": 158,
+          "badge": "SALE"
         }
       ]
     },
@@ -5569,8 +5569,8 @@
           "name": "Sisley L'Eau Revee D'Ikar Eau De Toilette For Unisex - Woody Aromatic Perfume 100ml",
           "handle": "sisley-leau-revee-dikar-eau-de-toilette-for-unisex-woody-aromatic-perfume-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/DD-resized-Photoroom.png?v=1790768640",
-          "price": 355,
-          "badge": ""
+          "price": 253,
+          "badge": "SALE"
         },
         {
           "name": "Sisley Eau Du Soir Limited Edition Perfume For Women EDP 100ml",
@@ -5897,7 +5897,7 @@
           "name": "Rayhaan Nava Sol EDP For Unisex 100ml",
           "handle": "rayhaan-nava-sol-edp-for-unisex-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rayhaan_Nava_Sol_EDP_For_Unisex_100ml.png?v=1791615161",
-          "price": 91,
+          "price": 54,
           "badge": "SALE"
         }
       ]
@@ -7719,8 +7719,8 @@
           "name": "Adidas Pure Game Eau De Toilette For Men - Woody Spicy Perfume 100ml",
           "handle": "adidas-pure-game-eau-de-toilette-for-men-woody-spicy-perfume-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Adidas_Pure_Game_Eau_De_Toilette_For_Men_-_Woody_Spicy_Perfume_100ml-Photoroom.png?v=1790916423",
-          "price": 34,
-          "badge": ""
+          "price": 21,
+          "badge": "SALE"
         },
         {
           "name": "Adidas Ice Dive Eau De Toilette For Men - Aromatic Fougere Perfume 100ml",
@@ -8026,8 +8026,8 @@
           "name": "Rouge Smoking By Bdk Parfums Hair Perfume For Men And Women 50ml",
           "handle": "rouge-smoking-by-bdk-parfums-hair-perfume-for-men-and-women-50ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/rougesmoking_1-Packshot-Nom-removebg-preview-resized-Photoroom.png?v=1790422873",
-          "price": 210,
-          "badge": ""
+          "price": 150,
+          "badge": "SALE"
         },
         {
           "name": "Gris Charnel By Bdk Parfums Hair Perfume For Men And Women 50ml",
@@ -8419,8 +8419,8 @@
           "name": "Al Rehab Soft Concentrated Perfume Oil 6ml Roll",
           "handle": "al-rehab-soft-concentrated-perfume-oil-6ml-roll",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Al_Rehab_Soft_Concentrated_Perfume_Oil_6ml_Roll-Photoroom.png?v=1789049080",
-          "price": 11,
-          "badge": ""
+          "price": 7,
+          "badge": "SALE"
         },
         {
           "name": "Al Rehab Dalia EDP For Women 120ml",
@@ -8776,8 +8776,8 @@
           "name": "Assala Prime X Musk For Men And Women Musk 100ml",
           "handle": "assala-prime-x-musk-for-men-and-women-musk-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/x-resized-Photoroom.png?v=1790369094",
-          "price": 88,
-          "badge": ""
+          "price": 63,
+          "badge": "SALE"
         },
         {
           "name": "Assala Prime X Treme Oud Edp For Men And Women Oud 100ml",
@@ -9369,8 +9369,8 @@
           "name": "Thameen Florentine Diamond Extrait De Parfum For Unisex - Oriental Vanilla Perfume 100ml",
           "handle": "thameen-florentine-diamond-extrait-de-parfum-for-unisex-oriental-vanilla-perfume-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/tha-resized-Photoroom.png?v=1790328186",
-          "price": 764,
-          "badge": ""
+          "price": 558,
+          "badge": "SALE"
         },
         {
           "name": "Thameen Blue Heart Extrait De Parfum For Unisex - Oriental Perfume 100ml",
@@ -12319,8 +12319,8 @@
           "name": "Alghabra Wonders Of Russia Kaliningrad Mystery Perfume For Unisex Extrait De Parfum 50ml",
           "handle": "alghabra-wonders-of-russia-kaliningrad-mystery-perfume-for-unisex-extrait-de-parfum-50ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Alghabra_Wonders_Of_Russia_Kaliningrad_Mystery_Perfume_For_Unisex_Extrait_De_Parfum_50ml-resized-Photoroom.png?v=1789569824",
-          "price": 428,
-          "badge": ""
+          "price": 305,
+          "badge": "SALE"
         },
         {
           "name": "Alghabra Wonders Of Russia Bolshoi Opera Finale Perfume For Unisex Extrait De Parfum 50ml",
@@ -14847,7 +14847,7 @@
           "name": "Cerruti Image Woman Perfume For Women EDT 75ml",
           "handle": "cerruti-image-woman-perfume-for-women-edt-75ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/CerrutiImageWoman_W_Edt75MlFr-resized-Photoroom.png?v=1788604609",
-          "price": 135,
+          "price": 96,
           "badge": "SALE"
         }
       ]
@@ -16169,14 +16169,14 @@
           "name": "Cupid Black 1779 Perfume For Unisex Parfum 50ml",
           "handle": "cupid-black-1779-perfume-for-unisex-parfum-50ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/CupidBlack1779_U_Parfum50Ml-resized-Photoroom.png?v=1792187980",
-          "price": 270,
+          "price": 249,
           "badge": "SALE"
         },
         {
           "name": "Cupid Black 1597 Perfume For Unisex Parfum 50ml",
           "handle": "cupid-black-1597-perfume-for-unisex-parfum-50ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/CupidBlack1597_U_Parfum50Ml-resized-Photoroom.png?v=1787760035",
-          "price": 160,
+          "price": 127,
           "badge": "SALE"
         },
         {
@@ -18912,7 +18912,7 @@
           "name": "Sean John Unforgivable Perfume For Men EDT 125ml",
           "handle": "sean-john-unforgivable-perfume-for-men-edt-125ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/SeanJohnUnforgivable_M_Edt125Ml-resized-Photoroom.png?v=1789812390",
-          "price": 149,
+          "price": 133,
           "badge": "SALE"
         },
         {
@@ -20469,7 +20469,7 @@
           "name": "Salvatore Ferragamo Incanto Charms For Women 30ml - Eau de Toilette",
           "handle": "salvatore-ferragamo-incanto-charms-for-women-30ml-eau-de-toilette",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/charms-resized-Photoroom.png?v=1789553403",
-          "price": 50,
+          "price": 35,
           "badge": "SALE"
         },
         {
@@ -22983,8 +22983,8 @@
           "name": "Sculpture RÃªverie By Nikos Perfume For Men And Women Edp 100ml",
           "handle": "sculpture-reverie-by-nikos-perfume-for-men-and-women-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/revive_1-resized-Photoroom.png?v=1789580401",
-          "price": 120,
-          "badge": ""
+          "price": 85,
+          "badge": "SALE"
         },
         {
           "name": "Sculpture Air de Lune By Nikos Perfume For Men And Women Edp 100ml",
@@ -24233,7 +24233,7 @@
           "name": "Rave Now Perfume For Men EDP 100ml",
           "handle": "rave-now-perfume-for-men-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/Rave_Now_Perfume_For_Men_EDP_100ml-Photoroom.png?v=1788169777",
-          "price": 48,
+          "price": 58,
           "badge": "SALE"
         }
       ]
@@ -31291,8 +31291,8 @@
           "name": "Emporio Armani Power Of You Eau De Parfum For Women - Floral Fruity Gourmand Perfume 90ml",
           "handle": "emporio-armani-power-of-you-eau-de-parfum-for-women-floral-fruity-gourmand-perfume-90ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/files/y-resized-Photoroom_01069f3e-e33e-43f1-9415-484c9febe590.png?v=1789835251",
-          "price": 471,
-          "badge": ""
+          "price": 336,
+          "badge": "SALE"
         }
       ]
     },
@@ -33827,21 +33827,6 @@
           "handle": "whatever-it-takes-pink-women-edp-100ml",
           "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/whatever-1.jpg?v=1624400426",
           "price": 17,
-          "badge": "SALE"
-        }
-      ]
-    },
-    {
-      "name": "Fleur De Grasse",
-      "slug": "fleur-de-grasse",
-      "count": 1,
-      "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/oud-ispahan_2000.jpg?v=1624400153",
-      "preview": [
-        {
-          "name": "Fleur De Grasse Oud Ispahan, Perfume for Unisex, EDP 50ml",
-          "handle": "fleur-de-grasse-oud-ispahan-perfume-for-unisex-edp-50ml",
-          "img": "https://cdn.shopify.com/s/files/1/0573/6241/5800/products/oud-ispahan_2000.jpg?v=1624400153",
-          "price": 46,
           "badge": "SALE"
         }
       ]
